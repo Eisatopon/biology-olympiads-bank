@@ -1040,7 +1040,7 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261017-ibo2024b';
+const DATA_VERSION = '20261017-likes';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = { ibo: 'world' };
@@ -1118,8 +1118,7 @@ function typesetVisible(root) {
 }
 // Likes and view counts (Cloudflare Worker nob-stats + D1). Loaded after the cards are drawn, only for
 // cards near the screen, in one small batched request; if the service is slow or down nothing is shown.
-// Off until the shared worker accepts biology uids (prefix bi-): set it to 'https://nob-stats.sokkorom.workers.dev'.
-const STATS_URL = '';
+const STATS_URL = 'https://nob-stats.sokkorom.workers.dev';
 // Shared with the math bank (same worker and origin): biology uids are sent with the prefix bi-.
 const statsId = uid => 'bi-' + uid;
 const statsStore = (k, v) => { try { if (v === undefined) return JSON.parse(localStorage.getItem(k) || 'null'); localStorage.setItem(k, JSON.stringify(v)); } catch (e) { return null; } };
