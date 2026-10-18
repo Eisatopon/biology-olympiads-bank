@@ -2,6 +2,655 @@
  "competition": "International Biology Olympiad (IBO) — theoretical papers",
  "years": [
   {
+   "year": 2017,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Theory 1",
+     "title": "Sequencing",
+     "problem": "Frederick Sanger (1918-2013) invented protein, RNA and DNA sequencing, and Sir Shankar Balasubramanian (1966-present) invented high-throughput DNA sequencing. The National Health Service is sequencing an unprecedented 100 000 genomes from rare-disease patients, but different sequencing technologies have different merits for this purpose, as described below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-1-fig1.png\n\n$$\\begin{array}{|l|c|c|c|} \\hline \\text{Technology} & \\text{Maximum length of sequence fragments which can be read} & \\text{Error rate} & \\text{Total number of bases sequenced per sample per day} \\\\ \\hline \\text{Sanger sequencing} & \\text{900 bp} & \\text{1 in 1000 bp} & \\text{900 bp (1 fragment)} \\\\ \\hline \\text{Illumina machines} & \\text{200 bp} & \\text{1 in 100 bp} & 3\\text{x}10^{11}\\ \\text{bp}\\ (>1.5\\text{x}10^{9}\\ \\text{fragments}) \\\\ \\hline \\text{PacificBiosciences machines} & \\text{5000 bp} & \\text{1 in 10 bp} & 4\\text{x}10^{8}\\ \\text{bp}\\ (>80\\ 000\\ \\text{fragments}) \\\\ \\hline \\end{array}$$\n\nIllumina technology is best for finding new Single Nucleotide Variations (mutations to a single base) in the patient genomes.\n\nPacificBiosciences technology is best for assessing transcriptional changes by RNA sequencing.\n\nPacificBiosciences technology is best for finding rearrangements of chunks of DNA in the patient genomes.\n\nSanger sequencing is best for validating sequencing results before using patients’ genetic information to guide clinical interventions."
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Theory 1",
+     "title": "Ancient DNA",
+     "problem": "Mark Thomas (1964-present) read the first DNA sequences from woolly mammoths (Mammuthus primigenius). However, ancient DNA analysis remains difficult, due to degradation, contamination, and polymerase inhibitors found in the samples. Scientists attempted to extract DNA from a dinosaur fossil and analyse the sequence of one specific gene. The following phylogeny was produced after comparing the sequence against other species.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-2-fig1.png\n\nWhen working with ancient samples, it is easier to recover DNA sequences from a mitochondrial gene than a nuclear gene of the same length.\n\nIt is better to sequence very long DNA fragments from ancient samples, than very short fragments.\n\nAdding a DNA fragment of a known sequence could show whether or not samples contain polymerase inhibitors.\n\nThis dinosaur fossil extract is likely to contain contaminating DNA."
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Theory 1",
+     "title": "Cancer Microarray",
+     "problem": "Sir Edwin Southern (1938-present) invented microarrays to analyse the expression of hundreds of genes simultaneously. A microarray has probes printed onto it which detect a specific complementary mRNA. These probe for mRNAs expressed from across the genome. Diffuse Large B Cell lymphomas (DLBCL) from tens of patients were analysed by microarray (1). Additionally, patient survival rates for two clinical subtypes of DLBCLs were measured (2).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-3-fig1.png\n\nThe data rule out patient survival rate being determined by differences in gene expression between DLBCL subtypes.\n\nGene expression data suggest there are two major subtypes of DLBCL distinguishable at the molecular level.\n\nMeasuring the expression of a single gene is sufficient to distinguish subtypes of DLBCLs.\n\nEach subtype of DLBCL has an equal number of relatively up-regulated versus down-regulated genes compared to other subtypes."
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Theory 1",
+     "title": "Gene Expression Noise",
+     "problem": "A plasmid was inserted into bacteria (1). Red fluorescent protein (RFP) or green fluorescent protein (GFP) are produced from the genes in this plasmid whenever transcription factors bind to their promoters. The red and green gene promoter sequences are identical. Plasmid DNA replication starts at the origin of replication, and replication forks move outwards in both directions at the same speed. Replication occurs whenever replication factors bind to the origin of replication. The red and green fluorescence intensity of individual bacteria was measured (2).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-4-fig1.png\n\nReplicating plasmids have unequal numbers of red fluorescent protein and green fluorescent protein genes.\n\nOn average, cells in Region A contain more replication factors than those in Region B.\n\nOn average, cells in Region A contain more transcription factors than those in Region B.\n\nIncreasing the activity of transcription factors is expected to increase the number of cells containing equal amounts of green fluorescent protein and red fluorescent protein."
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Theory 1",
+     "title": "Epigenetics of Flowering",
+     "problem": "Dame Jean Thomas (1942-present) discovered that eukaryotic DNA is tightly wrapped around histone proteins. Sir Adrian Bird (1947-present) helped explain the epigenetic marks of DNA. For example, the classical histone H2A, can be replaced by a variant, H2A.Z.\n\nH2A.Z occupancy on a pro-flowering gene (1) in Arabidopsis plants (2) of the same age, at different temperatures, was measured.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-5-fig1.png\n\nIncreasing temperature increases pro-flowering gene expression.\n\nH2A.Z enhances gene expression.\n\nTemperature moves the locations to which H2A.Z binds in the genome.\n\nPlants that flower early may have increased H2A.Z occupancy in this gene before flowering."
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Theory 1",
+     "title": "Gene Silencing",
+     "problem": "Sir David Baulcombe (1952-present) discovered RNA-directed gene silencing.\n\nThe gene for green fluorescent protein (GFP) was inserted into plants. The plants were treated with RNAs, which silence GFP, and were then allowed to set seed (the treatment RNAs are not present in the next generation). The treatment RNA sequence was complementary to either the promoter or the protein coding sequences of GFP, or random (non-complementary). The parent plants, their progeny, and controls were imaged under a UV light.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-6-fig1.png\n\nLeaves expressing GFP appear darker under UV light.\n\nRNA-directed gene silencing is possible without using treatment RNAs designed to target mRNA.\n\nChanges in the expression level of genes can be inherited from one generation to the next without mutating the DNA sequence.\n\nSilencing against the protein coding sequence is heritable."
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Theory 1",
+     "title": "Gene Engineering",
+     "problem": "Michael Smith (1932-2000) invented site-directed mutagenesis. Recently scientists invented CRISPR-Cas9 technology to carry out mutagenesis more easily.\n\nCas9 protein from Streptococcus pyogenes is guided by a 20bp guideRNA which base-pairs with target DNA. This Cas9 enzyme can only make double strand cuts in DNA three bases upstream from a 5’-NGG-3’ site (1). Double strand cuts are attacked by DNA degrading enzymes, and then re-joined. Gene X, which you want to stop from functioning with this enzyme, is shown (2).\n\nAn alternative way to knockout genes is to use a pair of modified Cas9’s which can only make single strand cuts, and guideRNA’s which target adjacent sites.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-7-fig1.png\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-7-fig2.png\n\nYou have five guideRNA sequences to choose from:\n\n1 = 5'-ATTTTTCGACGTTTAGGCCA-3'\n\n2 = 5'-AUUUUUCGACGUUUAGGCCA-3'\n\n3 = 5'-AUAAAACGUGCAAAUCCGGU-3'\n\n4 = 5'-UUUGCACGUUUAGGCCAAGG-3'\n\n5 = 5'-UUUUUGGGGGCCCAGGAUCU-3'\n\n$$\\begin{array}{|l|c|c|c|c|c|} \\hline & \\text{I} & \\text{II} & \\text{III} & \\text{IV} & \\text{V} \\\\ \\hline \\text{NGG site} & & & & & \\\\ \\hline \\end{array}$$\n\nUsing the pair of modified Cas9s and guideRNAs increases off-target damage to other genes.\n\nThe Streptococcus pyogenes genome has more NGG sites than expected by chance.\n\nIf the gene has no GG sequences, Cas9s from other species should be investigated for alternatives."
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Theory 1",
+     "title": "Replication Fork",
+     "problem": "X-ray crystallography, invented at the Royal Institution, was used by Sir Francis Crick (1916-2004) and Rosalind Franklin (1920-1958) to discover the structure of DNA, and predict the mechanism of its replication. Building on their work, this is the current predicted structure of an E. coli DNA replication fork, which moves along DNA at 1000 bp/s.\n\ni = Tube shaped clamp, which pulls on one DNA strand.\n\nii = Topoisomerase, which makes temporary cuts in one phosphodiester backbone.\n\niii = Single-stranded DNA binding protein.\n\niv = Different polymerases.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-8-fig1.png\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-8-fig2.png\n\nAntibiotics which poison topoisomerase cause DNA ahead of the fork to become over twisted.\n\nAn activity of polymerase complex X is to replace ribonucleotide uracil, with deoxyribonucleotide thymidine.\n\nEnzyme i is preferentially loaded at G/C rich (A/T poor) sequences.\n\nProtein iii assists complementary base pairing."
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Theory 1",
+     "title": "Splicing",
+     "problem": "Sir Richard Roberts (1943-present) discovered the fundamental structure of genes using adenovirus genomes. Under an electron microscope, Roberts identified adenoviral DNA and RNA strands. Eukaryotic mRNA was later found to be missing parts (introns) of the genes, because the RNA sequence was rearranged by splicing.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-9-fig1.png\n\nEach adenovirus RNA is transcribed from the same DNA strand for the whole RNA.\n\nAdenovirus mRNA remains bound in a DNA-RNA hybrid duplex for a period of time.\n\nTranscription requires helicase activity (separates the two DNA strands).\n\nmRNA splicing of these Adenovirus genes uses a similar mechanism to typical Eukaryotic splicing."
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Theory 1",
+     "title": "Dystrophin",
+     "problem": "Muscular Dystrophy is caused by alterations to DYSTROPHIN (1). This is a very large gene, and its length affects the biology and diagnosis of Muscular Dystrophy.\n\nRNA polymerase moves along DNA at 30 bp per second.\n\nDNA polymerase has an error rate of $10^{-8}$ mistakes per base. Repair systems later correct 99% of mistakes.\n\nSir Alec Jeffreys (1950-present) invented DNA fingerprinting (RFLPs) whereby DYSTROPHIN exons may be amplified by PCR, treated with DNA-cutting enzymes (endonucleases), and separated on an agarose gel, according to length in bp (2).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-10-fig1.png\n\n$$\\begin{array}{|l|c|c|c|c|c|} \\hline & \\text{1 second} & \\text{1 minute} & \\text{1 hour} & \\text{10 hours} & \\text{1 day} \\\\ \\hline \\text{Select the nearest time to the correct answer.} & & & & & \\\\ \\hline \\end{array}$$\n\n$$\\begin{array}{|l|c|c|c|c|c|} \\hline & 50 & 500 & 5000 & 50000 & 5000000 \\\\ \\hline \\text{Choose the nearest number to the correct answer.} & & & & & \\\\ \\hline \\end{array}$$\n\n$$\\begin{array}{|l|c|c|c|c|c|} \\hline & \\text{100 bp} & \\text{200 bp} & \\text{300 bp} & \\text{700 bp} & \\text{1000 bp} \\\\ \\hline \\text{Primer 1b binding site.} & & & & & \\\\ \\hline \\text{Endonuclease cut site} & & & & & \\\\ \\hline \\text{Primer 2 binding site.} & & & & & \\\\ \\hline \\end{array}$$\n\nDYSTROPHIN is on the X chromosome.\n\nMuscular Dystrophy is dominant.\n\nDYSTROPHIN protein could be made in bacteria with a 20 kb plasmid.\n\nMany muscular dystrophy patients have new (de novo) causal mutations."
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Theory 1",
+     "title": "Fly Eyes",
+     "problem": "William Bateson (1861-1926) founded the discipline of modern genetics. Reginald Punnett (1875-1967) created a technique to predict the frequency of phenotypes with Mendelian inheritance, but Edith Saunders (1865-1945) noticed some combinations of traits were not inherited in a Mendelian fashion. To investigate this phenomenon, the genetics of fly (Drosophila) traits can be analysed. A fictional Drosophila species was crossed according to the following sceme:\n\nWT flies have red-eyes (1) produced by mixing brown and cinnabar pigments.\n\nMutating the white gene gives white eyes (2).\n\nKnocking out the cinnabar gene gives cinnabar eyes (3).\n\nKnocking out the brown gene gives brown eyes (4).\n\nWT flies have functional wings (5), whilst mutations in the vestigial gene lead to vestigial wings (6).\n\nWhite is carried on the X-chromosome. The genes brown-cinnabar-vestigial are carried on the same chromosome, in that order.\n\nMales with white-eyes and normal wings are crossed to females with white-eyes and vestigial wings. All offspring (F1) are red-eyed females, or white-eyed males. No F1 flies had vestigial wings.\n\nThe F1 females are mated to a male that has white-eyes and vestigial wings. The female F2 flies from this cross are counted.\n\n$$\\begin{array}{|l|l|} \\hline \\text{F2 (female) phenotype} & \\text{Number of F2 females} \\\\ \\hline \\text{White eyed, normal wings} & 500 \\\\ \\hline \\text{Red eyed, vestigial wings} & 500 \\\\ \\hline \\text{Red eyed, normal wings} & 50 \\\\ \\hline \\text{White eyed, vestigial wings} & 50 \\\\ \\hline \\text{Brown eyed, vestigial wings} & 5 \\\\ \\hline \\text{Cinnabar eyed, normal wings} & 5 \\\\ \\hline \\end{array}$$\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-11-fig1.png\n\nThe gene vestigial is on the X chromosome.\n\nThe gene brown is essential for making the brown pigment.\n\nMutations to white disrupt the products of both cinnabar and brown.\n\n$$\\begin{array}{|l|c|c|c|c|c|} \\hline & 0 & 1 & 5 & 9 & 10 \\\\ \\hline \\text{Brown to cinnabar.} & & & & & \\\\ \\hline \\text{Brown to vestigial.} & & & & & \\\\ \\hline \\text{Cinnabar to vestigial.} & & & & & \\\\ \\hline \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Theory 1",
+     "title": "Protein Evolution",
+     "problem": "Experiments found that CwiM is a regulator of Mycobacteria tuberculosis cell wall formation. The length (1) and number (2) of WT and CwiM knockout cells were assessed. Amino-acid sequence similarity analysis suggests that CwiM is homologous to zinc-dependent enzymes (3).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-12-fig1.png\n\nCwiM is likely to be zinc-dependent.\n\nCwiM increases cell survival rate.\n\nCwiM very likely plays a role in cell elongation in M. smegmatis.\n\nCell elongation is required for survival."
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Theory 1",
+     "title": "Acetylation",
+     "problem": "Sir Edwin Southern (1938-present) invented a method to visualise specific biomolecules, by separating them according to size, transferring them to a membrane and using specific probes for them. Protein modifications, including acetylation can be visualised in a similar way (Western blotting). WT Salmonella had their proteins extracted, and acetylation of a metabolic enzyme was investigated after treatment with purified enzymes pat or cob (1). The role of pat and cob in Salmonella growth was assessed in knockout cells (2).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-13-fig1.png\n\nCob adds acetyl groups to proteins.\n\nMore pat treated protein than cob treated protein was used in this analysis.\n\nPeak growth rate is equal whether Salmonella are feeding on glucose or citrate.\n\nGrowth on citrate is initially slow because it takes time for cells to reduce pat activity."
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Theory 1",
+     "title": "Cork",
+     "problem": "Cork oak (Quercus suber) produces suberin, a highly resistant material, from fatty acids, and uses it to reinforce the cell walls of cork. The expression of genes specific to cork tissue was measured across the year, and the genes were grouped into biosynthetic enzymes, or chaperone proteins. Sir Hugh Pellham (1954-present) discovered chaperones, which assist other proteins to fold properly.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-14-fig1.png\n\nCork tissue grows fastest in late spring.\n\nThe enzymes produce hydrophilic molecules.\n\nIncreased expression of chaperones may allow cork to continue growing, despite higher temperatures."
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Theory 1",
+     "title": "Quinine Biosynthesis",
+     "problem": "The UK has undertaken to cure 1 billion cases of neglected tropical diseases, and develop new treatments, from 2017-2022. Quinine-like drugs are useful treatments for several diseases, but their synthesis by Cinchona trees requires many steps. Enzymes I and II were seen to catalyse a range of substrates into a range of stereoisomers, reversibly.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-15-fig1.png\n\nOverexpressing enzyme I may increase quinine synthesis.\n\nModifying enzyme II may change the ratio of quinine:quinidine in plants.\n\nNitrogen uptake in the roots may increase if enzyme II is overexpressed.\n\nTrees containing the largest amount of quinine, also contain the largest amount of quinidinone."
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Theory 1",
+     "title": "Day-Night Cycles",
+     "problem": "Cytokinin is a plant hormone involved in stress signalling, which may affect responses to day-night cycles. Arabidopsis plants were grown under 8 hours light / 16 hours dark for 12 days, then four different light / dark regimes for one cycle. Patches of cell death were measured in leaves after this.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-16-fig1.png\n\nIncreased light exposure is the major cause of cell death in cytokinin receptor knockouts in this experiment.\n\nA condition of 12 h light and 12 h dark will lead to a high percentage of cells dying in cytokinin receptor knockout plants.\n\nCytokinin increases leaf stress.\n\nCytokinin helps adjust expression of circadian clock related genes."
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "Theory 1",
+     "title": "Oak Galls",
+     "problem": "Dame Ottoline Leyser (1965-present) showed that auxin is a plant hormone with roles in environment-development interactions. For example, English oak (Quercus robur) is attacked by gall wasp larvae (Cynipidae), which cause tumorous galls to grow.\n\nAuxin can cause tumour growth, but auxin is degraded by oxidation (1). Plants use the enzyme PPO to control oxidation of phenolic chemicals (2), but auxin is not a phenolic compound.\n\nDifferent chemical fractions (based on mass) were taken from galls and mixed with auxin and an oxidising agent. Auxin oxidation rate was then measured. Only fractions 6 and 17 contained mostly phenolic compounds (3).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-17-fig1.png\n\nAuxin activity is high in galls.\n\nCompounds in fractions 6 and 17 are oxidised more easily than auxin.\n\nPhenolic compounds are responsible for oxidising auxin in galls.\n\nSecretion of auxin-like compounds by these gall wasp larvae is necessary to drive gall formation.\n\nAn upregulation of PPO in galls, compared to healthy tissue, could explain these results."
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "Theory 1",
+     "title": "Growth Plates",
+     "problem": "Growth hormone (GH) is secreted by the brain, and can stimulate the liver to secrete insulin-like growth factor 1 (IGF1).\n\nBones, formed from chondrocytes, elongate from terminal growth plates as animals grow.\n\n(1) A healthy, active growth plate. All the growth plates injected with GH activated.\n\n(2) GH was injected into rat growth plates in combination with IGF1 inhibitors.\n\n(3) All GH was inhibited in a rat.\n\n(4) GH injected into a rat growth plate with a liver specific IGF1 knockout.\n\n(5) GH was added onto stem cells in a dish.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-18-fig1.png\n\nMutations in GH can lead to dwarfism.\n\nIGF1 is necessary for chondrocytes to enlarge.\n\nInjecting IGF1 would lead to bone elongation, even if GH is absent.\n\nIGF1 is produced by chondrocytes, as well as the liver."
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "Theory 1",
+     "title": "Shoot Branching",
+     "problem": "The RMS1 gene encodes a signalling protein which is altered in modern crops. Its activity can be studied by grafting together seedlings from different plants, and monitoring their growth.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-19-fig1.png\n\nRMS1 activity increases shoot branching.\n\nThe signal produced by RMS1 travels towards the shoot tip rather than towards the roots.\n\nRMS1 activity in the root is sufficient to give WT plant architecture.\n\nRMS1 activity in the root is necessary to give WT plant architecture."
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "Theory 1",
+     "title": "Slit Comm Robo",
+     "problem": "In Drosophila embryos, developing neurons (red) grow along two columns parallel to the midline.\n\nSome traverse the midline and some do not, creating a ladder. Midline cells secrete a protein, called Slit, which is detected by the receptor, Robo. Comm, a transcription factor, controls Robo expression. To investigate how this guides neurons, WT (1), Robo knockout (2), Comm knockout (3), and Comm overexpression (4) flies were dissected.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-20-fig1.png\n\nNeurons cross the midline more often in Comm knockout flies, than WT flies.\n\nNeurons are repelled when they detect Slit.\n\nComm acts to increase Robo expression.\n\nNeurons increase Comm expression once they cross the midline."
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Theory 1",
+     "title": "Turing Patterns",
+     "problem": "Alan Turing (1912-1954) famously invented the fields of computer science and artificial intelligence. Turing also published equations explaining spontaneous pattern formation in biology.\n\nDark zebrafish (Danio rerio) stripes are formed by collections of dark cells (melanophores), whilst brown stripes are produced by collections of lighter cells (xanthophores). To investigate whether zebrafish stripes are a Turing pattern, pigmented cells were surgically removed (dashed regions), and the appearance of melanophores from precursor cells was measured a fortnight later. The scale bar in the bottom right corner is 1 mm.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-21-fig1.png\n\nMelanophore formation is stimulated by other melanophores immediately next to the precursor cells.\n\nPrecursor cells from different stripes are predetermined to become either melanophores or xanthophores.\n\nMelanophore formation is stimulated by other melanophores >0.5 mm from the precursor cells.\n\nMelanophore formation is stimulated by xanthophores >0.5 mm from the precursor cells."
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Theory 1",
+     "title": "Cell Protein Atlas",
+     "problem": "The location of proteins in a cell affects their function by determining which molecules they interact with. A collaboration of scientists in Sweden and Cambridge used microscopy to map the location of >12 000 human proteins in numerous cell types. In the diagram below, solid bars around the circumference represent all the different types of protein within each organelle, and lines are drawn between the same type of protein in different organelles.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-22-fig1.png\n\nMost proteins are found only in a single organelle.\n\nMost mitochondrial proteins are found only in the mitochondria.\n\nMost proteins that are found in multiple organelles are spread homogeneously through the cell."
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Theory 1",
+     "title": "Calcium Signalling",
+     "problem": "Jean Hanson (1919-1973) discovered how muscles contract. Contraction is triggered by a build up of calcium in the cytoplasm, which is actively removed during relaxation. Calcium diffuses through plasma membrane channels (1), or endoplasmic reticulum membrane channels (2).\n\n(1, purple) Plasma membrane channels, opened by depolarisation, pore width = 1 atom\n\n(2, orange) ER channels, open by binding calcium on cytoplasmic face, pore width = 100s of atoms\n\nThe concentrations of the major biological ions in different compartments are shown.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-23-fig1.png\n\nPeak calcium flow into the cytoplasm is greater from the intracellular than extracellular stores.\n\nCytosolic calcium has to be moved against an electrical and chemical gradient to be returned to the endoplasmic reticulum.\n\nMuscle performance is improved by artificially expressing channel (2) on the plasma membrane.\n\nPeak calcium flow is greater in high frequency muscle than to low frequency muscle."
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Theory 1",
+     "title": "Action Potential Propagation",
+     "problem": "Sir Alan Hodgkin (1914-1998) and Sir Andrew Huxley (1917-2012) explained how action potentials occur and spread.\n\n(i) Resting neurons have a negative voltage (membrane potential) across their membrane (more negative inside than outside).\n\n(ii) If the potential becomes less negative, ion channels open, making the voltage become positive.\n\n(iii) Channels shut in a time dependent fashion.\n\n(iv) Channels cannot re-open until the membrane returns to the resting negative voltage.\n\n(v) As one section of membrane becomes positive, electrical currents make adjacent sections less negative.\n\nArtificial action potentials can be triggered and measured in a giant neuron which runs the length of worms. A stimulating pair of electrodes are placed close to each other, against the worm, and a voltmeter placed further along is used to record the passing action potential. The trace from setup (1) is shown. Other setups (2, 3 & 4) were also tested.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-24-fig1.png\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-24-fig2.png\n\nIf the voltmeter electrodes are swapped in setup (1), action potentials can still be measured.\n\nAction potentials can still be measured in setup (2).\n\nAction potentials can still be measured in setup (3).\n\nMeasured action potentials will have a larger magnitude (reach a higher voltage) in setup (4) than setup (1)."
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Theory 1",
+     "title": "Synaptic Information Processing",
+     "problem": "Sir John Eccles (1903-1997) and Sir Charles Sherrington (1857-1952) discovered the different roles of synapses, which dictate how neurons respond to stimulation from each other.\n\nNeurons 1, 2 and 3 were artificially fired, and their ability to initiate an action potential at point 4 was assessed.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-25-fig1.png\n\nSimultaneous stimulation from neurons (1) and (3) can fire (4).\n\nNeuron (2) stimulates neuron (1).\n\nThe potential of (4) becomes more negative when (2) alone fires.\n\nIf (3) was fired twice in quick succession, (4) would fire."
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Theory 1",
+     "title": "Receptor Information Processing",
+     "problem": "Whilst Lewis Wolpert (1929-present) hypothesised graded responses to signals control animal development, Sir John Gurdon (1933-present) was the first scientist to relate the number of activated receptors to different cell responses.\n\nThe neurotransmitter acetylcholine can produce a graded response, but if the inhibitor BCM is above the critical concentration (>X mM), a cell's response to acetylcholine is significantly below maximal at all acetycholine concentrations.\n\nEach acetylcholine receptor has one binding site for the neurotransmitter acetylcholine.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-26-fig1.png\n\nBCM is a competitive inhibitor of the acetylcholine receptor (binds in the same way as acetylcholine).\n\nIncreasing the number of acetylcholine receptors increases cells’ sensitivity to acetylcholine.\n\nIndividual receptors produce 50 % of their maximal signal when treated with 1 mM acetylcholine.\n\n$$\\begin{array}{|l|c|c|c|c|c|} \\hline & 1\\ \\% & 25\\ \\% & 50\\ \\% & 75\\ \\% & 100\\% \\\\ \\hline \\text{Choose the nearest proportion to the correct answer.} & & & & & \\\\ \\hline \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Theory 1",
+     "title": "Drunk Flies",
+     "problem": "The most important signalling pathways of development and cancer were discovered by epistasis analyses in fruit-flies (Drosophila melanogaster). Such screens also showed the protein encoded by the Arouser gene mediates signals along the Epidermal growth factor receptor (Egfr) pathway in neurons. Arouser knockout flies are unusually sensitive to ethanol (get drunk easily).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-27-fig1.png\n\nWild type Arouser facilitates alcohol tolerance.\n\nBlocking Egfr activity increases alcohol sensitivity.\n\nOver-expression of Akt in arouser knockout flies increases alcohol sensitivity.\n\nSocially isolating arouser knockouts makes them more like WT flies."
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Theory 1",
+     "title": "Optogenetics",
+     "problem": "Tim Bliss (1940-present) discovered that stimulating a neuron sensitises it to future stimulation, and that this is a basis of long term memory. This can occur because stimulation leads to transcription of ion channel genes. One of these channels was fused to a light sensitive protein, which allows it to be activated by fiber-optic implants, and cloned into mice.\n\nThe mice were treated as follows:\n\n(1) Transcription of this channel was blocked in every cell, until adult mice were first shown a particular, non-threatening stimulus.\n\n(2) Transcription of this channel was re-blocked in every cell.\n\n(3) Mice were given an electric shock, causing them to freeze. In a subset of mice, electrocution was accompanied by a flash of fiber optic light to the brain.\n\n(4) Mice were shown the non-threatening stimulus again.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-28-fig1.png\n\nThe freezing behaviour in (4) is explained by mice forming an association between flashing lights and electrocution.\n\nThe same neurons are activated by electric shock and fiber optic lights.\n\nFlashed mice have a false memory of the non-threatening stimulus.\n\nControl mice are likely to freeze if they are shown the electric shock apparatus after the experiment."
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Theory 1",
+     "title": "Burrowing Mice",
+     "problem": "Sir Francis Galton (1822-1911) invented the field of behavioural genetics.\n\nBurrowing mouse (Juscelinomys) burrows have quantifiable features, including presence or absence of an escape tunnel (1) and length of the entrance tunnel (2).\n\nSpecies A and Species B were crossed. The first generation of the cross (F1), were back-crossed (BC) with Species A.\n\nIn BC mice, there is no correlation between entrance tunnel length and the presence or absence of an escape tunnel.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-29-fig1.png\n\nEntrance tunnel length is determined by a single locus (gene).\n\nAlleles for the presence of an escape tunnel are dominant to those for absence of an escape tunnel.\n\nF1 hybrids can be distinguished from Species A and Species B by looking at their burrows.\n\nGenes determining entrance tunnel length and the presence or absence of escape tunnels are close to each other in the genome."
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Theory 1",
+     "title": "Travelling Sales-Bees",
+     "problem": "Radar, invented in the UK, was used to track the flight of English bees (Apis mellifera). To investigate how bees forage, the following experiment was performed:\n\n(1) Fake flowers were filled with syrup, and the bees were released from a nest-box.\n\n(2) Bees were given time to build experience of the setup.\n\n(3) Syrup was removed from one flower, leaving it empty, and placed in another.\n\n(4) Bees were allowed to build experience of the new set up. Representative flights are shown (a & b).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-30-fig1.png\n\nBees continually attempt to optimise the shortest route to harvest syrup from the flowers.\n\nExperienced bees do not search for new flowers unless the environment changes.\n\nBees exhibit signs of confusion if they encounter unexpected features on their route.\n\nBees visit all the nutritious flowers within range of their nest."
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "Theory 1",
+     "title": "Memes",
+     "problem": "Richard Dawkins (1941-present) invented the idea of memes, and Sir Frederic Bartlett (1886-1969) showed previous knowledge alters the processing of new stimuli. Bartlett asked British people to reproduce a drawing of Native American masks from memory. This was passed to a new person to memorise and reproduce, and the reproduction passed on, several times in succession (1). This study has been repeated recently (2). Representative reproductions are shown.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-31-fig1.png\n\n$$\\begin{array}{|l|c|c|} \\hline & \\text{Experiment (1)} & \\text{Experiment (2)} \\\\ \\hline \\text{Memories tended to simplify the original object.} & & \\\\ \\hline \\text{Objects tended to be remembered as more similar to familiar objects than is actually the case.} & & \\\\ \\hline \\text{The participants of the study were instructed to focus on making accurate reproductions.} & & \\\\ \\hline \\text{Memories included features not present on the actual object.} & & \\\\ \\hline \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "Theory 1",
+     "title": "The Pituitary Gland",
+     "problem": "The hypothalamus is the central regulator of homeostasis, whilst diverse hormones from the posterior and anterior pituitary glands orchestrate most bodily functions. To investigate how these three structures coordinate their actions in rats (Rattus norvegicus), each was electrically stimulated, and the effect on hormone secretion from both pituitary glands was observed (1). Secondly, whole rat pituitary glands were transplanted to locations with different blood supplies, to reveal why they usually receive blood from hypothalamic veins (2).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-32-fig1.png\n\nThe hypothalamus controls secretion of hormones from both pituitary glands.\n\nHypothalamic blood specifically has factors necessary for the survival of the anterior pituitary.\n\nHypothalamic neurons innervate the posterior pituitary.\n\nHypothalamic hormones cause the posterior pituitary to secrete hormones."
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "Theory 1",
+     "title": "Obese Mice",
+     "problem": "Sir Frederick Banting (1891-1941) and John Macleod (1876-1935) discovered insulin and invented modern diabetes treatment. This inspired similar investigations into body weight homeostasis and obesity: two mouse (Mus musculus) lines (obese; Ob, & diabetic; Db) have identical over-eating phenotypes. Each is deficient for a single, but different, gene. Damaging the arcuate nucleus in the brain, which is the structure soley responsible for regulating the sensation hunger, produces a similar phenotype. Mice were joined surgically, allowing a small amount of blood to flow between them, and then observed.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-33-fig1.png\n\nSurgical connection allows mice to freely share nutrients.\n\nDb mutants overproduce an appetite suppressing substance.\n\nThe products of genes Ob and Db act in the same pathway.\n\nThe WT product of gene Ob promotes a pathway which activates the arcuate nucleus.\n\nSome cases of human obesity can be treated by administering a hormone."
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "Theory 1",
+     "title": "Eutrophication",
+     "problem": "The use of fertilisers, and release of sewage, have altered the balance of nitrogen and phosphorus based nutrients in the environment. Additionally, nitrogen oxides from pollution dissolve in rain to form acids. Growing algae incorporates an average of 16 nitrogen atoms per phosphorus atom, and eutrophication occurs when algal decomposition depletes oxygen. In 1957, the River Thames was declared 'biologically dead', without oxygen, but is now among the world's healthiest major rivers. Phosphorus availability (1), and nitrogen:phosphorus molar ratio (2) was measured across Northern Europe.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-34-fig1.png\n\nThe risk of eutrophication would be much lower if European farmers reduce phosphate, but not nitrogen, fertiliser use.\n\nNitrogen oxide pollution increases the risk of eutrophication around Great Britain.\n\nBased on nutrient levels, British waters contain most of Europe's large, energetic fish species.\n\nEuropean rivers are more polluted with phosphate than nitrogen.\n\nNutrient levels allow algae to grow quicker along the East coast of Denmark, than the West."
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "Theory 1",
+     "title": "ELISA",
+     "problem": "John Marrack (1886-1976) discovered the biochemistry of antibody-antigen interactions. These can be harnessed to detect pesticides contaminating sample water:\n\n1) Wells are coated in the pesticide.\n\n2) A very small amount of antibody against the pesticide is mixed with sample water, and then the mix is transferred to the wells.\n\n3) The wells are washed with clean water several times.\n\n4) An enzyme that produces a blue pigment, which is attached to a secondary antibody that binds the first antibody, is added.\n\nDifferent antibodies (X, Y & Z) can be used for this process.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-35-fig1.png\n\nTo test for atrazine specifically, antibody Y should be used.\n\nAll these pesticides probably have the same mechanism of action.\n\nAll these antibodies could come from the same mouse injected with atrazine.\n\nDarker blue wells contained water which was more contaminated with pesticide."
+    },
+    {
+     "day": 1,
+     "number": 36,
+     "paper_label": "Theory 1",
+     "title": "Madagascar",
+     "problem": "The Royal Botanic Gardens, Kew, is responsible for the millennium seed bank, including archiving the 70% of Madagascan plant species that are threatened with extinction. The shape of a plant phylogeny can be used to prioritise species for conservation.\n\nThe tree fern (Cyatheales) phylogeny is typical of plants (1).\n\nThe chance of plants being at risk of extinction is related to the age of the species (the length of its branch on a phylogeny) (2).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-36-fig1.png\n\nThe vast majority of Madagascan species are likely found nowhere else.\n\nThe age of Madagascan species accounts for their unusually high extinction risk categorisations.\n\nGlobally, Kew should focus on collecting seeds from old species.\n\nFailure to bank any Madagascan species will result in a greater loss of evolutionary history and genetic diversity than failure to bank African species."
+    },
+    {
+     "day": 1,
+     "number": 37,
+     "paper_label": "Theory 1",
+     "title": "Windfarms",
+     "problem": "The UK is extending the world’s largest offshore windfarm in the North Sea. However, disruption to wind patterns, and other effects, causes difficulties for birds. Several windfarms were previously built in the habitats of red grouse (Lagopus lagopus scotica), snipe (Gallinago gallinago), skylark (Alauda arvensis), curlew (Numenius sp.), and meadow pipit (Anthus pratensis). The population density of these species was compared to undisturbed habitats before, during and after windfarm construction.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-37-fig1.png\n\nThe process of windfarm construction reduces the red grouse population.\n\nOf the species studied, finished windmills are only dangerous to curlews.\n\nThe study windfarm is located in better red grouse habitat than the control site.\n\nAn environmental change, other than windfarm construction, is harming the snipe population."
+    },
+    {
+     "day": 1,
+     "number": 38,
+     "paper_label": "Theory 1",
+     "title": "Populations",
+     "problem": "The world's longest conservation efforts have restored the populations of many native British species, but several aliens are also thriving.\n\n(1) Rabbits (Oryctolagus cuniculus) were introduced to Great Britain ~ 2000 years ago by the Romans.\n\n(2) A pair of Parakeets (Psittacula krameri) was released into London by Jimi Hendrix.\n\n(3) Native Peregrine Falcons (Falco peregrinus) nest in London, which as Europe's largest city, provides ample nest sites and prey, including parakeets.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-38-fig1.png\n\nMyxomatosis resistance in British rabbits arose around 1950.\n\nPeregrine falcons are effective biocontrols for the parakeet population.\n\nRemoving rabbits from the UK would help conservation of native species such as Peregrines."
+    },
+    {
+     "day": 1,
+     "number": 39,
+     "paper_label": "Theory 1",
+     "title": "Sea Urchins",
+     "problem": "Sea urchins (Echinoidea) are a major food source of otters (Enhydra lutris). Sea urchin populations tend to explode where sea beds have been damaged by human activities. Sea urchins, limpets (Patella vulgata) and seaweeds can live together. Seaweed coverage was measured in an experimental area where the populations of urchins and limpets was artificially controlled.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-39-fig1.png\n\nLimpets affect seaweed growth when sea urchins are present.\n\nSea urchins have a bigger effect on seaweed than limpets have on seaweed.\n\nSea urchins help damaged seabeds recover.\n\nIncreasing the number of otters increases ocean primary productivity."
+    },
+    {
+     "day": 1,
+     "number": 40,
+     "paper_label": "Theory 1",
+     "title": "Cuckoos",
+     "problem": "The Island of Great Britain is a critical hub for migrating birds, from as far away as Canada and South Africa, due to its mild climate and well preserved habitats.\n\nCuckoos (Cuculus canorus) are one migratory species which has seen its population decline in recent years. Therefore, many cuckoos had trackers attached to them, and were monitored over several years. Their Autumn migration routes are shown (1). A roughly equal number of birds took the Eastern and Western routes through Africa. Points at which tracked birds died are shown.\n\nThe change in cuckoo populations in different regions of Great Britain, and the migration route which these populations take are shown (2).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-40-fig1.png\n\nConditions for birds migrating along the western route have changed in recent years.\n\nCrossing the Sahara desert is the biggest challenge for migrating cuckoos.\n\nMortality rates during migration have an important impact on the population sizes of cuckoos in different parts of Britain.\n\nThese data would be consistent with Summer conditions within Britain, before migration begins, determining mortality rates during migration."
+    },
+    {
+     "day": 1,
+     "number": 41,
+     "paper_label": "Theory 1",
+     "title": "Wildcats",
+     "problem": "Lynx (Lynx lynx) may be reintroduced to Great Britain in 2017, after being hunted to extinction 1300 years ago. Scottish wildcats (Felis silvestris grampia) are Britain’s only remaining endogenous cat species, and are distinguished from wildcats (Felis silvestris silvestris) by their larger size, thicker fur, and unique hunting technique. Feral domestic cats (Felis silvestris catus) are also present in Scotland.\n\nMotion-sensitive cameras in 347 Scottish locations captured 200 000 images, and volunteers used these to identify wildcats, feral cats, and hybrid cats by their markings.\n\nIn one year they found 10 different Scottish wildcats. In the next year, they found 9 different Scottish wildcats, one of which had the same markings as a cat photographed in the preceding year.\n\nAdditionally, they estimated that there were about 500 feral cats, and 300 hybrid cats in the area.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-41-fig1.png\n\n$$\\begin{array}{|l|c|c|c|c|c|} \\hline & 50 & 100 & 150 & 200 & 250 \\\\ \\hline \\text{Choose the nearest number to the correct estimate.} & & & & & \\\\ \\hline \\end{array}$$\n\nNeutering feral cats would help prevent the Scottish wildcat population becoming less fit over time.\n\nVaccinating feral cats would be an effective way to prevent transmissible disease in Scottish wildcats.\n\nTwo species which have coexisted in the same region for thousands of years, are more likely to interbreed than two species which have recently come into contact but are equally genetically divergent."
+    },
+    {
+     "day": 1,
+     "number": 42,
+     "paper_label": "Theory 1",
+     "title": "Soil Bacteria",
+     "problem": "Sequencing of ribosomal RNA genes (rDNA), which have very low diversity within families, reveals the identity and relative abundance of bacterial families in different soils.\n\nBacteriovoracaceae and Bdellovibrionaceae are predatory bacteria. Each has a different maximum growth rate in optimal conditions.\n\nHaliangiaceae and Koribacteraceae are non-predatory.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-42-fig1.png\n\nBdellovibrionaceae and Bacteriovoracaceae occupy different niches.\n\nBacteriovoracaceae is an important predator of Haliangiaceae.\n\nBacteriovoracaceae and Koribacteraceae might occupy different habitats.\n\nrDNA sequencing could be used to assess the abundance of individual Bacteriovoracaceae species."
+    },
+    {
+     "day": 1,
+     "number": 43,
+     "paper_label": "Theory 1",
+     "title": "Haplotype Network",
+     "problem": "A haplotype network shows the evolutionary relatedness of haplotypes, and the proportion of individuals from a specific population with each haplotype. The 1000 genomes project, coordinated by the European Bioinformatics Institute in England, allows a global human haplotype network to be produced.\n\nThe circles represent one haplotype, each from the same locus.\n\nThe colours represent different populations by geographic location.\n\nThe lines represent an evolutionary link between two haplotypes.\n\nDenisovans are a non-human subspecies of the genus Homo.\n\nTibetans are an Asian population, closely related to their neighbours across most of their genome.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-43-fig1.png\n\nThe British are more related to the Finnish than the British are to Yorubians at this locus.\n\nTibetans have a higher genetic diversity than Han Chinese at this locus.\n\nThe Yorubian people are found in Africa.\n\nTibetan ancestors interbred with Denisovans after leaving Africa."
+    },
+    {
+     "day": 1,
+     "number": 44,
+     "paper_label": "Theory 1",
+     "title": "Evolutionary Genetics",
+     "problem": "Charles Darwin’s (1809-1882) discovery was united with Mendelian genetics by Sir Ronald Fisher (1890-1962) and John Haldane (1892-1964). Equations then allowed biologists to predict evolution, including the evolution of complex traits like behaviour, and quantitative traits like height.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-44-fig1.png\n\n$$\\begin{array}{|l|l|} \\hline \\text{Symbol} & \\text{Definition} \\\\ \\hline r & \\text{The relatedness of two individuals} \\\\ \\hline n_i & \\text{The number of alleles the two related individuals share} \\\\ \\hline n_p & \\text{The number of alleles shared on average between two members of the population} \\\\ \\hline N_t & \\text{The total number of alleles in the genome} \\\\ \\hline w & \\text{Inclusive fitness} \\\\ \\hline D & \\text{Direct fitness: the number of offspring an individual has, multiplied by the relatedness (r) of each of those offspring to the individual.} \\\\ \\hline I & \\text{Indirect fitness: the number of offspring an individual's relative has, multiplied by the relatedness (r) of each of those offspring to the individual.} \\\\ \\hline C & \\text{The cost an individual's behaviour has to the number of offspring that it can produce.} \\\\ \\hline B & \\text{The benefit an individual's behaviour has to the number of offspring that a relative can produce.} \\\\ \\hline g & \\text{Genetic value of an individual: the value a quantitative trait would have, if no environmental influences acted on it.} \\\\ \\hline \\Delta_s & \\text{The change, between generations, due to natural selection.} \\\\ \\hline \\beta_{w,g} & \\text{The correlation between fitness (w) and genetic value (g).} \\\\ \\hline \\mathrm{var}(g) & \\text{The variance in genetic value (g) in a population} \\\\ \\hline \\end{array}$$\n\n$$\\begin{array}{|l|l|} \\hline \\text{Rule for adaptive behaviours/traits} & \\text{Equation} \\\\ \\hline \\text{Relatedness} & r = (n_i - n_p) / N_t \\\\ \\hline \\text{Inclusive fitness} & w = D + I \\\\ \\hline \\text{Hamilton's rule} & C < rB \\\\ \\hline \\text{Price equation} & \\Delta_s g = \\beta_{w,g}\\, \\mathrm{var}(g) \\\\ \\hline \\end{array}$$\n\nSpiteful behaviours (cost to the actor and recipient) exist when actors are more related to recipients than expected by chance.\n\nThese equations predict alleles exist which produce a recognisable trait (e.g. appearance or pheromones) and also cause altruism towards unrelated individuals with that trait.\n\nThese equations predict stress responses in some organisms include purposeful increases in mutation rate.\n\nNaked mole rat (Heterocephalus glaber) colonies of many adults, with a single breeding pair, can be explained by inclusive fitness.\n\nNatural selection acts more quickly when aphids are in their sexual lifecycle, than asexual lifecycle."
+    },
+    {
+     "day": 1,
+     "number": 45,
+     "paper_label": "Theory 1",
+     "title": "Butterfly Eyespots",
+     "problem": "To investigate the evolution of butterfly eyespots, their mean size and colour was measured in each generation. Butterflies were split into 4 groups based on the colour (width of the golden ring) ratio (1), or size ratio (2), of their top and bottom eyespots. The most extreme butterflies in each group were bred together, and this was repeated with each successive generation.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-45-fig1.png\n\nTop:bottom eyespot colour ratio has greater genetic variation than top:bottom eyespot size ratio.\n\nSimply selecting for top eyespots which are more golden will produce bottom eyespots which are more golden.\n\nMany relatives of this species have very different top:bottom eyespot size ratios.\n\nEyespot size would remain constant if random butterflies of this experimental population were mated."
+    },
+    {
+     "day": 1,
+     "number": 46,
+     "paper_label": "Theory 1",
+     "title": "Industrial Melanism",
+     "problem": "The light-coloured form of the English peppered moth (Biston betularia) was replaced by a melanic (dark) form, as camouflaging lichens disappeared due to pollution during the industrial revolution. Clean air, lichens and light moths have now returned.\n\nTo discover the genetic basis of this, hundreds of moths were genotyped and haplotypes were determined. Melanism was due to a dominant mutation in the cortex gene. Cortex mRNA is cut (spliced) into two forms, Cortex-1A and Cortex-1B. Cortex mRNA abundance was measured.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-1-46-fig1.png\n\nThere is a greater diversity of haplotypes in the population close to the melanic cortex allele, than further away.\n\nCortex-1A is more likely to be driving melanism than Cortex-1B.\n\nThe expression data are consistent with the melanic phenotype being dominant.\n\nThe light form has reappeared because of back-mutation (reversion)."
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "paper_label": "Theory 2",
+     "title": "Amazon Biomass",
+     "problem": "Forests sink more than 30% of anthropogenic $\\mathrm{CO_2}$, but the way they handle atmospheric $\\mathrm{CO_2}$ is changing. This map shows the change in total fixed carbon mass in the Amazon over the last decade. The Amazon rainforest is responding to climate change similarly to most rainforests.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-1-fig1.png\n\nExcluding deforestation, rainforests have shown a net increase in carbon biomass in recent years.\n\nIncreasing UV input, due to a thinning ozone layer, can increase carbon fixation.\n\nIncreasing atmospheric $\\mathrm{CO_2}$ concentration can increase carbon fixation.\n\nSmall increases in temperature increases the rate of photosynthetic enzymes."
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "paper_label": "Theory 2",
+     "title": "Bermudan Coral",
+     "problem": "Oceans also sink more than 30% of anthropogenic carbon dioxide, which dissolves to form an acid that alters calcium carbonate solubility (1). Many marine invertebrates have calcium carbonate skeletons, which form marine sediments and reefs. The British island of Bermuda is a hub for studying coral reefs and sea trenches, so the effect of $\\mathrm{CO_2}$ on Bermudan sediments in seawater was measured (2). Five thousand metres below the reefs, marine bacteria fix $\\mathrm{CO_2}$ to grow (3).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-2-fig1.png\n\nAnthropogenic carbon dioxide damages invertebrate skeletons.\n\nThe structure of the Bermudan barrier reef is under threat due to changes in seawater chemistry.\n\nThe growth of invertebrates contributes to the oceans' ability to sink carbon.\n\nBacteria at hydrothermal vents use modified photosynthetic enzymes to fix carbon."
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "paper_label": "Theory 2",
+     "title": "Acidosis",
+     "problem": "Blood pH must be tightly controlled. To achieve this, the lungs excrete $\\mathrm{CO_2}$ from the body and the kidneys alter blood $\\mathrm{HCO_3^-}$ levels. The blood chemistry of healthy people (H) and people with diseases i, ii, and iii was analysed, and falls in the ranges shown.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-3-fig1.png\n\nDisease i makes blood too acidic.\n\nDisease ii involves increased gas exchange in the lungs.\n\nDisease ii involves harmful changes in kidney function.\n\nVomiting can induce the phenotype seen in iii."
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "paper_label": "Theory 2",
+     "title": "Carbon Monoxide Poisoning",
+     "problem": "Sir John Kendrew (1917-1997) published the structure of haem-proteins, revealing how oxygen is transported in the blood.\n\nCarbon monoxide is a poisonous gas which can enter the blood via the lungs and alters oxygen transport. In normal air, $P_{\\mathrm{O_2}} = 100$ mmHg in the lungs. After addition of CO, so $P_{\\mathrm{CO}} = 0.4$ mmHg, there are equal molar amounts of CO and $\\mathrm{O_2}$ in the blood.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-4-fig1.png\n\nCarbon monoxide increases the affinity ('tightness of binding') of haemoglobin for oxygen.\n\n0.4 mmHg of carbon monoxide reduces the solubility of oxygen in plasma.\n\nCarbon monoxide reduces the amount of functional heamoglobin in the blood in physiological conditions.\n\nChoose the nearest relative affinity to the correct answer.\n\n50 x greater\n\n100 x greater\n\n150 x greater\n\n200 x greater\n\n250 x greater"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "paper_label": "Theory 2",
+     "title": "Alveolar Gases",
+     "problem": "John Haldane (1892-1962) discovered many mechanisms which control gas exchange and breathing.\n\nThe effect of altering the pressure of oxygen or carbon dioxide in air sacs (alveoli) within human lungs on the volume of air breathed every minute was recorded.\n\nAlveolar air, at sea level, usually has $P_{\\mathrm{O_2}} = 100$ mmHg, $P_{\\mathrm{CO_2}} = 40$ mmHg.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-5-fig1.png\n\nIncreasing blood acidity (lowering pH) increases breathing rate.\n\nBreathing rate is determined by the oxygen content of blood in normal conditions.\n\nAt high altitude (atmospheric pressure < 50 % of sea level), falling carbon dioxide pressure in the blood has a greater impact on breathing than falling oxygen pressure.\n\nTotal blood oxygen content changes negligibly when alveolar oxygen pressure is increased from 50 mmHg to 150 mmHg."
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "paper_label": "Theory 2",
+     "title": "Animal Respiratory Systems",
+     "problem": "The gas exchange surfaces, and the direction of respiratory-medium and blood flow, of different animals are sketched. Mammals and birds must use respiratory muscles to drive air to these surfaces, as shown.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-6-fig1.png\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-6-fig2.png\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-6-fig3.png\n\nMammals require passive diffusion to exchange gases.\n\nMammals extract a greater proportion of the air’s oxygen than fish extract from water.\n\nAir must reach within micrometers of active insect cells.\n\nBird lungs exchange gas with air for a greater proportion of a breathing cycle than mammals."
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "paper_label": "Theory 2",
+     "title": "Air Roots",
+     "problem": "Mangrove trees grow in intertidal flats, and can have vertical roots (pneumatophores) which act like snorkels for the submerged roots. The mechanism through which they facilitate gas exchange was investigated by recording gas pressures, relative to atmospheric air, as pneumatophores are covered and uncovered by the tide.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-7-fig1.png\n\nAir is sucked into roots when pneumatophores are revealed by falling tides.\n\nRespiration in the roots contributes to the air pressure changes in the roots.\n\nPneumatophores supply $\\mathrm{CO_2}$ for photosynthesis.\n\nRespiration rate in the roots slows when pneumatophores are submerged."
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "paper_label": "Theory 2",
+     "title": "Meristem Oxygen",
+     "problem": "Seagrass grows rapidly from a meristem at its base. However, weak growth and death of entire seagrass meadows, have become common in recent years. The oxygen partial pressure along the diameter of a seagrass stem was recorded at different seawater temperatures and oxygen saturations.\n\nAtmospheric $P_{\\mathrm{O_2}}$ is usually = 160 mmHg.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-8-fig1.png\n\nRising seawater temperatures could explain the loss of seagrass meadows.\n\nThese experiments were performed in the dark.\n\nThe meristem has a faster metabolic rate than surrounding tissue.\n\nThere is more $\\mathrm{CO_2}$ in the meristem at 30 °C, than at 5 °C.\n\nThe meristem will receive more oxygen in rough ocean conditions than calm ocean conditions."
+    },
+    {
+     "day": 2,
+     "number": 9,
+     "paper_label": "Theory 2",
+     "title": "Photosynthetic Oxygen",
+     "problem": "Joseph Priestley (1733-1804) discovered that plants consume $\\mathrm{CO_2}$. In this process they produce elemental oxygen, which he also discovered. In chloroplasts, the oxygen-evolving complex loses single electrons when exposed to light. After a specific number of electrons are lost, the complex regains electrons from water to produce oxygen, in a cycle. Consecutive pulses of light were flashed at a solution of chloroplasts, and the amount of oxygen produced from each flash was recorded.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-9-fig1.png\n\n2 light pulses are sufficient to complete the oxygen-evolving cycle.\n\nA maximum of 4 electrons is lost by the complex.\n\nAt the beginning of the experiment, most complexes had already lost 1 electron.\n\nMore oxygen is evolved for the same light exposure at the end of the experiment."
+    },
+    {
+     "day": 2,
+     "number": 10,
+     "paper_label": "Theory 2",
+     "title": "Frank-Starling Law",
+     "problem": "William Harvey (1578-1657) discovered that the heart pumps blood around the body in a circuit. Ernest Starling (1866-1927) discovered many of the fundamental properties of the circulatory system, including how cardiac output (the amount of blood pumped in a given time) is controlled. Starling completely removed a beating heart from the body, and attached it to an apparatus that allowed him to alter the pressure of incoming 'venous' (1) or outgoing 'arterial' blood (2). He then measured cardiac output.\n\nBoth the left and right-sides of the heart gave similar results.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-10-fig1.png\n\nResponses to exercise include toning (contraction of smooth muscle) of the veins.\n\nIf outflow from the right-side of the heart increases, nervous or hormonal coordination is required for outflow from the left-side of the heart to match it.\n\nThe energy required for the heart to beat increases as venous blood pressure increases.\n\nIn the early stages of heart failure, cardiac output can be maintained if blood volume is increased."
+    },
+    {
+     "day": 2,
+     "number": 11,
+     "paper_label": "Theory 2",
+     "title": "Pressure-Volume Loops",
+     "problem": "The pressure and volume of beating ventricles can be measured as they change with time.\n\nRecordings (1) and (2) are from the same resting, healthy heart, beating at 60 beats per minute (bpm).\n\nAt maximum cardiac output of 28.8 l/min, the maximum ventricular volume doubles, and the minimum ventricular volume halves.\n\nRecordings (3) and (4) are from different diseased hearts.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-11-fig1.png\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-11-fig2.png\n\nChoose the nearest output to the correct answer.\n\n2 l/min\n\n5 l/min\n\n6 l/min\n\n7 l/min\n\n10 l/min\n\nChoose the nearest rate to the correct answer.\n\n100 bpm\n\n125 bpm\n\n150 bpm\n\n175 bpm\n\n200 bpm\n\nRecording 1 is of the right-side of the heart, recording 2 is of the left-side of the heart.\n\nRecording 3 indicates an aortic (arterial) obstruction.\n\nRecording 4 indicates leaky heart valves."
+    },
+    {
+     "day": 2,
+     "number": 12,
+     "paper_label": "Theory 2",
+     "title": "Blood Osmolarity",
+     "problem": "Ernest Verney (1894-1967) explained the regulation of urine production. At the indicated time, dogs (Canis lupus familiaris) were given equal volumes of fresh water, or salty water of the same concentration (osmolarity) as blood, orally or through jugular injection. The volume of urine generated was measured with a catheter.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-12-fig1.png\n\nBlood volume is adjusted more quickly than blood osmolarity.\n\nBlood osmolarity receptors are the dominant regulators of urine production.\n\nReceptors in the gastrointestinal tract regulate the kidneys.\n\nUrine at time X has a higher osmolarity than urine at time Y."
+    },
+    {
+     "day": 2,
+     "number": 13,
+     "paper_label": "Theory 2",
+     "title": "Animal Nephrons",
+     "problem": "In kidneys, glomeruli are sieves which filter plasma into nephrons. Nephrons modify this fluid, and reabsorb or excrete it. The volumes of individual glomeruli, leading to two types of nephron, were measured in different animals. In all species, juxtamedullary nephrons are much fewer in number than cortical nephrons, but produce more concentrated urine.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-13-fig1.png\n\nGlomerular volume is proportional to body size.\n\nBush Babies (Galagidae) live in arid habitats.\n\nJerboa (Dipodidae) and Bush baby nephron volume distribution has evolved convergently (not inherited from a common ancestor).\n\nIn rats (Rattus), the majority of urine is derived from juxtamedullary nephrons."
+    },
+    {
+     "day": 2,
+     "number": 14,
+     "paper_label": "Theory 2",
+     "title": "Renal Filtration",
+     "problem": "Inulins are inert polysaccharides which cannot cross cell membranes. Inulins were infused into a human vein at a constant rate of 0.2 moles per minute. After infusion is stopped, a total of 25 moles of inulins were collected in the urine.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-14-fig1.png\n\nRate of inulin secretion is proportional to its concentration in blood.\n\nA drug which freely passes through cell membranes will be lost in urine at a faster rate than inulins, when at the same concentration in blood.\n\nChoose the volume closest to the correct answer.\n\n25 ml/min\n\n50 ml/min\n\n75 ml/min\n\n100 ml/min\n\n125 ml/min\n\nChoose the volume closest to the correct answer.\n\n8 l\n\n16 l\n\n24 l\n\n32 l\n\n40 l"
+    },
+    {
+     "day": 2,
+     "number": 15,
+     "paper_label": "Theory 2",
+     "title": "Salt Marshes",
+     "problem": "Most of the best farmland, including the English fens, is low lying and threatened by rising sea levels. Spartina patens and Typha angustifolia are marsh plants. To investigate the effect of seawater exposure on these species, they were planted in saltwater marshes and freshwater marshes, with and without neighboring plants (1), or in greenhouses at six salt concentrations (2).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-15-fig1.png\n\nSpartina patens is more salt-tolerant than Typha angustifolia.\n\nSpartina patens physiology is better adapted for saltwater exposure than freshwater exposure.\n\nSpartina patens will become more common as sea-levels rise.\n\nThe distribution of Typha angustifolia in habitats with graded salinity is determined by competition."
+    },
+    {
+     "day": 2,
+     "number": 16,
+     "paper_label": "Theory 2",
+     "title": "Antarctic Fish",
+     "problem": "The Royal Research Ship Sir David Attenborough and submarine Boaty McBoatface will explore British Antarctica. Life here exists below the freezing temperature of usual fish, which is determined by their osmolarity (1). Salt accounts for the majority of blood's osmolarity. Antarctic fish are therefore prone to freezing, which usually occurs by the expansion of pre-existing ice crystals in the water. Some Antarctic fish reduce their freezing point by > 2 °C by secreting antifreeze proteins into the blood (2). Additionally, Antarctic fish must have an appropriate cell membrane chemistry, to prevent their membranes from becoming too rigid at low temperatures (3).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-16-fig1.png\n\nFish staying at great depth under floating ice shelves need to produce antifreeze proteins.\n\nThe anti-freeze proteins function mainly by increasing the osmolarity of the fish.\n\nAntarctic fish have increased expression of phospholipid desaturases.\n\nAntarctic fish have better temperature sensors and dynamic responses to temperature than temperate fish."
+    },
+    {
+     "day": 2,
+     "number": 17,
+     "paper_label": "Theory 2",
+     "title": "Cyanobacteria Evolution",
+     "problem": "Scientists are uncertain how Natural Selection shapes genome size, gene number, physiological flexibility and other important features in response to environmental pressures. Ecological and genetic characteristics of four species of marine cyanobacteria are listed in the table. Prochlorococcus are the most abundant cyanobacteria on earth. The Prochlorococcus lineage evolved from Synechococcus.\n\n$$\\begin{array}{r|l|l|l|l} & \\text{Synechococcus} & \\text{Prochlorococcus eNATL} & \\text{Prochlorococcus eMED4} & \\text{Prochlorococcus eMIT} \\\\ \\hline \\text{Depth at which found} & \\text{Very deep} & \\text{Deep} & \\text{Shallow} & \\text{Shallow} \\\\ \\text{Region in which found} & \\text{Global} & \\text{Global} & \\text{Poles} & \\text{Equator} \\\\ \\text{Ability to tolerate low nutrient conditions} & \\text{Cannot tolerate} & \\text{Can tolerate} & \\text{Can tolerate} & \\text{Can tolerate} \\\\ \\text{Ability to tolerate high light exposure} & \\text{Cannot tolerate} & \\text{Cannot tolerate} & \\text{Can tolerate} & \\text{Can tolerate} \\\\ \\text{Ability to tolerate high temperatures} & \\text{Cannot tolerate} & \\text{Cannot tolerate} & \\text{Cannot tolerate} & \\text{Can tolerate} \\\\ \\text{Genome size (mB)} & 2.4 & 1.87 & 1.66 & 1.71 \\\\ \\text{Number of genes in genome} & 2700 & 2100 & 1900 & 1700 \\end{array}$$\n\nA species requires more genes to specialise to a new habitat.\n\nProchlorococcus species can tolerate low nutrient conditions because they have more genes with which they can utilise their environment.\n\nIntense equatorial sunshine drove the evolution of light tolerance.\n\nMeasuring genome size can be used to estimate the number of genes Prochloroccous has."
+    },
+    {
+     "day": 2,
+     "number": 18,
+     "paper_label": "Theory 2",
+     "title": "Organism Scaling",
+     "problem": "Archibald Hill (1886-1971) invented the field of biophysics, which can use simple geometric equations to predict how the anatomy of large and small animals differs.\n\n(1) Organisms exchange substances across a surface area. These substances are used to supply a volume of tissue.\n\n(2) The maximum force a muscle can generate is proportional to the number of muscle fibres contracting in parallel.\n\n(3) The maximum force a column can withstand is proportional to its cross-sectional area.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-18-fig1.png\n\nIncreasing an organism's mass 8 times approximately halves its surface area to volume ratio.\n\nDiffusion rates are more likely to be inadequately low for large animals than small animals.\n\nLarger animals can carry heavier objects, compared to their body weight, than small animals.\n\nA cat's (Felis silvestris catus) bones are disproportionately thick, as a ratio of their body size, when viewed alongside an elephant's (Elephantidae) skeleton."
+    },
+    {
+     "day": 2,
+     "number": 19,
+     "paper_label": "Theory 2",
+     "title": "Muscle Anatomy",
+     "problem": "Hugh Huxley (1924-2013) proposed the sliding filament theory of muscle contraction. Myosin can bind actin filaments, then change conformation, tugging on actin. Skeletal muscle myosin can only generate tension on actin by this change of conformation, and releases actin immediately once it is complete. During each cycle of binding, myosin hydrolyses one ATP molecule.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-19-fig1.png\n\nMyosin is found as two alternative forms; MYH-I or MYH-II. Individual muscle fibres either contain MYH-I, or MYH-II, but individual muscles contained a mix of fibre-types. The mix of fibre-types in different mammal species (dots) was measured. MYH-II cycles more quickly than MYH-I.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-19-fig2.png\n\nHuman muscles contract more quickly than chimp (Pan) muscles when opposed by the same load.\n\nA muscle fibre generates more force when it is shortening rapidly, compared to when its shortening is resisted by a load.\n\nChimps generate a greater proportion of the ATP in their muscles aerobically, compared to humans.\n\nThe most recent common ancestor of humans and chimps is likely to have had muscles more similar to humans’ than chimps’.\n\nA tensed muscle that is not shortening, does not consume ATP."
+    },
+    {
+     "day": 2,
+     "number": 20,
+     "paper_label": "Theory 2",
+     "title": "Dinosaurs",
+     "problem": "Mary Anning (1799-1847) developed the concept of prehistoric life, by collecting fossils. Richard Owen (1804-1892) coined the term dinosaurs, whilst Thomas Huxley (1825-1895) used fossils to show birds (Aves) evolved from, and are, dinosaurs (Dinosauria). Until last year, scientists believed the dinosaur phylogeny was as shown in (1). In 2017, British scientists analysed many more fossils and produced a new tree (2) based on hundreds of characteristics, including those shown. For birds, the characters are representative of ancestral birds.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-20-fig1.png\n\nPhylogeny (1) | Phylogeny (2)\n\nSome sauropods (Sauropoda; the group farthest left in each tree) were feathered.\n\nBird-like hips evolved multiple times (convergence)\n\nExclusive carnivory evolved multiple times.\n\nThe earliest dinosaurs evolved in the Southern hemisphere."
+    },
+    {
+     "day": 2,
+     "number": 21,
+     "paper_label": "Theory 2",
+     "title": "Digestive Systems",
+     "problem": "Dame Jane Goodall (1934-present) discovered that great apes (Hominidae) use tools, to access more nutritious food, and hunt for meat. Bears (Ursidae) exhibit similar behaviour, but giant pandas (Ailuropoda melanoleuca) only eat bamboo. These different animals have gut anatomies which reflect their diets, as shown. Sketches have been enlarged to similar sizes to allow comparison. Dogs (Canis lupus) represent a typical carnivore, Rhinos (Rhinocerotidae) a typical herbivore.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-21-fig1.png\n\nHumans invest more energy in digestion to acquire nutrients than chimpanzees (Pan) do.\n\nChimpanzees eat more meat and fruits than orangutans (Pongo).\n\nGiant panda digestive systems extract most of the nutrients present in Bamboo.\n\nFood passes more rapidly through orangutans than through humans."
+    },
+    {
+     "day": 2,
+     "number": 22,
+     "paper_label": "Theory 2",
+     "title": "Prehistoric Britons",
+     "problem": "Stonehenge was built in the late Neolithic (Stone age; ~ 3000 BC) on what was Europe’s most important trade route, between Cornwall and the Eastern Mediterranean. In the Early Bronze age (~ 2500 BC), the Beaker phenomenon swept across Europe, and many peoples began producing characteristic pottery (1). To discover whether British people bought and made Beaker pots, or Britain was invaded by a people that did, remains from different sites were genome sequenced. The average proportion of alleles originating from different populations (colours) in the genomes of Neolithic, Beaker and Late Bronze Age individuals was compared (2). Rs4988235(T) is an allele of the gene for the enzyme lactase which causes it to be produced into adulthood. Its frequency in British people through time was measured (3). Lactose is a sugar in milk.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-22-fig1.png\n\nA large proportion of Beaker people in Britain were native British people.\n\nBeaker people in Britain mostly replaced non-Beaker people.\n\nFrom this data, it can be concluded that modern Britons are very genetically distinct from bronze age Britons.\n\nChoose the nearest proportion to the correct answer.\n\n0.1\n\n0.2\n\n0.3\n\n0.4\n\n0.5"
+    },
+    {
+     "day": 2,
+     "number": 23,
+     "paper_label": "Theory 2",
+     "title": "Turtles",
+     "problem": "British Territories in the Atlantic, Indian, Mediterranean and Pacific Oceans are vast new marine reserves which Green turtles (Chelonia mydas) and Hawksbill turtles (Eretmochelys imbricata) inhabit (1). Sex determination in turtles depends on the temperature of the nest, as shown for Chagos Archipelago hatchlings (2). Sand temperature in turn depends on the nest site (3). The majority of breeding occurs in peak breeding season, but a scarcity of males reduces breeding rates.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-23-fig1.png\n\nAscension produces an excess of female turtles.\n\nThe Chagos Archipelago produces a roughly balanced sex ratio of Hawksbill hatchlings.\n\nChagos island turtle breeding will be less disrupted by global warming, than Ascension island turtle breeding.\n\nConservationists should protect heavily shaded nest beaches as a priority."
+    },
+    {
+     "day": 2,
+     "number": 24,
+     "paper_label": "Theory 2",
+     "title": "Testes Histology",
+     "problem": "Robert Hooke (1635-1703) popularised microscopy in his famous book Micrographia, and invented the term 'cells'. Analysing the size and shape of cells indicates their identity, whilst the appearance of their nucleus can indicate how transcriptionally active a cell is, or whether it is dividing. Specific junctions between cells allow internal substances to be transferred between them, or external substances to be trapped behind them. Testes have a distinct appearance under electron microscopes, as shown. Germ cells (which could pass their genetic material to the next generation) may undergo meiosis, and gradually adopt a morphology specialised for motility: these mature sperm are released into the centre of fluid filled tubes, in a process that happens in continuous waves.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-24-fig1.png\n\nCell i helps prevent autoimmunity against testes-specific antigens.\n\nCell ii is a diploid (has two copies of each chromosome) germ-line cell.\n\nCell iii facilitates transport of sex hormones (testosterone).\n\nCell iv is using unique histones (DNA-binding proteins) to super-compact DNA."
+    },
+    {
+     "day": 2,
+     "number": 25,
+     "paper_label": "Theory 2",
+     "title": "Flower Scents",
+     "problem": "Flowers produce volatile fragrances from their petals to attract pollinators, but only once they have become fertile. Some volatile molecules diffuse through petal-cell (pictured) membranes into the air.\n\nThe ABC superfamily of transmembrane transporters use ATP to pump substances out of cells. These include multi-drug resistance pumps that export many foreign chemicals from bacterial, plant and cancer cells. To investigate whether ABC transporters pump some volatile fragrances into the air, scientists generated several testable hypotheses.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-25-fig1.png\n\nAn ABC transporter which is most highly expressed in budding flowers, compared to open flowers, is the one involved in fragrance emission.\n\nPlant strains which express ABC transporters at high levels in their flowers are more fragrant, compared to strains which express ABC transporters at low levels in their flowers.\n\nThere is a higher concentration of volatile fragrances inside petal cells when ABC transporters are blocked.\n\nAltering ABC transporter function has a greater effect on the emission of small volatile molecules, than large volatile molecules."
+    },
+    {
+     "day": 2,
+     "number": 26,
+     "paper_label": "Theory 2",
+     "title": "ABC Model of Flowering",
+     "problem": "Arabidopsis flowers are formed incorrectly when the pistillata, apatela2 or agamous genes are knocked-out, as shown. Genes which determine the identity of parts of an organism are called homeotic selectors (or HOX genes in animals). HOX genes expressed more posteriorly (towards the anus) tend to repress those expressed more anteriorly (towards the head).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-26-fig1.png\n\n(1) shows a WT fruit fly (Drosophila melanogaster) head, and one which has the antennapedia mutation. (2) shows a typical decorative rose with an agamous phenotype.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-26-fig2.png\n\nHomeotic selector genes tend to have small and simple promoters compared to other genes.\n\nPISTILLATA expression is necessary for cells to determine they should become part of a flower.\n\nExpression of AGAMOUS causes floral meristems to stop growing after four whorls.\n\nThe antennapedia mutation is a loss of function, or knock-out, mutation.\n\nAll these genes are first expressed once a cell is specialising/differentiating into its final role."
+    },
+    {
+     "day": 2,
+     "number": 27,
+     "paper_label": "Theory 2",
+     "title": "Courting Flies",
+     "problem": "Sexual orientation in Drosophila matings (male with female, versus male with male, versus female with female) can be controlled by the gene fruitless. Fruitless mRNA is cut (spliced) in multiple ways to give two forms, FRUITLESS-A and FRUITLESS-B.\n\nThe sexual development and sexual orientation of WT and fruitless knockout flies, and flies which express either FRUITLESS-A or FRUITLESS-B, were studied.\n\n$$\\begin{array}{r|c|c|c|c} \\text{Genotype of fly} & \\text{Male} & & \\text{Female} & \\\\ & \\text{Appearance of fly} & \\text{Fly mates with} & \\text{Appearance of fly} & \\text{Fly mates with} \\\\ \\hline \\text{WT} & \\text{Male} & \\text{Females} & \\text{Female} & \\text{Males} \\\\ \\text{fruitless knockout} & \\text{Male} & \\text{Males and females} & \\text{Female} & \\text{Males} \\\\ \\text{FRUITLESS-A only} & \\text{Male} & \\text{Females} & \\text{Female} & \\text{Females} \\\\ \\text{FRUITLESS-B only} & \\text{Male} & \\text{Males} & \\text{Female} & \\text{Male} \\end{array}$$\n\nFruitless controls the development of appearance in flies.\n\nFRUITLESS-A causes flies to court females.\n\nFRUITLESS-B has a role in determining the sexual orientation of female flies.\n\nFRUITLESS-A and FRUITLESS-B perform the same role in male and female flies."
+    },
+    {
+     "day": 2,
+     "number": 28,
+     "paper_label": "Theory 2",
+     "title": "Master Developmental Regulators",
+     "problem": "Sir John Gurdon (1933-present) took differentiated cells from tadpoles (1) or frogs (2, 3), and transferred their nuclei to enucleated eggs. These eggs were allowed to develop (1, 2), or the nuclei were passaged through more enucleated eggs (3). He was able to artificially clone animals (Xenopus laevis) for the first time.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-28-fig1.png\n\nGurdon proved adult cells contain all the DNA required by the fetus.\n\nCytoplasmic factors are sufficient to regulate cell type.\n\nThe most powerful (irreversible) regulators of cell type are turned on early in development.\n\nFactors which determine cell type can take a long time to act on some genes."
+    },
+    {
+     "day": 2,
+     "number": 29,
+     "paper_label": "Theory 2",
+     "title": "Variegated Plants",
+     "problem": "Four o’clock plants (Mirabilis jalapa) can have a mix of white and green patches on their leaves, so they appear variegated - a picture showing the different colours of branches possible, but not necessarily the usual pattern of these branches, is shown (1). Variegated plants were grown, and flowers on green, white or variegated branches were fertilised by pollen from green, white or variegated branches. The progeny had the following phenotypes.\n\n$$\\begin{array}{l|l|l} \\text{Phenotype of branch bearing seed} & \\text{Phenotype of branch bearing pollen} & \\text{Phenotype of offspring plant} \\\\ \\hline \\text{White} & \\text{White} & \\text{White} \\\\ \\text{White} & \\text{Green} & \\text{White} \\\\ \\text{White} & \\text{Variegated} & \\text{White} \\\\ \\text{Green} & \\text{White} & \\text{Green} \\\\ \\text{Green} & \\text{Green} & \\text{Green} \\\\ \\text{Green} & \\text{Variegated} & \\text{Green} \\\\ \\text{Variegated} & \\text{White} & \\text{White, green, or variegated} \\\\ \\text{Variegated} & \\text{Green} & \\text{White, green, or variegated} \\\\ \\text{Variegated} & \\text{Variegated} & \\text{White, green, or variegated} \\end{array}$$\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-29-fig1.png\n\nChloroplasts can be transmitted through pollen during Four o’clock plant reproduction.\n\nDuring cell division as a plant grows, each daughter cell has the same composition of alleles.\n\nEgg cells in a variegated flower can contain different chloroplasts with distinct genomes.\n\nOlder branches of a variegated four o’clock plant are more likely to be all white, or all green, than younger branches."
+    },
+    {
+     "day": 2,
+     "number": 30,
+     "paper_label": "Theory 2",
+     "title": "IVF",
+     "problem": "Sir Robert Edwards (1925-2013) invented in vitro fertilisation (IVF) and Sir Douglas Turnbull developed ‘3 parent IVF’: the nuclear DNA of a mother and father are transferred into an enucleated oocyte from a second female. The ethicist Baroness Mary Warnock (1924-present) has enabled the UK to pioneer the safest and most advanced reproductive medicines, to combat genetic diseases such as Leigh syndrome.\n\nLeigh syndrome is caused by mutations to the mitochondrial gene COX2. Mitochondrial DNA (mtDNA) in the muscles typically has the following distributions.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-30-fig1.png\n\n$$\\begin{array}{l|c|c} \\text{Sample} & \\text{\\% of mtDNA which is WT} & \\text{\\% of mtDNA which is COX2 mutant} \\\\ \\hline \\text{Healthy mother of healthy child} & 100 & 0 \\\\ \\text{Healthy mother of Leigh's child} & 30\\text{-}50 & 50\\text{-}70 \\\\ \\text{Healthy child} & 100 & 0 \\\\ \\text{Leigh's child} & <20 & >80 \\end{array}$$\n\n30% of fully functional mitochondria is sufficient to prevent Leigh's disease.\n\nThe father of a Leigh’s child should be screened for COX2 mutant mtDNA.\n\nIf only a small amount of cytoplasm is accidently transferred with the nuclear DNA, the three-parent IVF child is safe from Leigh syndrome.\n\nRapidly dividing tissues are typically more affected by mtDNA mutations than slowly dividing tissues.\n\nSampling a cell from an early IVF embryo could determine whether the foetus will develop Leigh syndrome when implanted."
+    },
+    {
+     "day": 2,
+     "number": 31,
+     "paper_label": "Theory 2",
+     "title": "Grafting",
+     "problem": "In nature, different plant species can graft together. An experiment was done where shoots from species A were grafted onto roots of species B. Plant chloroplast and nuclear genomes were independently transformed with different antibiotic resistance genes (Kan and Spec). Single cells from the shoot, root, and graft junction were excised, then grown on agar with antibiotics. Surviving cells are grown into adult plants. Plants phenotype is denoted by its colour.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-31-fig1.png\n\nChloroplasts can travel the complete length of the plant.\n\nGenomes can be transferred between species.\n\nPlants which grow on the agar plates from (1) can cross with their parents.\n\nPlants which grow on the agar plates from (2) can cross with their parents."
+    },
+    {
+     "day": 2,
+     "number": 32,
+     "paper_label": "Theory 2",
+     "title": "Human Embryology",
+     "problem": "Sir Martin Evans (1941-present) was the first person to culture Embryonic Stem Cells (ESCs)(from a mouse). It is now known that the following transcription factors:\n\n• OCT4 determines ESCs to become epiblast,\n• GATA6 determines ESCs to become extra-embryonic endoderm,\n• CDX2 determines ESCs to become epiblast.\n\nIn all previously known animal studies, OCT4 and GATA6 are found only in the inner cell mass, and block the transcription of one-another, until cells adopt one fate. Additionally, no known animal cells express all three markers at the same time. However, closely related species can have quite different embryos. Hence, in 2016 English scientists grew human embryos in Vitro for a record breaking 14 days, and stained them for these transcription factors. Arrows mark the same point on each image.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-32-fig1.png\n\nOCT4 and GATA6 repress one-another to differentiate the inner cell mass in humans.\n\nOCT4 is not found outside the inner cell mass in humans.\n\nHuman yolk sac cells are typical of previously known animal yolk sac cells.\n\nCells expressing OCT4 may adhere more strongly to one another, than to other cell types.\n\nIt can be concluded from these images that a population of GATA6 expressing cells switch their fate after day 8."
+    },
+    {
+     "day": 2,
+     "number": 33,
+     "paper_label": "Theory 2",
+     "title": "Domestication",
+     "problem": "Plants have a plastic developmental body plan, built up of simple units. Brassica oleracea is the progenitor for many domesticated Brassica crops. During domestication of each crop different units were selected.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-33-fig1.png\n\n$$\\begin{array}{|l|c|c|c|c|c|} \\hline & \\text{Shoot apical meristem} & \\text{Root apical meristem} & \\text{Leaf} & \\text{Axillary meristem} & \\text{Internode} \\\\ \\hline \\text{Brussel sprouts} & & & & & \\\\ \\hline \\text{Cauliflower} & & & & & \\\\ \\hline \\text{Kale} & & & & & \\\\ \\hline \\text{Kohlrabi} & & & & & \\\\ \\hline \\text{Broccoli} & & & & & \\\\ \\hline \\end{array}$$"
+    },
+    {
+     "day": 2,
+     "number": 34,
+     "paper_label": "Theory 2",
+     "title": "The Cell Cycle",
+     "problem": "The major ways by which the cell-cycle is regulated in all eukaryotes were discovered by British scientists. In humans, Cyclins (discovered by Sir Tim Hunt; 1943-present) are transcribed at specific cell-cycle stages, and bind cyclin-dependent kinases (CDK; discovered by Sir Paul Nurse; 1949-present), to coordinate division. Protein-53 (p53; discovered by Sir David Lane; 1952-present) is activated by a huge array of post-translational modifications, which allows it to exert diverse effects. p53 can exert these effects even when its activity is reduced by half, but each p53 monomer is only active when bound to three other functional p53 monomers in a homotetramer. p53 is mutated in the majority of cancers ever sequenced.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-34-fig1.png\n\nTumours which have lost p53 activity have higher mutation rates than tumours which have p53 activity.\n\nSingle celled organisms, such as yeast (Saccharomyces), possess equally powerful regulators like p53.\n\nTreatments which deliver more p53 to cells, would reduce the division of healthy cells.\n\nBoth alleles of p53 are usually mutated in cancer.\n\nP53 knockout mice (Mus musculus) show an overgrowth of bone-marrow cells."
+    },
+    {
+     "day": 2,
+     "number": 35,
+     "paper_label": "Theory 2",
+     "title": "Metastasis",
+     "problem": "Different types of primary tumours give rise to secondary tumours at different rates, and in characteristic places. (The primary organ is where the primary tumour occurs, the secondary organ is where the secondary tumour develops). To understand why, healthy mice (Mus musculus) were injected with cells from skin cancers which spontaneously developed in different mice: Arrow thickness = relative proportion of mice exhibiting the symptom.\n\n(1) Cells from the primary tumour were injected into the heart.\n\n(2) Cells from the primary tumour were injected into the tail vein.\n\n(3) Cells from a secondary tumour were injected into the heart.\n\nIn (1, 2 & 3) cancer cells were recovered from the lymph of 100% of the injected mice within hours.\n\nIn (4), cells from primary tumours were injected into the heart, and cells recovered from homogenised brain or lung were serially passed through fresh mice.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-35-fig1.png\n\nThe pattern of secondary tumours can be accurately predicted simply by how close different organs are to the primary tumour.\n\nCrossing the blood vessel wall, in the secondary organ, is the limiting step in the formation of secondary tumours from circulating cancer cells.\n\nCells of a new secondary tumour evolve over time to thrive in the secondary organ.\n\nCancer evolves as it spreads to seed new secondary tumours more efficiently."
+    },
+    {
+     "day": 2,
+     "number": 36,
+     "paper_label": "Theory 2",
+     "title": "Apoptosis",
+     "problem": "Sir Alastair Currie (1921-1994), Sir John Sulston (1942-present) and colleagues discovered how cells can commit controlled suicide (apoptosis).\n\nApoptosis is executed by Caspase enzymes. Cyclohexamide (CH), which inhibits ribosomes, was used to induce apoptosis in cells treated with the hormone bone morphogenetic protein-9 (BMP9). To measure the number of apoptotic cells after treatment, inactive luciferase substrate, and the light-emitting enzyme luciferase, were added.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-36-fig1.png\n\nChoose the nearest change to the correct answer.\n\n-80 %\n\n-70 %\n\n- 60 %\n\n- 50 %\n\n- 40 %\n\nBMP9 treatment causes an increase in apoptosis.\n\nA large excess of both inactive substrate and luciferase is required to give a linear luminescence signal in response to caspase activity.\n\nCaspase gene expression is increased during apoptosis."
+    },
+    {
+     "day": 2,
+     "number": 37,
+     "paper_label": "Theory 2",
+     "title": "Krebs Cycle",
+     "problem": "Sir Hans Krebs (1900-1981) uncovered the major biochemical pathway of mitochondria.\n\nThe Krebs cycle was artificially modified in a free prokaryote to maximise lysine production.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-37-fig1.png\n\nBlocking the final step of threonine synthesis leads to an unregulated increase in lysine synthesis.\n\nIncreasing ID activity increases lysine synthesis.\n\nMaking PEPC insensitive to malate/aspartate increases lysine synthesis.\n\nIncreasing PEPCK activity increases lysine synthesis."
+    },
+    {
+     "day": 2,
+     "number": 38,
+     "paper_label": "Theory 2",
+     "title": "Electron Transport Chain",
+     "problem": "Peter Mitchell (1920-1992) discovered how mitochondria produce ATP.\n\nElectrons are harvested from succinate, malate and ascorbate (vitamin C), and drawn onto oxygen. Complexes I-IV sequentially harness their energy to pump protons across mitochondrial inner membranes (1).\n\nThe oxygen saturation of a suspension of mitochondria, treated with substrates and the poisons potassium cyanide (KCN), rotenone or antimycin A (AA) at the indicated points, was measured over time (2).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-38-fig1.png\n\nRotenone inhibits complex I.\n\nAntimycin A inhibits cytochrome C.\n\nCyanide poisoning can be treated with malate.\n\nOxygen consumption is increased by poisons which introduce pores to mitochondrial membranes."
+    },
+    {
+     "day": 2,
+     "number": 39,
+     "paper_label": "Theory 2",
+     "title": "Elite Runners",
+     "problem": "In the last few games, team GB has used sport science to finish second in Olympic and Paralympic medal tables.\n\nThe running velocity of different gold-medal 100m sprinters is presented (1).\n\nPhosphocreatine, which is present in the cytoplasm of muscle, buffers ATP levels in a one-step reaction (2).\n\nGlycolysis generates a few ATP by converting glucose to pyruvate. Mitochondria generate dozens of ATP by converting pyruvate to $\\mathrm{CO_2}$.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-39-fig1.png\n\nFaster sprinters metabolise more muscle glycogen to $\\mathrm{CO_2}$ than slower sprinters.\n\nThe kinetics of their glycolytic enzymes are an essential determinant of which medals these sprinters win.\n\nCreatine, as a dietary supplement, would enhance the performance of Usain Bolt (Jamaica's 100 and 200 m winner) more than Paula Radcliffe (Britain's record breaking marathon runner).\n\nGlycolysis becomes the main energy source of these sprinters after ~ 70 meters."
+    },
+    {
+     "day": 2,
+     "number": 40,
+     "paper_label": "Theory 2",
+     "title": "Mendelian Randomisation",
+     "problem": "Sir Richard Doll (1912-2005) invented statistical methods to prove smoking causes human disease. Mendelian randomisation was invented to investigate more subtle behaviours, such as the health impacts of alcohol (1) and high density lipoproteins (HDLs; ‘good’ cholesterol) (2). An underlying genotype, inferred to cause a behaviour, is identified, and its correlation with disease is assessed. White British people were recruited for this study.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-40-fig1.png\n\nCompared to not drinking any alcohol, consuming small amounts of alcohol is beneficial to health.\n\nDrugs which raise HDL are expected to reduce cardiovascular disease.\n\nIf people with the genotype aa, who happen to consume no alcohol for religious reasons, have a high risk of cardiovascular disease, it should be concluded alcohol contributes to disease directly.\n\nIf the allele a is found to be more common in Scotland, and A in Wales, the conclusions of a UK wide study will be strengthened."
+    },
+    {
+     "day": 2,
+     "number": 41,
+     "paper_label": "Theory 2",
+     "title": "RedQueen HIV",
+     "problem": "Dame Amanda Fisher discovered many properties of the HIV.\n\nHIV has two states. It can remain dormant within cells or can be active, replicating and producing viral proteins. In 2016, the National Health Service announced a new treatment, which awakens dormant HIV and kills active HIV. Many recipients are preliminarily cured.\n\nThree patients (1, 2, & 3) contracted HIV at time 0, and remained untreated. Each month, blood samples were taken from each patient. Antibodies and virus were separately extracted from the samples. Antibodies from each timepoint were mixed with viruses from each timepoint, and the infectiousness of the antibody-treated virus was measured.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-41-fig1.png\n\nIn the first month of infection, patients suppress circulating HIV.\n\nPatients’ antibodies will be more effective against awakened dormant virus, than currently active virus.\n\nPatient 2 developed AIDS last.\n\nThe virus evolved most rapidly in patient 3.\n\nThe immune system is better at targeting cells infected with inactive virus than active virus."
+    },
+    {
+     "day": 2,
+     "number": 42,
+     "paper_label": "Theory 2",
+     "title": "Antibiotic Resistance",
+     "problem": "Sir Alexander Fleming (1881-1955) discovered antibiotics, but humanity's biggest killers are now mostly resistant to them.\n\nIn one pathogen, antibiotics are degraded either by intracellular enzymes, or by enzymes released into the surrounding environment. A strain susceptible to antibiotics was labelled red, and a resistant strain was labelled yellow. Equal amounts of susceptible and resistant bacteria were mixed and seeded as a dense lawn on plates. These were treated with drug A or B at different concentrations, and grown for a period of time. The colour of the remaining cells was photographed.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-42-fig1.png\n\nThis species of bacteria expresses the target of Drug B.\n\nWhen there is no drug, the plates will become increasingly yellow, and less red, with time.\n\nResistance to Drug A involves an extracellular enzyme.\n\nPlasmids carrying genes for antibiotic resistance are more likely to spread when resistance uses extracellular enzymes, than when it uses intracellular enzymes."
+    },
+    {
+     "day": 2,
+     "number": 43,
+     "paper_label": "Theory 2",
+     "title": "Prions",
+     "problem": "John Griffith (1928-1972) explained the biology of prion diseases. Prions are proteins which have folded incorrectly into a more stable form. When a prion comes into contact with its correctly folded counterpart, it catalyses this protein to also re-fold into a prion. Prion build-ups, which resist proteolysis, damage the brain, and in the 1990s millions of cattle (Bos taurus) in the UK had to be destroyed to prevent prions from spreading.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-43-fig1.png\n\nAt the start of disease, prions accumulate exponentially.\n\nAnimal prion diseases may spread to humans.\n\nCattle with some genetic variants may be protected from prion diseases.\n\nBanning animal protein supplements in livestock diets is an effective way to reduce prion diseases."
+    },
+    {
+     "day": 2,
+     "number": 44,
+     "paper_label": "Theory 2",
+     "title": "Tuberculosis Drugs",
+     "problem": "The UK runs the biggest collaborations to screen for new antibiotics for tuberculosis. Molecules X and Y were found, which binds to the active site of a Mycobacterium tuberculosis enzyme. Dashed lines indicate hydrogen bonds.\n\nMolecule Z was also found to inhibit the enzyme, by binding a site other than the active site.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-44-fig1.png\n\nMolecule X binds to the enzyme’s active site reversibly.\n\nMolecule Y could have been found in a screen for molecules which increase the temperature at which the enzyme denatures.\n\nMolecule X binds to the active site more tightly than molecule Y.\n\nMolecule Z is a better drug candidate if the substrate concentration is usually very high."
+    },
+    {
+     "day": 2,
+     "number": 45,
+     "paper_label": "Theory 2",
+     "title": "Vaccination and Epidemiology",
+     "problem": "Edward Jenner (1749-1823), the inventor of immunology, pioneered modern vaccination. Jenner noticed milkmaids exposed to cowpox did not catch smallpox. Jenner injected pus from a cowpox infection (top), into a boy, who became mildly ill. Jenner later injected the boy with pus from a smallpox victim (bottom), and the boy did not become ill (1). Smallpox was usually spread through the respiratory tract, was highly contagious, and quite deadly, but, due to vaccination, is now the only human pathogen to have been driven extinct.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-45-fig1.png\n\nJohn Snow (1813-1858) invented epidemiology. Snow mapped the occurrence of cases in Victorian London during the first Cholera pandemic, and saved many lives (2). In 1961, the current seventh global Cholera pandemic began in Indonesia.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-45-fig2.png\n\nSmallpox and Cowpox share some amino-acid sequences on their surface.\n\nPeople often contracted smallpox more than once.\n\nSnow ended the Cholera outbreak by removing the handle from the Warwick Street water pump.\n\nSmallpox remains viable outside of the host for longer than Cholera.\n\nSmallpox lingers in isolated communities longer than Cholera."
+    },
+    {
+     "day": 2,
+     "number": 46,
+     "paper_label": "Theory 2",
+     "title": "Haemophilia",
+     "problem": "Robert Macfarlane (1907-1987) explained the biochemistry of blood clotting, and discovered the cause of haemophilia B, which causes fatal bleeding.\n\nQueen Victoria’s son, Prince Leopold, was the first European noble to develop haemophilia B, but it quickly devastated European royal lines. An incomplete family tree is shown.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2017-2-46-fig1.png\n\nChoose the nearest probability to the correct answer.\n\n0 %\n\n12 %\n\n25 %\n\n50%\n\n100 %\n\nIn this family, haemophilia B could have originated from a new (de novo) mutation during meiosis in Queen Victoria’s oocytes.\n\nClotting factor activity is reduced by more than half in these haemophiliacs."
+    }
+   ]
+  },
+  {
    "year": 2018,
    "problems": [
     {
