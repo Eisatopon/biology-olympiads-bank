@@ -64,6 +64,7 @@
     --sans: 'Public Sans', system-ui, 'Segoe UI', Roboto, sans-serif;
 
     /* Country -> colour */
+    --inbo: #c2410c; --inbo-ink: #7c2d12; --inbo-tint: #fde8dc;
     --ibo: #be185d; --ibo-ink: #831043; --ibo-tint: #fce7f1;
     --gr: #1f5fbf; --gr-ink: #163f82; --gr-tint: #e6eefb;
     --ar: #0b8fae; --ar-ink: #0a5b70; --ar-tint: #e0f4f8;
@@ -286,6 +287,7 @@
     --debw1: #3f3f46; --debw1-ink: #27272a; --debw1-tint: #e8e8ea;
     --itf: #047857; --itf-ink: #03543c; --itf-tint: #dcf3ea;
 }
+.f-inbo { --f: var(--inbo); --f-ink: var(--inbo-ink); --f-tint: var(--inbo-tint); }
 .f-ibo { --f: var(--ibo); --f-ink: var(--ibo-ink); --f-tint: var(--ibo-tint); }
 .f-gr { --f: var(--gr); --f-ink: var(--gr-ink); --f-tint: var(--gr-tint); }
 .f-ar { --f: var(--ar); --f-ink: var(--ar-ink); --f-tint: var(--ar-tint); }
@@ -1040,15 +1042,16 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261018-ibo2013';
+const DATA_VERSION = '20261018-inbo';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
-const REGION_OF = { ibo: 'world' };
+const REGION_OF = { ibo: 'world', inbo: 'asia' };
 const regionOf = key => REGION_OF[key] || 'other';
 const PAGE = 20;
 const STORAGE_KEY = 'eisatopon-biology:set:v1';  // same origin as the math bank: keep the keys apart
 
 const COUNTRIES = [
+    { key: 'inbo', name: 'India INBO', flag: '🇮🇳', file: 'India-INBO-problems.json', kind: 'years', scope: 'national', full: 'Indian National Biology Olympiad' },
     { key: 'ibo', name: 'IBO', flag: '🌐', file: 'IBO-theory-problems.json', kind: 'years', scope: 'international', full: 'International Biology Olympiad, theoretical papers' },
 ];
 COUNTRIES.sort((a, b) => a.name.localeCompare(b.name, 'en', { sensitivity: 'base' }));
