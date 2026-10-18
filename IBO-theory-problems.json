@@ -2,6 +2,563 @@
  "competition": "International Biology Olympiad (IBO) — theoretical papers",
  "years": [
   {
+   "year": 2013,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Theory 1",
+     "problem": "Some bacteria possess an additional mechanism to regulate the production of enzymes involved in tryptophan (Trp) biosynthesis. The (Trp) operon possesses, prior to the actual genes (trpA-E), a leader sequence (trpL), coding for a leader peptide. trpL contains two tryptophan codons next to each other.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-1-fig1.png\n\nAt high tryptophan concentrations, the ribosome translates the mRNA of the leader peptide and stalls at its stop codon, thereby masking segment 2 of the mRNA and allowing segments 3 and 4 to form a stem loop. A stem loop followed by poly-U is a termination signal for the RNA polymerase (RNA pol), which falls off the DNA.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-1-fig2.png\n\nHowever, at low tryptophan concentrations, the ribosome gets stalled at the tryptophan codons allowing 2 and 3 to form a stem loop. The whole tryptophan operon can be transcribed by the RNA polymerase.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-1-fig3.png\n\nIndicate if each of the following statements is true or false.\n\nA. The same regulation mechanism also works for nuclear genes in eukaryotes.\n\nB. With reduced concentration of the aminoacyl-tRNA synthetase (attaches tryptophan to $\\mathrm{tRNA^{Trp}}$), transcription of the trpA-E genes will be inactivated at a lower tryptophan concentration.\n\nC. After deletion of one of the two tryptophan codons in the gene coding for the leader peptide, transcription of the trpA-E genes will be inactivated at a lower tryptophan concentration.\n\nD. In case of a mutation destabilizing the stem loop 2-3, transcription of the trpA-E genes will be inactivated at a lower tryptophan concentration."
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Theory 1",
+     "problem": "Bacterial count of a liquid culture can be determined by different methods: 1) Cells can be counted under a microscope using a counting chamber, 2) the absorbance of the culture can be measured in a spectrophotometer (with $A_{600} = 1$ corresponding to $8\\times10^{8}$ bacterial cells/ml) or 3) several dilutions of the culture can be plated on agar and the colonies can be counted (see picture) to calculate the number of colony forming units per milliliter (cfu/ml).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-2-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. A culture with $A_{600} = 0.1$ and a doubling time of 30 minutes will reach $4\\times10^{8}$ cells/ml in less than two hours of growth.\n\nB. Counting colonies on plates gives a smaller estimate of the number of bacterial cells than counting cells under a microscope.\n\nC. Using the plate giving the most accurate results (from the figure), the culture X is estimated to contain $1.6\\times10^{5}$ cfu/ml.\n\nD. When repeating the plating of Dilution f (from the figure) many times, some plates will show colonies."
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Theory 1",
+     "problem": "In a living organism, cells die either through apoptosis (programmed cell death) or necrosis (cells swell and burst).\n\nIndicate if each of the following statements is true or false.\n\nA. Apoptosis is induced in immature T-cells that recognize self antigens.\n\nB. Intestinal epithelial cells losing contact with the basal lamina undergo apoptosis.\n\nC. Neural stem cells undergoing apoptosis expose on their surface a signal promoting phagocytosis.\n\nD. Necrosis often induces an inflammatory immune response."
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Theory 1",
+     "problem": "The chorismate pathway leading to the synthesis of aromatic amino acids in yeast is presented here.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-4-fig1.png\n\nThe velocity of the enzyme chorismate mutase (CM) was measured in the presence of either tryptophan (+Trp) or tyrosine (+Tyr), as well as in the absence of both (--).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-4-fig2.png\n\nBased on these results and the pathway scheme, indicate if each of the following statements is true or false.\n\nA. Tryptophan increases the activity of chorismate mutase.\n\nB. Tryptophan, but not tyrosine inhibits the synthesis of chorismate.\n\nC. A high concentration of tyrosine is likely to increase the synthesis of tryptophan.\n\nD. The prephenate and the anthranilate branches compete for chorismate."
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Theory 1",
+     "problem": "The following schematic shows a stage of cell division for an eukaryotic diploid cell.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-5-fig1.png\n\nIndicate if each of the following statements is true or not.\n\nA. The schematic may represent a stage of mitosis.\n\nB. The schematic may represent a stage of meiosis II.\n\nC. The cell would have failed to reach this stage if microtubular motor proteins were inhibited.\n\nD. Transcription of histone genes peaks during this stage."
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Theory 1",
+     "problem": "The sensitivity of an enzyme for different inhibitors is assessed. The rate of product formation was measured at different concentrations of substrate with 10 nM enzyme. The initial velocity $v_i$ (at t = 0 s) was calculated and plotted as a function of the substrate concentration in the absence or presence of two different inhibitors.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-6-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. In the absence of any inhibitor, the $K_M$ (Michaelis constant) of the enzyme is 0.15 μM.\n\nB. The effect of Inhibitor 1 can be partially compensated for by adding more substrate.\n\nC. Inhibitor 2 reduces the $v_{max}$ (maximal velocity) of the enzyme.\n\nD. The turnover number (maximum number of molecules processed per second by one enzyme molecule) under inhibition by Inhibitor 2 is about 10-20/s."
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Theory 1",
+     "problem": "Three yeast strains (Saccharomyces cerevisiae) have been engineered to each contain a gene for a different enzyme from glycolysis (Tpi, Eno or Pyk) under the control of a doxycycline-repressed promoter such that addition of doxycycline down-regulates the synthesis of the corresponding enzyme. Concentrations of some metabolites are measured in each yeast strain grown on glucose at different doxycycline concentrations, relative to the concentrations without doxycycline. Relevant steps of the glycolysis are shown above the measurements with metabolites and enzymes abbreviated as follows:\n\n$$\\begin{array}{ll|ll} \\text{Metabolites} & & \\text{Enzymes} & \\\\ \\hline \\text{F6P} & \\text{fructose 6-phosphate} & \\text{Pfk} & \\text{ATP-dependent phosphofructokinase} \\\\ \\text{FBP} & \\text{fructose 1,6-biphosphate} & \\text{Al} & \\text{Aldolase} \\\\ \\text{DHAP} & \\text{dihydroxyacetone phosphate} & \\text{Tpi} & \\text{Triose phosphate isomerase} \\\\ \\text{2+3-PG} & \\text{2- and 3-phosphoglycerate} & \\text{Eno} & \\text{Enolase} \\\\ \\text{PEP} & \\text{phosphoenolpyruvate} & \\text{Pyk} & \\text{Pyruvate kinase} \\end{array}$$\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-7-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. Down-regulating any of these enzymes disrupted metabolite concentrations in the whole pathway.\n\nB. Down-regulating any of these enzymes affected the concentration of its substrate more than the concentration of its product.\n\nC. The equilibrium of the reaction from 2+3-PG to PEP is more on the side of the product than the equilibrium of the reaction from FBP to DHAP.\n\nD. The concentration of F6P is expected to be unaffected by a down-regulation of Al."
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Theory 1",
+     "problem": "Some substances need to be transported (actively or passively) from their site of synthesis to the location where they are active.\n\nIndicate for each of the following substances if they are transported from the cytoplasm to the nucleus.\n\nA. tRNAs\n\nB. Histone proteins\n\nC. Nucleotides\n\nD. ATP-synthase subunits"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Theory 1",
+     "problem": "Progression through the cell-cycle is mediated by Cyclin-Dependent Kinases (CDKs), which become active only when bound to their respective cyclin and phosphorylated at the ThrC (core threonine). Phosphorylation or dephosphorylation of other amino acids further modulates their activity. The following pathway represents the proteins involved in the entry into the M-phase of the cell-cycle.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-9-fig1.png\n\nIndicate for each of the following mutations if it would promote entry into the M-phase by activating the CyclinB/CDK1 complex.\n\nA. A mutation that reduces the dephosphorylating activity of Cdc25.\n\nB. A mutation that reduces the phosphorylating activity of Wee1.\n\nC. A mutation that changes the ThrC of CDK1 to a valine that cannot be phosphorylated.\n\nD. A mutation that inhibits the binding of CyclinH to CDK7."
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Theory 1",
+     "problem": "To determine the precise transcription start site (TSS) of a newly discovered bacterial gene promoter, a radioactively labeled primer complementary to the 3'-end of the gene is used both for Sanger sequencing of the DNA construct and for primer extension of the mRNA. Primer extension (similar to cDNA synthesis) is repeated on mRNA transcribed with addition of the transcription factor α.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-10-fig1.png\n\nThe fragments obtained are separated by gel electrophoresis, a radiography is presented below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-10-fig2.png\n\nIndicate if each of the following statements is true or false.\n\nA. Different polymerases are used for the Sanger sequencing and primer extension assays.\n\nB. mRNAs of this gene with CUCAUGAC as the first eight bases after the TSS are found in these cells.\n\nC. Multiple TSS exist for this gene.\n\nD. Transcription is modulated by transcription factor α."
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Theory 1",
+     "problem": "High levels of triglycerides in the bloodstream have been linked to higher risks of heart diseases. An agonist (activating molecule) S of receptor Y was observed to reduce the triglycerides levels.\n\nHow could one convincingly prove that the effect of S is mediated specifically via receptor Y?\n\nA. Generate genetically modified mice which overexpress (more than physiological) receptor Y.\n\nB. Generate genetically modified mice in which receptor Y is knocked out (deleted).\n\nC. Treat the mice with an antagonist (inactivating molecule) specific for receptor Y.\n\nD. Treat the mice with an antibody that sequesters (removing from circulation) S."
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Theory 1",
+     "problem": "Bilirubin is a breakdown product of heme catabolism which is transported to the liver where it is conjugated to two glucuronic acid molecules by the enzyme UGT (see figure below). Conjugated bilirubin is then secreted in the small intestine as a component of the bile.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-12-fig1.png\n\nIndicate for each of the following statements if it is true or false.\n\nA. Conjugation to glucuronic acid increases the solubility of bilirubin in water.\n\nB. A tumor obstructing the bile duct near the junction into the small intestine leads to a decrease in the blood levels of conjugated bilirubin.\n\nC. A point mutation reducing significantly the activity of UGT leads to a decreased level of unconjugated bilirubin in the blood.\n\nD. An increased level of conjugated bilirubin in the blood is a symptom of a malaria infection."
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Theory 1",
+     "problem": "While osteoblasts are secreting new bone material, they can trigger osteoclasts to break down existing bone by excreting the protein RANKL, which activates its receptor RANK in osteoclasts. This pathway is stimulated by either vitamin D (D3) or parathyroid hormone (PTH). In the presence of oestrogen (E2), however, osteoblasts inhibit that process by secreting osteoprotegerin (OPG), which sequesters RANKL.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-13-fig1.png\n\nIndicate for each of the following statements if it is true or false.\n\nA. Oestrogen replacement therapy prevents bone resorption after menopause.\n\nB. A symptom of hyperparathyroidism (excessive function of parathyroid gland) is loss of bone mass.\n\nC. D3 and E2 are hydrophilic molecules whereas PTH is lipophilic.\n\nD. A consequence of $\\mathrm{Ca^{2+}}$ loss through the urine is a decrease in PTH plasma levels."
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Theory 1",
+     "problem": "Wing development in chickens starts with the formation of a wing bud which will develop into a full wing consisting of three digits.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-14-fig1.png\n\nTo decipher development of digits, the zone III of the left wing was grafted as an additional zone III in the wing bud of the right wing during early development. The resulting digit morphology relative to the somite position is presented below for different positions of grafting (indicated by Z).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-14-fig2.png\n\nIndicate if each of the following statements is true or false.\n\nA. Zones I or II are necessary to produce digits.\n\nB. Zone III seems to produce a signal whose concentration influences the digit type.\n\nC. Cells at the position of somite 19 are unlikely to form a digit 4 if zone III was transplanted from somite 19/20 to 17.\n\nD. Formation of digits occurs by sequential induction: formation of digit 2 is induced by digit 3, whose formation is induced by digit 4."
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Theory 1",
+     "problem": "A neuron is kept in a solution similar to the extracellular fluid of brain tissue under a pure oxygen atmosphere. After a few minutes, cyanide, a substance that blocks the electron transport chain, is added to the solution.\n\nIndicate if each of the following statements is true or false.\n\nA. The concentration of $\\mathrm{K^{+}}$ ions in the cell increases.\n\nB. The probability of a spontaneous action potential increases.\n\nC. The concentration of $\\mathrm{H^{+}}$ ions in the intermembrane space of the mitochondria increases.\n\nD. The concentration of bicarbonate in the solution decreases."
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Theory 1",
+     "problem": "The effectiveness of antibiotic treatments depends on the time and concentration at which bacteria are exposed to a specific drug, which in turn depends on the dosage, the intake interval and the rate of drug elimination from the body. Two antibiotics X and Y, both somewhat toxic to humans, are excreted by the kidney, but Y is also eliminated in the liver through cytochrome complexes. While X makes the bacterial cell wall permeable for ions, Y inhibits the synthesis of the cell wall during cell division. The figure below shows the average concentration of drugs X (red) and Y (blue) measured in healthy individuals after a single intake of 500 mg or 250 mg, along with the minimal concentration at which target bacteria are inhibited to grow in vitro (MIC, solid black line).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-16-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. To safely treat patients with significantly reduced renal function, intake intervals of X have to be prolonged.\n\nB. When doubling the dosage of X to 500 mg, doubling the intake interval prevents an accumulation of X while ensuring that the concentration stays above the MIC in the blood.\n\nC. Patients treated with Y should increase their dosage when consuming fruits containing inhibitors of cytochrome complexes (e.g. grapefruit).\n\nD. Ensuring a drug concentration above the MIC in the blood is more important for X than Y."
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "Theory 1",
+     "problem": "Dysfunctions of endocrine glands can be classified into three types, depending on the hormone directly affected:\n\n• Primary endocrine dysfunctions alter the production of hormones with direct systemic effects on metabolism or development.\n• Secondary endocrine dysfunctions alter the production of tropic hormones that act on other glands.\n• Tertiary endocrine dysfunctions affect the hypothalamus.\n\nIndicate for each of the following statements if it is true or false.\n\nA. A patient with an elevated cortisol level, a reduced corticotropin-releasing hormone (CRH) level and a elevated adrenocorticotropic hormone (ACTH) level is most likely affected by a primary dysfunction.\n\nB. An overproduction of the thyroid stimulating hormone TSH can be due to a primary dysfunction.\n\nC. An increased blood concentration of cortisol may be due to a tumor implying a primary or a secondary dysfunction.\n\nD. In the case of a tumor leading to a secondary endocrine dysfunctions, the blood concentration of the corresponding releasing hormone is changed."
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "Theory 1",
+     "problem": "Inhibiting platelet aggregation after a coronary intervention has been shown to greatly reduce the risk of complications. The effectiveness of two competing inhibitors was assessed in a clinical study in which 13,608 patients with symptoms of a myocardial infarction were randomly assigned to a treatment with either inhibitor A or B after the intervention. The figure below shows the fraction of patients that suffered from a second cardiovascular incident such as an infarction or a stroke, as well as the fraction of those that suffered from major bleeding in the 400 days post intervention.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-18-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. This study suggests that using inhibitor B instead of A reduces the risk of a secondary cardiovascular event, but does not reduce the risk of major bleeding.\n\nB. This study suggests that a switch from inhibitor B to the cheaper inhibitor A after 3 days is increasing the risk of a secondary cardiovascular event.\n\nC. When using inhibitor B instead of A, the total number of patients suffering from a secondary cardiovascular incidence within 3 days after a coronary intervention is reduced by more than 10%.\n\nD. Repeating the study with a placebo control group is advised."
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "Theory 1",
+     "problem": "There is variability in the proteins transporting $\\mathrm{O_2}$, and their affinities for $\\mathrm{O_2}$, both within and between organisms.\n\nIndicate if each of the following statements is true or false.\n\nA. At the same partial pressure of $\\mathrm{O_2}$, the saturation of fetal hemoglobin is higher than the saturation of the maternal hemoglobin.\n\nB. Hemoglobin has a lower affinity to $\\mathrm{O_2}$ in the vicinity of cells performing anaerobic glycolysis heavily.\n\nC. The hemoglobin of deep-diving mammals has a higher oxygen affinity than the hemoglobin of mammals adapted to high altitude.\n\nD. Hemoglobin is more efficient in transporting $\\mathrm{O_2}$ than is hemocyanin, the equivalent protein of many arthropods that binds $\\mathrm{O_2}$ non-cooperatively."
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "Theory 1",
+     "problem": "The Hepatitis B virus contains the antigens HBs, HBc and HBe, of which HBs is commonly used as a vaccine. HBe is expressed in only some strains. The following table shows the presence (+) or absence (-) of viral antigens and antibodies measured in some patients. A question mark (?) indicates that the respective test was not performed.\n\n$$\\begin{array}{c|ccccccc} \\text{Patient} & \\text{HBs} & \\text{HBc} & \\text{HBe} & \\text{Anti-HBs IgG} & \\text{Anti-HBs IgM} & \\text{Anti-HBc IgG} & \\text{Anti-HBe IgG} \\\\ \\hline \\text{P1} & - & - & ? & + & ? & - & ? \\\\ \\text{P2} & - & - & - & + & - & + & + \\\\ \\text{P3} & + & ? & + & - & + & - & ? \\\\ \\text{P4} & + & ? & ? & ? & ? & + & + \\\\ \\text{P5} & ? & - & - & - & + & - & ? \\end{array}$$\n\nIndicate for each of the following statements if it is likely to be true or false.\n\nA. Patient P1 was vaccinated a while ago, but never suffered from a Hepatitis B infection.\n\nB. Patient P2 successfully overcame a Hepatitis B infection.\n\nC. Patients P3 and P4 are currently suffering from a Hepatitis B infection.\n\nD. Patient P5 has been vaccinated recently."
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Theory 1",
+     "problem": "Participants of the IBO 2013 are going to visit mount Niederhorn. Before and right after a rapid ascent by cable car from 400 m to 2000 m and just before descent 3 hours later, physiological parameters of several participants will be measured and compared to the same measurements obtained from an alpine herder who stayed on the Niederhorn for more than two consecutive months. The participants are expected to hyperventilate at this altitude and get dehydrated.\n\nIndicate if each of the following statements is true or false.\n\nA. The heart rate of an IBO participant just after arriving on top is expected to be higher than just before the ascent.\n\nB. The pH of the blood of the alpine herder is expected to be higher than the pH of the blood of an IBO participant when arriving on top.\n\nC. The pH of the urine of an IBO participant is expected to be higher just before descent than just after arriving on top.\n\nD. Some IBO participants are expected to show a transient increase in the hemoglobin concentration while on top."
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Theory 1",
+     "problem": "The rapid evolution of the influenza antigen Hemagglutinin (HA) is a major challenge for the development of efficient treatments. In order to identify antibodies effective against a wide variety of influenza strains, 13,000 plasma cells of a vaccinated person were individually isolated and triggered to produce antibodies. These antibodies were tested against different types of HA (H5 VN/04, H7 NE/03 and the mix present in the vaccine) by measuring their binding strength (figure A). The binding efficacy of two particularly promising antibodies X and Y against several HA types from groups 1 (red) and 2 (blue) was further assessed by measuring the required concentration to achieve half the maximal binding efficacy (EC50, figure B). As a comparison, the EC50 was also measured for an anti-HIV antibody (HIV) and an antibody X* produced by plasma cells originally producing X but in which all mutations have been reverted to obtain the corresponding sequence originally inherited from the parents.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-22-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. An immune response against the influenza vaccine is mediated by a diverse set of antibodies.\n\nB. While efficient against HA from group 2 strains, antibody Y does not confer immunity against all group 1 strains tested.\n\nC. The widespread immunity found for antibody X has in part arisen from somatic mutations.\n\nD. An injection of antibody X confers effective immunity against a wide range of influenza strains for several years."
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Theory 1",
+     "problem": "The following schematics illustrate two severe congenital heart malformations occasionally found in newborns.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-23-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. In Malformation I, the oxygen saturation is higher in the pulmonary artery than in the carotid artery.\n\nB. Surgically swapping the aorta and the pulmonary artery in the case of Malformation I restores proper blood circulation.\n\nC. In Malformation II, the blood pressure in the carotid artery is increased compared to healthy individuals.\n\nD. Surgically swapping the venae cavae and the pulmonary vein in the case of Malformation II restores proper blood circulation."
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Theory 1",
+     "problem": "In a community of marine brown algae (Phaeophyta), two multicellular life forms are observed among the species:\n\n• 1) A tall and fast-growing form that is strongly affected by environmental seasonality and shows a high mortality.\n• 2) A tiny and slow-growing form that is less sensitive to seasonality and shows a low mortality.\n\nAll species alternate between a haploid and a diploid generation. Isomorphic species show the tall form both in the haploid and diploid generation. The life form of heteromorphic species, however, depends on ploidy.\n\nIndicate if each of the following statements is true or false.\n\nA. Proportion of isomorphic species is likely to increase with more intense seasonality.\n\nB. In heteromorphic species, the tall and fast-growing life form is observed during the more productive season.\n\nC. Heteromorphic species are limited to one generation each season (winter/summer).\n\nD. In these algae, haploid full siblings from diploid parents are genetically less related than diploid full siblings from haploid parents."
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Theory 1",
+     "problem": "A growing plant can be described by units called metamers (illustrated by boxes) that are produced by a vegetative meristem. Each metamer consists of a stem segment and an additional meristem that is inactive at first, but may become active and develop into a vegetative meristem. Vegetative mersitems can develop into a flowering meristem. Vegetative and flowering meristems produce auxin, which is constantly transported downwards to lower metamers. The figure below shows a plant at different ages ending up flowering and illustrates the auxin concentration found in each metamer.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-25-fig1.png\n\nBased on the observed auxin concentrations, indicate if each of the following statements is true or false.\n\nA. Exceeding a minimal auxin threshold invariably activates meristems.\n\nB. An apex turning to a flowering stage is losing its apical dominance.\n\nC. A high auxin concentration is enough to trigger the development of flowers.\n\nD. Auxin from different apical metamers can have cumulative effects on subsequent metamers."
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Theory 1",
+     "problem": "Two stable carbon isotopes $^{12}$C and $^{13}$C are present in the atmosphere, but $^{12}$C is approximately 100 times more frequent. Diverse metabolic processes discriminate against $^{13}$C in favor of $^{12}$C, leading to a smaller proportion of $^{13}$C in biomass than in the atmosphere. The relative difference between expected and observed proportion is indicated by $\\delta^{13}$C, with a more negative value indicating a stronger discrimination. The figure shows the distribution of $\\delta^{13}$C-values found in plant species with $\\mathrm{C_3}$ and $\\mathrm{C_4}$ metabolism.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-26-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. RuBisCO is discriminating more strongly against $^{13}$C under higher than under lower partial pressure of $\\mathrm{CO_2}$.\n\nB. Fixation of $\\mathrm{CO_2}$ into oxaloacetate is discriminating more strongly against $^{13}$C than the reaction of RuBisCO.\n\nC. Meat from cattle feeding on a meadow in the Swiss mountains is likely to have a lower $^{13}$C content than from cattle feeding in a central African savanna.\n\nD. It is possible to distinguish between purified sugar from sugar cane ($\\mathrm{C_4}$) and sugar beet ($\\mathrm{C_3}$) based on their mass."
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Theory 1",
+     "problem": "Seeds of most plants are more resistant to environmental stress before germination has been initiated. To demonstrate this, seeds of wheat (Triticum aestivum) were exposed to one of the following four treatments.\n\n$$\\begin{array}{cccc} \\text{Treatments} & \\text{Soaked} & \\text{Incubated} & \\text{Transferred to wet paper and kept at room T} \\\\ \\hline \\text{A} & \\text{5 h at room T} & \\text{5 h; -20°C} & + \\\\ \\text{B} & \\text{5 h at room T} & \\text{5 h; 30°C} & + \\\\ \\text{C} & - & \\text{5 h; 4°C} & + \\\\ \\text{D} & - & \\text{5 h; 50°C} & + \\end{array}$$\n\nIndicate for each of the following treatments, if the seeds are expected to produce sprouts (true), or not (false).\n\nA. Treatment A.\n\nB. Treatment B.\n\nC. Treatment C.\n\nD. Treatment D."
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Theory 1",
+     "problem": "The figure below shows the leaf temperature of two groups of common bean (Phaseolus vulgaris) plants exposed to infrared light. One group (open squares) was kept at optimal water supply and the other group (triangles) was drought stressed for 4 month before the experiment.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-28-fig1.png\n\nBased on these results, indicate if each of the following statements is likely to be true or false.\n\nA. After 8 minutes of heat exposure, drought stressed plants kept more stomata open than control plants.\n\nB. The ability to regulate the opening and closing of stomata decreases over time in plants of both groups.\n\nC. Following about 15 minutes of heat exposure, leaves of drought stressed plants absorbed roughly the same amount of thermal energy as they emitted.\n\nD. Plants experience a trade-off between preventing water loss and protection from over-heating."
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Theory 1",
+     "problem": "In a buffered suspension of freshly isolated thylakoids incubated in light, the rate of the Hill reaction (photolysis) can be measured using DCPIP. DCPIP is reduced at Photosystem I and changes its colour from blue to colourless.\n\nIndicate for each of the following modifications of the experimental setting if it would significantly reduce the rate of this reaction.\n\nA. Raising the temperature of the solution from 20 °C to 30 °C.\n\nB. Removing soluble gases from the buffer solution prior to adding thylakoids.\n\nC. Adding DCMU, a herbicide that binds to Photosystem II.\n\nD. Adding 2,4-D, a herbicide acting as a synthetic auxin."
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Theory 1",
+     "problem": "Infrared pictures are used to visualise the temperature of a plant surface. The figure below shows the photograph of a plant and the corresponding infrared picture.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-30-fig1.png\n\nBased on the figure, indicate for each of the following statements if it is true or false.\n\nA. Due to growing in the shade of older leaves, younger leaves of this plant are cooler than older leaves.\n\nB. Plant parts with high metabolic activity get several degrees warmer than parts with lower metabolic activity.\n\nC. Transpiration in leaf veins is significantly lower than in leaf blades.\n\nD. The high temperature of leaf A indicates that this plant begins suffering drought stress."
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "Theory 1",
+     "problem": "According to the current model of recombination, a recombination event is initiated by a double strand break (DSB) in one of the two sister chromatids, followed by a trimming of the 5' ends. During the repair process after recombination, the information immediately flanking the DSB site is lost and supplied by the other chromatid.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-31-fig1.png\n\nConsider the situation in which two Alleles A and B of a locus have probabilities rA and rB to initiate a DSB and are initially present at equal frequencies in a large, isolated population.\n\nIndicate if each of the following statements is true or false.\n\nA. If rA is twice as large as rB, the frequency of Allele A is expected to change faster when rB=0.05 than when rB=0.01.\n\nB. If rB is large and rA is much smaller, the frequency of Allele A is expected to reach fixation (frequency=1) almost linearly.\n\nC. If rA=rB, the frequency of Allele A will remain constant even if the population were small.\n\nD. Unless there is an additional mechanism involved, recombination in the population is expected to decrease over time."
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "Theory 1",
+     "problem": "In female fruit flies (Drosophila melanogaster), the oocyte is located between maternal nurse cells and follicle cells providing nutrients, proteins and mRNA crucial for the development of the embryo. In one of the genes whose mRNA is transported to the oocyte, a mutation X has been found that leads to deformed, non-viable embryos.\n\nIndicate if each of the following statements is true or false.\n\nA. If the mutation is dominant, the female offspring of a heterozygous male and a wild type female will be viable.\n\nB. If the mutation is dominant, no adult individuals homozygous for X can be observed.\n\nC. If the mutation is recessive, only the female embryos of a mother heterozygous for X will be deformed.\n\nD. If the mutation is recessive and two individuals heterozygous for X are crossed to produce the F1, 1/6 of the F2 will be homozygous for X."
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "Theory 1",
+     "problem": "Assume a one-dimensional, homogeneous habitat with carrying capacity K that is inhabited by an annual plant species only at the left most point at generation t=0. In each generation, a fraction m=0.01 of the seeds disperses to neighbouring locations while the remaining 1-m seeds remain at the same location. The following figure displays the plant density over the habitat at different generations.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-33-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. A mutation doubling m would increase the speed of the expansion.\n\nB. A beneficial mutation appearing at time t=100 at Position A will almost certainly become fixed in the population.\n\nC. A neutral mutation appearing at time t=50 in Position A has a higher probability to become fixed in the whole population than a neutral mutation appearing at time t=150 in Position B.\n\nD. A harmful but not lethal mutation appearing at time t=150 is expected to persist in the population longer if it appears in Position B than Position A."
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "Theory 1",
+     "problem": "The red colour of a haploid fungus is produced by a pathway converting a precursor pigment through several intermediates. To study this pathway, several mutant strains (I through IV) of various colours have been obtained. The following table lists their colours along with those observed in the haploid progeny of crosses among them.\n\n$$\\begin{array}{l|cccc} \\text{Strain or cross} & \\text{Colours observed} & & & \\\\ & \\text{red} & \\text{beige} & \\text{yellow} & \\text{pink} \\\\ \\hline \\text{wild type} & \\text{X} & & & \\\\ \\text{I} & & \\text{X} & & \\\\ \\text{II} & & \\text{X} & & \\\\ \\text{III} & & & \\text{X} & \\\\ \\text{IV} & & & & \\text{X} \\\\ \\text{I x wild type} & \\text{X} & \\text{X} & \\text{X} & \\\\ \\text{II x III} & \\text{X} & \\text{X} & \\text{X} & \\text{X} \\\\ \\text{II x IV} & & \\text{X} & & \\text{X} \\\\ \\text{III x IV} & \\text{X} & & \\text{X} & \\text{X} \\end{array}$$\n\nIndicate if each of the following statements is true or false.\n\nA. At least four genes are involved in this pathway.\n\nB. Strain I has mutations in more than one gene involved in this pathway.\n\nC. In the pathway, the enzyme turning the pigment pink is located upstream of the enzyme turning it beige.\n\nD. Red progeny can be observed when crossing Strains I and IV."
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "Theory 1",
+     "problem": "Three male members (A, B and C) of a family consult a genetic counsellor. The genealogy of the family is given below with individuals affected by two genetic diseases X (black) and Y (orange) are indicated. While Disease X is extremely rare, the disease causing allele of Disease Y has a frequency of 6% in the population.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-35-fig1.png\n\nIndicate if each of the following statements is true or false under the most likely modes of inheritance.\n\nA. Individual B must be a carrier of Disease X.\n\nB. Individual C cannot be a carrier of Disease Y.\n\nC. If Individual A was to have a son with an unrelated and unaffected woman, the probability that the son will be affected by Disease X is 50%.\n\nD. If Individual B was to have a son with an unrelated and unaffected woman, the probability that the son will be affected by Disease Y is > 5.65%."
+    },
+    {
+     "day": 1,
+     "number": 36,
+     "paper_label": "Theory 1",
+     "problem": "Several inbred lines with recessive mutations are studied in a plant species. Wild type flowers are purple due to a mix of a red and a blue pigment synthesized by two separate biochemical pathways I and II involving enzymes encoded by genes A-D (all colorless compounds are named \"white\"):\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-36-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. If all genes were unlinked, less than 25% of all F2 individuals of a cross between a red and a blue inbred line are expected to be red.\n\nB. If back-crossing the F1 of a purple and a yellow inbred line to their yellow parents results in 160 yellow, 40 red, 40 green and 160 purple individuals, genes A and D are 20 cM apart on the same chromosome.\n\nC. If B was more closely linked to A than to C and A was more closely linked to C than to B, gene B must be between genes A and C.\n\nD. If the distance between B and C was 28.5 cM and crossing purple F1 individuals from a cross of two purple inbred lines gives rise to blue individuals in the F2, their frequency is less than 5%."
+    },
+    {
+     "day": 1,
+     "number": 37,
+     "paper_label": "Theory 1",
+     "problem": "A common strategy to detect genes underlying a particular trait is to test for statistical associations between the phenotype and a very large number of SNVs (single nucleotide variants) in a large sample of individuals. The charts below give the results of such an approach for body height and five independent SNVs typed in 20,000 random individuals from Switzerland.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-37-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. In contrast to SNV2, SNVs 1 and 3 are closely linked to a gene with an allele affecting body height dominantly.\n\nB. If the frequency of the C allele at SNV 4 decreases from 50% to 30% in the population, the average body height increases.\n\nC. Since the median body height in the population is 175 cm, the frequency of allele A at SNV 1 has to be below 30%.\n\nD. These results are sufficient to demonstrate that most of the variation in body height is genetically determined."
+    },
+    {
+     "day": 1,
+     "number": 38,
+     "paper_label": "Theory 1",
+     "problem": "In cats, there is a genetic locus with two alleles (A, a). In a population, 1300 cats have genotype AA, 7400 are heterozygous and 1300 individuals carry the recessive genotype aa.\n\nIndicate if each of the following statements is true or false.\n\nA. The frequency of Allele A in the population is 0.5.\n\nB. Under Hardy-Weinberg equilibrium, only 6000 cats are expected to be heterozygous for this locus.\n\nC. If this population was isolated and mating randomly, the next generation of cats is expected to be in Hardy-Weinberg equilibrium.\n\nD. Sterility of homozygous individuals can explain this pattern."
+    },
+    {
+     "day": 1,
+     "number": 39,
+     "paper_label": "Theory 1",
+     "problem": "To elucidate the phylogenetic relationship among three fly species of the Lauxaniidae, the nucleotide sequence of the 18S RNA and the cytochrome oxidase gene was determined in all species. Dots indicate the same nucleotide as the first sequence (Minettia) and hyphens represent deletions or insertions of one or more base pairs.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-39-fig1.png\n\nBased on these data, indicate if each of the following statements is true or false.\n\nA. The gene for cytochrome oxidase accumulates mutations faster than the gene for 18S RNA.\n\nB. Sequences of Minettia are evolutionarily more conserved than those of Lauxiana or Lyciella.\n\nC. The fact that the cytochrome oxidase sequence of Minettia is 8 nucleotides longer than the sequences of both Lauxiana and Lyciella suggest that the latter two taxa are more closely related than either is with Minettia.\n\nD. Single nucleotide substitutions of 18S RNA and cytochrome oxidase suggest different relationship between Minetti, Lauxiana and Lyciella"
+    },
+    {
+     "day": 1,
+     "number": 40,
+     "paper_label": "Theory 1",
+     "problem": "Flowers of cherry trees (Prunus avium) can be pollinated by both domesticated honey bees and wild insects such as wild bees or bumblebees. To study the influence of these pollinators on the fruit set (percentage of flowers of a tree that develop into fruits), flower visits of domestic honey bees and wild insects were counted during a standardized observation period for cherry trees worldwide. The figure below shows a linear model best explaining the data.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-40-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. Cherry trees produce no fruits when domesticated honey bees and wild insect are completely absent.\n\nB. Domestic honey bees were more efficient pollinators than wild insects, needing fewer visits to increase fruit set.\n\nC. To maximize fruit set, cherry farmers are advised to limit the number of visits by wild insects when domestic honey bees are visiting.\n\nD. An isolated cherry tree is likely to have a higher fruit set when situated in a flower-rich backyard than in the middle of a wheat field."
+    },
+    {
+     "day": 1,
+     "number": 41,
+     "paper_label": "Theory 1",
+     "problem": "In an accident in spring 2003, a large quantity of fertilizer was spilled into a small lake in Switzerland. The figure shows the abundance of four species of zooplankton measured during August for several years before and after the accident. The accident is indicated with an arrow\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-41-fig1.png\n\nIndicate if each of the following statements is true of false.\n\nA. Species C reacts on the accident with a quick decline in population density.\n\nB. The fertilizer is likely to be poisonous for species A.\n\nC. Species D is more useful as a bioindicator than is species B or C.\n\nD. The relative species densities in the community are re-established within ten years of the accident."
+    },
+    {
+     "day": 1,
+     "number": 42,
+     "paper_label": "Theory 1",
+     "problem": "To study the effects of fire events on forest ecosystems around a Mediterranean lake, the amount of microscopic (smaller than 10 μm) charcoal particles and pollen of three different tree species were counted in several slices of sediment layers dating from approximately 6000 years before present. Since the response of forest ecosystems may be visible only after many years, the correlation between the abundance of charcoal and pollen of a tree species was analyzed for different time lags. The hypothetical tree species in the figure below, for instance, reaches the highest abundance many years after the actual fire event. Hence, the highest correlation is achieved when the charcoal abundance is shifted with a specific time lag.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-42-fig1.png\n\nThe figure below shows the results of such an analysis for three tree species, of which Abies alba has recently become locally extinct. Correlation coefficients exceeding the threshold (dotted lines) are statistically significant at α=0.05.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-42-fig2.png\n\nIndicate if each of the following statements is true or false.\n\nA. An increase in the frequency of fire events may have contributed to the extinction of Abies alba\n\nB. The pattern observed for Alnus trees can be explained by smoke from the fire events stimulating their flowers to produce more pollen.\n\nC. The dominance of Quercus ilex in recent Mediterranean forests can be explained by its tolerance to periodic fire events.\n\nD. The abundance of Abies-pollen is affected by fire events more quickly than the abundance of Quercus-pollen."
+    },
+    {
+     "day": 1,
+     "number": 43,
+     "paper_label": "Theory 1",
+     "problem": "Many chironomid species (non-biting midges) are known to be abundant only within well-defined ecological niches, as is shown below for three species commonly found in Switzerland.\n\n$$\\begin{array}{l|lll} & \\text{Optimal trophic state} & \\text{Mean T of air in July} & \\text{Most common adjacent vegetation} \\\\ \\hline \\text{Species 1} & \\text{Oligotrophic} & \\text{7.1 - 12.9 °C} & \\text{Alpine grassland} \\\\ \\text{Species 2} & \\text{Mesotrophic} & \\text{9.3 - 17.6 °C} & \\text{Mixed forests} \\\\ \\text{Species 3} & \\text{Hypertrophic} & \\text{10.7 - 19.2 °C} & \\text{Farmland} \\end{array}$$\n\nFossil chironomids in lake sediments can be used to reconstruct the past climatic and ecological conditions in the vicinity of the lake. In a sequence of sediment layers of a small swiss lake, head capsules of all chironomid species have been identified and counted. The relative abundance of the three listed species in each sediment layer is shown in the figure.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-43-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. Human impact is evident since 9000 years BP.\n\nB. An intermittent cooler period can be presumed between 2000 years BP and the present.\n\nC. Species 3 seems to be a better indicator species for the trophic state than for average temperature.\n\nD. Fluctuation in abundance of Species 2 is likely to be best explained by the Lotka-Volterra (predator-prey) model including an insectivorous predator."
+    },
+    {
+     "day": 1,
+     "number": 44,
+     "paper_label": "Theory 1",
+     "problem": "Cladistic analysis is an approach to infer the evolutionary relationship among organisms based on the presence or absence of morphological or molecular characters. In order for cladistics to work correctly, the following three assumptions have to be met:\n\n• Along a lineage, characters change over time.\n• Any pair of two organisms shares a common ancestor.\n• Evolutionary lineages split in a bifurcating manner.\n\nIndicate if each of the following statements is in line with these assumptions (true), or whether one or more of them are violated (false).\n\nA. The presence or absence of nematocysts can be used in a cladistic analysis to reconstruct phylogenetic relationship of metazoa. Nematocysts are complex cells of cnidaria (e.g. sea anemone) that certain sea slugs incorporate into their own body for self defense by feeding on sea anemones.\n\nB. Cladistics can be used to reconstruct the phylogenetic relationship of ecologically distinct plant species, of which one arose by hybridisation of two distinct parental species.\n\nC. Cladistics can be used to reconstruct the phylogenetic relationship of two finch species that arose from a generalist finch that colonized a remote island. The species differ in bill length and depth, tarsus length and plumage color.\n\nD. Cladistics can be used to reconstruct the phylogenetic relationship of lichen multicellular eukaryotes. Lichen are a symbiotic interaction between green algae or cyanobacteria with fungi."
+    },
+    {
+     "day": 1,
+     "number": 45,
+     "paper_label": "Theory 1",
+     "problem": "Fish species of the family Mormyridae are known for their ability to locate objects and communicate by weak electric fields called electric organ discharges (EOD). They are also able to sense EODs of other Mormyridae. The figure shows body shape, relative body size and and EOD-waveform used for communication (white lines) for 16 Mormyridae species living in a central African rainforest drainage system.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-1-45-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. Mormyridae show characteristics typical for fish specialized on preying on other fish of similar size.\n\nB. Mormyridae show characteristics typical for a group of fish warning their predators of an electric shock via shared visual warning signs (Müllerian mimicry).\n\nC. Mormyridae show characteristics typical for fish living in highly turbid water or are mainly nocturnal.\n\nD. Mormyridae show characteristics typical of fish that attract mates with non-visual cues."
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "paper_label": "Theory 2",
+     "problem": "A newly discovered gene promoter is characterized by a reporter gene assay using chloramphenicol acetyltransferase (CAT) as a reporter gene. Linear pieces of double-stranded DNA of four potential promoter elements (white boxes, numbered 1 to 4) are placed upstream of the CAT reporter gene. --restored!\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-1-fig1.png\n\nAfter transfection of individual constructs into cells, the [new text here] following CAT activities were determined.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-1-fig2.png\n\nThe following constructs have not tested yet.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-1-fig3.png\n\nIndicate if each of the following statements is true or false.\n\nA. Construct a is a stronger promoter than construct I.\n\nB. Construct a is a stronger promoter than construct b.\n\nC. Construct c is a stronger promoter than construct b.\n\nD. Construct c is a stronger promoter than construct d."
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "paper_label": "Theory 2",
+     "problem": "In genetic engineering, it is often desired to increase the yield of secreted proteins.\n\nIndicate if each of the following strategies is expected to increase the yield in a mammalian cell.\n\nA. Overexpression of chaperones (proteins assisting others to fold) present in the endoplasmatic reticulum.\n\nB. Deletion of the genes coding for glycosylating enzymes present in the endoplasmatic reticulum.\n\nC. Overexpression of proteins facilitating the fusion of secretory vesicles with the cell membrane.\n\nD. Duplicating the gene encoding the desired protein."
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "paper_label": "Theory 2",
+     "problem": "Pupylation is a post-translational protein modification found in some Actinobacteria in which the short protein Pup is ligated to a lysine side chain of a target protein by the Pup ligase.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-3-fig1.png\n\nTo determine if a protein X is pupylated, purified X is incubated with Pup and the Pup ligase over night. Trypsin, which hydrolyses (by addition of water of 0.018kDa) proteins next to lysines (K) and arginines (R), is added and the masses of the peptides are determined by mass spectrometry (red) . A control reaction where Pup was not added was processed similarly (black). The masses were rounded to two decimals. Note that the Pup fragments are out of the range to be detected.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-3-fig2.png\n\nThe sequences of protein X and Pup as well as the molecular weight (m$_\\mathrm{a}$) of the peptides are indicated below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-3-fig3.png\n\nIndicate if each of the following statements is true or false.\n\nA. Trypsin efficiency is such that several peptides are left partly uncut.\n\nB. Hydrolysis by trypsin is inhibited next to lysines that are pupylated.\n\nC. Under these conditions, pupylation is specific to a single lysine.\n\nD. The target protein is pupylated at about 90%."
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "paper_label": "Theory 2",
+     "problem": "Upon light activation, rhodopsin proceeds to Meta-states, of which Meta-I and Meta-II are in a dynamic equilibrium. This shifts towards Meta-II in the presence of arrestin (Arr) as some Meta-II binds to arrestin. To study the minimal functional unit of rhodopsin, the difference in absorption of rhodopsin (absorption after light activation minus absorption before light activation) is measured at different arrestin concentrations ([Arr]) for both monomeric and dimeric rhodopsin, as shown below. Meta-II is known to show a stronger absorption at 380 nm than Meta-I.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-4-fig1.png\n\nBased on these results, indicate if each statement is true or false.\n\nA. Before light activation, rhodopsin absorbs light at 500 nm.\n\nB. The fraction of rhodopsin in the Meta-II state increases linearly with the concentration of arrestin.\n\nC. Dimeric rhodopsin binds tighter to arrestin than monomeric rhodopsin.\n\nD. Monomeric rhodopsin is the minimal functional unit."
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "paper_label": "Theory 2",
+     "problem": "The following picture depicts part of the binding site of a protein which recognizes RNA specifically over DNA, in complex with two RNA bases (B1 and B2).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-5-fig1.png\n\nIndicate for each of the following interactions if it provides specificity for RNA over DNA.\n\nA. Hydrogen bond A with Tyr\n\nB. Hydrogen bonds B with Arg\n\nC. Hydrogen bond C with Ala\n\nD. Hydrophobic stacking D between Tyr and B2"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "paper_label": "Theory 2",
+     "problem": "The following figure depicts the shikimate pathway, which is part of the synthetic pathway producing aromatic amino acids in bacteria.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-6-fig1.png\n\nIndicate if each statement is true or false.\n\nA. In reaction a, X represents $\\mathrm{H_2O}$.\n\nB. In reaction b, the substrate is reduced.\n\nC. In reaction c, Y represents ADP or GDP.\n\nD. Reaction d is a phosphorylation of the substrate."
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "paper_label": "Theory 2",
+     "problem": "To separate DNA fragments on an agarose gel, one liter of 10x TAE buffer (consisting of Tris base, Acetic acid and EDTA) has to be prepared. The desired concentrations for TAE as well as the available stocks are as follows:\n\n$$\\begin{array}{l|l|l} \\text{Chemical} & \\text{Desired concentration} & \\text{Available stocks} \\\\ \\hline \\text{Tris base} & 0.40\\ \\text{M} & \\text{Powder (121 g/mol)} \\\\ \\hline \\text{Acetic acid} & 1.14\\% & \\text{Solution 100 }\\% \\\\ \\hline \\text{EDTA} & 0.01\\ \\text{M} & \\text{Solution 0.50 M} \\\\ \\hline \\text{Distilled water} & & \\end{array}$$\n\nIndicate if each of the following statements is true or false.\n\nA. 4.84 g of Tris base are required.\n\nB. 11.4 ml of acetic acid are required.\n\nC. 0.2 ml EDTA are required.\n\nD. Tris base, EDTA and acetic acid have to be added to 1 l of distilled water."
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "paper_label": "Theory 2",
+     "problem": "A protein complex consisting of two polypeptides A and B needs to be expressed. To ensure proper folding and complex formation, a eukaryotic host is employed. To achieve this, eukaryotic cells are co-transfected with two artifical gene constructs. In the first construct (above), the gene coding for Transcription Factor X is under the control of Promoter P1. In the second construct (below), the genes coding for A and B are separated by an internal ribosomal entry site (IRES) and under the control of a specific Promoter P2. In the presence of tetracycline, X can bind to the Operator O and activate P2, as shown below (pA indicates polyadenylation sites).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-8-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. The expression of the genes coding for A and B can only be induced by tetracycline if P1 is active.\n\nB. In the presence of tetracycline, the gene coding for B is expressed at higher levels than the gene of A if the ribosome binds stronger to the 5'-cap than to the IRES.\n\nC. If the DNA-binding domain of X is removed, the genes coding for A and B are expressed even in the absence of tetracycline.\n\nD. The length of the polyadenine tail of the mRNA of X influences the amount of synthesis of protein X in the cell."
+    },
+    {
+     "day": 2,
+     "number": 9,
+     "paper_label": "Theory 2",
+     "problem": "The toxicity of three different chemicals 1-3 was tested in vitro on neural crest cells by counting the number of viable cells (black circles) and the number of cells migrating (red triangles). The average and standard deviation of multiple replicates obtained at different concentrations are plotted relative to the average counts from untreated cultures.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-9-fig1.png\n\nIndicate for each of the following statements if it is true or false.\n\nA. These results are compatible with Chemical 1 affecting receptors receiving migration signals.\n\nB. These results are in agreement with Chemical 2 affecting cell viability only.\n\nC. 100 to 500 nM of Chemical 3 are likely beneficial for the viability of neural crest cells.\n\nD. Measuring viability of neural crest cells is sufficient to establish maximum permissible concentrations of these chemicals."
+    },
+    {
+     "day": 2,
+     "number": 10,
+     "paper_label": "Theory 2",
+     "problem": "The contraction of a muscle fiber is triggered by an electric impulse that leads to the release of $\\mathrm{Ca^{2+}}$ ions from the sarcoplasmic reticulum (SR) into the cytosol. After contraction, the $\\mathrm{Ca^{2+}}$ ions are pumped back to the SR by sarcoplasmic reticulum $\\mathrm{Ca^{2+}}$ ATPases (SERCA). To better understand the relative energy consumption of the actual contraction and the pumping of $\\mathrm{Ca^{2+}}$ ions, skeletal muscle fibers of the frog species Xenopus laevis were treated with the chemicals BTS and cyanide. BTS inhibits cross-bridging between myosin and actin and cyanide inhibits the cytochrome c oxidase. The figure below shows the basal and peak cytosolic $\\mathrm{Ca^{2+}}$ concentration as well as the pH of individual fibers during repeated contractions under natural conditions (open circles), in the presence of BTS (filled circles) and in the presence of both BTS and cyanide (red triangles).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-10-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. The hydrolysis of ATP at both myosin heads and SERCA contributes to tiring of muscle fibers.\n\nB. In these fibers, aerobic respiration is an almost exclusive source of ATP after about 200 sec of repeated contractions.\n\nC. The phosphorylation of ADP from creatine phosphate releases $\\mathrm{H^+}$ ions.\n\nD. In the presence of cyanide only, the acidification of the cytosol over time was expected to be intermediate between the reduction observed under natural conditions and in the presence of both BTS and cyanide."
+    },
+    {
+     "day": 2,
+     "number": 11,
+     "paper_label": "Theory 2",
+     "problem": "Myasthenia gravis is an autoimmune disease caused by autoantibodies that competitively bind and block postsynaptic nicotinic acetylcholine receptors on neuromuscular junctions of skeletal muscles.\n\nIndicate for each of the following statements if it is true or false.\n\nA. Reduced motility of the intestines is a likely symptom of this disease.\n\nB. Repetitive muscle contractions without relaxation (tetanic contractions) are a likely symptom of this disease.\n\nC. Drugs slowing down the degradation of acetylcholine in the synaptic clefts are likely to reduce symptoms.\n\nD. Drugs inhibiting cytotoxic T-cell proliferation are likely to reduce symptoms."
+    },
+    {
+     "day": 2,
+     "number": 12,
+     "paper_label": "Theory 2",
+     "problem": "In blood capillaries, fluid movement ($J_v$) across the capillary membrane, between the lumen of the capillary and the interstitial space, depends on the difference in hydrostatic and oncotic pressures between these two compartments. (Oncotic pressure is a form of osmotic pressure exerted by proteins.)\n\n• The following equation applies for $J_v$\n• $J_v = K_f \\times [(P_c - P_i) - \\sigma(\\pi_c - \\pi_i)]$\n• with\n• $P_c$: the capillary hydrostatic pressure\n• $P_i$: the interstitial hydrostatic pressure\n• $\\pi_c$: the capillary oncotic pressure\n• $\\pi_i$: the interstitial oncotic pressure\n• $K_f$: the filtration coefficient\n• $\\sigma$: the reflection coefficient\n\nIndicate for each of the following situations if the risk of edema (accumulation of fluid in the interstitial space) is increased.\n\nA. Tennis competition in the sun leading to dehydration\n\nB. Wearing anti thrombotic stockings\n\nC. Inflammation leading to increased blood vessel permeability\n\nD. Proteinuria (excessive protein excretion by the kidneys)"
+    },
+    {
+     "day": 2,
+     "number": 13,
+     "paper_label": "Theory 2",
+     "problem": "Proper treatment of chronic bacterial infections of artificial implants (e.g. prosthetic joints) requires expensive and demanding surgery. Unfortunately, such infections are often difficult to distinguish from non-infected implant failures. To propose new diagnostic tests, the absolute leucocyte count (A) and the fraction of neutrophils among white blood cells (B) were measured in 34 patients with true prosthetic joint infections and 99 patients with known non-infected implant failures. For each test, dotted lines indicate proposed cut off values to diagnose a true infection.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-13-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. Raising the cut off of absolute leucocyte counts to 7000/µl would lower the risk of false positive results for a prosthetic joint infection.\n\nB. With the leucocyte cut off at 1500/µl, more than 90% of patients with a prosthetic joint infection are expected to be correctly diagnosed.\n\nC. Lowering the cut off of the fraction of neutrophils to 50% would prevent missing prosthetic joint infections in the future.\n\nD. These results suggest that the fraction of neutrophils is a better diagnostic test than leucocyte count."
+    },
+    {
+     "day": 2,
+     "number": 14,
+     "paper_label": "Theory 2",
+     "problem": "While the glomerular filtration rate (GFR) is determined by blood pressure in the glomerulus, it does not directly reflect the systemic blood pressure. Instead, a stable GFR is maintained by either dilation or constriction of the afferent (flow in) and efferent (flow out) arterioles of glomeruli by an autoregulation mechanism. Several drugs interfere with this mechanism as side-effects. Those include non-steroidal anti-inflammatory drugs (NSAIDs) that reduce the capability of the afferent arterioles to dilate, as well as angiotensin-converting-enzyme inhibitors (ACEIs) that inhibit the production of Angiotensin II, and therefore reduce the capability of the efferent arterioles to constrict.\n\nIndicate for each of the following statements if it is true or false.\n\nA. NSAID intake reduces glomerular blood flow.\n\nB. ACEI intake reduces glomerular blood pressure.\n\nC. The effects of NSAID and ACEI on the GFR may compensate each other when taking both drugs together.\n\nD. While a chronic overproduction of aldosterone can be treated with ACEIs, using an Aldosterone antagonist affects the autoregulation mechanism less."
+    },
+    {
+     "day": 2,
+     "number": 15,
+     "paper_label": "Theory 2",
+     "problem": "The respiratory quotient (RQ) of an adult woman was measured at 0.7, along with an oxygen concentration of 170ml/l in her exhaled air. The RQ is the ratio between the eliminated amount of carbon dioxide and the absorbed amount of oxygen of the body. The metabolization of glucose and palmitic acid is as follows:\n\n• Glucose: $\\mathrm{C_6H_{12}O_6 + 6\\,O_2 \\rightarrow 6\\,CO_2 + 6\\,H_2O}$\n• Palmitic acid: $\\mathrm{C_{16}H_{32}O_2 + 23\\,O_2 \\rightarrow 16\\,CO_2 + 16\\,H_2O}$\n\nIndicate for each of the following statements if it is true or false.\n\nA. The woman adds about 119ml of $\\mathrm{CO_2}$ to every liter of exhaled air.\n\nB. If the woman was metabolizing solely glucose, her RQ would be larger than when solely metabolising palmitic acid.\n\nC. The measurements are consistent with the woman solely metabolizing palmitic acid.\n\nD. If the woman was forced to sprint for a few minutes, her RQ is expected to decrease rapidly."
+    },
+    {
+     "day": 2,
+     "number": 16,
+     "paper_label": "Theory 2",
+     "problem": "Mammalian herbivores use different strategies to digest cellulose. Ruminants (e.g. cattle) use multiple stomachs, whereas monogastrics rely on an extended caecum or colon.\n\nIndicate if each of the following statements is true or false.\n\nA. The relative abundances of different amino acids in the small intestine of ruminants differ from the relative abundances of the swallowed food.\n\nB. Ruminants eat their faeces digested in the caecum to cover their nutritional need.\n\nC. In monogastric herbivores, the absorption of nutrients occurs primarily in the colon.\n\nD. The majority of the bacteria in the stomach of monogastric herbivores are able to produce cellulase."
+    },
+    {
+     "day": 2,
+     "number": 17,
+     "paper_label": "Theory 2",
+     "problem": "To assess respiratory function, the flow and the volume of the exhaled air are measured during a forced expiration (positive flow) followed by a full inspiration (negative flow). Shown below are the measurements from four different patients with an airway problem. The black dotted line indicates normal respiratory function.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-17-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. The results of Patient 1 are expected if he had his left lung removed.\n\nB. The effect of the medication to reduce the symptoms of Patient 2 on the airways is similar to that of the parasympathetic nervous system.\n\nC. No diagnosis can be established for Patient 3 because of a cough attack.\n\nD. Patient 4 is likely suffering from an airway obstruction in the thorax."
+    },
+    {
+     "day": 2,
+     "number": 18,
+     "paper_label": "Theory 2",
+     "problem": "The following figure shows an experiment in which a dorsal lip from a darkly pigmented donor embryo was transplanted to the ventral ectoderm of a lightly pigmented recipient embryo which was allowed to develop into a tadpole. The developing second body axis consisted mostly of non-pigmented cells.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-18-fig1.png\n\nIndicate for each of the following statements if it is true or false.\n\nA. The second body axis came solely from the transplanted dorsal lip.\n\nB. Transplanting the presumptive ectoderm to a host in the neurula stage would likely result in a tadpole with two body axes.\n\nC. Cell fate is predetermined and results from cell-intrinsic properties.\n\nD. If the presumptive endoderm was transplanted instead of the ectoderm, the secondary body axis would consist mostly of pigmented cells."
+    },
+    {
+     "day": 2,
+     "number": 19,
+     "paper_label": "Theory 2",
+     "problem": "Three blood groups have been characterized in cats, all of which are encoded by a single gene with three alleles, of which allele A is dominant over allele B, and allele AB is dominant over B, but recessive to A. Most cats with blood groups A or B have anti-B or anti-A antibodies, respectively. Cats with blood group AB do not produce either antibodies anti-A nor anti-B.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-19-fig1.png\n\nThe figure below shows the results of blood transfusion compatibility tests performed for a mother cat (M), her kitten (K) and two potential father cats (P1 and P2). The cards consist of three circles that contain anti-A (A) and anti-B (B) antibodies, or no antibodies at all as a negative control (-). When adding a drop of blood to the circles, the occurrence of an agglutination reaction becomes visible (red dots).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-19-fig2.png\n\nIndicate if each of the following statements is true or false.\n\nA. Mixing blood of kitten K with serum from P2 should lead to agglutination.\n\nB. M could receive erythrocytes from P2.\n\nC. A back-cross between mother M and kitten K might donate erythrocytes to P2.\n\nD. These results suggest that P1 is the more likely father of K than P2."
+    },
+    {
+     "day": 2,
+     "number": 20,
+     "paper_label": "Theory 2",
+     "problem": "The urea-to-creatinine ratio is used to assess renal function. It is calculated by dividing blood urea concentration by blood creatinine concentration. Urea and creatinine are both able to freely pass the glomerular filtration barrier. However, while creatinine is not reabsorbed, a percentage of urea is reabsorbed in the collecting ducts. An elevated rate of reabsorption is only observed when the total blood volume is increased.\n\nIndicate if each of the following statements is true or false. Compared to a healthy individual, the urea-to-creatinine ratio is expected to be higher…\n\nA. ... in a patient suffering from an acute obstruction of the urethra (urinary retention).\n\nB. ... in a patient suffering from an acute necrosis of the collecting duct epithelium.\n\nC. ... in a patient suffering from dehydration.\n\nD. ... in a healthy individual after intensive exercise but with sufficient water intake."
+    },
+    {
+     "day": 2,
+     "number": 21,
+     "paper_label": "Theory 2",
+     "problem": "Figure A illustrates the results of an examination of the visual field of a patient’s left and right eyes, whereby dark areas indicate poor, and white areas good visual reception. The way sensory information is received by the eyes and transferred to the visual cortex is presented in figure B.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-21-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. After an injury of the left visual cortex, a patient would lose vision on its left side.\n\nB. A tumor of the hypophysis, situated below the optic chiasma, usually causes a loss of view of the lateral visual fields of both eyes.\n\nC. The visual field of the patient above is most likely caused by a problem between its optic chiasm and both retinae.\n\nD. Total visual loss from only one eye may be caused by a trauma of the eyeball or an inflammation of the optic nerve of the blind eye."
+    },
+    {
+     "day": 2,
+     "number": 22,
+     "paper_label": "Theory 2",
+     "problem": "The figure shows a schematic and representative cross section through a leaf of an angiosperm plant. Vascular bundles are represented by circles and sclerenchyma fibers by black surfaces. Additionally, the position of trichomes and stomata is indicated. The relative position of the vascular bundles is constant along the leaf.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-22-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. The leaf shown most likely represents a monocotyledon plant.\n\nB. The plant is most likely to be found in wetlands.\n\nC. The overall leaf shape is expected to be long and thin rather than oval or round.\n\nD. In a freshly cut section of this leaf the sclerenchyma fibers can be recognized by its intensely green color."
+    },
+    {
+     "day": 2,
+     "number": 23,
+     "paper_label": "Theory 2",
+     "problem": "Plant organelles can be isolated from plant lysate by multiple rounds of centrifugation and washing. To distinguish between different organelles, centrifugation fractions are subjected to simple assays before and / or after incubation for 30 minutes under specific conditions. Possible assays include:\n\n• 1) measuring the concentration of glucose and other aldoses using a Fehling reaction,\n• 2) detecting the presence of DNA by measuring absorption at 260 nm,\n• 3) observing gas bubbles.\n\nIndicate for each of the following statements if it is true or false.\n\nA. A Fehling assay before and after incubating in light distinguishes fractions of chloroplasts from those of amyloplasts.\n\nB. A Fehling assay before and after incubating with glucose distinguishes fractions of Golgi from those of mitochondria.\n\nC. Fractions of endoplasmic reticulum and nuclei can be distinguished by incubating with lipases and proteases, followed by centrifugation and measuring absorbance at 260 nm in both supernatants.\n\nD. The presence or absence of gas bubbles after incubating with $\\mathrm{H_2O_2}$ distinguishes fractions of peroxisomes from those of endosomes."
+    },
+    {
+     "day": 2,
+     "number": 24,
+     "paper_label": "Theory 2",
+     "problem": "According to the ABCE-Model of flower development, activity of genes from different classes A, B, C or E determines the identity of floral parts. Expression of class A genes is needed to determine future sepals and petals, class B genes to determine future petals and stamen and class C genes to determine future stamen and carpels. A and C genes inhibit each other's expression. Differentiation of each floral part additionally requires activity of class E genes. The figure illustrates the ABCE-model and shows flower samples of Arabidopsis (A and B), the alpine grass Poa alpina (C) and two flowers of the snapdragon Antirrhinum majus (D; the arrow indicating the bilateral wildtype, while the radial symmetric to the right is a mutant).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-24-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. The phenotype of Arabidopsis A is best explained by a loss of function of class B genes.\n\nB. The phenotype of Arabidopsis B is best explained by a loss of function of class A and C genes.\n\nC. The phenotype of Grass C is best explained by a loss of function of class E genes.\n\nD. The symmetry of the mutant flower of Snapdragon D is best explained by a loss of function of class C genes."
+    },
+    {
+     "day": 2,
+     "number": 25,
+     "paper_label": "Theory 2",
+     "problem": "The pattern of leaf primordia (future leaves) at the apical meristem is determined by active auxin transport. Auxin is transported towards the meristem tip. Young primordia act as auxin sinks through the auxin efflux carriers PIN1 and thus decrease the auxin level in nearby meristem cells. A new primordium will be induced at the place with the highest remaining auxin level. The image below shows the meristem of Arabidopsis with the primordia 1-9, with 1 being the oldest.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-25-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. Assuming PIN1 was only present in the two youngest primordia, its activity must be different in them.\n\nB. The next primordium will emerge at position A.\n\nC. If PIN 1 is inhibited at the stage shown in the figure, the next primordium is most likely to emerge at position B.\n\nD. In a mutant where only the youngest primordium is acting as an auxin sink, leaves will grow opposite to each other."
+    },
+    {
+     "day": 2,
+     "number": 26,
+     "paper_label": "Theory 2",
+     "problem": "Many plants use, among other means, the ratio of red/far-red light to detect other plants competing for light and react with adaptive growth to avoid shade. The ratio of red to far-red light is detected by the photoreceptor phytochrome. Phytochrome is converted between two forms $\\mathrm{P_X}$ and $\\mathrm{P_Y}$, depending on the wavelength of the photon it has absorbed. The ratio between both forms reflects the red/far-red ratio in the environment. A high proportion of $\\mathrm{P_X}$ mediates the expression of genes responsible for shade-avoiding growth. The figure shows the spectra of normal daylight (solid line) and daylight filtered through a tobacco canopy (dashed line). Tobacco plant A has been grown under normal sunlight, plant B under a canopy of older plants.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-26-fig1.png\n\nIndicate if each of the following statements is true of false.\n\nA. The genes leading to the shade-avoiding phenotype are expressed when the red/far-red ratio is between 3 : 1 and 4 : 1.\n\nB. A high proportion of red light increases the proportion of $\\mathrm{P_X}$ to $\\mathrm{P_Y}$.\n\nC. Upward orientation of leaves is a typical feature for shade-tolerant species.\n\nD. The shade-avoiding phenotype includes activation of lateral meristems."
+    },
+    {
+     "day": 2,
+     "number": 27,
+     "paper_label": "Theory 2",
+     "problem": "In the wood of trees of temperate climates, annual growth rings are present and reflect different growth conditions between years and individuals. Three coniferous trees of the same species were cut at the same stem height in the same year. The stem cuts in the figure are drawn to the same scale.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-27-fig1.png\n\nBased on these stem sections, indicate for each of the following statements if it is true or false.\n\nA. Trees I and II likely grew in the same region, whereas Tree III likely grew in a more distant region.\n\nB. Tree III is likely to have experienced more climate variation between years than Tree I.\n\nC. Trees I and II may originate from the same forest.\n\nD. The asymmetric pattern of Tree III may be due to constant exposure to strong wind beginning roughly ten years ago."
+    },
+    {
+     "day": 2,
+     "number": 28,
+     "paper_label": "Theory 2",
+     "problem": "The second leaf (Leaf 2) of a young and growing plant of wheat (Triticum aestivum) was fed via a rectangular flap cut symmetrically in the middle of the lamina and brought into a tube with a feeding solution containing radioactive nickel ($^{63}$Ni), manganese ($^{54}$Mn) and zinc ($^{65}$Zn). After 1, 2, 7 and 28 days, the contents of radioactive elements were measured in different parts of the plant. Concentrations measured in the flap and Leaf 2 are shown in orange in the figure.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-28-fig1.png\n\nIndicate if each of the following statements is in agreement with the results shown above.\n\nA. The plants absorbed the entire feeding solution provided before the first measurement.\n\nB. Nickel is mostly transported to growing organs.\n\nC. Manganese has higher phloem mobility than zinc or nickel.\n\nD. Leaf 2 is turning into a net sugar exporter after Day 1."
+    },
+    {
+     "day": 2,
+     "number": 29,
+     "paper_label": "Theory 2",
+     "problem": "In xylem, water conduits occasionally undergo embolism, characterized by an inflow of air into the conduit lumen, followed by collapse of the water column. Each event of embolism emits a sound called ultrasonic acoustic emission (UAE) that can be detected with adequate sensors. The figure below shows such measurements of an oak tree (Quercus pubescens) during four subsequent summer days. Radiation of sunlight ($\\mathrm{R_N}$) and air temperature (T) were measured simultaneously.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-29-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. Embolisms occur during periods of elevated water tension in xylem conduits.\n\nB. The sound intensity of a single UAE event is correlated with the difference in water potential between the air and the leaves.\n\nC. The decrease in UAE events over time is likely due to an increase in cloud cover.\n\nD. Embolisms reduce the conductivity of xylem and therefore the water supply of distal tissues."
+    },
+    {
+     "day": 2,
+     "number": 30,
+     "paper_label": "Theory 2",
+     "problem": "In a plant species, the level of anthocyanin pigments produced is controlled by a single gene G, for which only a \"dark\" and a \"light\" allele are present. To more accurately map the position of gene G on chromosome 3, two inbred lines (P1 and P2) are crossed and F2 individuals (X1 through X5) are genotyped at five single nucleotide variant loci (SNV1 through SNV5) on the same chromosome.\n\n$$\\begin{array}{l|c|c|c|c|c|c} & \\text{SNV1} & \\text{SNV2} & \\text{SNV3} & \\text{SNV4} & \\text{SNV5} & \\text{Anthocyanin [mM]} \\\\ \\hline \\text{P1} & \\text{A/A} & \\text{C/C} & \\text{A/A} & \\text{T/T} & \\text{C/C} & 120 \\\\ \\hline \\text{P2} & \\text{T/T} & \\text{T/T} & \\text{C/C} & \\text{G/G} & \\text{G/G} & 25 \\\\ \\hline \\text{X1} & \\text{A/T} & \\text{C/T} & \\text{A/C} & \\text{T/G} & \\text{C/G} & 115 \\\\ \\hline \\text{X2} & \\text{A/A} & \\text{C/C} & \\text{A/A} & \\text{T/G} & \\text{C/G} & 123 \\\\ \\hline \\text{X3} & \\text{A/A} & \\text{T/T} & \\text{C/C} & \\text{T/G} & \\text{C/G} & 22 \\\\ \\hline \\text{X4} & \\text{A/A} & \\text{C/T} & \\text{C/C} & \\text{T/G} & \\text{C/C} & 29 \\\\ \\hline \\text{X5} & \\text{A/T} & \\text{C/T} & \\text{A/A} & \\text{T/T} & \\text{C/C} & 118 \\end{array}$$\n\nBased on these results, indicate if each of the following statements is true or false.\n\nA. One recombination event happened in each parent of X2 between the genotyped loci.\n\nB. F1 individuals are likely showing intermediate levels of anthocyanin.\n\nC. Among the studied loci, SNV3 is closest to gene G.\n\nD. The phenotype ratio in the progeny of a cross between X4 and X5 is 2:1."
+    },
+    {
+     "day": 2,
+     "number": 31,
+     "paper_label": "Theory 2",
+     "problem": "A plant species grows in three different habitats A, B and C, and populations from different habitats also differ genetically. To test if some of these genetic differences are driven by local adaptation, a so-called reciprocal transplant experiment is carried out where seeds collected from different habitats are grown in all three habitats. After a year, the fitness of the plants are measured by counting the number of viable seeds produced per individual.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-31-fig1.png\n\nBased on these results, indicate if each of the following statements is true or false.\n\nA. Plants from Habitat A are locally adapted to their native environment.\n\nB. Plants from Habitat B are locally adapted to their native environment.\n\nC. Plants from Habitat C are locally adapted to their native environment.\n\nD. Habitat C is less suitable for these plant species than habitats A or B."
+    },
+    {
+     "day": 2,
+     "number": 32,
+     "paper_label": "Theory 2",
+     "problem": "Consider a large and constant population of a diploid organism with non-overlapping generations and sexual reproduction happening in spring. In addition, there is no difference in allele frequencies between sexes and there is no migration or natural selection acting. In such a population, the frequencies of alleles fluctuate at a given rate between generations due to the random nature of reproduction.\n\nIndicate if each of the following statements is true or false. Allele frequencies are expected to fluctuate at ...\n\nA. ... a higher rate if the population was growing exponentially.\n\nB. ... a lower rate if all individuals had the same number of offspring.\n\nC. ... a similar rate even if there was strong inbreeding.\n\nD. ... a higher rate if the population crashed every winter."
+    },
+    {
+     "day": 2,
+     "number": 33,
+     "paper_label": "Theory 2",
+     "problem": "The effect of various mutations in a gene x coding for a protein X, essential for the synthesis of leucine, is studied in a haploid yeast. The beginning and the end of the complete sequence of the coding strand of x is given below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-33-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. Cells with a C → T mutation at position 13 produce shorter mRNA of x.\n\nB. Cells with a A → T mutation at position 16 are able to grow on a medium lacking leucine.\n\nC. Cells with a T → A mutation at position 31 only produce an alternative protein X* missing the first 10 amino acids.\n\nD. Cells with an additional G between positions 33 and 34 produce functional X."
+    },
+    {
+     "day": 2,
+     "number": 34,
+     "paper_label": "Theory 2",
+     "problem": "An operon encoding enzymes 1 and 2 is regulated by metabolite X and consists of four sequences A, B, C and D of unknown function. To elucidate their function, the effect of mutations in the sequences A-D on the synthesis of the enzymes is assessed in the presence and absence of X.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-34-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. Enzymes 1 and 2 are likely part of the synthetic pathway for X.\n\nB. The sequence A codes for enzyme 2.\n\nC. The sequence B is the promoter region.\n\nD. The sequence D is the regulatory gene."
+    },
+    {
+     "day": 2,
+     "number": 35,
+     "paper_label": "Theory 2",
+     "problem": "In cells, most plasmids are supercoiled (a in figure below). While such plasmids can be uncoiled to relaxed circles (b) using Topoisomerase IA (TopoIA), using restriction enzymes (R) linearizes plasmids through cutting (c). A linearized plasmid may spontaneously self-anneal and subsequently be ligated to form a relaxed circle. The ligation reaction can be inhibited by the addition of phosphatase (AP).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-35-fig1.png\n\nIn an experiment, a plasmid was treated with different restriction enzymes (R1, R2, R3) under similar conditions and separated on an agarose gel together with an untreated sample (P0) and a marker consisting of linear DNA pieces. Topoisomerase IA and AP treatments in combination with R3 were also analyzed, but the tubes were mixed up (R3+E1 and R3+E2 on gel).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-35-fig2.png\n\nIndicate if each of the following statements is true or false.\n\nA. On this plasmid, the restriction site for R2 is closer to the one for R3 than to the one for R1.\n\nB. The plasmid is about 5000 bp long.\n\nC. R1 cuts more efficiently than R3.\n\nD. E1 represents AP, E2 represents Topo IA."
+    },
+    {
+     "day": 2,
+     "number": 36,
+     "paper_label": "Theory 2",
+     "problem": "A child affected by a rare genetic disease is born to two healthy parents. The child has a healthy sister.\n\nIndicate if each of the following statements is true or false.\n\nA. If the disease was known to be segregating in the family of the father, the disease is more likely autosomal than sex-linked recessive.\n\nB. If the disease was sex-linked recessive, the probability of the sister being a carrier is 50%.\n\nC. If the disease was autosomal recessive, the probability of the sister being a carrier is 50%.\n\nD. If the disease was not known to be segregating in either family, the causal mutation is either autosomal recessive or, within the family, unique to the child."
+    },
+    {
+     "day": 2,
+     "number": 37,
+     "paper_label": "Theory 2",
+     "problem": "In a small pasture, 500 individuals of two closely related snail species were sampled. Genetic analyses detected a locus at which none of the individuals were found to be heterozygous, despite the presence of two alleles in each species. The two species and all genotypes were randomly distributed in the homogenous habitat.\n\n$$\\begin{array}{l|c|c} \\text{Snail species} & \\text{Genotype} & \\text{Number of snails} \\\\ \\hline \\text{A. sulfis} & \\text{AA} & 126 \\\\ \\hline \\text{A. sulfis} & \\text{BB} & 125 \\\\ \\hline \\text{A. andea} & \\text{CC} & 122 \\\\ \\hline \\text{A. andea} & \\text{DD} & 127 \\end{array}$$\n\nIndicate if each of the following statements is a likely explanations of the observed pattern.\n\nA. These snails generally self-fertilize.\n\nB. Both species experience strong genetic drift due to low population sizes.\n\nC. These snails reproduce hermaphroditically.\n\nD. These snails mate preferably with individuals of the same genotype."
+    },
+    {
+     "day": 2,
+     "number": 38,
+     "paper_label": "Theory 2",
+     "problem": "A yeast-two-hybrid assay (Y2H) allows to test if a protein X interacts with another protein Y. In this assay, the gene coding for X is fused to the gene of a DNA-binding domain (BD) of a transcription factor T. The gene coding for Y is fused to the gene of the activating domain (AD) of T. The resulting plasmids are transformed into a yeast strain containing the lacZ gene under the control of a promoter P, which is specifically recognized by BD. Plated on agar with X-gal, the colonies turn blue if they are expressing LacZ, which is only the case if BD and AD are in close proximity and hence if X and Y interact with each other.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-38-fig1.png\n\nIndicate if each of the following statements is true of false.\n\nA. Y2H also works if BD alone is sufficient to activate transcription.\n\nB. Y2H allows studying interactions between integral plasma membrane proteins.\n\nC. Y2H can give false-positive results if X and Y interact indirectly via a third protein.\n\nD. Y2H can give false-negative results if the binding site for Y on X is situated close to the terminus at which BD is attached."
+    },
+    {
+     "day": 2,
+     "number": 39,
+     "paper_label": "Theory 2",
+     "problem": "Consider a currently stable system in which three predatory insect species P1, P2 and P3, feed exclusively on three herbivore insect species H1, H2 or H3, respectively, all of which feed on the same limited plant resource R.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-39-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. If the plant resource was doubled, the abundance of P2 will increase.\n\nB. If H1 is a stronger competitor than H2, removing P1 leads to a increase of P2.\n\nC. If H3 was severely limited by its predator, the removal of P3 would lead a decrease in the abundance of P2.\n\nD. The introduction of a top-predator feeding on P1 and P2 is likely to increase the abundance of P3."
+    },
+    {
+     "day": 2,
+     "number": 40,
+     "paper_label": "Theory 2",
+     "problem": "The following figure illustrates the result of an experiment during which a person was alone in a room and was allowed to freely choose the awake and sleep periods by turning a bright light on and off. The consecutive time of light for each day is shown as a rectangle with times at which the person chose to eat a meal indicated by black bars. While the person had no time cues from the outside world during the days shown in orange, the room was exposed to natural light during the days shown in white.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-40-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. Without external cues, the person chose increasingly longer periods of light.\n\nB. The endogenous clock of this person cycles on a 28.5 h rhythm.\n\nC. These results are in agreement with bright light being a cue to delay the sleeping phase.\n\nD. These results suggest that the endogenous clock of this person can readjust completely within two days."
+    },
+    {
+     "day": 2,
+     "number": 41,
+     "paper_label": "Theory 2",
+     "problem": "A herbivorous insect H is known to exclusively feed on the seedlings of two tree species X and Y. In an experiment, patches of a forest were subjected to a treatment, or not. In the treatment, seedlings of X and Y were protected from being fed on by H (open circles). Patches in which X and Y were unprotected served as a control (filled circles). Panel A shows the average number of all species for which seedlings were found in the patches. Panel B shows the average relative abundance of seedlings of X and Y observed in the patches.\n\nIndicate if each of the following statements is true or false.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-41-fig1.png\n\nA. Seedlings of species Y are weak competitors.\n\nB. The regulation of this tree community involves a top-down process.\n\nC. Seedlings of species X are strongly regulated by an additional herbivore.\n\nD. The herbivore insect functions as a key stone species."
+    },
+    {
+     "day": 2,
+     "number": 42,
+     "paper_label": "Theory 2",
+     "problem": "The meta-population concept describes the population size in a habitat patch as a function of birth rate, mortality and migration. Consider the hypothetical meta-population given below, consisting of two big source patches X and Y where the birth rate exceeds mortality and three sink patches (A, B and C) where reproduction does not occur. Yearly net migration (individuals) between different sub-populations is constant and indicated with arrows in the figure. In each sink patch, 6 individuals die at the end of each migration season. Individuals cannot migrate further than to the next patch within a year. The initial population sizes in the sink patches are A=22, B=9 and C=12.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-42-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. The subpopulation in Patch A dies out for the first time after 8 years.\n\nB. Subpopulations X and Y will be genetically isolated within few years.\n\nC. If in Patch C, 50% of the individuals (instead of 6 individuals) die each year, the Subpopulation C will not decrease below 7 individuals.\n\nD. A conservation measure to reduce mortality in A by 50% (3 individuals a year) is sufficient to preserve all subpopulations."
+    },
+    {
+     "day": 2,
+     "number": 43,
+     "paper_label": "Theory 2",
+     "problem": "You are given four drawings referring to typical representatives of four major groups of metazoa.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-43-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. Organism I belongs to a taxon characterized by a digestive system with a single opening and the lack of a specialized respiratory system.\n\nB. Organism II belongs to a taxon characterized by a hydrostatic skeleton, a thick cuticle, a tubular digestive system with openings at both ends and often a genetically fixed number of somatic cells.\n\nC. Organism III belongs to a taxon characterized by a larval stage with nerves forming a neural tube and a sessile adult stage with a body surrounded by a tunic.\n\nD. Organism IV belongs to a taxon characterized by an endoskeleton with calcareous pads and a vascular system of fluid-filled canals used for various functions, including locomotion by tubular feet."
+    },
+    {
+     "day": 2,
+     "number": 44,
+     "paper_label": "Theory 2",
+     "problem": "The following figure shows the phylogenetic relationship among several sympatric fish species of the family Mormyridae, which are known to use weak electric communication signals no predator is capable of sensing and the transmission of which does not depend on environmental factors.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-44-fig1.png\n\nFor each species, measurements informative about the trophic level (A), body shape (B) and the shape and frequency of their electric signals (C) were determined for several individuals. The figure below shows the position of each measured fish individual in a principal components space for each of the three groups of measurements where all individuals of a species are enclosed in a polygon. The colors refer to the phylogenetic positions shown above. Principal components analysis is a statistical procedure that maximizes the variance on the first few axes.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-44-fig2.png\n\nIndicate if each of the following statements is true or false.\n\nA. Among these species, the phylogenetic distance is highly informative about the divergence in communication systems between two taxa.\n\nB. Speciation of recently diverged sister species was likely driven by sexual selection on the communication system rather than by natural selection by ecological differences.\n\nC. The morphological variation among taxa is in agreement with an increase in habitat types at the onset of the radiation of the red and blue clade.\n\nD. Shape or frequency of communication signals in these species is strongly constrained by morphological trade-offs."
+    },
+    {
+     "day": 2,
+     "number": 45,
+     "paper_label": "Theory 2",
+     "problem": "Trichoplax adhaerens is the only known animal (metazoa) of the phylum Placozoa. It appears as a flat disc with a very simple structure made of only very few distinct cell types. Nerves, sensory cells and muscle cells are absent. Shown below is an electron microscope image of T. adhaerens and a dendrogram based on molecular data indicating the phylogenetic position of T. adhaerens in relation to other taxa.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ibo-2013-2-45-fig1.png\n\nIndicate if each of the following statements is true or false.\n\nA. Drosophila is more closely related to Trichoplax than humans are.\n\nB. Taxa A listed in the dendrogram is more likely to be a sponge (Porifera) than a snail (Mollusca).\n\nC. Trichoplax has no coelom and no gastric tube system.\n\nD. Trichoplax is likely to be a representative of bilateria (animals with distinct dorsal and ventral sides as well as front and back side)."
+    },
+    {
+     "day": 2,
+     "number": 46,
+     "paper_label": "Theory 2",
+     "problem": "While some mammals are known for their large difference in body size between males and females, there is no apparent difference in size between sexes in other mammal species. This sexual dimorphism can often be well explained by the ecology and mating system of a species.\n\nIndicate if each of the following statements is true of false. A significant sexual size dimorphism with larger males is expected in ...\n\nA. ... a very small antelope (< 5 kg), in which a male and a female together defend their small area (< 10 ha) with rich food resources, water and shelter.\n\nB. ... a seal species where males are known to travel large distances offshore to feed on dispersed food and to copulate with any oestrous female they encounter.\n\nC. ... an antelope species, in which males gather on a sandy lake shore during the dry season, where each of them defends a $20\\ \\mathrm{m^2}$ area vigorously.\n\nD. ... a small carnivore (about 20 cm in length) living in a predator-rich habitat in mixed sex groups. The offspring rely heavily on parental care from both sexes and males are known for their remarkably large testicles."
+    },
+    {
+     "day": 2,
+     "number": 47,
+     "paper_label": "Theory 2",
+     "problem": "In ecology, two different measures of biodiversity are commonly used: alpha diversity characterizes the biodiversity at a given location and beta diversity characterizes the diversity found between habitats. A good estimate of alpha diversity is the Shannon index, which is computed as\n\n$$H = -\\sum_{i=1}^{S} p_i \\cdot \\ln(p_i)$$\n\nwhere the sum runs over all species 1, …, S present in a habitat and $p_i$ is the relative abundance of Species i.\n\nThe table shows the abundance of adult trees of eight tree species (A through H) in four plots of a temperate ecosystem in both pristine and disturbed states.\n\n$$\\begin{array}{c|l|cccccccc} \\text{Plot} & \\text{State} & \\text{A} & \\text{B} & \\text{C} & \\text{D} & \\text{E} & \\text{F} & \\text{G} & \\text{H} \\\\ \\hline 1 & \\text{pristine} & 19 & 0 & 56 & 332 & 0 & 76 & 0 & 0 \\\\ 2 & \\text{pristine} & 3 & 0 & 12 & 456 & 0 & 5 & 0 & 0 \\\\ 3 & \\text{disturbed} & 13 & 135 & 0 & 101 & 5 & 0 & 0 & 0 \\\\ 4 & \\text{disturbed} & 0 & 143 & 12 & 178 & 0 & 4 & 13 & 7 \\end{array}$$\n\nIndicate if each of the following statements is true of false.\n\nA. Alpha diversity is higher in Plot 1 than in Plot 2.\n\nB. Disturbance seems to increase beta diversity in this ecosystem.\n\nC. Species B is likely to be a pioneer species.\n\nD. Seedlings of species D perform best in the presence of adult D trees."
+    }
+   ]
+  },
+  {
    "year": 2015,
    "problems": [
     {
