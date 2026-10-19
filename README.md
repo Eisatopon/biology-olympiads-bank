@@ -1,4 +1,4 @@
-# World Biology Olympiads Bank
+# Aristotle – World Biology Olympiads Bank
 
 Public site of the World Biology Olympiads Bank (eisatopon.gr): biology olympiad questions — the International Biology Olympiad (IBO) theoretical papers first — in English, with every option, table and figure, statements only (no answers).
 
