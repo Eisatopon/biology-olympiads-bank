@@ -2,6 +2,1005 @@
  "competition": "Indian National Biology Olympiad (INBO)",
  "years": [
   {
+   "year": 2018,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Theory",
+     "problem": "The beaded string in the diagram represents a protein backbone. The protein is divided into regions (i) – (iv). Within each region, some side chain interactions are shown. In which region of the protein, both 'Van der Waals interactions' and 'hydrophobic interactions' are depicted? [1 point]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-1-fig1.png\n\na. i\n\nb. ii\n\nc. iii\n\nd. iv"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Theory",
+     "problem": "Bacteriophages take control of the host transcription machinery and sequentially express different groups of phage genes. A, B, C and D are four groups of phage genes expressed in the order A, B, C, D. Each group of genes has a specific type of promoter, each of which requires a specific sigma factor to initiate transcription. The genes encoding sigma factors to transcribe group A and group D genes are located in: [1 point]\n\na. bacterial genome and phage genome respectively.\n\nb. bacterial genome.\n\nc. phage genome.\n\nd. phage genome and bacterial genome respectively."
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Theory",
+     "problem": "Following is a DNA profile of five individuals of which two are parents. Which of the remaining profiles belong to children of these parents? [1 point]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-3-fig1.png\n\na. A and D\n\nb. C and E\n\nc. B and C\n\nd. C and D"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Theory",
+     "problem": "Which one of the following molecules is least likely to pass through the plasma membrane? [1 point]\n\na. $\\mathrm{CO_2}$\n\nb. $\\mathrm{CH_3\\text{-}CH_2\\text{-}OH}$\n\nc. $\\mathrm{NaHCO_3}$\n\nd. $\\mathrm{CH_3\\text{-}CO\\text{-}CH_3}$"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Theory",
+     "problem": "Bacterial core RNA Polymerase (RNAP) can bind to DNA. However, in order to initiate transcription from specific promoter sequences, it needs to associate with a sigma factor to form the holo-enzyme. Study the table below and choose the correct explanation for this phenomenon. (The numbers in the table are arbitrary.) [1 point]\n\n$$\\begin{array}{l|c|c|c|c} & \\text{Association Constant} & & \\text{Half life of complex (in seconds)} & \\\\ \\hline & \\text{with non-specific DNA} & \\text{with promoter DNA} & \\text{with non-specific DNA} & \\text{with promoter DNA} \\\\ \\hline \\text{Core RNAP} & 1 & 1 & 1 & 1 \\\\ \\hline \\text{Holo RNAP} & 0.001 & 100 & 0.1 & 1000 \\end{array}$$\n\na. Sigma factor provides catalytic site essential for transcription.\n\nb. Holo RNAP is able to bind to a longer stretch of DNA sequence thus increasing the probability of binding to a promoter sequence.\n\nc. Binding of sigma factor increases the catalytic efficiency of core RNAP.\n\nd. Sigma factor destabilizes the non-specific RNAP-DNA complex and strengthens the RNAP-promoter complex."
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Theory",
+     "problem": "Which of the following adaptations help plants grow under a canopy? [1 point]\n\nI. Increasing the specific leaf area (ratio of leaf area to dry mass).\n\nII. Increase in the chlorophyll a/b ratio in the light harvesting complex.\n\nIII. Reduced tillering (production of lateral shoots) if the plants belong to grass species.\n\nIV. Elongation of petioles to enhance access to sunlight.\n\na. II and IV only\n\nb. I, II, and III only\n\nc. I, III and IV only\n\nd. I, II, III and IV"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Theory",
+     "problem": "The following characters are found in many trees that grow in temperate forests. [1 point]\n\ni. Pollen are shed at the beginning of growing season before the leaves develop.\n\nii. Shedding of pollen is timed to avoid high humidity and rain.\n\nIn such trees, the type of pollination is most likely to be:\n\na. entomophilic.\n\nb. anemophilic.\n\nc. ornithophilic.\n\nd. chiropterophilic."
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Theory",
+     "problem": "In an experiment, water potentials of soil and a plant growing in the soil were measured for 8 days. The results are shown below. Mark the correct interpretation. (White and black boxes on the X-axis indicate day and night respectively.) [1 point]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-8-fig1.png\n\na. The plant is growing in a soil that is watered optimally throughout the experimental period.\n\nb. Graph P indicates the transient wilting of the plant upto 6 days.\n\nc. The plant is most likely to be a xerophyte.\n\nd. Later days represent the wilting of younger leaves of the plant."
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Theory",
+     "problem": "Cross sections of two leaves (P and Q) are shown. [1 point]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-9-fig1.png\n\nP and Q respectively most likely belong to:\n\na. a xerophyte and a hydrophyte.\n\nb. a mesophyte and a halophyte.\n\nc. a mesophyte and a hydrophyte.\n\nd. a hydrophyte and a mesophyte."
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Theory",
+     "problem": "Oxygen content of tissues/organs of Australian sea lion at two developmental stages is shown in the bar graph. [1 point]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-10-fig1.png\n\nThree tissues represented by X, Y and Z are respectively:\n\na. Brain, heart and lungs.\n\nb. Lungs, blood and muscles.\n\nc. Lungs, heart and brain.\n\nd. Blood, muscles and lungs."
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Theory",
+     "problem": "During the growth of marine fish, initially, yolk sac and skin are the principal sites where transport protein \"X\" is located. Later, skin and gills become principal sites and finally 'X' becomes localized to gills. The protein \"X\" is: [1 point]\n\na. glycogen synthase.\n\nb. glucokinase.\n\nc. $\\mathrm{Na^{+}\\ K^{+}}$ ATPase.\n\nd. glucose permease."
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Theory",
+     "problem": "Consider a case where a mutation 'R' occurred in some prairie moles influencing their behavior/physiology. In which of the following cases, it can be asserted that the mutant allele frequency will increase in the population? [1 point]\n\ni. The mutation results in enhanced monogamy.\n\nii. The mutation results in greater average number of surviving offspring as compared to the wild type population.\n\niii. The mutation results in longevity in the mole population.\n\niv. The mutation results in greater average time spent together by paired male and female moles compared to the wild type population.\n\na. i and ii only\n\nb. iii and iv only\n\nc. ii only\n\nd. iii only"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Theory",
+     "problem": "The wild type lac operon is inducible. Mutations in the operator region ($\\mathrm{O^{C}}$) can make the operon constitutive, i.e. the operon is active even in the absence of the inducer such as lactose. Constitutive expression can also be observed if the lac repressor is not synthesized. Partial diploids (merodiploids) can be developed in E. coli by transforming E. coli with a plasmid carrying a genomic DNA fragment. Of the following genotypes of merodiploids which one of them would show constitutive expression of the lac operon resulting in synthesis of functional proteins? [1 point]\n\n[$\\Delta\\mathrm{I}$ : deletion of lac I gene, $\\mathrm{I^{+}}$ : Wild type lac I gene, lac $\\mathrm{Z^{-}}$, $\\mathrm{Y^{-}}$ & $\\mathrm{A^{-}}$ : mutated lac Z, Y& A genes, lac $\\mathrm{Z^{+}Y^{+}A^{+}}$ : wild type lac Z, Y & A genes, $\\mathrm{O^{C}}$: operator constitutive mutant, $\\mathrm{O^{+}}$: wild type operator]\n\na. $\\Delta\\mathrm{I\\ O^{+}\\ Z^{+}Y^{+}A^{+}/\\ I^{+}\\ O^{+}\\ Z^{+}Y^{+}A^{-}}$\n\nb. $\\Delta\\mathrm{I\\ O^{+}\\ Z^{-}Y^{-}A^{-}/\\ I^{+}\\ O^{+}\\ Z^{+}Y^{+}A^{+}}$\n\nc. $\\mathrm{I^{+}\\ O^{C}\\ Z^{+}Y^{+}A^{+}\\ /\\ I^{+}\\ O^{+}\\ Z^{+}Y^{+}A^{+}}$\n\nd. $\\mathrm{I^{+}\\ O^{+}\\ Z^{+}Y^{+}A^{-}/\\ I^{+}\\ O^{C}\\ Z^{-}Y^{-}A^{-}}$"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Theory",
+     "problem": "A set of genes that are linked to one another is called as a linkage group. The minimum number of linkage groups in an organism is equal to its haploid number of chromosomes. Which of the following events can change the linkage group of a given gene? [1 point]\n\na. Paracentric inversion\n\nb. Chromosomal translocation\n\nc. Meiotic recombination\n\nd. Pericentric inversion"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Theory",
+     "problem": "Graph below depicts the relationship of fitness with the body size for a population. [1 point]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-15-fig1.png\n\nThe type of selection occurring and the most probable future trend for average body size for this population will be: (Choose from the graphs P-S and I –IV):\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-15-fig2.png\n\na. P and IV\n\nb. Q and II\n\nc. R and III\n\nd. S and I"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Theory",
+     "problem": "One can observe three phenotypic variants in the 4 o'clock plant, Mirabilis jalapa, namely, variegated leaves, green leaves and yellow leaves. If pollen from a branch that bore only variegated leaves fertilize ovules from a branch that had only green leaves, the leaves of the plantlets will be: [1 point]\n\na. only green.\n\nb. only yellow.\n\nc. either green or yellow.\n\nd. only variegated."
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "Theory",
+     "problem": "Predator-prey relationships observed in nature can also be studied in the laboratory using controlled experimental conditions. The results often vary depending on the choice of experimental conditions, namely homogeneous or heterogeneous environment (microcosm). All the parameters in homogenous microcosm are uniform while in heterogeneous system, they can vary and can have varied impact on the populations studied. Following graphs (A, B and C) depict three predator-prey interactions. [1 point]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-17-fig1.png\n\nMatch the correct interpretation to each of the graphs and choose from the option.\n\nI. The microcosm is homogeneous.\n\nII. After introduction of predator, both the predator and prey eventually die out.\n\nIII. The microcosm is heterogenous.\n\nIV. Prey can hide in some kind of refuge where predator cannot enter.\n\nV. There is intermittent immigration of prey and predator.\n\na. A: I, II B: III, IV C: I, V\n\nb. A: II, III B: I, II C: III, V\n\nc. A: I. II B: IV C: I, II\n\nd. A: II, IV B: I, II C: I, IV"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "Theory",
+     "problem": "Great tits are passerine birds found in Europe as well as Asia. Along with forests, they also live in densely inhabited urban regions. The following graphs depict the frequencies and durations of songs of birds adapted to forest and urban environments. [1 point]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-18-fig1.png\n\nWhich of the following statements is correct?\n\na. As compared to urban great tits, forest tits are required to spend more energy towards foraging and protecting the territory and hence have evolved low frequency songs which are energetically less demanding.\n\nb. Noise made by vehicles bustling through cities occupy lower frequency channels hence only great tits that sing high-pitched songs can be clearly heard.\n\nc. Short-note and high-pitched songs by urban tits require more energy and thus urban tits declare their greater relative fitness to other members of the species.\n\nd. Songs by forest tits have longer notes with lower frequencies and can reach much longer distances in forest ecosystem."
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "Theory",
+     "problem": "Migratory hummingbirds often guard winter territories to maintain exclusive access to nectar produced by certain flowers during their migration. This behavior depends on a number of factors including flower density, nectar yields of individual flowers, hummingbird density and ambient environmental conditions, which, in turn, would influence the metabolic costs incurred by the bird during foraging, territorial defence and other activities. [1 point]\n\nSuggest the parameters that may have been plotted on the X-axis and Y-axis respectively in the following graph.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-19-fig1.png\n\na. X-axis: Hummingbird density; Y-axis: Flower density\n\nb. X-axis: Flower density; Y-axis: Hummingbird density\n\nc. X-axis: Territory size; Y-axis: Flower density\n\nd. X-axis: Flower density; Y-axis: Territory size"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "Theory",
+     "problem": "Which of the following support/s common ancestry of Humans, Cheetah, Whale and Bat? [1 point]\n\ni. Homologous organs\n\nii. Analogous organs\n\niii. Vestigial organs\n\na. ii and iii only\n\nb. i and ii only\n\nc. i and iii only\n\nd. i only"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Theory",
+     "problem": "Distribution of kinetic energy of a population of substrate molecules is depicted in the graphs in two different situations (I and II). Bold arrows in the graphs indicate the minimum energy required for the reaction to take place.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-21-fig1.png\n\nMark whether each of the following statements is true (T) or false (F). [2 points]\n\nA. In situation (I) reaction can proceed from P to Q while in situation (II), the reaction cannot proceed from R to S.\n\nB. It is likely that reaction (II) is enzyme-driven.\n\nC. Reaction cannot proceed in both (I) and (II) as most of the molecules are at a lower energy level than required.\n\nD. Temperature of molecules in Qin situation (I) is likely to be higher than that in P."
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Theory",
+     "problem": "Proteins and lipids are the main components of biological membranes. Membrane proteins can be present either in the form of peripheral or integral proteins. A few statements about these proteins are made. Mark whether each of the following statements is true (T) or false (F). [2 points]\n\na. Peripheral proteins are more soluble in aqueous solutions than integral proteins.\n\nb. In the peripheral proteins, non-polar amino acids predominate at the surface.\n\nc. Peripheral proteins can be solubilized by treating the cell membrane with salt solution but this treatment is unlikely to remove transmembrane proteins.\n\nd. Hormone receptor is an example of peripheral protein."
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Theory",
+     "problem": "Four sedimentation coefficients (S) are given below and four molecules/ particles are listed.\n\na. Cytochrome C\n\nb. tRNA\n\nc. Influenza virus\n\nd. Lysosomes\n\n(I) $4 \\times 10^{3}$ S (II) 4 S (III) 700 S (IV) 1.7 S\n\nMatch the appropriate coefficient to each molecule/particle and fill the correct number (I-IV) in each blank. [2 points]"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Theory",
+     "problem": "Electrophoretic Mobility Shift Assay (EMSA) or \"Gel Shift Assay\" is a technique that is based on the observation that migration of protein-DNA complexes is retarded as compared to free DNA fragments when subjected to non-denaturing Polyacrylamide Gel Electrophoresis.\n\nIn the following experiment, five reaction mixtures (I to V) are prepared as follows:\n\n$$\\begin{array}{l|c|c|c|c|c} \\text{Contents} & \\text{I} & \\text{II} & \\text{III} & \\text{IV} & \\text{V} \\\\ \\hline \\text{Radio labeled Lac gene containing only regulatory sequence} & + & + & + & + & + \\\\ \\hline \\text{Lac repressor} & - & + & + & + & + \\\\ \\hline \\text{Lactose} & - & - & + & - & - \\\\ \\hline \\text{Glucose} & - & - & - & + & - \\\\ \\hline \\text{Antibody to Lac repressor} & - & - & - & - & + \\end{array}$$\n\nThe samples are loaded in the non-denaturing Polyacrylamide gel of 5% concentration. Indicate the prominent band pattern that will be observed on auto radiography of the gel in wells II to V. [4 points]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-24-fig1.png"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Theory",
+     "problem": "If there are 12 centromeres in a cell during anaphase, the number of chromosomes in each daughter cell after cytokinesis is: [2 points]"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Theory",
+     "problem": "Carbonic anhydrase forms a family of enzymes that catalyses rapid interconversion of $\\mathrm{CO_2}$ and water to bicarbonate and proton. Its role in kidney excretory function is shown in the diagram. Acetazolamide is an inhibitor of the enzyme.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-26-fig1.png\n\nMark whether each of the following statements regarding acetazolamide is true (T) or false (F). [2 points]\n\na. It will decrease renal excretion of $\\mathrm{Na^{+}}$, bicarbonate and water.\n\nb. It can be used to release excessive pressure built in the aqueous humor.\n\nc. It can be used to relieve metabolic alkalosis as it will prevent secretion of $\\mathrm{H^{+}}$ across the renal tubule.\n\nd. It can aggravate high altitude sickness as it will lead to rise in blood $\\mathrm{CO_2}$ concentration."
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Theory",
+     "problem": "Plants use phytochromes and cryptochromes to detect characteristic differences in the composition of light under shade and unfiltered daylight. The effect of canopy-shade can be described in terms of the ratio of red to far-red fluence rate [R/FR or $\\zeta$ (Zeta)]. Match the given values of $\\zeta$ in the table below with the locations at which these readings were taken and mark the correct option by putting a tick mark (✔) in the appropriate box. [2 points]\n\n$$\\begin{array}{l|l} & \\text{Location of Readings} \\\\ \\hline \\text{a.} & \\text{Under Maize Canopy} \\\\ \\hline \\text{b.} & \\text{Under woodland community} \\\\ \\hline \\text{c.} & \\text{Unfiltered daylight} \\\\ \\hline \\text{d.} & \\text{Under Wheat canopy} \\end{array} \\qquad \\begin{array}{c|l} & \\text{Values of } \\zeta \\\\ \\hline \\text{i.} & 0.5 \\\\ \\hline \\text{ii.} & 0.12 \\\\ \\hline \\text{iii.} & 1.2 \\\\ \\hline \\text{iv.} & 0.2 \\end{array}$$\n\nA. a-iv; b-ii; c-iii; d-i\n\nB. a-i; b-iii, c-ii; d-iv\n\nC. a-i; b-i; c-iii; d-iv\n\nD. a-iv; b-iii; c-ii; d-i"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Theory",
+     "problem": "Arabidopsis is a typical dicot in which growth in white light shows the following responses. (i) arrested hypocotyl elongation, (ii) straightening of the hypocotyl or plumular hook, (iii) unfolding of the cotyledons and (iv) expansion of the cotyledons. Experiments with phytochrome and cryptochrome deficient mutants showed results which have been depicted in the diagram below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-28-fig1.png\n\nBased on the above results, mark whether each of the following statements is true (T) or false (F). [2 points]\n\nA. The phyA-deficient single mutant (phyA) had little effect on hypocotyl elongation.\n\nB. Light suppresses hypocotyl elongation by more than 50% in wildtype plants.\n\nC. phyB is the principal phytochrome affecting hypocotyl elongation in Arabidopsis.\n\nD. Any one of the photoreceptors is required for cotyledon opening."
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Theory",
+     "problem": "Molecular events that occur in the germination of barley seeds are listed below. Arrange them in the correct order of occurrence and fill in the boxes with the appropriate numbers. [4 points]\n\n1. Synthesis of cGMP.\n\n2. Receptor conformation changes.\n\n3. Guanylate cyclase activated.\n\n4. Binding of Gibberellic Acid to the membrane receptor present on extracellular face of aleurone cell.\n\n5. Myb RNA exits nucleus.\n\n6. Ligand receptor complex interacts with G protein.\n\n7. myb gene activated to transcribe RNA.\n\n8. cGMP enters nucleus and binds to repressor protein for myb gene.\n\n9. Transcription factor MYB synthesized on 80S ribosome in cytoplasm.\n\n10. Vesicles release the enzyme in endosperm.\n\n11. α-amylase synthesis on rough endoplasmic reticulum.\n\n12. MYB enters nucleus and binds to promoter of α-amylase gene.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-29-fig1.png"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Theory",
+     "problem": "Plants can be classified according to their photoperiodic responses. In the early twentieth century, it was shown that biochemical signals from photoperiodically induced leaves can be transported to a distant target tissue where it can stimulate a response. The transmitted substance is termed as hormone Florigen. Flowering in three plants (I, II, III) is shown in the graph.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-30-fig1.png\n\nIndicate in which of the following situations the grafted plants would / would not show flowering. [2 points]\n\nPut a tick mark (✔) for flowering and a (X) mark for no flowering.\n\na. Plant I kept in short day environment and grafted with a leaf from plant II kept in long day regime.\n\nb. Plant III kept in long day regime and grafted with a leaf from plant I kept in short day regime.\n\nc. Plant II kept in short day regime and grafted with a leaf from plant I kept in short day regime.\n\nd. Plant III kept in short day regime and grafted with a leaf from plant I kept in short day regime."
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "Theory",
+     "problem": "Research in animals has offered hope for the prevention of diseases via Assisted Reproductive Technology (ART) involving micromanipulation.\n\nOne such technique is described below.\n\nStep I:\n\nDonor oocyte → fertilized with intended parent sperm → removal of pronuclei → oocyte without pronuclei\n\nStep II:\n\nIntended parent oocyte → fertilized with intended parent sperm → pronuclei transferred to donor oocyte without pronuclei.\n\nMark whether each statement is true (T) or false (F). [2 points]\n\na. ART described above will result in an offspring having three parents.\n\nb. This technique has offered a hope for the cure of all mitochondrial diseases.\n\nc. The technique will be mainly useful when the intended male parent has mitochondria with mutant DNA.\n\nd. This technique will be suitable even if the intended female parent has 50% of the mitochondrial copies mutated."
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "Theory",
+     "problem": "As blood flows from arterial end of capillaries to venous end of capillaries, several components are exchanged across the capillary lining. Various kinds of pressures existing at these two ends are listed below. (All pressures indicated as mm of Hg). [5 points]\n\ni. Hydrostatic pressure: 17 mm\n\nii. Osmotic pressure: 26 mm\n\niii. Hydrostatic pressure: 35 mm\n\niv. Osmotic pressure: 1 mm\n\nv. Hydrostatic pressure: 0 mm\n\n(A). Match the pressure values to the correct structures / components (a-c) and fill in the blanks with the appropriate number/s:\n\na. Interstitial fluid:\n\nb. Blood at arterial end of capillary:\n\nc. Blood at venous end of capillary:\n\n(B). What will be the net value of pressure from:\n\na. arterial end of capillary to interstitial fluid?\n\nb. venous end of capillary to interstitial fluid?"
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "Theory",
+     "problem": "Phylogenetic classification of 7 species of fish found in Arabian sea and 9 species of fish found in Antarctic sea is given. Some data about these fishes is provided in the table.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-33-fig1.png\n\nMark whether each of the following statements is true (T) or false (F). [2.5 points]\n\na. Lesser dissolved oxygen most probably led to the loss of hemoglobin gene in Antarctic fishes.\n\nb. White colour of heart muscles in Antarctic fish indicates reduced blood volume in their bodies.\n\nc. Loss of functional hemoglobin gene most probably occurred only once in the course of evolution while loss of functional myoglobin gene has occurred several times.\n\nd. Loss of functional hemoglobin gene had more profound effect on the fish physiology than the loss of functional myoglobin gene.\n\ne. Myoglobin, having oxygen storage function due to its high affinity, is more crucial in habitats such as Antarctic sea."
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "Theory",
+     "problem": "A student wanted to measure metabolic heat of a mouse using a calorimeter. For this, she designed a calorimeter made up of two containers, one fitting into the other. She placed a mouse (weight 5 gm) into the inner container and the space between the two containers was fully packed with ice. The outlet from the external container allowed the water to be collected into a jar. Knowing the amount of heat required to melt each gram of ice, she would calculate heat production by the mouse. Mark whether each of the following statements is true (T) or false (F). [2 points]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-34-fig1.png\n\na. The measurement will be an underestimate of the metabolic heat produced because the animal will be less active under the experimental conditions.\n\nb. The measurement will be an overestimate of the metabolic heat produced because the body will produce more heat in order to maintain constant body temperature.\n\nc. The readings will be higher than the true value because the environmental temperature will affect the melting of ice.\n\nd. The readings will be lower if mouse is replaced by an animal of higher body weight."
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "Theory",
+     "problem": "A cross is made in Drosophila melanogaster between genotypes $a^{+}a^{+}\\ b^{+}b^{+}$ and $aabb$. The $\\mathrm{F_1}$ progeny is sib-mated to obtain the $\\mathrm{F_2}$ progeny. The two genes are located on the $2^{\\text{nd}}$ chromosome and are 60cM apart. Further, in case of D. melanogaster there is no crossing over in the males. What percentage of the progeny will have the genotype $aabb$? (Indicate the answer upto one decimal place.) [2 points]"
+    },
+    {
+     "day": 1,
+     "number": 36,
+     "paper_label": "Theory",
+     "problem": "Komodo dragon (Varanus komodoensis) is a large species of lizard found in Indonesia. A pedigree for a particular trait in Komodo dragon is shown below. Circles and squares represent females and males, respectively. The filled circles represent females showing the phenotype under study.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-36-fig1.png\n\nFrom molecular studies it is known that the allele responsible for the phenotype is present in all the three generations. A few statements regarding the possible modes of inheritance of the trait are given below. Mark whether each of the following statements is true (T) or false (F). [2 points]\n\na. The mode of inheritance can be autosomal dominant with the mutation arising in the second generation.\n\nb. The mode of inheritance can be autosomal recessive with the male in second generation being a carrier.\n\nc. The mode of inheritance can be sex-linked recessive with an XX-XY sex chromosome system in Komodo dragon.\n\nd. The mode of inheritance can be sex-linked recessive with an ZZ-ZW sex chromosome system in Komodo dragon."
+    },
+    {
+     "day": 1,
+     "number": 37,
+     "paper_label": "Theory",
+     "problem": "The activity of an enzyme 'X' in wild type E. coli cells was studied when the cells were grown in the presence or absence of a compound 'A'. Similar studies were also carried out with two independent mutants (mutant 1 and 2) that were isolated. The results are summarized in the graph below. Further, experiments were carried out to analyze the levels of transcript of the gene encoding enzyme 'X' by Northern hybridizations, results of which are presented below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-37-fig1.png\n\nOn analysis of the data obtained, the following conclusions were made. Mark whether each of the following statements is correct (✔) or incorrect (X). [2 points]\n\nI. This is an example of an inducible system.\n\nII. Compound 'A' represses the transcription of the gene encoding enzyme 'X'.\n\nIII. In 'mutant 1' the gene encoding enzyme 'X' is likely to be mutated.\n\nIV. In 'mutant 2', the mutation probably lies in a regulatory DNA element."
+    },
+    {
+     "day": 1,
+     "number": 38,
+     "paper_label": "Theory",
+     "problem": "In a given population the frequency of individuals with the genotype $aa$ is 0.01 and that of $Aa$ is 0.20. If two individuals randomly mated, what is the probability that the child will have the genotype $aa$? [2 points]"
+    },
+    {
+     "day": 1,
+     "number": 39,
+     "paper_label": "Theory",
+     "problem": "When frequencies of alleles $a$ and $b$ of a gene encoding lactate dehydrogenase enzyme in killifish were studied along the costal line from Georgia to Maine (two states located on the east coast of America), a trend as shown in the figure was obtained.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-39-fig1.png\n\nMark whether each of the following statements is true (T) or false (F). [2 points]\n\na. The data suggests that killifish are a freely interbreeding population that can travel substantial distances.\n\nb. It is likely that alleles '$a$' and '$b$' vary in their functional properties, $a$ having greater functional advantage at higher temperatures as compared to $b$.\n\nc. The data indicates that disruptive selection has occurred along the coastal line of Georgia to Maine.\n\nd. The data indicates that population at Maine is a founder population and allele $b$ has evolved later during the course of evolution."
+    },
+    {
+     "day": 1,
+     "number": 40,
+     "paper_label": "Theory",
+     "problem": "The pedigree below represents the inheritance of an autosomal recessive disorder. The DNA of the individuals (1 -11) was isolated and amplified using a set of primers. The primers amplify a 5kb (U) as well as a 2kb (L) DNA fragment, which is linked to the gene controlling the trait.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-40-fig1.png\n\nBased on the available information in the pedigree and DNA profile, what is the probability that a child of individuals 10 and 11 will be a girl without the disorder? (Express your answer in a fraction.) [2 points]"
+    },
+    {
+     "day": 1,
+     "number": 41,
+     "paper_label": "Theory",
+     "problem": "You are familiar with the famous Darwinian finches. A lot research is still being carried out on understanding the mechanism of evolution of these finches. Rosemary and Peter Grant have studied the change in the population structure, beak shape and body size of two types of Finches in one of the islands, Daphne major in the Galapagos islands over a period of 40 years. One of the species they studied was the medium ground finch (Geospiza fortis) that possesses short, blunt beak, and is adapted to picking up seeds from the ground. They observed that in 1976, there was plenty of diverse type of seeds. But in 1977, due to a drought, seeds become scarce. Since there were not enough of small and medium size seeds, Finches had to turn to larger seeds with hard shells which could be broken only by those possessing harder beaks. The graphs below show the distribution of beak depths (in mm) in the breeding population of Geospiza fortis on the island of Daphne Major in 1976 (white bars) and of the survivors of the 1977 drought (black bars). The means of the two populations are indicated by the arrows.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-41-fig1.png\n\nMark whether each of the following statements is true (T) or false (F). [3 points]\n\na. This is a classic example of macroevolution.\n\nb. Significant variation in the beak-depth eventually leads to speciation.\n\nc. The offsprings of the next generation (1978) will all most likely have beaks with greater depth.\n\nd. The changes observed over a period of just one year has no influence on evolution of finches as it takes millions of years for fixing a particular trait.\n\ne. This is an example of disruptive selection.\n\nf. Because the beak depth size distribution will be stabilized in the next generation, this could be considered as a stabilizing selection."
+    },
+    {
+     "day": 1,
+     "number": 42,
+     "paper_label": "Theory",
+     "problem": "A number of diseases have genetic basis. Even though the disease-causing alleles have detrimental effects on the affected individual, they seem to persist in the population.\n\nMark whether each of the following statements is true (T) or false (F). [2 points]\n\na. A disease allele is likely to persist in a population if the disease adversely affects neurons during old age.\n\nb. A disease allele is likely to persist in a population if the disease allele is harmless in the heterozygous form.\n\nc. A disease allele is likely to persist in a population if the disease adversely affects the reproductive system during puberty.\n\nd. A disease allele is likely to persist in a population if the disease allele is located very close to an allele of an essential gene."
+    },
+    {
+     "day": 1,
+     "number": 43,
+     "paper_label": "Theory",
+     "problem": "Snowshoe hares are found in northern part of the north hemisphere. They mostly live in forests, fields and forage on different types of grasses. They show many peculiar features. Just like hares and rabbits found in other parts of the world, their hind limbs are stronger and much longer than the forelimbs. In the summer months, they have reddish brown fur while in winter it is snowy white. It has been found that daylight length is the determining factor for the synthesis of melanin pigment responsible for brown fur. However, global warming has posed a threat to the very existence of these animals.\n\nMark whether each of the following statements is true (T) or false (F). [2 points]\n\na. The phenomenon of change in fur color of a snowshoe hare in response to seasons is an example of disruptive selection.\n\nb. The longer hind limbs prove advantageous for fast running and running uphill. Thus this trait is under directional selection.\n\nc. Increase of carbon dioxide concentration in the earth's atmosphere causes respiratory distress to homeothermic animals which can prove lethal.\n\nd. Rise in temperature due to global warming delays snowing in winter which makes the hare more visible to the predators."
+    },
+    {
+     "day": 1,
+     "number": 44,
+     "paper_label": "Theory",
+     "problem": "Potentilla glandulosa, sticky cinquefoil, grows from sea level to over 3,000 m elevation and shows height variation along this elevational gradient. In a study, plants naturally growing at three different elevations (lowland, mid-elevation and alpine) were transplanted and grown in gardens at other two elevations along with the native plants. The height of the transplanted as well as the native plants was measured.\n\nThe null hypothesis of the study predicted the following results.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-44-fig1.png\n\nThe actual results of the study are as shown below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-44-fig2.png\n\n(A) What was the null hypothesis of the study? Choose the correct answer and put a tick mark (✔) in the appropriate box. [4 points]\n\na. Height of the plants is determined only by genetic factors.\n\nb. Height of the plants is determined only by environmental conditions.\n\nc. Height of the plants is determined by the combination of genetic factors and environmental conditions.\n\nd. Height of the plants is determined by genetic factors but only under specific environmental conditions.\n\n(B) Mark whether each of the following statements is true (T) or false (F).\n\na. Individuals native to the alpine elevation grow to their maximum possible height at alpine elevation.\n\nb. Mid-elevation is the optimum for the plants to reach the maximum height.\n\nc. The height of plants from lowland population decreases as the elevation increases.\n\nd. The alpine elevation is the harshest environment for the plants to grow in height."
+    },
+    {
+     "day": 1,
+     "number": 45,
+     "paper_label": "Theory",
+     "problem": "Five warbler species, Cape May (Dendroica tigrina), yellow-rumped (D. coronata), black-throated green (D. virens), blackbur-nian (D. fusca), and bay-breasted (D. castanea), are about the same size and shape and all feed on insects. Robert MacArthur in his study found that each species of the warblers predominantly feed in different zones in spruce trees. This way of foraging reduces competition among the five species.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-45-fig1.png\n\nIf another study finds that the number of individuals of each warbler species found in the forest is the same, which of the following can be predicted based on this new finding? Choose the correct answer and put a tick mark (✔) in the appropriate box. [2 points]\n\na. The diversity of insects found on spruce trees is evenly distributed across feeding zones of the warblers.\n\nb. The biomass of insects found in different feeding zones of the warblers is approximately the same.\n\nc. The total number of insects found on a spruce tree remains approximately the same across different trees.\n\nd. The density of insects found in the forest is evenly distributed across spruce trees."
+    },
+    {
+     "day": 1,
+     "number": 46,
+     "paper_label": "Theory",
+     "problem": "Given is the relative fitness (performance) of insects at different temperatures. $\\mathrm{CT_{min}}$, $\\mathrm{CT_{max}}$ and $\\mathrm{T_{opt}}$ stand for minimum critical temperature, maximum critical temperature and optimal temperature, respectively. The vertical line represents the current average temperature in the different regions.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-46-fig1.png\n\nBy the end of the $21^{\\text{st}}$ century, average temperatures are predicted to increase by $5^{\\circ}\\mathrm{C}$.\n\nBased on the above information, mark whether each of the following statements is true (T) or false (F). [3 points]\n\nA) Relative fitness of temperate insects is predicted to be negatively affected by increase in temperature by the end of the $21^{\\text{st}}$ century.\n\nB) Temperate insect species are more likely to survive at temperatures lower than $10^{\\circ}\\mathrm{C}$ than tropical species.\n\nC) Tropical insect species at its current optimum temperature is more likely to die-off than temperate insect species at its optimum temperature by the end of the $21^{\\text{st}}$ century."
+    },
+    {
+     "day": 1,
+     "number": 47,
+     "paper_label": "Theory",
+     "problem": "One of the key questions studied in ecology is how does biodiversity affect the functioning of an ecosystem. Based on the contribution of any given species towards the functioning of the ecosystem, several hypotheses are put forth such as:\n\n1. Redundancy hypothesis\n\n2. Linear hypothesis\n\n3. Keystone hypothesis\n\n4. Idiosyncratic hypothesis\n\nThe graphs given below represent possible effects of removal of species from an ecosystem on its overall functioning.\n\nNote: The initial level of biodiversity is indicated by ★ and the end result by ●.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-47-fig1.png\n\nAgainst each statement, fill in the appropriate hypothesis (1 – 2) and graph (P – S) in the table. [4 points]\n\na. Every species makes a contribution (smaller or larger) to the process, so if it is removed, that contribution is subtracted from the process.\n\nb. Many species in the ecosystem are at least partly substitutable while their contribution to the ecosystem process can be taken over by other, functionally similar species.\n\nc. Singular species with disproportionate effect on ecosystem relative to its abundance by modifying the resource availability for other members of the community.\n\nd. The impact of loss or addition of species depends on environmental conditions so that a species makes different contributions to ecosystems depending on conditions.\n\n$$\\begin{array}{c|c|c} \\text{Statement} & \\text{Hypothesis} & \\text{Graph} \\\\ \\hline \\text{a.} & & \\\\ \\hline \\text{b.} & & \\\\ \\hline \\text{c.} & & \\\\ \\hline \\text{d.} & & \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 48,
+     "paper_label": "Theory",
+     "problem": "The age/sex composition of a population of bonnet macaques over the years is given below. Mark whether each of the following statements is true (T) or false (F). [2 points]\n\n$$\\begin{array}{l|r|r|r} & \\text{2005} & \\text{2009} & \\text{2013} \\\\ \\hline \\text{Estimated Population Size} & 40 & 45 & 30 \\\\ \\hline \\textit{Percentage Composition} & & & \\\\ \\hline \\text{Adult Male} & 6.67 & 13.11 & 20.00 \\\\ \\hline \\text{Adult Female} & 10.00 & 13.56 & 32.50 \\\\ \\hline \\text{Subadult Male} & 20.00 & 13.67 & 25.00 \\\\ \\hline \\text{Subadult Female} & 16.67 & 17.33 & 10.00 \\\\ \\hline \\text{Juvenile Male} & 22.33 & 19.67 & 5.00 \\\\ \\hline \\text{Juvenile Female} & 24.33 & 22.67 & 7.50 \\end{array}$$\n\na. The macaque population was growing relatively faster in 2013 when, despite its relatively smaller population size, it had the highest proportion of adults.\n\nb. The relatively more equable adult male-to-female ratio in 2009 may have been responsible for the overall smaller population size in 2013.\n\nc. An expansive population pyramid, as shown by the population in 2005, is characterised by a high birth rate and relatively lower life expectancy.\n\nd. The subadult male-to-female ratio reflects that of the juveniles in this population."
+    },
+    {
+     "day": 1,
+     "number": 49,
+     "paper_label": "Theory",
+     "problem": "Holmes and Sherman (1982) studied kin recognition in Belding's ground squirrels. They captured pregnant females and used their pups to create four kinds of experimental rearing groups: siblings reared by one mother (their own or a foster mother, S.RT), siblings reared apart by different mothers (S.RA), non-siblings reared as a single litter (NS.RT) and non-siblings reared apart (NS.RA). When they were older, animals from the four groups were placed in pairs in arenas and their agonistic interactions were observed, the results of which are shown below (a). Field observations were also made on aggression and cooperation among yearling females which were full- or half-sisters (b and c).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-49-fig1.png\n\nMark whether each of the following statements is true (T) or false (F). [2 points]\n\na. Non-siblings reared together are no more aggressive than siblings reared together.\n\nb. Full-sisters are more aggressive to and less cooperative with one another.\n\nc. Genetic relatedness does not influence in any way the development of close cooperative relationships between females.\n\nd. Association in early life is important for individuals to treat other individuals as their kin."
+    },
+    {
+     "day": 1,
+     "number": 50,
+     "paper_label": "Theory",
+     "problem": "The diploblastic radially symmetrical cnidarians are shown to possess most genes implicated in development of mesoderm in bilaterally symmetrical triploblastic animals suggesting different evolutionary hypotheses for a Cnidarian-Bilaterian Ancestor:\n\nA. Mesodermal genes originated before actual origin of mesoderm and played no role in germ layer specifications in Cnidaria.\n\nB. Mesodermal genes played a role in specification of ectoderm and endoderm in Cnidaria but with the evolution of Bilateria they consequently got associated with mesoderm.\n\nC. Cnidaria evolved by reduction of germ layers or fusion of mesoderm and endoderm from a triploblastic bilateria ancestor therefore, the genes for mesoderm were already present.\n\nAmong these hypotheses, evidences have supported hypothesis B only. In view of this, mark whether each of the following statements is true or false by putting tick marks (✔) in the appropriate boxes in the table. [2 points]\n\n$$\\begin{array}{l|l|c|c} \\text{Statements} & \\text{Possible Explanation} & \\text{True} & \\text{False} \\\\ \\hline \\text{a.} & \\text{Pre-existing genes were silenced during early stages of evolution in Cnidaria.} & & \\\\ \\hline \\text{b.} & \\text{Cnidaria are most probably the degenerative forms of Acoelomates with knockdown of mesoderm genes.} & & \\\\ \\hline \\text{c.} & \\text{The Cnidarian genes possibly duplicated, mutated and later were switched on for new functions in Bilateria.} & & \\\\ \\hline \\text{d.} & \\text{The genes pre-existed in Cnidaria-Acoela ancestor but, the expression was delayed till evolution of mesoderm.} & & \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 51,
+     "paper_label": "Theory",
+     "problem": "Following diagram is an unrooted tree showing phylogenetic relationships. Loci 1 to 5 are probable roots to establish the relationship.\n\nThese are: 1: Radial, indeterminate cleavage, 2: Deuterostomia, 3: Notochord, 4: Spiral cleavage, 5: Ecdysis\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-51-fig1.png\n\nIt is based upon following assumptions:\n\nA. Radial cleavage evolved earlier to spiral cleavage.\n\nB. Cnideria is closer to Deuterostomia as its gastral pouches are comparable to archenteric pouches forming true coelom in deuterostomes. Protostomes are thus on a different lineage.\n\nC. Mollusca are partially / preliminarily segmented while Annelids and Arthropods have true metameric segmentation.\n\nIn view of the above, which of the following cladograms exhibit correct phylogeny? Indicate your answers by putting tick marks (✔) in the appropriate boxes. [3 points]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-51-fig2.png\n\n$$\\begin{array}{c|c|c} \\text{Cladogram} & \\text{Correct} & \\text{Incorrect} \\\\ \\hline \\text{P} & & \\\\ \\hline \\text{Q} & & \\\\ \\hline \\text{R} & & \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 52,
+     "paper_label": "Theory",
+     "problem": "In the following diagram, relationship among species A to J is shown where 1, 2, 3 and 4 are the distinctive characters of the respective group of species. None of the characters is symplesiomorphic for all the species.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-52-fig1.png\n\nState which of the cladograms P, Q, R, S correctly represent the relationships considering character advancement from 1 → 2 → 3 → 4. Indicate your answers by putting tick marks (✔) in the appropriate boxes. [2 points]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-52-fig2.png\n\n$$\\begin{array}{c|c|c} \\text{Cladogram} & \\text{Correct} & \\text{Incorrect} \\\\ \\hline \\text{P} & & \\\\ \\hline \\text{Q} & & \\\\ \\hline \\text{R} & & \\\\ \\hline \\text{S} & & \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 53,
+     "paper_label": "Theory",
+     "problem": "Five peptides (P - T) of a part of a structure of enzyme protein found in five vertebrates are given. Each bead represents an amino acid. Different amino acids are indicated by different patterns of beads. Based on the data given, draw the most parsimonious cladogram for the five species. (Only an entirely correct cladogram will be given points.) [1.5 points]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2018-1-53-fig1.png"
+    }
+   ]
+  },
+  {
+   "year": 2019,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Theory",
+     "problem": "When human genome was sequenced, the annotated number of genes was found to be ~20,000. Based on complexity of humans, however, it was expected that there would be more than 100,000 genes. Which of the following statements would explain this discrepancy? [1 point]\n\na. The current methods of sequencing are inefficient to identify the large number of genes.\n\nb. Enhanced somatic recombination in humans takes place to generate more number of genes.\n\nc. Large number of genes in humans undergo alternative splicing to generate proteome diversity.\n\nd. Fewer genes through frame shift translation can generate more number of proteins."
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Theory",
+     "problem": "Molecular chaperones promote folding of proteins using energy from ATP. In the presence of ATP, chaperones assume an open conformation. This exposes pockets (P) in the chaperone which bind and enclose regions of nascent polypeptides that might promote aggregation. Imagine that life evolved in benzene instead of water, leading to the same set of amino acids and proteins as we have in biology now. In such a hypothetical scenario, which of the following amino acids is most likely to be found lining P of chaperones? [1 point]\n\na. Isoleucine\n\nb. Glutamine\n\nc. Arginine\n\nd. Cysteine"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Theory",
+     "problem": "Consider a diploid organism with 2n value of 4. How many chromosomes and DNA molecules respectively are present in the G1 and G2 phases of a somatic cell of this organism? (consider only nuclear DNA) [1 point]\n\na. G1: 4 and 4; G2: 4 and 4\n\nb. G1: 4 and 4; G2: 4 and 8\n\nc. G1: 4 and 4; G2: 8 and 4\n\nd. G1: 4 and 4; G2: 8 and 8"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Theory",
+     "problem": "Chloroplasts, according to the theory of endosymbiosis, represent originally free-living prokaryotes that were taken inside eukaryotic cells and lost their ability to exist independently. Which of the following is least likely to be encoded by the chloroplast genome based on this theory? [1 point]\n\na. Chloroplast DNA Polymerase\n\nb. Chloroplast RNA Polymerase\n\nc. Chloroplast ribosomal subunits\n\nd. Chloroplast tRNA"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Theory",
+     "problem": "Of the sunlight that reaches the surface of the earth, biological processes mostly make use of light of wavelength between 400nm to 700nm. Which of the following transitions, critical for life, will occur in the molecules absorbing photons in this range of wavelengths? [1 point]\n\na. Vibrational transitions\n\nb. Rotational transitions\n\nc. Electronic transitions\n\nd. Nuclear transitions"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Theory",
+     "problem": "ATPases are protein complexes which are found on different membranes of the cell. The following diagrams show the structure of two major types of ATPases, the P-type ATPase and F-type ATPase.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-6-fig1.png\n\nP-type ATPase\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-6-fig2.png\n\nF-type ATPase\n\nWhich of the following statement/s regarding the ATPases is/are true? [1 point]\n\ni. ATPases are always involved in the synthesis of ATP.\n\nii. The P-type ATPase is formed from a single polypeptide.\n\niii. The F-type ATPase is a multiprotein complex.\n\niv. Both the above types of ATPases are directly involved in the active transport of ions.\n\na. i only\n\nb. ii and iii\n\nc. i and iv\n\nd. iv only"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Theory",
+     "problem": "A scientist was analysing a particular DNA sequence in humans and its relation to a disease. Which of the following data is most supportive of the scientist’s hypothesis that the particular sequence is NOT related to the disease? [1 point]\n\n$$\\begin{array}{c|l|l} & \\text{Percent of diseased individuals having the sequence} & \\text{Percent of non-diseased individuals having the sequence} \\\\ \\hline \\text{A} & 48\\% & 52\\% \\\\ \\hline \\text{B} & 65\\% & 35\\% \\\\ \\hline \\text{C} & 90\\% & 10\\% \\\\ \\hline \\text{D} & 20\\% & 80\\% \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Theory",
+     "problem": "The graph below represents the annual temperature, rainfall and sunshine at a tropical site in India.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-8-fig1.png\n\n(Top panel: The three lines indicate the maximum, mean and minimum temperature. Bottom panel: The grey bars indicate amount of rainfall and the curve indicates the sunshine hours.)\n\nTrees growing in this region flush (put out) new leaves during the months of March and April. This is the hottest and driest time of the year. Which of the following could be the reasons for this phenomenon? [1 point]\n\ni. New leaves avoid insect herbivory which is accompanied by the rains.\n\nii. New leaves with highest photosynthesis efficiency would be able to maximise the sunshine hours.\n\niii. New leaves lose least water and hence are more efficient during the dry period.\n\niv. New leaves are more tolerant than mature leaves to abiotic stresses like high temperature.\n\na. i and ii only\n\nb. ii and iv only\n\nc. iii and iv only\n\nd. i, ii, iii and iv"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Theory",
+     "problem": "Observe the experimental set-up shown here carefully and answer the following question.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-9-fig1.png\n\nWhich of the following hypotheses is the experimental set-up designed to test? [1 point]\n\na. The amount of water required by a plant increases with increase in the rate of evaporation of water through transpiration.\n\nb. The process of transpiration can generate enough pressure to pull water up the column.\n\nc. The increase in the atmospheric pressure increases the rate of transpiration in plants.\n\nd. The process of water transport though stem requires an unbroken column of liquid."
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Theory",
+     "problem": "In the coleoptile-bending assay developed by Went in 1928, a coleoptile is decapitated and kept for a few hours. A block of agar soaked in a known concentration of plant hormone, auxin, is then kept on one side of the decapitated coleoptile. The entire set-up is kept in the dark throughout the procedure. After a few hours, the curvature of the tip is measured. The pictures below show the schematic of the four steps of the assay.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-10-fig1.png\n\nThe graph below shows the effect of concentration of auxin on the bending or curvature.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-10-fig2.png\n\nThis graph could be used to estimate concentration of auxin in a sample by measuring the angle of curvature or bending due to the block soaked in the sample.\n\nAnswer the questions 10 and 11 based on the above experiment.\n\nWhich of the following cases could lead to the overestimation of auxin in the sample? [1 point]\n\na. If the agar block with unknown auxin is loaded without any incubation after decapitation.\n\nb. If agar block is kept exactly on the top of the coleoptile instead of on one side.\n\nc. If the size of the agar block is reduced to half.\n\nd. If the duration between the application of agar block and measuring of bending is reduced."
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Theory",
+     "problem": "In the coleoptile-bending assay developed by Went in 1928, a coleoptile is decapitated and kept for a few hours. A block of agar soaked in a known concentration of plant hormone, auxin, is then kept on one side of the decapitated coleoptile. The entire set-up is kept in the dark throughout the procedure. After a few hours, the curvature of the tip is measured. The pictures below show the schematic of the four steps of the assay.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-11-fig1.png\n\nThe graph below shows the effect of concentration of auxin on the bending or curvature.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-11-fig2.png\n\nThis graph could be used to estimate concentration of auxin in a sample by measuring the angle of curvature or bending due to the block soaked in the sample.\n\nAnswer the questions 10 and 11 based on the above experiment.\n\nHow will the graph look if there is reduction in the sensitivity of the coleoptile to the auxin? [1 point]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-11-fig3.png\n\na. A\n\nb. B\n\nc. C\n\nd. D"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Theory",
+     "problem": "Photosynthesis results in the production of glucose in plants which is then utilized for plant growth. Growth of a plant at different temperatures is shown in the graph. Given all other conditions are the same, at what temperature will the plant grow the fastest? [1 point]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-12-fig1.png\n\na. A\n\nb. B\n\nc. C\n\nd. D"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Theory",
+     "problem": "The squid and octopus are molluscs that are known to be among the most active aquatic invertebrates. The circulatory system of a squid is shown below. It shows two types of hearts, namely the gill hearts and body heart. The correct path of blood through this circulatory system is: [1 point]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-13-fig1.png\n\na. Body parts and head → gill heart → gills → body heart → Body parts and head\n\nb. Body parts → body heart → gills → gill heart → Body parts and head\n\nc. Body parts → body heart → gills → gill heart → body heart → Body parts and head\n\nd. Body parts and head → gills → gill heart → body heart → Body parts and head"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Theory",
+     "problem": "The following is a jaw structure that belongs to either an ape or to a most recent ancestor of human. Which of the following is the correct statement? [1 point]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-14-fig1.png\n\na. It most likely represents ancestral human jaw as the arrangement of molars and premolars matches with ancestral human skull.\n\nb. It most likely represents ape because of a peculiar jaw shape and distance between the teeth.\n\nc. It most likely represents ancestral human as the number of incisors and canines matches with the ancestral human skull.\n\nd. The jaw cannot be of an ape as apes are herbivores and lack canines."
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Theory",
+     "problem": "Three siblings have the following blood groups: B Rh positive; A Rh negative; and O Rh positive. Based on this information what will be the parents' genotype for the two blood group loci? (Note: Rh positive allele is dominant represented by +.) [1 point]\n\na. $I^{A}I^{B}$ +– and $I^{A}i$ +–\n\nb. $I^{B}i$ ++ and $I^{A}i$ +–\n\nc. $I^{B}i$ +– and $I^{A}i$ ––\n\nd. $I^{A}I^{B}$ ++ and $ii$ +–"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Theory",
+     "problem": "In natural populations, individual allele frequencies are changing all the time. Several factors can be responsible for change in allele frequency. Among these, the only factor that produces adaptive evolutionary changes is: [1 point]\n\na. random mutation.\n\nb. immigration and emigration.\n\nc. natural selection.\n\nd. genetic drift."
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "Theory",
+     "problem": "In order to understand the interaction of biotic and abiotic components on the life forms, experiment can be set to study the growth curve. When yeast cells were grown in a media, a sigmoidal curve was obtained as shown below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-17-fig1.png\n\nIf the above curve is converted into growth rate curve, where change in cell number per unit time is plotted against time, the graph obtained will be: [1 point]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-17-fig2.png"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "Theory",
+     "problem": "In the following diagram, the interaction between two organisms 1 and 2 is shown in laboratory culture. At different intervals, individuals of both the species were introduced into culture to maintain their population density (like natural immigration process).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-18-fig1.png\n\nWhich of the following statement/s is/are true for this interrelationship? [1 point]\n\ni. If immigration is not there, population of both species will get exhausted within 6 to 10 days.\n\nii. Organism 1 is most likely the predator of organism 2.\n\niii. The graph shows normal curve of prey – predator relationship. Therefore, in this experiment, immigration of species from external source is not essential for coexistence of species.\n\niv. Organism 1 and 2 share a mutualistic relationship with each other.\n\na. i and ii\n\nb. iii and iv\n\nc. i only\n\nd. iv only"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "Theory",
+     "problem": "Intrinsic rate (r) of natural increase in number, generation time in days and net reproduction rate ($R_0$) for 3 animals are given: [1 point]\n\n$$\\begin{array}{llll} & r & \\text{Average generation time} & R_0 \\\\ \\hline \\text{(i)} & 0.0125 & 141.8 & 5.9 \\\\ \\text{(ii)} & 0.101 & 55.6 & 275 \\\\ \\text{(iii)} & 0.111 & 30.9 & 30.9 \\end{array}$$\n\n(i), (ii) and (iii) most likely are:\n\na. rat, beetle and louse respectively.\n\nb. louse, beetle and rat respectively.\n\nc. rat, louse and beetle respectively.\n\nd. beetle, rat and louse respectively."
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "Theory",
+     "problem": "Approximately 9% of all bird species breed cooperatively, where non-reproducing subordinate “helpers” assist in raising the offspring of others. Helpers forego their own reproduction to provide energetically costly assistance in rearing the offspring of the breeding couple. Other confounding factors are known to affect the behavior of “helping”. Effect of one such factor, namely, shortage of territory (indicated as Yes or No) is shown in the graph. [1 point]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-20-fig1.png\n\na. The graph indicates that if territory is not limited, there are greater chances that the birds will act as helpers.\n\nb. The behavior of “helping” by non-related individuals is more pronounced when enough territory is available.\n\nc. The birds show low preference for “helping” behavior when nesting sites are limited.\n\nd. The graph indicates that unrelated birds are more likely to provide “help” to breeders when the territory availability is limited."
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Theory",
+     "problem": "The table below shows the number of study sites predicted to be occupied or unoccupied by tigers, based on a mathematical model of their habitat use and the actual observed presence or absence of tigers in those study sites based on rigorous field surveys. Assuming the field studies are accurate, answer questions 21 and 22.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-21-fig1.png\n\nWhat percentage of all the study sites was correctly predicted by the habitat model? [1 point]\n\na. 41.7\n\nb. 74.3\n\nc. 82.1\n\nd. 87.7"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Theory",
+     "problem": "The table below shows the number of study sites predicted to be occupied or unoccupied by tigers, based on a mathematical model of their habitat use and the actual observed presence or absence of tigers in those study sites based on rigorous field surveys. Assuming the field studies are accurate, answer questions 21 and 22.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-22-fig1.png\n\nWhich statement best describes the accuracy of the habitat model? [1 point]\n\na. The model was better at predicting tiger presence than tiger absence.\n\nb. The model was better at predicting tiger absence than tiger presence.\n\nc. The model equally good at predicting tiger presence and tiger absence.\n\nd. The model was unable to predict either tiger presence or tiger absence."
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Theory",
+     "problem": "To estimate the probability of a bird surviving from one year to the next in the wild, birds are often 'ringed' with a numbered aluminium ring attached to their leg. This allows researchers to track birds year after year to estimate survival probability. The impact of the ring itself on the survival of the bird is difficult to quantify because it is almost impossible to estimate accurately the survival of birds without rings. Which of the following choices would be the most suitable to try and estimate the impact of rings on bird survival in the wild? [1 point]\n\na. Use a radio transmitter on some birds without rings to estimate survival probability of birds, and compare with survival of ringed birds.\n\nb. Estimate the survival of captive birds without rings, and compare with the survival of ringed birds in the wild.\n\nc. Use rings of different weights on different birds of the same species, and examine the impact of ring weight on survival by extrapolation method.\n\nd. Use plastic rings instead of aluminium rings and compare survival probabilities of birds with different kinds of rings."
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Theory",
+     "problem": "Considering characters such as vascular tissue, wood and seed, which of the following correctly depicts evolutionary relationship but is not parsimonious? [1 point]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-24-fig1.png\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-24-fig2.png"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Theory",
+     "problem": "A cladogram depicting the evolutionary relationships of two classes of annelids is shown below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-25-fig1.png\n\nA, B and C respectively indicate: [1 point]\n\na. Polychaeta, Hirudinea and Oligochaeta\n\nb. Oligochaeta, Polychaeta and Hirudinea\n\nc. Hirudinea, Oligochaeta and Polychaeta\n\nd. Polychaeta, Oligochaeta and Hirudinea"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Theory",
+     "problem": "The ‘free living and independent sporophyte as well as gametophyte’ is a character that best fits at: [1 point]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-26-fig1.png\n\na. P\n\nb. Q\n\nc. R\n\nd. S"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Theory",
+     "problem": "In an experiment, endosperm of 5-day germinating seeds of Ricinus communis (castor bean seeds) were homogenized in an isotonic medium (0.4 moles/lit sucrose). The resulting organelle suspension was layered onto a density gradient column and centrifuged for 4 hrs at 1,00,000 g. Organelles move into the gradient until they have reached a position equivalent to their own density. Determination of protein contents revealed 4 distinct bands (I-IV) along the gradient. Some marker enzymes in each of these bands when tested showed following results:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-27-fig1.png\n\nBands I-IV represent:\n\n(Choose from the options below and fill in the blanks with the correct alphabet a – e for each band.) [2 points]\n\nBand I: _________\n\nBand II: _________\n\nBand III: _________\n\nBand IV: _________\n\nOptions:\n\na. Nuclei\n\nb. Protoplastids\n\nc. Mitochondria\n\nd. Cytosol\n\ne. Microbodies"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Theory",
+     "problem": "One of the hallmarks of living systems is that they have highly efficient catalysts called enzymes. Enzymes have many unique properties unlike chemical catalysts. Indicate whether each of the following statements is true or false by putting a tick mark (✔) in the appropriate box. [2.5 points]\n\ni. They catalyze the reaction by lowering $\\Delta G^{0'}$ of the reaction.\n\nii. Active site of the enzyme binds to transition state of the reaction.\n\niii. All enzyme substrate complexes formed are covalent in nature.\n\niv. Some RNA molecules also catalyze reactions.\n\nv. All enzymes lose their catalytic activity at temperatures as high as 90°C.\n\n$$\\begin{array}{l|c|c} \\text{Statement} & \\text{True} & \\text{False} \\\\ \\hline \\text{i.} & &  \\\\ \\hline \\text{ii.} & &  \\\\ \\hline \\text{iii.} & &  \\\\ \\hline \\text{iv.} & &  \\\\ \\hline \\text{v.} & &  \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Theory",
+     "problem": "The diagram below shows a schematic of a membrane ATPase proton pump and its interaction with other structures involved in solute exchange across the membrane. Study the diagram and the statements given and state which of them is/are true. ($\\mathrm{C^{+}}$ indicates cation, $\\mathrm{A^{-}}$ indicates anion while S indicates uncharged solute.) [2 points]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-29-fig1.png\n\nI. The plasma membrane ATPase directly contributes to potential difference across the plasma membrane.\n\nII. The ATPase – proton pump (a) acts as a uniport system.\n\nIII. The proton motive force generated due to the activity of the plasma membrane ATPase makes it difficult for the anions to passively diffuse into the cytosol.\n\nPut a tick mark (✔) in the appropriate box.\n\na. I only\n\nb. II and III only\n\nc. I and II only\n\nd. I, II and III"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Theory",
+     "problem": "cAMP activates lac-operon through binding to Catabolite Repressor Protein (CRP) protein. CRP-cAMP complex binds upstream in the lac-promoter. This facilitates binding of RNA polymerase if the lac-operator is free (not bound to lac-repressor). Glucose inhibits induction of lac-operon by lowering the levels of cAMP. The cAMP is produced from ATP by an enzyme adenylate cyclase. Following are some of the results from famous research papers published in 1971 and 1974 by Peterkofsky and Gazdar:\n\nExperiment 1: Effect of glucose on in-vivo activity of adenylate cyclase.\n\nE.coli were grown in synthetic medium, and 1mM sugar solutions (table 1) were added. In vivo activity of adenylate cyclase was measured by formation of cAMP. α-methylglucoside is a glucose derivative which cannot enter into glycolysis.\n\nTable 1:\n\n$$\\begin{array}{c|c} \\text{Additions} & \\text{p moles of cAMP formed/2mins} \\\\ \\hline \\text{None} & 828 \\\\ \\hline \\text{Glucose} & 80 \\\\ \\hline \\text{Gluconic acid} & 866 \\\\ \\hline \\alpha\\text{-methylglucoside} & 84 \\end{array}$$\n\nExperiment 2: Effect of glucose on in-vitro activity of adenylate cyclase.\n\nCultures of E.coli B were grown in different concentrations of glucose. Cells were harvested and lysed and adenylate cyclase activity was measured.\n\n$$\\begin{array}{c|c} \\%\\ \\text{glucose in medium} & \\text{Adenylate cyclase activity} \\\\ \\hline 0.03\\% & 0.41 \\\\ \\hline 0.3\\% & 0.39 \\\\ \\hline 3.0\\% & 0.82 \\end{array}$$\n\nAnalyse the above results and state whether the following statements are true or false by putting tick marks (✔) in the appropriate boxes. [3 points]\n\ni. Metabolism of glucose is not essential for inhibition of adenylate cyclase.\n\nii. Glucose directly binds to adenylate cyclase and inhibits it.\n\niii. Possibly transport of glucose or glucose like molecules in intact cell is important for inhibition of adenylate cyclase.\n\n$$\\begin{array}{l|c|c} \\text{Statement} & \\text{True} & \\text{False} \\\\ \\hline \\text{i.} & &  \\\\ \\hline \\text{ii.} & &  \\\\ \\hline \\text{iii.} & &  \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "Theory",
+     "problem": "Pulse-chase analysis is a method for examining any cellular process occurring over time by exposing (the pulse) the cells to radioactively labeled compound and then replacing the labeled compound with unlabelled one. Radioactively labeled leucine [$^{3}$H-leucine] is used to study the function of insulin synthesis of pancreatic β cells. Following results were obtained when β cells were exposed to $^{3}$H-leucine for 30 minutes and intermittently aliquoted. The four graphs obtained most likely indicate:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-31-fig1.png\n\na. I: Radioactivity due to insulin inside the Golgi.\n\nb. I: Extracellular radioactivity due to insulin.\n\nc. I: Radioactivity due to pro-insulin inside secretory vesicles.\n\nd. II: Cytoplasmic radioactivity due to pro-insulin.\n\ne. II: Radioactivity due to pro-insulin inside the Rough ER.\n\nf. III: Radioactivity due to insulin inside secretory vesicles.\n\ng. III: Radioactivity due to pro-insulin inside the Golgi apparatus.\n\nh. IV: Radioactivity due to C-peptide inside Golgi apparatus.\n\ni. IV: Radioactivity due to pro-insulin in Rough ER.\n\nChoose from the options and fill in the blanks with the alphabet indicating the correct answer. [4 points]\n\nGraph I: ________\n\nGraph II: ________\n\nGraph III: ________\n\nGraph IV: ________"
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "Theory",
+     "problem": "Transformation of bacteria is often used in recombinant DNA technology to introduce a plasmid into E.coli cell. Success of the process depends upon when each molecule of the recombinant plasmid is successful in transforming each bacterium. In an experiment 1x10$^{-9}$g of a 3000 bp plasmid was used to transform the E.coli cells. Consequently, 1x10$^{8}$ transformed E.coli cells were obtained. Calculate the % efficiency of the transformation process. Consider that the molecular weight of 1bp = 660. [2 points]"
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "Theory",
+     "problem": "Consider a mitochondrial DNA that has a molecular weight of 9.9 x 10$^{6}$. How many proteins with non-overlapping sequences would be coded by this genome? (Assume that all nucleotides would be coding.) [2 points]\n\n(Consider: average molecular weight of a protein to be 30,000; mean molecular weight of an amino acid residue to be 100; average molecular weight of a nucleotide to be 330)."
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "Theory",
+     "problem": "Given below are some details regarding the disease Phenylketonuria (PKU). The alleles P and Q code for different versions of the Phenylalanine Hydroxylase (PAH) enzyme, whose function is to break down phenylalanine (Phe). High concentrations of phenylalanine result in Phenylketonuria.\n\n$$\\begin{array}{l|l|l|l} \\text{Genotype} & \\text{PAH activity} & \\text{Concentration of Phe} & \\text{PKU Disease} \\\\ \\hline \\text{PP} & 100\\% & 60\\ \\text{uM} & \\text{No} \\\\ \\hline \\text{PQ} & 30\\% & 120\\ \\text{uM} & \\text{No} \\\\ \\hline \\text{QQ} & 0.3\\% & 600 \\sim 2400\\ \\text{uM} & \\text{Yes} \\end{array}$$\n\nFrom the given information, which of the following statements about the alleles P and Q in terms of PAH activity is true? Put a tick mark (✔) in the appropriate box. [2 points]\n\na. P is dominant over Q.\n\nb. Q is dominant over P.\n\nc. P shows incomplete dominance over Q.\n\nd. Q shows incomplete dominance over P."
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "Theory",
+     "problem": "The diagram below shows different parts of a moss (bryophyte). Different parts have been labeled from A to F.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-35-fig1.png\n\n(A) Complete table1 by indicating the ploidy levels of each of the plant parts A – F. (Only a fully correct row will be given marks). [4 points]\n\nTable 1\n\n$$\\begin{array}{l|l} \\text{Ploidy level} & \\text{Plant parts} \\\\ \\hline \\text{Haploid (n)} & \\\\ \\hline \\text{Diploid (2n)} & \\end{array}$$\n\n(B) Analyze statements given in table 2 and state whether they are true or false by putting tick marks (✔) in the appropriate boxes.\n\nTable 2\n\n$$\\begin{array}{r|l|c|c} & \\text{Statement} & \\text{True} & \\text{False} \\\\ \\hline \\text{I.} & \\text{Parts A and D are photosynthetic.} & & \\\\ \\hline \\text{II.} & \\text{Part F is unicellular and unbranched.} & & \\\\ \\hline \\text{III.} & \\text{Part C shows the presence of stomata.} & & \\\\ \\hline \\text{IV.} & \\text{Sexually reproducing structures are found in part A.} & & \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 36,
+     "paper_label": "Theory",
+     "problem": "Cocklebur is a short day plant with critical period of 15 hours. In these plants, leaves exposed to non-inducing photoperiod actively inhibit flowering while, leaves exposed to inducing photoperiod, synthesize flowering hormone which travels upwards towards the apex of the plant stem. In which of the following situations, will there be flowering? (Note that the black papers shown in the figures cover the leaves throughout the day.)\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-36-fig1.png\n\nPut tick marks (✔) in the appropriate boxes. [2 points]\n\n$$\\begin{array}{l|c|c} \\text{Situations} & \\text{Flowering will be observed} & \\text{Flowering will not be observed} \\\\ \\hline \\text{a.} & & \\\\ \\hline \\text{b.} & & \\\\ \\hline \\text{c.} & & \\\\ \\hline \\text{d.} & & \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 37,
+     "paper_label": "Theory",
+     "problem": "The life cycle of plants is characterized by meiosis, mitosis and fertilization followed by growth and development at different stages. The following diagram depicts the haplodiplontic life-cycle typically found in pteridophytes. In the diagram place A for meiosis, B for mitosis and C for fertilization in the different boxes given below so as to depict the correct life cycle. (Entirely correct answers in the sporophyte and gametophyte generation will be given 1.5 point each.) [3 points]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-37-fig1.png"
+    },
+    {
+     "day": 1,
+     "number": 38,
+     "paper_label": "Theory",
+     "problem": "Respiration in three types of plant tissues/parts are listed below:\n\nM. Respiration of growing leaf cells\n\nN. Respiration of mature lemon fruit\n\nO. Respiration of sprouting mustard seeds\n\nRespiratory quotient (RQ) is defined as the ratio between $\\mathrm{CO_2}$ release and $\\mathrm{O_2}$ uptake measured at the same time. RQ can provide information on the nature of substrate used for respiration and relative rate of completing respiratory processes. This can be demonstrated by balanced equations. Three such equations are given below:\n\nI] $\\mathrm{C_6H_8O_7 + 4.5O_2 \\rightarrow 6CO_2 + 4H_2O}$\n\nII] $\\mathrm{C_6H_{12}O_6 + 6O_2 \\rightarrow 6CO_2 + 6H_2O}$\n\nIII] $\\mathrm{C_{57}H_{104}O_6 + 36.5O_2 \\rightarrow 3.625\\,C_{12}H_{22}O_{11} + 13.5CO_2 + 12.125H_2O}$\n\nMatch the different respiring plant tissues (M - O) to the appropriate respiratory Process/es (I – III). [3 points]\n\nM: _____\n\nN: _____\n\nO: _____"
+    },
+    {
+     "day": 1,
+     "number": 39,
+     "paper_label": "Theory",
+     "problem": "In an experiment to study photosynthesis in spinach, following 4 sets were prepared.\n\nSet P: Intact chloroplasts were separated from spinach leaves. Then the mixture of intact chloroplasts, NADP and ADP were exposed to light for some time. Then chlorophyll was selectively removed from the mixture and $^{14}\\mathrm{CO_2}$ was introduced to the system in dark.\n\nSet Q: It was exactly like set P but without addition of NADP and ADP.\n\nSet R: Intact chloroplasts, NADP and ADP mixture was exposed to light with $^{14}\\mathrm{CO_2}$ simultaneously.\n\nSet S: Similar to set R but maintained in dark.\n\nMatch the following $^{14}\\mathrm{CO_2}$ fixed (counts/min) to each of the above sets and fill in the blanks: [2 points]\n\ni. 9000\n\nii. 20, 000\n\niii.1,34,000\n\niv. 2,00,000\n\nSet P: _____\n\nSet Q: _____\n\nSet R: _____\n\nSet S: _____"
+    },
+    {
+     "day": 1,
+     "number": 40,
+     "paper_label": "Theory",
+     "problem": "Biochemical changes that occur during hyperventilation and breath retention can be predicted. The levels of 4 parameters under normal condition are given. Indicate the changes that will occur during (i) hyperventilation and (ii) holding the breath by writing ‘increase’, ‘decrease’ or ‘no change’. [2 points]\n\n(Only an entirely correct row will be given points.)\n\n$$\\begin{array}{l|c|c|c|c} & \\text{pH} & \\text{kPa} & \\text{kPa} & \\text{mmol/L} \\\\ & & \\mathrm{pCO_2} & \\mathrm{pO_2} & \\mathrm{HCO^{-}_{3}} \\\\ \\hline \\text{Normal} & 7.4 & 4.49 & 16.5 & 20.9 \\\\ \\hline \\text{Hyperventilation} & & & & \\\\ \\hline \\text{Holding breath} & & & & \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 41,
+     "paper_label": "Theory",
+     "problem": "Cambarus aculabrum is an obligatory cave dweller crayfish species. It shows several peculiar traits that have adaptive significance. Which of the following is/are likely to be observed in these animals? Put tick marks (✔) in the appropriate boxes. [2.5 points]\n\ni. Highly reduced body pigmentation.\n\nii. Well-developed and enlarged eyes.\n\niii. Highly developed sensory organs such as antennae.\n\niv. Reduced ambulatory appendages.\n\nv. Lower rate of metabolism.\n\n$$\\begin{array}{l|c|c} \\text{Traits} & \\text{Likely to be observed} & \\text{Not likely to be observed} \\\\ \\hline \\text{i.} & &  \\\\ \\hline \\text{ii.} & &  \\\\ \\hline \\text{iii.} & &  \\\\ \\hline \\text{iv.} & &  \\\\ \\hline \\text{v.} & &  \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 42,
+     "paper_label": "Theory",
+     "problem": "Hormonal secretions bring about sequential changes in the female reproductive system. Menses refers to regression of corpus luteum, triggering an inflammatory response in the endometrium followed by bleeding. Possible role of hypoxia inducing factor (HIF) in the menstrual bleeding has been proposed for several years. In hypoxic conditions, α subunit of this protein binds with β-subunit and induces transcription of growth factor that plays a role in the recovery of the injured tissue.\n\nWhen oxygen is abundant, α subunit of HIF-1α is hydroxylated by propyl hydroxylase (PHD) enzyme. This triggers its rapid degradation by proteosome.\n\nPimonidazole is another endometrial tissue marker for hypoxia. When reduced, it can bind to cellular biomolecules such as proteins and can be detected. The human menstrual cycle is shown below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-42-fig1.png\n\nIn a study, the role of hypoxia and HIF levels were studied in females with normal menstrual bleeding (NMB) and heavy menstrual bleeding (HMB). Results of Western Blot are shown below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-42-fig2.png\n\nIndicate whether each of the following statements is true or false by putting a tick mark (✔) in the appropriate box. [2.5 points]\n\na. It is likely that hypoxia leads to vasoconstriction thus helping prevent blood loss from the site of injury.\n\nb. Graphs X and Y respectively refer to progesterone and oestrogen levels.\n\nc. Hypoxia is likely to be present during late secretory phase and menstrual phase.\n\nd. It is likely that in HMB females, PHD is upregulated.\n\ne. Endometrial tissues from NMB females are likely to show less staining with Pimonidazole as compared to HMB females.\n\n$$\\begin{array}{l|c|c} \\text{Statement} & \\text{True} & \\text{False} \\\\ \\hline \\text{a.} & &  \\\\ \\hline \\text{b.} & &  \\\\ \\hline \\text{c.} & &  \\\\ \\hline \\text{d.} & &  \\\\ \\hline \\text{e.} & &  \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 43,
+     "paper_label": "Theory",
+     "problem": "Consider a hypothetical situation of a mammal on earth living in a $\\mathrm{CO_2}$ rich environment. It inspires $\\mathrm{CO_2}$ and expires $\\mathrm{O_2}$. This animal has evolved respiratory pigment proteins P to carry $\\mathrm{CO_2}$ in the blood and Q to carry $\\mathrm{O_2}$ in the blood. Which of the following structural characteristics in the carrier protein is/are evolutionarily favourable? Put tick mark/s (✔) in the appropriate box/es. [2 points]\n\na. Affinity of P for $\\mathrm{CO_2}$ will decrease with increasing pH\n\nb. Affinity of Q for $\\mathrm{O_2}$ will increase with increasing pH\n\nc. Affinity of P for $\\mathrm{CO_2}$ will increase with increasing pH\n\nd. Affinity of Q for $\\mathrm{O_2}$ will decrease with increasing pH\n\ne. Affinity of P for $\\mathrm{CO_2}$ will decrease with decreasing pH\n\nf. Affinity of Q for $\\mathrm{O_2}$ will increase with decreasing pH"
+    },
+    {
+     "day": 1,
+     "number": 44,
+     "paper_label": "Theory",
+     "problem": "In Drosophila, sex determination is based on the ratio of X-chromosome to autosomal (X:A) ratio. Although, Y chromosome is not involved in determination of sex, it is essential for the process of spermatogenesis. The diagram below summarizes the molecular pathway of the process of sex determination in Drosophila.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-44-fig1.png\n\nThe activation of Sxl gene is triggered by a protein dimer transcription factor known as NUM-NUM dimer. NUM protein monomer is transcribed by a X chromosome gene while a similar protein DEM is coded by an autosomal gene. NUM-DEM dimer or DEM-DEM dimer do not function as transcription factors.\n\nBased on the information, predict the sex and the fertility of the Drosophila embryos in the following conditions and put tick marks (✔) in the appropriate boxes in the table. [2.5 points]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-44-fig2.png"
+    },
+    {
+     "day": 1,
+     "number": 45,
+     "paper_label": "Theory",
+     "problem": "There are four different ways operons could be regulated namely:\n\na. Negative inducible (NI)\n\nb. Negative repressible (NR)\n\nc. Positive inducible (PI)\n\nd. Positive repressible (PR)\n\nThe diagram below summarizes these mechanisms. Identify the appropriate regulation mechanism/s that would be optimum for a bacterial cell to use in the situations described below and write down the correct alphabet/s in the blanks. [4 points]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-45-fig1.png\n\nSituation 1: A molecule P can be synthesised by the cell but it prefers obtaining it from its environment if it is available.\n\nSituation 2: A molecule when present in the environment can negatively affect the growth of the cell, but the cell can degrade it to harmless products by specialised enzymes.\n\nSituation 3: A molecule is a by-product of an essential biochemical pathway, if it accumulates above permissible limit inside the cell it has negative effects on the growth of the cell.\n\nSituation 4: A molecule only when produced in excess, needs to be converted into another molecule for future use."
+    },
+    {
+     "day": 1,
+     "number": 46,
+     "paper_label": "Theory",
+     "problem": "In an experiment, the following three strains of the same bacterial species were used:\n\nStrain 1 is phe$^{+}$ trp$^{+}$ met$^{-}$ his$^{-}$\n\nStrain 2 is phe$^{-}$ trp$^{-}$ met$^{+}$ his$^{+}$\n\nStrain 3 is phe$^{+}$ trp$^{+}$ met$^{+}$ his$^{+}$\n\nThese three strains were individually plated on two different sterile growth media P and Q.\n\nP is a complete medium that contains all essential nutrients required for growth.\n\nQ is a minimal media that contains only sugars (as carbon source) and minerals required for growth.\n\nThese plates were then incubated to check for growth.\n\n(A) Indicate whether you will observe the bacterial growth in these media using symbols + and -. (Only an entirely correct row will be given points.) [2 +1.5 +1 = 4.5 points]\n\n$$\\begin{array}{l|c|c|c} \\text{Media} & \\text{Strain 1} & \\text{Strain 2} & \\text{Strain 3} \\\\ \\hline \\text{P} & & & \\\\ \\hline \\text{Q} & & & \\end{array}$$\n\nIn order to study whether gene transfer occurs between these bacteria, which of the following is the correct experimental set up? Put a tick mark (✔) in the appropriate box.\n\na. Mix strains 1 and 2 and grow the cells in minimal media.\n\nb. Mix strains 2 and 3 and grow the cells in complete media.\n\nc. Mix strains 1 and 2 initially, then add strain 3 and grow the cells in complete media.\n\nd. Mix strains 1 and 3 and grow the cells in minimal media.\n\n(B) Which of the following results will support the assumption that the gene transfer occurred? Put a tick mark (✔) in the appropriate box.\n\n(Points will be awarded only if part A is correct.)\n\ni. Strain 1 became phe$^{+}$ trp$^{+}$ met$^{+}$ his$^{+}$\n\nii. Strain 2 became phe$^{+}$ trp$^{+}$ met$^{+}$ his$^{+}$\n\niii. Strain 3 became phe$^{-}$ trp$^{-}$ met$^{-}$ his$^{-}$\n\niv. Any of the strains became phe$^{-}$ trp$^{-}$ met$^{-}$ his$^{-}$\n\na. i only\n\nb. ii only\n\nc. i or ii\n\nd. iii or iv"
+    },
+    {
+     "day": 1,
+     "number": 47,
+     "paper_label": "Theory",
+     "problem": "The eye of a wild type Drosophila melanogaster has about 700 ommatidia giving it an oval shape. In Bar mutants (B) the number of ommatidia is reduced giving it a bean shape when heterozygous or a slit like structure when homozygous. The bar gene is X-linked. The mutant allele (B) is dominant over the wild type allele (B$^{+}$). Drosophila also has recessive alleles of genes (l) that cause lethality of the organism during early embryonic development. The normal allele of this gene is denoted as l$^{+}$. In a stock of Drosophila one such allele is present on the X-chromosome and is 20cM away from the bar gene.\n\nThe following cross was carried out:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-47-fig1.png\n\n300 progeny were analyzed. Based on the information given above, calculate the expected number of progeny with different phenotypes and their sex and fill in the values in the boxes in the table. [2 points]\n\n$$\\begin{array}{l|c|c} & \\text{Bar eyed} & \\text{Wild type} \\\\ \\hline \\text{Males} & & \\\\ \\hline \\text{Females} & & \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 48,
+     "paper_label": "Theory",
+     "problem": "Many of the traits observed in human populations are polygenic. Apart from being polygenic, they are frequently influenced by environmental factors. The proportion of total phenotypic variation that is due to genetic differences is known as heritability. This heritability can be estimated by comparing phenotypes of parents and offspring. Three situations are given below:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-48-fig1.png\n\nArrange the graphs in the order of increasing environmental effect on offspring phenotype. (Only an entirely correct order will be given points.) [2 points]"
+    },
+    {
+     "day": 1,
+     "number": 49,
+     "paper_label": "Theory",
+     "problem": "Radioactive carbon $^{14}$C constitutes a very small proportion of total atmospheric $\\mathrm{CO_2}$. There is only about 1 radioactive carbon atom for every million stable $^{12}$C atoms in atmosphere. Knowing the half life of $^{14}$C to be 5600 years, what will be the expected ratio of $^{14}$C:$^{12}$C in the fossil skeleton that is 11,200 years old? [2 points]"
+    },
+    {
+     "day": 1,
+     "number": 50,
+     "paper_label": "Theory",
+     "problem": "Renewable energy is greener than fossil fuels. Nonetheless, it does have some impact on the ecosystem. In Western Ghats of India, several turbines are installed in order to harness wind energy. When scientists did the survey of the region after some years of installation, they found some changes in fan-throated lizards, a natural inhabitant. The males of this species possess a flap under the throat which becomes brightly coloured as they reach sexual maturity. They found that\n\n(i) these flaps were much less coloured now.\n\n(ii) the density of these lizards had increased in the area and\n\n(iii) these lizards showed reduced tendency to escape when they were approached.\n\nIndicate whether each of the following could be the cause or result of these findings. Put tick marks (✔) in the appropriate boxes. [2 points]\n\na. Observation (i) and (ii) suggest that reduced colour of the flap may have helped lizards better camouflage with nature and hence increased their survival chances.\n\nb. Observation (iii) suggests that the new environment has reduced predator pressure on lizards.\n\nc. The reduced colouration [observation (i)] could be due to decrease in prey which had carotenoid-like pigments in their body.\n\nd. Observation (ii) clearly indicates that there is more abundant prey available in the habitat than before.\n\n$$\\begin{array}{l|c|c} \\text{Statement} & \\text{Cause/Result} & \\text{Not a cause/result} \\\\ \\hline \\text{a.} & &  \\\\ \\hline \\text{b.} & &  \\\\ \\hline \\text{c.} & &  \\\\ \\hline \\text{d.} & &  \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 51,
+     "paper_label": "Theory",
+     "problem": "In order to understand interspecific relationships in different environments, a study on two barnacle species namely, C. stellatus and B. balanoides was conducted in the intertidal zone. The results are shown as kite diagram. The diagram indicate the zones occupied by barnacles of different stages as well as controlling factors acting on the two species.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-51-fig1.png\n\nStudy the kite diagram and assign appropriate zone/s (A – D) to the following descriptions: [3 points]\n\n(Only an entirely correct answer to each description(I-VI) will be given points.)\n\nI. Zone of competitive exclusion: ______\n\nII. Realised niche of B. balanoides: ______\n\nIII. Zone of highest interspecific competition: _____\n\nIV. Dessication as a major controlling factor: ______\n\nV. Predation selection pressure on B. balanoides: _______\n\nVI. Potential niche of C. stellatus: ______"
+    },
+    {
+     "day": 1,
+     "number": 52,
+     "paper_label": "Theory",
+     "problem": "The sac fungus Cryphonectria endothia can infect chestnut tree native to China. However, when it infects the tree, its growth is kept in check by a variety of natural factors. The same fungus infects another species of chestnut native to America, through the bores made by the birds and the mycelium grows, eventually encircling the trunk leading to death of the tree. If Cryphonectria endothia gets infected by a particular strain of virus, it regulates the fungus by altering its RNA content such that further damage to the chestnut tree is prevented. What kinds of interactions are taking place between the following species? Choose from the options below and fill in the blanks with the appropriate alphabet. [1.5 points]\n\ni. Cryphonectria endothia and chestnut tree native to China: ___________\n\nii. Cryphonectria endothia and chestnut tree native to America: ___________\n\niii. Cryphonectria endothia and virus: _____________\n\nOptions:\n\na. Host-parasite interaction\n\nb. Host-pathogen interaction\n\nc. Commensalism\n\nd. Amensalism\n\ne. Mutualism"
+    },
+    {
+     "day": 1,
+     "number": 53,
+     "paper_label": "Theory",
+     "problem": "In the following flow chart, the vertical interlinking of trophic levels is shown from Producers (P), Herbivores (H), Secondary Carnivores (C) and Tertiary Carnivore (TC). Within trophic levels, horizontal interactions are also seen which are marked here as X, Y and Z interactions.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-53-fig1.png\n\nIndicate whether each of the following statements is correct or incorrect by putting tick marks (✔) in the appropriate boxes. [2 points]\n\na. Interaction X indicates interspecific competition between species primarily for resources.\n\nb. Interaction Y is a competition between two species within trophic level for space.\n\nc. The preference of C2 either for H2 or H3 will decide the type and extent of interaction Z between H2 and H3.\n\nd. In this food chain TC1 is a true carnivore while C1 and C2 are omnivores.\n\n$$\\begin{array}{l|c|c} \\text{Statement} & \\text{Correct} & \\text{Incorrect} \\\\ \\hline \\text{a.} & &  \\\\ \\hline \\text{b.} & &  \\\\ \\hline \\text{c.} & &  \\\\ \\hline \\text{d.} & &  \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 54,
+     "paper_label": "Theory",
+     "problem": "Bignoniaceae is a family of flowering plants known for ornamental tubular flowers. Genus Crescentia and genus Tabebuia both belong to this family. Classification of plants of these two genera is shown below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-54-fig1.png\n\nIndicate whether each of the following statements is true or false by putting tick marks (✔) in the appropriate boxes. [2 points]\n\na. All Tabebuia species are monophyletic.\n\nb. Bat pollination is a charactristic feature of only Crescentia species.\n\nc. Outgroup species would show either unlobed or compound leaves.\n\nd. T. beta is more closely related to T. alpha than to T. delta.\n\n$$\\begin{array}{l|c|c} \\text{Statement} & \\text{True} & \\text{False} \\\\ \\hline \\text{a.} & &  \\\\ \\hline \\text{b.} & &  \\\\ \\hline \\text{c.} & &  \\\\ \\hline \\text{d.} & &  \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 55,
+     "paper_label": "Theory",
+     "problem": "Animal classification is shown in the form of a cladogram.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-55-fig1.png\n\nIndicate whether each of the following statements is true or false by putting tick marks (✔) in the appropriate boxes. [2 points]\n\na. Tetsudines, Lepidosauria and Crocodylia together form a monophyletic taxon ‘Reptilia’.\n\nb. The homeotherms form a polyphyletic taxon.\n\nc. The trait ‘Q’ is most likely to be amniotic egg.\n\nd. The taxon that contains mammals, reptiles and birds along with their most recent common ancestor is a monophyletic clade.\n\n$$\\begin{array}{l|c|c} \\text{Statement} & \\text{True} & \\text{False} \\\\ \\hline \\text{a.} & &  \\\\ \\hline \\text{b.} & &  \\\\ \\hline \\text{c.} & &  \\\\ \\hline \\text{d.} & &  \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 56,
+     "paper_label": "Theory",
+     "problem": "Given is a sketch of an organism that an archaeologist found.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-56-fig1.png\n\nFigure 1: External Structures\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2019-1-56-fig2.png\n\nFigure 2: Internal Structures\n\nThe interpretation of its morphological and anatomical features is provided in the table below.\n\n$$\\begin{array}{l|c|c|c|c|c|c|c} \\text{Phyla/Class} & \\text{Worm-like body} & \\text{Organ differentiation} & \\text{External body segmentation} & \\text{Nerve cord} & \\text{External legs} & \\text{Circulatory system} & \\text{Vertebral column} \\\\ \\hline \\text{Nematoda} & \\text{Yes} & & & & & & \\\\ \\hline \\text{Annelida} & \\text{Yes} & \\text{Yes} & \\text{Yes} & \\text{Ventral} & & & \\\\ \\hline \\text{Arthropoda} & & \\text{Yes} & & \\text{Ventral} & \\text{Yes} & \\text{Open} & \\\\ \\hline \\text{Reptilia} & & \\text{Yes} & & \\text{Dorsal} & \\text{Yes} & \\text{Closed} & \\text{Yes} \\end{array}$$\n\nThis organism is likely to be a link between:\n\n(Fill in the blanks with the correct Phyla/Class.) [2 points]"
+    }
+   ]
+  },
+  {
+   "year": 2020,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Theory",
+     "problem": "Lipid rafts are cholesterol-rich and glycosphingolipid-rich microdomains in the plasma membrane. Integral membrane proteins required for immune signaling and cell-cell communication are found in rafts. A few statements regarding lipid rafts are given below.\n\ni. The raft microdomains are more fluid than rest of the membrane.\n\nii. Integral membrane proteins present in lipid rafts require a specific modification.\n\niii. The raft microdomains do not freely mix with rest of the membrane and can induce protein clustering.\n\niv. Lipid rafts help in preferential endocytosis of clustered signalling proteins.\n\nPick the combination of correct statements. [1 point]\n\na. i, ii and iii\n\nb. i, ii and iv\n\nc. ii and iii only\n\nd. i and iii only"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Theory",
+     "problem": "Kinesin-5 motors are tetrameric motors that bind to anti-parallel microtubules and slide them apart. The microtubules in a mitotic spindle can be divided into three groups (1) kinetochore microtubules (ii) astral microtubules and (iii) interpolar microtubules as shown below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-2-fig1.png\n\nDuring mitosis, Kinesin-5 is most likely to be present on __________ microtubules and is expected to play a crucial role during _________. Choose the correct option to complete the given statement. [1 point]\n\na. kinetochore and prophase\n\nb. interpolar and anaphase\n\nc. astral and anaphase\n\nd. interpolar and metaphase"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Theory",
+     "problem": "A few cell types and action potentials are shown below.\n\n$$\\begin{array}{l} \\text{Cell Types} \\\\ \\hline \\text{A1. Pacemaker Cells} \\\\ \\text{A2. Nerve Cells} \\\\ \\text{A3. Cardiac Myocytes} \\end{array}$$\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-3-fig1.png\n\nMatch the action potentials to the respective cell type and choose the combination of correct pairs. [1 point]\n\na. A1-B2, A2-B1, A3-B3\n\nb. A1-B3, A2-B1, A3-B2\n\nc. A1-B1, A2-B2, A3-B3\n\nd. A1-B3, A2-B2, A3-B1"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Theory",
+     "problem": "Which of the following statements regarding surface area to volume ratio is/are true?\n\ni. Large surface area to volume ratio eliminates the need for a circulatory system.\n\nii. Large surface area to volume ratio helps in faster exchange of nutrients.\n\niii. Large surface area to volume ratio helps in faster rate of diffusion of nutrients inside cells.\n\nChoose the correct option. [1 point]\n\na. (i) only\n\nb. (i) and (ii) only\n\nc. (ii) and (iii) only\n\nd. (i), (ii) and (iii)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Theory",
+     "problem": "Insulin peptides and the bonds between them are shown in the figure below. The release of ‘C’ peptide is important for the production of mature functional insulin and the signaling mediated by it.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-5-fig1.png\n\nAs shown below, different Single Nucleotide Polymorphism (SNP) event/s introduced an additional site for restriction enzyme RE1 in the insulin gene. These SNPs did not change the C- peptide release. However, the mature insulin produced was non-functional.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-5-fig2.png\n\nWhich SNP event/s in the insulin gene can be the most likely explanation of the above observation? [1 point]\n\na. Only SNP1\n\nb. SNP1 & 5\n\nc. SNP 3 & 4\n\nd. Only SNP6"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Theory",
+     "problem": "A growth factor, promoting cell growth activates a distinct cascade of phosphorylation events mediated by protein kinase enzymes. The ATP dependant phosphorylation of the target by a kinase can regulate the function of target proteins. Several statements made in this regard are given below:\n\n1) Energy released from ATP hydrolysis by the kinase helps in activation of the target protein.\n\n2) ATP hydrolysis-mediated phosphorylation often brings structural changes in the target protein.\n\n3) Phosphorylation can facilitate new protein-protein interactions to target proteins.\n\n4) Phosphorylation of the target protein must activate it.\n\nWhich of the statements is/are true? [1 point]\n\na. 1 and 4.\n\nb. 2 and 3.\n\nc. 3 only.\n\nd. 2 and 4."
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Theory",
+     "problem": "A circular plasmid DNA with ampicillin resistance gene, having a unique site for the restriction enzyme ‘X’, was digested completely with ‘X’ to generate cytosine residues at the 5’end of the overhangs. After treatment with a second enzyme, which is not a restriction enzyme, the digested DNA was used in a self-ligation reaction. When the ligation mixture was transformed in bacteria, no colonies were obtained on ampicillin containing selection media. Following statements are made about the second enzyme and its function.\n\n1. It is a kinase which phosphorylates the 5’end of the cytosine residues.\n\n2. It is a phosphatase which removes 5’phosphate from the cytosine residue.\n\n3. It is a methylase which attaches –$\\mathrm{CH_3}$ group exclusively to the 5’ cytosine residue.\n\n4. It is a deaminase which removes the –$\\mathrm{NH_2}$ group from the 5’cytosine residue.\n\nPick the option that correctly explains the failure of colony formation. [1 point]\n\na. 1 & 3\n\nb. 2 & 4\n\nc. 1 & 4\n\nd. 3 & 2"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Theory",
+     "problem": "Toluidine is a metachromatic stain that can impart different colors to different plant tissues. The primary cell walls turn pink while secondary cell walls turn blue. Which of the following is likely to result? [1 point]\n\na. Collenchyma cell walls will turn pink.\n\nb. Xylem vessels will turn pink.\n\nc. Phloem walls will turn blue.\n\nd. Chlorenchyma wall will turn blue."
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Theory",
+     "problem": "The graph below shows the change in the relative water content of different tissues with change in the total water content of the leaf of Peperomia trichocarpa. The cross sections A and B next to it represent water saturated leaves and the leaves on drying respectively. Based on this information indicate which of the following statements are true. [1 point]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-9-fig1.png\n\n(i) Total water retained in the chlorenchyma is always more than that in water storage tissue at different levels of desiccation.\n\n(ii) At about 50% water content, the loss of water from the water storage tissue is about 75%.\n\n(iii) Major change in leaf thickness occurs due to shrinkage in the water storage tissue.\n\n(iv) 75% water loss in the chlorenchyma is seen when the total water content falls by 75%.\n\nChoose from the options given below.\n\na. (i) and (ii) only\n\nb. (ii) and (iii) only\n\nc. (i), (ii) and (iii) only\n\nd. (i), (ii), (iii) and (iv)"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Theory",
+     "problem": "Active biological life is substantially dependent on functional membranes. The lipids of these membranes must be present in a viscous-fluid state for the proteins and protein complexes anchored within them to fulfil their functions. The melting point and viscosity of the lipids depend on the length of the component fatty acids and their degree of unsaturation. The following table provides information on the melting points of major fatty acids found in plant membranes and also compares the composition of mitochondrial membrane of two plant species. Study the table carefully and based on it, state which of the following statements are true. [1 point]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-10-fig1.png\n\n(i) The shorter the fatty acid chain, the lesser is the viscous-fluid state of lipids at lower temperatures.\n\n(ii) The higher the degree of unsaturation in a fatty acid, higher is the viscous-fluid state of lipids at lower temperatures.\n\n(iii) Chilling-sensitive plants have a higher percentage of unsaturated fatty acids in their mitochondrial membranes as compared to saturated fatty acids.\n\n(iv) Chilling-sensitive plants have a lower unsaturated to saturated fatty acid ratio compared to chilling-resistant plants.\n\na. (i), (ii) and (iv) only\n\nb. (i) and (iii) only\n\nc. (ii), (iii) and (iv) only\n\nd. (i), (ii), (iii) and (iv)"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Theory",
+     "problem": "Amit found a permanent slide in an old cupboard of his school laboratory. As the corner of the slide was broken, the label was incomplete. He could only read ‘T.S. of….’ He started observing the slide under the microscope. He observed the section as shown in the picture below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-11-fig1.png\n\nBased on his observations, state which of the following statements is/are true. [1 point]\n\ni. It is a transverse section of a floating hydrophytic leaf.\n\nii. The epidermal region towards ‘P’ can be considered as the adaxial side.\n\niii. The plant must be monocotyledonous.\n\niv. If water dries up, the leaf will curl downwards towards ‘Q’.\n\nv. There is no prominent mid-vein present in this leaf.\n\na. ii only\n\nb. i and iv\n\nc. ii and iii\n\nd. iii, iv and v"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Theory",
+     "problem": "In order to study various factors affecting flowering of plants, an experiment was performed on four sets of plants. In these sets, either the upper or the lower parts of the plants were defoliated and separated by a light barrier. Either the upper or lower part of the plant was exposed to the correct photoperiod. As shown in the diagram, plants in sets 1 and 4 showed flowering.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-12-fig1.png\n\nFor testing which of the following hypotheses was the above experimental set up designed? [1 point]\n\na. If the plant is exposed to incorrect photoperiod, flowering will not occur.\n\nb. There is no effect of light barrier on the plant flowering process.\n\nc. Vegetative growth of a plant is a more crucial factor for flowering as compared to light.\n\nd. Only if plant leaves are exposed to the correct photoperiod, flowering will occur."
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Theory",
+     "problem": "Select the correct combination of the following taxa which have been sequentially arranged in the order from most inclusive (most general) to least inclusive (most specific). [1 point]\n\n1) Insecta\n\n2) Arthropoda\n\n3) Hymenoptera\n\n4) Ecdysozoa\n\n5) Bilateria\n\n6) Apis\n\na. 4-5-2-1-3-6\n\nb. 5-4-2-1-3-6\n\nc. 5-2-4-1-3-6\n\nd. 6-3-1-2-4-5"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Theory",
+     "problem": "Which of the following statements best defines a portal system? [1 point]\n\na. Part of the circulatory system where arteries subdivide into large number of branches of capillaries and again join with another artery.\n\nb. A system of blood supply between heart and liver.\n\nc. A system of veins which begins and ends with a bed of capillaries.\n\nd. Part of the lymphatic circulatory system found in higher chordates where blood from organs is forwarded to open sinus through a network of capillaries."
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Theory",
+     "problem": "Which of the following structural modifications are NOT essential in terrestrial mammals for cursorial (rapid running) adaptation? [1 point]\n\na. Reduction in the number of digits and phalanges.\n\nb. Modification for articulation of bones to restrict movement in one plane.\n\nc. Fusion of bones of the sole and palm.\n\nd. Prehensile limbs with opposable digits."
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Theory",
+     "problem": "The cladogram shows phylogenetic relationship amongst seven vertebrate species A - G. Species G is amphibious and adapted to both terrestrial and aquatic habitats. Species A and F are exclusively aquatic while B, C, D, E are terrestrial. The most logical explanation for the mode of evolution of A and F will be [1 point]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-16-fig1.png\n\na. Disruptive selection\n\nb. Convergent evolution\n\nc. Divergent evolution\n\nd. Co-evolution"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "Theory",
+     "problem": "The urine osmotic concentrations and urine/plasma salt concentration ratios for four animals (human, P, Q and R) are given in the table.\n\n$$\\begin{array}{c|c|c} & \\text{Urine max. osmotic concentration (osm/lt.)} & \\text{Urine/plasma salt concentration ratio} \\\\ \\hline \\text{Human} & 1.4 & 4 \\\\ \\text{P} & 5.5 & 14 \\\\ \\text{Q} & 3.1 & 10 \\\\ \\text{R} & 0.52 & 2 \\end{array}$$\n\nP, Q & R respectively most likely represent: [1 point]\n\na. Cat, fish, beaver\n\nb. Beaver, pig, white rat\n\nc. Kangaroo rat, beaver, mouse\n\nd. Kangaroo rat, cat, beaver"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "Theory",
+     "problem": "The internal structures of a marine life form, Pseudoceros bifurcus are shown in the figure. Mark the correct interpretation. [1 point]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-18-fig1.png\n\nPseudoceros bifurcus\n\nThe animal is most likely is:\n\na. a cnidarian as it shows tissue level organization with bilateral symmetry.\n\nb. a free-living platyhelminth as it shows bilateral symmetry and has an acoelomate body plan.\n\nc. a free-living platyhelminth as it shows non-segmented body plan and absence of circulatory system.\n\nd. a parasitic platyhelminth as it shows suckers, hermaphrodity and absence of sense organs."
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "Theory",
+     "problem": "The rate of metabolic heat production (X) and whole body insulation (Y) during development in white-footed mice are shown.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-19-fig1.png\n\nWhich of the following graphs correctly depicts the adaptive response of these mice towards effective survival at lower temperatures (P) and the time that the animal can spend out of its nest (Q) during the development over 20 days? [1 point]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-19-fig2.png"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "Theory",
+     "problem": "Crossing-over is absent during meiosis in males of Drosophila melanogaster. At what stage of meiosis does segregation of alleles occur in these males? [1 point]\n\na. Prophase\n\nb. Anaphase I\n\nc. Metaphase I\n\nd. Anaphase II"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Theory",
+     "problem": "Wild type (K12) strains of E. coli can grow on minimal medium (MM) as they can synthesize all components including amino acids for their growth. MM is made up of a few salts i.e. $\\mathrm{Na_2HPO_4}$, $\\mathrm{KH_2PO_4}$, $\\mathrm{NH_4Cl}$, NaCl and a carbon source like glucose.\n\nWhile K12 can grow on MM containing all amino acids, it fails to grow if only valine is added to MM. In order to find out the amino acid(s) which allow/s K12 to grow in the presence of valine, different combinations of amino acids were added to the medium and growth of K12 was monitored. A part of the result is shown below:\n\n$$\\begin{array}{l|c} \\text{MM containing amino acids} & \\text{Growth of K12} \\\\ \\hline \\text{Valine + leucine + lysine} & \\text{Yes} \\\\ \\text{Valine + lysine + isoleucine} & \\text{No} \\\\ \\text{Valine + leucine + arginine} & \\text{Yes} \\\\ \\text{Valine + arginine + alanine} & \\text{No} \\end{array}$$\n\nWhich one of the following pathways correctly explains the above observations? [1 point]\n\n[Note: the pathways are hypothetical]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-21-fig1.png"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Theory",
+     "problem": "A Drosophila mutant that cannot fly is isolated in an Indian laboratory. The mutant phenotype is recessive and has been mapped to gene ‘M’. Three European labs in UK, Spain and Germany independently isolated mutants with the same phenotype. In order to test if these mutants also resulted from mutation in gene ‘M’, the following crosses were made and the phenotype of the $\\mathrm{F_1}$ progeny analyzed:\n\n$$\\begin{array}{l|l} \\text{Crosses} & \\text{Phenotype of } \\mathrm{F_1} \\\\ \\hline \\text{India x UK} & \\text{Cannot fly} \\\\ \\text{India x Spain} & \\text{Can fly} \\\\ \\text{India x Germany} & \\text{Can fly} \\\\ \\text{UK x Spain} & \\text{Can fly} \\\\ \\text{UK x Germany} & \\text{Can fly} \\\\ \\text{Germany x Spain} & \\text{Cannot fly} \\end{array}$$\n\nBased on the above findings, which of the European mutants is most likely to map to gene “M”? [1 point]\n\na. UK only\n\nb. Spain only\n\nc. Germany only\n\nd. Both Germany and Spain"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Theory",
+     "problem": "Seed production record of beechnut trees over a span of 30 years is shown: [1 point]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-23-fig1.png\n\nWhich of the following graphs represents the most likely tree growth ring pattern (dotted lines) for these trees?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-23-fig2.png"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Theory",
+     "problem": "Sea turtles show the following life history characteristics:\n\ni. They live for many years.\n\nii. They produce massive number of eggs at a time.\n\niii. They show limited parental care.\n\nWhich of the following statements is true for sea turtles? [1 point]\n\na. They show r-strategy because characters i and iii are typical of r - strategy of life history.\n\nb. Sea turtles show K-strategy because characters i and ii are typical K -strategy of life history.\n\nc. They show mixed K-r strategy as character iii is typical of a K-strategist while i and ii of r-strategist.\n\nd. Sea turtles show mixed K-r strategy as feature i is observed in K-strategy while ii and iii are observed in r- strategy."
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Theory",
+     "problem": "Life history of a species includes the pattern of growth, development and reproduction. Clutch sizes of two species of birds in relation to the latitude are shown in the given graph.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-25-fig1.png\n\nWhich of the following statements is/are correct? [1 point]\n\ni. Large climate variation can lead to decrease in population below the carrying capacity thus leading to a large clutch size.\n\nii. At high latitudes, longer day lengths in summer can give optimum time to support a large clutch.\n\niii. Greater mortality in winter can lead to more food for survivors in the next summer.\n\niv. Given time and resources are limited at higher latitudes, birds maximize fitness by producing large brood sizes.\n\nChoose from the given options.\n\na. i and iv only\n\nb. ii and iii only\n\nc. i and iii only\n\nd. i, ii, iii and iv"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Theory",
+     "problem": "An invertebrate possessing the following features was found in a sample collected from a freshwater ecosystem.\n\n• No antero-posterior axis\n• Presence of gastro-vascular cavity\n• No circulatory system\n• No organ system\n\nThe organism most likely is a: [1 point]\n\na. cnidarians.\n\nb. poriferan.\n\nc. platyhelminth.\n\nd. rotifer."
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Theory",
+     "problem": "Match the following animal groups with their attributes. [1 point]\n\n$$\\begin{array}{l|l} \\text{Animal Groups} & \\text{Attributes} \\\\ \\hline \\text{A) Annelids} & \\text{(i) Pseudocoelem and ventral nerve cord} \\\\ \\hline \\text{B) Rotifers} & \\text{(ii) True coelom and ventral nerve cord} \\\\ \\hline \\text{C) Birds} & \\text{(iii) Ventral heart and endothermy} \\\\ \\hline \\text{D) Reptiles} & \\text{(iv) Dorsal heart and ventral nerve cord} \\\\ \\hline & \\text{(v) Ventral heart and ectothermy} \\end{array}$$\n\na. A- ii, B- i, C- iii, D- iv\n\nb. A-ii, B- i, C- iii , D- iv\n\nc. A- ii, B- i, C- iii, D- v\n\nd. A- i, B- ii, C- v, D- iii"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Theory",
+     "problem": "Which of the following features is common to both cnidarians and platyhelminthes? [1 point]\n\na. Absence of organ system.\n\nb. Self-fertilization.\n\nc. Digestive system with a single opening.\n\nd. Ability to absorb nutrients across their body wall."
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Theory",
+     "problem": "Under normal physiological conditions, DNA is present in the form of double helix and absorbss maximally in the UV region. When these conditions change, it starts unwinding and the hydrogen bonds that hold the two strands together break. This process is called as DNA denaturation or DNA melting. Melting can affect the absorptive properties of the molecule. Two DNA molecules are considered namely poly d(AT) and poly d(GC) of a short defined length. Which of the following graph/s correctly depict/s the denaturation/renaturation of these molecules? Note that $A_{\\infty}$ indicates absorbance of native dsDNA molecule at 260nm. A indicates absorbance of the same sample under study at 260nm. [2 points]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-29-fig1.png\n\nMark each graph as either correct or incorrect by putting tick marks (✔) in the appropriate boxes.\n\n$$\\begin{array}{c|c|c} \\text{Graph} & \\text{Correct} & \\text{Incorrect} \\\\ \\hline \\text{A.} & & \\\\ \\hline \\text{B.} & & \\\\ \\hline \\text{C.} & & \\\\ \\hline \\text{D.} & & \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Theory",
+     "problem": "In a cell, two biomolecules A and B are known to form dimers A-B only when they are present in equal numbers. These biomolecules A, B and dimers A-B are known to disintegrate with half-lives of 30 minutes, 60 minutes and 30 minutes respectively. Suppose at t=0, the number of biomolecules A and B are 1000 and 500 respectively, then the number of A-B dimers at t=90 minutes will be: [2 points]"
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "Theory",
+     "problem": "Assume that the average intake of calories per day for humans is 2072 kcal and 50% of that is utilized for producing ATP. Energy obtained from the hydrolysis of ATP is used for all important cellular processes. Assume that the molecular weight of ATP is 500 g/mol and energy released by the hydrolysis of ATP is -14 kcal/mol. [3 points]\n\n(A) If ATP has to be synthesised entirely, how much of it will be theoretically synthesized in a day?\n\n_______kg\n\n(B) Suppose that the total weight of ATP present in human body is 0.1 moles. In this case, how many times a day will each ATP get recycled?\n\n_______times per day"
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "Theory",
+     "problem": "Since metastatic cancer breaks the rules of multicellularity, a researcher was using yeast as a model system to understand the process. In a drug screen, three compounds showed the following effect on the growth of yeast cells (Black arrow indicates additions of drug). Choose the order in which the researcher would rank the three drugs to predict the best efficacy of cancer treatment (from best to worst)\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-32-fig1.png\n\nChoose the correct option and put a tick mark (✔) in the appropriate box. [2 points]\n\na. B > C > A\n\nb. C > B > A\n\nc. A > B > C\n\nd. C > A > B"
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "Theory",
+     "problem": "You were cloning the genome of a new DNA virus into the Hind III site of pUC18 vector, whose map is given below. P(LAC) and $\\mathrm{AP_r}$ in the figure denote promoter of beta-galactosidase gene and ampicillin reistance gene respectively.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-33-fig1.png\n\npUC18 map\n\nYou plated out your transformants on ampicillin plates containing X-gal and picked one blue colony and one white colony. When you checked the size of the insert into each plasmid (isolated from blue and white colonies), you were surprised to find that the plasmid from blue colony had an insert of 60 bp, while the plasmid from white colony did not appear to contain any insert at all.\n\nIndicate which of the following explanations are true or false by putting tickmarks (✔) in the appropriate boxes in the table. . [2 points]\n\n$$\\begin{array}{c|l|c|c} \\text{No.} & \\text{Explanation} & \\text{True} & \\text{False} \\\\ \\hline 1 & \\text{In the plasmid from blue colony, the insert was in frame and hence did not disrupt the coding of alpha fragment of beta-galactosidase.} & & \\\\ \\hline 2 & \\text{The plasmid from white colony had a very large insert (more than 50 kbp).} & & \\\\ \\hline 3 & \\text{In the plasmid-containing blue colony, the insert was cloned at site other than Multiple Cloning Site (MCS).} & & \\\\ \\hline 4 & \\text{The MCS in the plasmid from white colony was degraded by exonuclease contamination.} & & \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "Theory",
+     "problem": "A student was performing enzyme purification in the laboratory for the first time. She began with 1200 mg of crude protein extract containing an enzyme of interest. At the beginning as well as at every purification step, she determined: [6 points]\n\ni. Total protein content\n\nii. Total units of enzyme present (also known as Activity)\n\niii. Specific activity of enzyme (Units/mg protein).\n\n(A) In a very efficient purification process, which of the following is expected to happen? Choose the correct option and put a tick mark (✔) in the appropriate box.\n\na. i to increase, ii to remain constant, iii to increase.\n\nb. i and ii to increase, iii to remain constant.\n\nc. i to decrease, ii and iii to increase.\n\nd. i, ii and iii to increase.\n\n(B) Data (protein content and activity) obtained by her during the process is given in the table. Complete the table by filling in the specific activity, % yield of activity and purification factor values. Note that only an entirely correct row will be given points.\n\n$$\\begin{array}{c|c|c|c|c|c} \\text{Step} & \\text{Protein (mg)} & \\text{Activity (U)} & \\text{Specific activity (U/mg)} & \\% \\text{ Yield of activity} & \\text{Purification factor} \\\\ \\hline 0 & 1200 & 800 & 0.67 & - & - \\\\ \\hline 1 & 600 & 600 & & & 1.5 \\\\ \\hline 2 & 200 & 180 & & & \\\\ \\hline 3 & 30 & 150 & & & \\\\ \\hline 4 & 20 & 148 & & & \\end{array}$$\n\n(C) Which of the above is the least effective purification step? Choose the correct option and put a tick mark (✔) in the appropriate box.\n\na. 1\n\nb. 2\n\nc. 3\n\nd. 4\n\n(D) Which of the above is the most effective purification step? Choose the correct option and put a tick mark (✔) in the appropriate box.\n\na. 1\n\nb. 2\n\nc. 3\n\nd. 4\n\n(E) Which step is indicative that enzyme of interest is partially inactivated? Choose the correct option and put a tick mark (✔) in the appropriate box.\n\na. 1\n\nb. 2\n\nc. 3\n\nd. 4"
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "Theory",
+     "problem": "Fagus sylvatica is a large tree which can reach heights of more than 50 m. The characteristics of sun and shade leaves of Fagus sylvatica are typical of the relationship between sun and shade leaves in plants. Some of these characteristics are listed in the table. Fill the appropriate symbols ‘>’, ‘=’ or ‘<’ to indicate the relationships between them. Some answers have already been given. [2.5 points]\n\n$$\\begin{array}{l|c|c|c} \\text{Characteristic} & \\text{Sun leaves} & \\text{Relationship} & \\text{Shade leaves} \\\\ \\hline \\text{Leaf surface area (cm}^{2}\\text{)} & \\text{Su} & & \\text{Sh} \\\\ \\text{Thickness of leaf (μm)} & \\text{Su} & & \\text{Sh} \\\\ \\text{Chlorophyll (a+b) concentration [Chl/leaf (w/w)]} & \\text{Su} & < & \\text{Sh} \\\\ \\text{Net Photosynthesis (mg CO}_{2}\\text{.dm}^{-2}\\text{.h}^{-1}\\text{)} & \\text{Su} & & \\text{Sh} \\\\ \\text{Light compensation point (W.m}^{-2}\\text{)} & \\text{Su} & & \\text{Sh} \\\\ \\text{Dark respiration (mg.dm}^{-2}\\text{.h}^{-1}\\text{)} & \\text{Su} & & \\text{Sh} \\\\ \\text{Light saturation of net photosynthesis (μmol.m}^{-2}\\text{.s}^{-1}\\text{)} & \\text{Su} & < & \\text{Sh} \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 36,
+     "paper_label": "Theory",
+     "problem": "An experiment was set up to study the responses of two genotypes – A and B to salinity stress. The shoot biomass of the two species was measured at time $T_0$. The salinity was imposed at the 3rd leaf stage. The fresh weights in g of the entire plants were recorded at definite time intervals between $T_0$ to $T_2$. The results obtained are depicted graphically.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-36-fig1.png\n\nWhich of the following statements are true?\n\ni. There is a decrease in plant growth rate after salt imposition.\n\nii. Genotype A is more sensitive to salinity than Genotype B.\n\niii. Genotype B is more sensitive to salinity than Genotype A.\n\niv. When growth is measured by biomass from $T_0$ to $T_2$, Genotype A appears to be more salt tolerant.\n\nv. When growth is measured only from $T_1$ to $T_2$, Genotype B appears to be more salt tolerant.\n\nChoose the correct option and put a tick mark (✔) in the appropriate box. [2 points]\n\na. i, iii and v\n\nb. ii and iv only\n\nc. i, ii and v\n\nd. iii and v only\n\ne. i, ii and iv"
+    },
+    {
+     "day": 1,
+     "number": 37,
+     "paper_label": "Theory",
+     "problem": "Following figure shows the effect of leaf temperature on quantum yield in three different plants.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-37-fig1.png\n\nIdentify the types of plants I, II and III respectively and choose the correct option. Put a tick mark (✔) in the appropriate box. [2 points]\n\na. C4, C3 and CAM plants.\n\nb. CAM, C4 and C3 plants.\n\nc. C3, CAM and C4 plants.\n\nd. C4, C3 and C3 plants."
+    },
+    {
+     "day": 1,
+     "number": 38,
+     "paper_label": "Theory",
+     "problem": "Photoperiodic flowering responses vary in different species. Short-day (SD) plants and long-day (LD) plants show accelerated flowering in SD and LD respectively. The plants (X) under their optimum day-night cycle start showing flowering and heading at about 53rd day.\n\nShown in the diagram is the response of these plants grown under different light and dark regime with 1 hr night breaks (NB) after 2-14 hours of darkness. [3 points]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-38-fig1.png\n\n(A) Choose the most appropriate statement and fill in the blanks only in that statement with ‘long or short’ and the number of hours respectively.\n\nI. Plant X is a ___________day plant with critical day period ______ hr or less.\n\nII. Plant X is a ____________day plant with critical day period _______ hr or more.\n\nIII. Plant X is a ___________day plant with critical night period ______ hr or less.\n\nIV. Plant X is a ____________day plant with critical night period _______ hr or more.\n\n(B) In plants where NB is given after 14 hr of night period:\n\nChoose the correct option and put a tick mark (✔) in the appropriate box.\n\na. Pfr predominates in the cells and promotes transcription of inhibitory RNA for flowering.\n\nb. Pr predominates in the cells and promotes transcription of inhibitory RNA for flowering.\n\nc. Pfr predominates in the cells and promotes transcription of RNA for flowering.\n\nd. Pr predominates in the cells and promotes transcription of RNA for flowering."
+    },
+    {
+     "day": 1,
+     "number": 39,
+     "paper_label": "Theory",
+     "problem": "In a healthy individual, erythropoesis is contributed by the yolk sac, spleen and liver during embryonic stages and by the bone marrow in the adult stage. The β and γ globin have reciprocal levels in fetal versus adult stages whereas α globin is constantly high in both stages of human life. Thalassemia is related to defective expression of genes controlling the expression of α, β and γ globin genes. Match the graphs with the types of thalassemia. [2 points]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-39-fig1.png\n\nChoose from the options and fill in the blanks.\n\nGraph P: __________\n\nGraph Q: __________\n\nGraph R: __________\n\nGraph S: __________\n\nOptions:\n\na. Beta thalassemia minor (one gene mutated)\n\nb. Normal (healthy)\n\nc. Beta thalassemia major\n\nd. alpha thalassemia major"
+    },
+    {
+     "day": 1,
+     "number": 40,
+     "paper_label": "Theory",
+     "problem": "Seahorse XF analyzer is an instrument for assessment of mitochondrial health by measuring the oxygen consumption rate (OCR) in real time. The given graph depicts basal aerobic and anaerobic respiration of healthy and diseased cells of liver in culture. Dosing the cells with FCCP maximizes mitochondrial respiratory capacity whereas, Rotinone, blocks complex I causing inhibition of oxidative phosphorylation. Anaerobic respiration indicates the spare respiratory capacity of the liver cells.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-40-fig1.png\n\nBased on this study, indicate whether each of the interpretations listed is correct or incorrect by putting tick marks (✔) in the appropriate boxes. [3 points]\n\nI. Adding glucose to diseased liver cells shall proportionately increase oxygen consumption rate.\n\nII. Poor FCCP response in diseased cells suggests a stronger mitochondrial membrane potential.\n\nIII. Less number of mitochondria could be the reason for poor FCCP response in diseased cells.\n\nIV. Identical response of control and diseased cells to Rotinone suggests cessation of anaerobic respiration as well.\n\nV. Addition of glucose to diseased liver cells will improve spare respiratory capacity.\n\nVI. Cessation of aerobic respiration could be the reason for identical response to Rotinone in control and diseased cells.\n\n$$\\begin{array}{l|c|c} \\text{Interpretation} & \\text{Correct} & \\text{Incorrect} \\\\ \\hline \\text{I.} & & \\\\ \\hline \\text{II.} & & \\\\ \\hline \\text{III.} & & \\\\ \\hline \\text{IV.} & & \\\\ \\hline \\text{V.} & & \\\\ \\hline \\text{VI.} & & \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 41,
+     "paper_label": "Theory",
+     "problem": "The relationship for mammals between physiological variables & body mass (Mb in kg) are given.\n\nBlood volume (lt) = $0.055*\\mathrm{Mb}^{0.99}$\n\nHeart weight = $0.0058*\\mathrm{Mb}^{0.99}$\n\nLung ventilation rate (lt/hr) = $20*\\mathrm{Mb}^{0.75}$\n\nRespiration frequency ($\\mathrm{min^{-1}}$) = $53.5*\\mathrm{Mb}^{-0.26}$\n\nMark the following statements as true (T) or false (F). [2 points]\n\na. As the body size increases, the respiration frequency increases. ______\n\nb. Lung ventilation rate is inversely proportional to the body size. ______\n\nc. In mammals, blood volume usually tends to be ten times more than the heart weight. ______\n\nd. As the animal size increases, the relative increase in blood volume is greater than the relative increase in heart weight. ______"
+    },
+    {
+     "day": 1,
+     "number": 42,
+     "paper_label": "Theory",
+     "problem": "Consider the pedigree given below in which the genotypes at four different loci for the children in generation III have been shown. The symbols $A^1/A^2$, $B^1/B^2$, $C^1/C^2$ and $D^1/D^2$ represent alleles for the locus A, B, C and D, respectively. The symbols parallel to a straight line indicate that they are located on the same chromosome.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-42-fig1.png\n\nBased on the above information, indicate whether each of the following statements is true or false with respect to the four loci that have been represented by putting tick marks (✔) in the appropriate boxes. [2 points]\n\na. The represented loci are present on the X- chromosome.\n\nb. The genotype of individual II (1) is $A^1/A^2\\ B^1/B^2\\ C^1/C^2\\ D^1/D^2$.\n\nc. The genotype of individual II (2) can be represented as\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-42-fig2.png\n\nd. Based on the genotype of individual II (2), the alleles present on one of the chromosomes of individual I (1) can be correctly predicted.\n\n$$\\begin{array}{l|c|c} \\text{Statements} & \\text{True} & \\text{False} \\\\ \\hline \\text{a.} & & \\\\ \\hline \\text{b.} & & \\\\ \\hline \\text{c.} & & \\\\ \\hline \\text{d.} & & \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 43,
+     "paper_label": "Theory",
+     "problem": "Natural selection occurs when some genotypes in a population have different survival, fertility or reproduction. Following data shows the frequency of two alleles and their relative fitness (W) for 4 different populations.\n\n$$\\begin{array}{lll} \\text{Population (i)} & f(A_1) = 0.2 & W_{11} = 1.0 \\\\ & f(A_2) = 0.8 & W_{12} = 1.0 \\\\ & & W_{22} = 1.0 \\end{array}$$\n\n$$\\begin{array}{lll} \\text{Population (ii)} & f(A_1) = 0.8 & W_{11} = 1.0 \\\\ & f(A_2) = 0.2 & W_{12} = 1.0 \\\\ & & W_{22} = 0.4 \\end{array}$$\n\n$$\\begin{array}{lll} \\text{Population (iii)} & f(A_1) = 0.2 & W_{11} = 0.4 \\\\ & f(A_2) = 0.8 & W_{12} = 1.0 \\\\ & & W_{22} = 0.4 \\end{array}$$\n\n$$\\begin{array}{lll} \\text{Population (iv)} & f(A_1) = 0.8 & W_{11} = 1.0 \\\\ & f(A_2) = 0.2 & W_{12} = 0.4 \\\\ & & W_{22} = 1.0 \\end{array}$$\n\nState which of these populations are likely to show each of the following with respect to the alleles. Fill in the blanks with the correct population (i – iv). [2 points]\n\na. Disruptive selection: _______\n\nb. Stabilizing selection: _______\n\nc. Directional selection: _______\n\nd. Not under any selection: _____"
+    },
+    {
+     "day": 1,
+     "number": 44,
+     "paper_label": "Theory",
+     "problem": "Study the pedigree below for a rare human skin disease. [3 points]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-44-fig1.png\n\n(A) II1 individual does not carry the allele associated with the affected phenotype. The most likely mode of inheritance is:\n\nChoose the correct option and put a tick mark (✔) in the appropriate box.\n\na. Autosomal dominant\n\nb. Autosomal recessive\n\nc. X-linked recessive\n\nd. X-linked dominant\n\n(B) If individuals III1 and III2 had a son, what is the probability that the son will be affected?\n\n(C) Who in the pedigree has the same mitochondrial (mt) DNA as III3? Give all correct answers. (Only a completely correct answer will be given points.)"
+    },
+    {
+     "day": 1,
+     "number": 45,
+     "paper_label": "Theory",
+     "problem": "Insulin-like growth factor is an important hormone required for growth and is synthesized by gene Igf2. Del indicates deletion of the Igf2 gene. Study the following cross.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-45-fig1.png\n\nIf F1is sib-mated as shown,\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-45-fig2.png\n\nThe above results can be best explained as:\n\nChoose the correct option and put a tick mark (✔) in the appropriate box. [2 points]\n\na. Incomplete dominance\n\nb. Incomplete penetrance\n\nc. Maternal imprinting\n\nd. Paternal imprinting"
+    },
+    {
+     "day": 1,
+     "number": 46,
+     "paper_label": "Theory",
+     "problem": "In a human population, there are 16% individuals with blood group O while the percentage of people with blood group A is 20 %. Assuming that the population is in the Hardy-Weinberg equilibrium for blood group locus, answer the following questions. [2 points]\n\n(A) Which of the following option represents the Hardy-Weinberg equation for the human population? Choose the correct option and put a tick mark (✔) in the appropriate box.\n\na) $(p+q)^3 = 1$\n\nb) $(p+q+r)^2 = 1$\n\nc) $(p+q+r)^3 = 1$\n\nd) $(p + q + r + s)^2 = 1$\n\n(B) Calculate the allele frequency of allele A in this population."
+    },
+    {
+     "day": 1,
+     "number": 47,
+     "paper_label": "Theory",
+     "problem": "Each of the two graphs below shows the allele frequency of an allele of a locus that determines the coat colour of the rock pocket mouse. The black coat colour allele is dominant over white coat colour allele. Depending on the type of landscape within the habitat – dark rocky outcrops versus light whitish sand, the chances of mice being predated by hawks changes. [3 points]\n\n(A) Based on the rate of change of allele frequencies over generations, identify the type of allele and the type of background from the given options that is likely to show changes in the allele frequencies in each of the graphs:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-47-fig1.png\n\nChoose the correct options from the table and fill in the blanks.\n\n$$\\begin{array}{c|l|l} \\text{Option} & \\text{Type of allele} & \\text{Type of background} \\\\ \\hline \\text{a} & \\text{White coat colour} & \\text{Dark rocky outcrops} \\\\ \\hline \\text{b} & \\text{White coat colour} & \\text{Light whitish sand} \\\\ \\hline \\text{c} & \\text{Black coat colour} & \\text{Dark rocky outcrops} \\\\ \\hline \\text{d} & \\text{Black coat colour} & \\text{Light whitish sand} \\end{array}$$\n\nGraph 1: __________\n\nGraph 2: __________\n\n(B) At generation 0, if there were 100 mice each of homozygous dominant, heterozygous dominant and homozygous recessive in the population, what would be the numbers of each type of mice after 250 generations if there was no selection on any coat colour? (Assume the carrying capacity to be 400 mice)"
+    },
+    {
+     "day": 1,
+     "number": 48,
+     "paper_label": "Theory",
+     "problem": "The figure depicts two modes (A and B) of evolutionary change in the genetic makeup of a population over a span of 50 - 75 generations. Two allelic variants of individuals in the population have been symbolized either as dark solid circles or as open empty circles. Arrows indicate differential reproductive success for transferring alleles to the gene pool of successive generations. [3 points]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-48-fig1.png\n\n(A) The best description of these evolutionary changes are:\n\nChoose the correct option and put a tick mark (✔) in the appropriate box.\n\na. A: Natural selection, B: Artificial selection\n\nb. A: Natural selection, B: Genetic drift\n\nc. A: Genetic drift, B: Artificial selection\n\nd. A: Sexual selection of altered mate choice, B: Selection through recombination events\n\n(B) Which of the following is NOT true for ‘B’?\n\nChoose the correct option and put a tick mark (✔) in the appropriate box.\n\na. Evolutionary changes are not gradual.\n\nb. Evolutionary process led to reduction of genetic diversity.\n\nc. Evolutionary changes have occurred on the basis of fitness.\n\nd. Genetic uniformity in the population at the 50th generation is not through mutation and selection.\n\n(C) Which of the following is NOT true for ‘A’?\n\nChoose the correct option and put a tick mark (✔) in the appropriate box.\n\na. Evolutionary changes are gradual.\n\nb. Evolutionary changes have occurred on the basis of fitness.\n\nc. Selection is operating through reproductive success of one genotype.\n\nd. Population is stabilized with new mutational events."
+    },
+    {
+     "day": 1,
+     "number": 49,
+     "paper_label": "Theory",
+     "problem": "Asiatic Lions are found in the Gir National Park in India and are social big cats wherein a male is seen in a pride of 5-6 females. This is unlike tigers or leopards that are solitary big cats. A ratio of Male:Female :: 1:3 is considered as a healthy sex ratio in Asiatic lions. A new habitat was identified to translocate the lions. This forest had about 688 herbivores (spotted deer, black buck, neelgai, chinkara, etc) with an annual 10% increase in their population and a 2% mortality. Translocation experiment of adult (6 year old) Asiatic Lions was conducted and four adults (01 male and 03 females) were translocated. Their breeding score in subsequent years is as follows:\n\n$$\\begin{array}{c|c|c|c|c} \\text{In 1}^{\\text{st}}\\text{ year} & \\text{Total Male cubs} & \\text{Dead male cubs} & \\text{Total Female cubs} & \\text{Dead Female cubs} \\\\ \\hline \\text{Females} & & & & \\\\ \\hline \\text{A} & - & - & - & - \\\\ \\hline \\text{B} & 1 & 1 & - & - \\\\ \\hline \\text{C} & - & - & - & - \\\\ \\hline \\text{In 2}^{\\text{nd}}\\text{ Year} & & & & \\\\ \\hline \\text{A} & 1 & 1 & 1 & - \\\\ \\hline \\text{B} & 1 & 1 & 2 & - \\\\ \\hline \\text{C} & - & - & 1 & - \\\\ \\hline \\text{In 3}^{\\text{rd}}\\text{ year} & & & & \\\\ \\hline \\text{A} & 2 & - & 2 & \\\\ \\hline \\text{B} & 2 & 2 & 2 & 2 \\\\ \\hline \\text{C} & 2 & - & - & - \\end{array}$$\n\nAfter about 6 years 02 additional adult males were translocated to the same territory. Mark the following statements as true or false putting tick marks (✔) in the appropriate boxes. [3 points]\n\n$$\\begin{array}{c|l|c|c} & & \\text{True} & \\text{False} \\\\ \\hline 1 & \\text{Introduction of second batch of lions shall prevent the population bottleneck and improve genetic quality but shall also increase territorial conflicts.} & & \\\\ \\hline 2 & \\text{The final tally of total lions will be 12 with identical sex ratio of male : female at the end of 3 years.} & & \\\\ \\hline 3 & \\text{About 80 herbivores per lion are ideally considered as a healthy prey base in the wilderness. At the end of second stint of translocation of 2 adult males, there be sufficient food available for the existing total population.} & & \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 50,
+     "paper_label": "Theory",
+     "problem": "The optimized life history is one that balances between the competing demands of survival and reproduction such that best fitness is achieved. [4 points]\n\n(A) If a reproductive adult animal can produce ‘B’ number of offspring, ‘S’ is its own survival probability and ‘$S_o$’ is the survival (upto 1 year) probability of its offspring, what is the total fitness (F) of the adult animal? Choose the correct option and put a tick mark (✔) in the appropriate box.\n\na. $F = S_oB/S$\n\nb. $F = S + S_oB$\n\nc. $F = S/S_oB$\n\nd. $F = S - S_oB$\n\n(B) ‘S’ can be split into 2 factors namely:\n\n$S_R$- survival related to reproduction\n\n$S_N$- survival not related to reproduction\n\nAfter rearranging the equation for fitness, one gets:\n\n$$S_R = (F/S_N) - (S_o/S_N)B$$\n\nWhen $S_R$ is plotted against B, the following graph is obtained.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-50-fig1.png\n\nMark the correct interpretation/s of the graph. Choose the correct option/s and put tick mark/s (✔) in the appropriate box/es.\n\na. When adults have a high probability of survival (P), the best strategy is to invest in offspring.\n\nb. When offspring survival is relatively poor, they produce larger number every year.\n\nc. When adults have a low probability of survival as compared to offspring (Q), adult should produce few eggs each year and increase their own reproductive life span.\n\nd. Q indicates high probability of survival of offspring while P indicates low probability of survival of offspring as compared to adults."
+    },
+    {
+     "day": 1,
+     "number": 51,
+     "paper_label": "Theory",
+     "problem": "A zeitgeber is any external or environmental cue that entrains or synchronizes an organism's biological rhythms to the Earth's 24-hour light/dark cycle and 12-month cycle. The picture given is an actogram depicting activity pattern of a migratory bird, Black-headed bunting, maintained in captivity. Each activity cage was provided with 2 perches mounted with an infrared motion sensor that continuously detected the bird’s movement in its cage and transmitted it to a computerized data acquisition system.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-51-fig1.png\n\nBased on the actogram, indicate whether each of the interpretations listed is correct or incorrect by putting tick marks (✔) in the appropriate boxes. [2.5 points]\n\na. Birds are more active during night time in the pre-migratory season as compared to post-migratory season.\n\nb. The nocturnal activity pattern of male birds will change and become more like non-migratory if they are injected with testosterone.\n\nc. The shift from non-migratory to migratory phase involves gross progressive increment in activity pattern.\n\nd. Zeitgeber timings 0 or 24 appear to be the same and indicates midnight.\n\ne. Evening injection of thyroxine in the migratory season could possibly partially or completely negate the activity at night.\n\n$$\\begin{array}{c|c|c} \\text{Interpretation} & \\text{Correct} & \\text{Incorrect} \\\\ \\hline \\text{a.} & & \\\\ \\hline \\text{b.} & & \\\\ \\hline \\text{c.} & & \\\\ \\hline \\text{d.} & & \\\\ \\hline \\text{e.} & & \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 52,
+     "paper_label": "Theory",
+     "problem": "In the south Arizona forest, the nesting sites of three bird species showed a characteristic spatial pattern shown in the figures I and II. The triangle indicates nest of bird 1, red circles indicate nests of bird 2 and black circles indicate nests of bird 3.The filled circles and triangle indicate active nests while unfilled ones the abandoned or inactive nests. There was a distinct difference in the distribution of nests of bird species 3 depending on whether the nest of bird 1 was active (figure I) or inactive (abandoned), figure II. The circles indicate the height above ground. The radius of the largest circle is approximately 170 meters. [5 points]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-52-fig1.png\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-52-fig2.png\n\nNest of bird 1 is at about 15 meters on the tree top and bird 1 can launch either a horizontal or descending pursuit to catch the prey. The foraging height of bird 2 shows the following relationship with the nest of bird 1:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-52-fig3.png\n\n(A) State whether each of the results/hypotheses listed below is consistent or not consistent with the available data. Indicate your answers by putting tick marks (✔) in the appropriate boxes.\n\na. The eggs and nestlings of bird 3 are likely to be the food of bird 2.\n\nb. Nesting success of bird species 3 is very high in the presence of nest of bird 1.\n\nc. Bird 2 can prey on both birds 1 and 3.\n\nd. Bird 3 shows nest preference near bird 1 which is likely to be the predator of bird 2.\n\ne. Bird 2 is likely to be the predator of bird 3 but prey of bird 1.\n\n$$\\begin{array}{c|c|c} \\text{Results/Hypotheses} & \\text{Consistent} & \\text{Not consistent} \\\\ \\hline \\text{a.} & & \\\\ \\hline \\text{b.} & & \\\\ \\hline \\text{c.} & & \\\\ \\hline \\text{d.} & & \\\\ \\hline \\text{e.} & & \\end{array}$$\n\n(B) Indicate the relationship between the following by + or -. + indicates “will have effect” and – indicates “will not have effect”.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-52-fig4.png"
+    },
+    {
+     "day": 1,
+     "number": 53,
+     "paper_label": "Theory",
+     "problem": "A circulatory system comprising of a typical circuit of ‘heart-sinuses-gills-heart’ without the involvement of capillaries can be found in some of the following animal groups.\n\n(i) Cnidaria\n\n(ii) Nematoda\n\n(iii) Arthropoda\n\n(iv) Protochordata\n\n(v) Flightless birds\n\n(vi) Mollusca\n\n(vii) Annelida\n\nChoose the correct combination from the options and put a tick mark (✔) in the appropriate box. [2 points]\n\na. i, iv, v and vi\n\nb. ii, iii and vii\n\nc. ii, iii, v and vi\n\nd. iii, iv and vi"
+    },
+    {
+     "day": 1,
+     "number": 54,
+     "paper_label": "Theory",
+     "problem": "Duck-billed platypus is classified as a mammal although it is oviparous and possesses mammary glands without nipples. Which of the following essential character/s qualify platypus for its inclusion under the class Mammalia?\n\n1) Presence of diaphragm\n\n2) Presence of thecodont dentition (thecodont: teeth lodged in socket)\n\n3) Dicondylic skull (possessing two occipital condyles)\n\n4) Presence of sweat glands\n\n5) Endothermy\n\n6) Presence of four-chambered heart\n\n7) Presence of pinna\n\n8) Body covered by fur\n\n9) Milk production\n\n10) Presence of seven cervical vertebrae\n\nChoose the correct option and put a tick mark (✔) in the appropriate box. [2 points]\n\na. 1, 2, 4, 7, 8, 10\n\nb. 1, 3, 5, 6, 8, 9, 10\n\nc. 3, 4, 5, 6, 10\n\nd. 1, 3, 5, 6, 7, 8"
+    },
+    {
+     "day": 1,
+     "number": 55,
+     "paper_label": "Theory",
+     "problem": "Major evolutionary divergence is based on embryonic, morphological and molecular criteria. Following is a list of events during embryonic development that depicts evolutionary relationships with various phyla. Match the listed events during embryogenesis of various organisms of the phyla with A to F in the figure shown. [3 points]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/inbo-2020-1-55-fig1.png\n\nChoose from the options given below and fill in the blanks.\n\n(i) Spiral cleavage\n\n(ii) Radial symmetry\n\n(iii) Moulting\n\n(iv) Anus from blastopore\n\n(v) Three germinal layers\n\n(vi) Mouth from blastopore\n\nA: _________\n\nB: _________\n\nC: _________\n\nD: _________\n\nE: _________\n\nF: _________"
+    }
+   ]
+  },
+  {
    "year": 2023,
    "problems": [
     {
