@@ -1,0 +1,615 @@
+{
+ "competition": "University of Toronto National Biology Competition (NBC)",
+ "years": [
+  {
+   "year": 2025,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Exam",
+     "problem": "Jean-Baptiste Lamarck, a French naturalist who published a theory of evolution before Charles Darwin, argued the idea of inheritance of acquired characteristics. Which would be the best example of his concept?\n\na) A jaguar loses a tooth, which impacts its ability to hunt, and decreases the number of offspring it has.\n\nb) A dog who was born with a fear of heights is more likely to have offspring that are scared of heights.\n\nc) A giraffe with disruptive camouflage is more likely to survive and reproduce.\n\nd) A parent who receives a vaccination for COVID-19 while breastfeeding can pass on this immunity to their child.\n\ne) A plant growing in an environment with high winds increases their stem thickness and will produce seeds that grow plants with thicker stems."
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Exam",
+     "problem": "Which type of evidence helped contribute to Darwin’s writing on evolution?\n\na) Fossils of extinct species had similar characteristics to extant local species.\n\nb) Stromatolites show that life has existed for millions of years.\n\nc) Mendel’s findings of heredity in peas also applied to beak shape and size which he observed in the finch species he found on the Galapagos Islands.\n\nd) Trees found in the South American temperate regions were more similar to trees in other European temperate regions than they were to those found in tropical regions of South America, due to adaptations to their environments.\n\ne) All of the above"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Exam",
+     "problem": "Which of the following statements about microevolution is true?\n\na) It only occurs within short time spans\n\nb) It is limited to evolution within micro-organisms\n\nc) It cannot cause the formation of new species\n\nd) It involves incremental changes within a population over time\n\ne) It is unrelated to Darwin’s theory of natural selection"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Exam",
+     "problem": "In lobsters, large males can intimidate other males away from females, whereas small lobsters are able to sneak up to females and mate undetected. This is an example of __________ selection and could lead to ______ speciation\n\na) Disruptive, allopatric\n\nb) Disruptive, sympatric\n\nc) Directional, allopatric\n\nd) Stabilizing, sympatric\n\ne) Stabilizing, allopatric"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Exam",
+     "problem": "Which taxa is equally related to 1 and 2, more closely related to 3 than 4 and not sister taxa to 3?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2025-1-5-fig1.png\n\na) W\n\nb) X\n\nc) Y\n\nd) Z\n\ne) There is not enough information provided"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Exam",
+     "problem": "Last year, more evidence was discovered for a new organelle that evolved through endosymbiosis, the nitroplast. Which of the following is a requirement for endosymbionts to be classified as an organelle?\n\na) They have lost their own membranes\n\nb) They have lost their ribosomes\n\nc) They require proteins from the host cell\n\nd) They produce ATP\n\ne) They no longer have their own DNA"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Exam",
+     "problem": "Which of the following organisms has historically been classified as a protist, but is not unicellular?\n\na) Colonial cyanobacteria\n\nb) Morel mushrooms\n\nc) Bread mold\n\nd) Bull kelp\n\ne) Amoeba"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Exam",
+     "problem": "What is the function of the gap shown in this leaf cross section?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2025-1-8-fig1.png\n\na) Regulates gas exchange\n\nb) Transport of water\n\nc) Transport of sugar\n\nd) D) Allows the movement of gases\n\ne) Reduce the weight of the leaf"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Exam",
+     "problem": "A thigmotropic response would be most beneficial for which plant and in which process in a three sisters garden?\n\na) A bean plant for detecting and growing up structures, such as the corn stalk\n\nb) A bean plant for responding to the presence of nitrogen fixing bacteria\n\nc) A squash plant for determining when to close their stoma\n\nd) A corn plant as it detects which way is up for vertical growth\n\ne) A squash plant for facing its leaves towards the sun"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Exam",
+     "problem": "8.2(a) What is the most likely mechanism by which Verticillium dahliae, a soil borne fungus, can cause vascular wilt in plants?\n\na) The fungus grows into the phloem elements and blocks them\n\nb) The fungus grows into the xylem vessels and blocks them\n\nc) The fungus grows into the stoma and blocks them\n\nd) The fungus infects and damages the sclerenchyma tissue\n\ne) The fungus infects and damages the cuticle layer"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Exam",
+     "problem": "8.2 (b) Which of the following is true about phloem tissues?\n\na) It contains tracheids with thickened walls to withstand high pressures.\n\nb) It contains stacks of vessels with perforated plates separating them.\n\nc) It contains sieve elements that are dead upon maturity.\n\nd) It contains companion cells that aid sieve elements by providing them with metabolites.\n\ne) Substances move through phloem via transpiration."
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Exam",
+     "problem": "Which plant hormone stimulates the plant to respond to drought conditions by promoting stomatal closure?\n\na) Gibberellins\n\nb) Ethylene\n\nc) Abscisic acid\n\nd) Auxin\n\ne) Cytokinins"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Exam",
+     "problem": "This graph shows the percentage of undigested material in each organ (each organ is separated by a sphincter and presented in order of the alimentary canal, beginning with the mouth). Given this information, which organ is Z and how do you expect its value on the graph to compare to Y?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2025-1-13-fig1.png\n\na) Small intestine, lower\n\nb) Small intestine, higher\n\nc) Large intestine, lower\n\nd) Large intestine, the same\n\ne) Large intestine, higher"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Exam",
+     "problem": "Bird digestive organs vary from those of mammals, with three specialized organs used for 1) chemical digestion, 2) mechanical digestion and 3) storage. Which organs perform each function, respectively?\n\na) 1) Crop, 2) gizzard, 3) proventriculus\n\nb) 1) Gizzard, 2) crop, 3) proventriculus\n\nc) 1) Gizzard, 2) proventriculus, 3) crop\n\nd) 1) Proventriculus, 2) gizzard, 3) crop\n\ne) 1)Proventriculus, 2) crop, 3) gizzard"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Exam",
+     "problem": "What is the location and function of lacteals?\n\na) The small intestine, absorption of fats\n\nb) The spleen, filtration of red blood cells\n\nc) Mammary gland, secretion of milk\n\nd) In muscle tissues, secretion of lactic acid\n\ne) Within lymph nodes, filtration of waste"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Exam",
+     "problem": "Which of the following is a correct comparison between arteries and veins?\n\na) Arteries contain valves whereas veins do not\n\nb) Arteries are under lower pressures than veins\n\nc) Arteries have thicker walls than veins\n\nd) Arteries have wider lumens than veins\n\ne) Arteries always contain oxygenated blood, whereas veins do not"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "Exam",
+     "problem": "Ectopic pregnancies occur when a fertilized egg implants and begins to develop outside the uterus. Which of the following locations is least likely to be the site of ectopic pregnancy?\n\na) The ovary\n\nb) The fallopian tube\n\nc) The abdominal cavity\n\nd) The cervix\n\ne) The urethra"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "Exam",
+     "problem": "To determine if an individual is allergic to a substance, doctors often use a skin prick test, where a small amount of the allergen is applied to the skin. If the person is allergic to the substance the skin may develop raised bumps. Which of the following best describes the immune response that causes this reaction?\n\na) The antigens located on mast cells detect the antibodies on the allergen, releasing histamines which causes the blood vessels to dilate.\n\nb) The antigens located on mast cells detect the antibodies on the allergen, releasing histamines which causes the blood vessels to constrict.\n\nc) The antigens located on mast cells detect the antibodies on the allergen, releasing histamines which causes the lymph vessels to constrict.\n\nd) The antibodies located on mast cells detect the antigens on the allergen, releasing histamines which causes the blood vessels to dilate.\n\ne) The antibodies located on mast cells detect the antigens on the allergen, releasing histamines which causes the blood vessels to constrict"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "Exam",
+     "problem": "Aquarists manage waste level toxicity in their aquariums by encouraging the growth of beneficial bacteria. The graph shows the concentrations of these nitrogenous wastes over a period of time known in the hobby as “the cycle”. Which is the best explanation of what is happening?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2025-1-19-fig1.png\n\na) The fish produce ammonia which breaks down naturally into nitrite then into nitrate over time.\n\nb) The fish are producing ammonia initially, but as the beneficial bacteria build up in their stomachs, they start producing nitrite, and then nitrate instead.\n\nc) Fish produce urea, which dissociates in water into ammonia, nitrate and nitrite.\n\nd) The fish produce ammonia, which one type of bacteria can convert to nitrite, and then another can convert to nitrate.\n\ne) The amount of nitrogen in the system is decreasing as the bacteria convert it to nitrogen gas which is released out of the water."
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "Exam",
+     "problem": "Which hormone is involved in a positive feedback loop?\n\na) Antidiuretic hormone\n\nb) Oxytocin\n\nc) Insulin\n\nd) Thyroid stimulating hormone\n\ne) Cortisol"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Exam",
+     "problem": "What are the types of neurons shown in i, ii, and iii respectively?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2025-1-21-fig1.png\n\na) i) Interneuron, ii) motor, iii) sensory\n\nb) i) Motor, ii) sensory, iii) interneuron\n\nc) i) Sensory, ii) interneuron, iii) motor\n\nd) i) Interneuron, ii) sensory, iii) motor\n\ne) i) Sensory, ii) motor, iii) interneuron"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Exam",
+     "problem": "Which characteristic would be most helpful in determining if an organ has endocrine glands or exocrine glands?\n\na) The presence or absence of ducts\n\nb) The size of the gland\n\nc) The types of cells present\n\nd) The presence of vascularization\n\ne) The shape of the gland"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Exam",
+     "problem": "In an experiment, different fungi are placed on opposite sides of a Petri dish and their mycelium growth is measured after 7 days. The following growth diameters (in mm) were recorded for an unknown species of Fusarium. When grown in solo culture, Fusarium grows to 32 mm.\n\n$$\\begin{array}{l|c} \\text{Species present with Fusarium on dish} & \\text{Size (mm)} \\\\ \\hline \\textit{Thielaviopsis basicola} & 35 \\\\ \\hline \\textit{Chaetomium funicola} & 17 \\\\ \\hline \\textit{Agroathelia rolfsii} & 32 \\\\ \\hline \\textit{Penicillium chrysogenum} & 23 \\end{array}$$\n\nBased on the results, which species does this Fusarium species have a relationship with that could be described as parasitic?\n\na) Thielaviopsis basicola\n\nb) Chaetomium funicola\n\nc) Agroathelia rolfsii\n\nd) Penicillium chrysogenum\n\ne) There is not enough information to determine this."
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Exam",
+     "problem": "If a toxin that persists in the environment is taken up by primary consumers via phagocytosis and is not broken down by any organisms, which trophic level would have the highest concentration of the toxin after 100 years of exposure?\n\na) Primary producers\n\nb) Primary consumers\n\nc) Secondary consumers\n\nd) Tertiary consumers\n\ne) Quaternary consumers"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Exam",
+     "problem": "Which of the following scenarios would cause the conditions required for primary succession to occur?\n\na) Wildfires\n\nb) Glacial retreat\n\nc) Blizzards\n\nd) Tsunamis\n\ne) Hurricanes"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Exam",
+     "problem": "This graph shows three types of survivorship curves. What is the x-axis?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2025-1-26-fig1.png\n\na) Density\n\nb) Population size\n\nc) Carrying capacity\n\nd) Time\n\ne) Fecundity"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Exam",
+     "problem": "A human population has the following demographics: a stable birth rate of 3.0 children per woman, a relatively high average age of 50, and a stable death rate. The rate of emigration is low, but exceeds the immigration rate. Which is the most likely outcome over the next 50 years?\n\na) The population size will gradually decline\n\nb) The population size will not change in size\n\nc) The population size will increase, regardless of the death rate\n\nd) The population size will increase, regardless of birth rates\n\ne) The population will grow at a rate equal to the birth rate"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Exam",
+     "problem": "A blood cell has a large amount of rough endoplasmic reticulum and very few lysosomes. Which type of blood cell is it most likely to be?\n\na) B cell\n\nb) Erythrocyte\n\nc) Macrophage\n\nd) Neutrophil\n\ne) Platelet"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Exam",
+     "problem": "Which organelle can import protein directly from the cytosol, avoiding the need to rely on the endomembrane system for support?\n\na) Golgi apparatus\n\nb) Lysosomes\n\nc) Peroxisomes\n\nd) Rough endoplasmic reticulum\n\ne) Vacuoles"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Exam",
+     "problem": "The Rh factor on red blood cells is important for blood typing. Rh proteins form a complex that functions in both cell recognition and ammonia transport across the cell membrane. Which of the following best describes an Rh protein?\n\na) Amphitropic protein\n\nb) Integral membrane protein\n\nc) Lipid anchored protein\n\nd) Peripheral membrane protein\n\ne) Surface membrane protein"
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "Exam",
+     "problem": "Which of the following amino acids has a hydrophobic R group (i.e., side chain)?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2025-1-31-fig1.png\n\na. Threonine\n\nb. Serine\n\nc. Lysine\n\nd. Aspartic Acid\n\ne. Leucine"
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "Exam",
+     "problem": "What type of covalent bond links monosaccharides together?\n\na) Peptide bonds\n\nb) Hydrogen bonds\n\nc) Phosphodiester bonds\n\nd) Van der Waals bonds\n\ne) Glycosidic bonds"
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "Exam",
+     "problem": "Despite calcium being present in high quantities in the soil, plants can sometimes suffer from calcium deficiency due to competition with another nutrient for uptake. Which nutrient is most likely involved in this competition?\n\na) Chloride\n\nb) Iodine\n\nc) Magnesium\n\nd) Oxygen\n\ne) Silicon"
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "Exam",
+     "problem": "Which of the following pairs of compounds could form a buffer solution, when combined?\n\na) $\\mathrm{H_2CO_3}$ / $\\mathrm{NaHCO_2}$\n\nb) $\\mathrm{H_2CO_3}$ / $\\mathrm{NH_3}$\n\nc) $\\mathrm{H_3PO_4}$ / $\\mathrm{H_2CO_3}$\n\nd) $\\mathrm{NH_3}$ / $\\mathrm{NH_4Cl}$\n\ne) $\\mathrm{NH_4OH}$ / $\\mathrm{NH_3}$"
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "Exam",
+     "problem": "Bufotoxin, a toxin found in some amphibians, contains which types of biological molecules based on its known structure?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2025-1-35-fig1.png\n\na) Chitin and glycogen\n\nb) Chitin and protein\n\nc) Glycogen and steroid\n\nd) Glycogen and protein\n\ne) Protein and steroid"
+    },
+    {
+     "day": 1,
+     "number": 36,
+     "paper_label": "Exam",
+     "problem": "This graph shows the change in energy when a molecule of L-glucose is broken down without an enzyme and with an enzyme. Which of the following is most likely to change if the substrate is substituted with D-glucose?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2025-1-36-fig1.png\n\na) The activation energy of the enzyme- catalyzed reaction\n\nb) The activation energy of the uncatalyzed reaction\n\nc) The free energy change of both reactions equally\n\nd) The free energy change of the enzyme- catalyzed reaction\n\ne) The free energy change of the uncatalyzed reaction"
+    },
+    {
+     "day": 1,
+     "number": 37,
+     "paper_label": "Exam",
+     "problem": "Which of the following cellular processes is correctly paired with one of its products?\n\na) Citric acid cycle - NAD+\n\nb) Electron transport chain - $\\mathrm{CO_2}$\n\nc) Glycolysis - ATP\n\nd) Fermentation - NADH\n\ne) Pyruvate processing - $\\mathrm{FADH_2}$"
+    },
+    {
+     "day": 1,
+     "number": 38,
+     "paper_label": "Exam",
+     "problem": "A company is interested in modifying a plant to perform photosynthesis at a higher rate. What would be the most accurate way of measuring photosynthesis in a modified plant compared to an unmodified control?\n\na) Measure the change in plant mass\n\nb) Measure the change in soil mass\n\nc) Measure the chlorophyll content\n\nd) Measure the $\\mathrm{CO_2}$ consumption\n\ne) Measure the water lost due to transpiration"
+    },
+    {
+     "day": 1,
+     "number": 39,
+     "paper_label": "Exam",
+     "problem": "Certain species of algae can photosynthesize in deep waters, where it can get quite dark. In this area of the ocean different wavelengths of light can reach deeper than others leading to the evolution of new pigments to utilize the available light energy. On a diving adventure you collect a sample of one of these algae and measure the light absorption properties of its new photosynthetic pigment as shown on the right. What color would the algae appear when you observe it in your lab?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2025-1-39-fig1.png\n\na) Blue (460 - 500 nm)\n\nb) Green (500 - 570 nm)\n\nc) Yellow (570 - 590 nm)\n\nd) Orange (590 - 620 nm)\n\ne) Red (620 - 720 nm)"
+    },
+    {
+     "day": 1,
+     "number": 40,
+     "paper_label": "Exam",
+     "problem": "Which of the following is a reason a cell would fail to progress past the G1 checkpoint?\n\na) The cell has not reached a critical size threshold\n\nb) The cell’s telomeres are too short\n\nc) The chromosomes are not properly condensed\n\nd) All of the chromosomes have not been replicated\n\ne) The mitotic spindle has not been assembled"
+    },
+    {
+     "day": 1,
+     "number": 41,
+     "paper_label": "Exam",
+     "problem": "Five people were subjected to a breathalyzer test. None of them had consumed alcohol within the past 48 hours, yet one of them tested positive for ethanol in the blood. Which person is the most likely candidate?\n\na) Person 1: Someone who has not eaten well in a week and is in ketosis.\n\nb) Person 2: Someone who had just sprinted to the testing center and whose body switched from aerobic respiration to anaerobic fermentation due to energy demands.\n\nc) Person 3: Someone with gut fermentation syndrome, a rare condition where gut flora ferments carbohydrates in the intestines, constantly producing small amounts of ethanol.\n\nd) Person 4: Someone who has a mutation in alcohol dehydrogenase, causing it to work more efficiently.\n\ne) Person 5: Someone who has recently undergone surgery and has metal implants in their body, causing interference with the breathalyzer test."
+    },
+    {
+     "day": 1,
+     "number": 42,
+     "paper_label": "Exam",
+     "problem": "During meiosis, sister chromatids are separated in _______, while homologous chromosomes align at the center of the cell during _____________.\n\na) Anaphase I, Metaphase II\n\nb) Anaphase II, Metaphase I\n\nc) Metaphase I, Anaphase II\n\nd) Metaphase II, Anaphase I\n\ne) There is no correct answer, as homologous chromosomes only line up during mitosis."
+    },
+    {
+     "day": 1,
+     "number": 43,
+     "paper_label": "Exam",
+     "problem": "Apple cultivars are propagated through a process called grafting, where branches from a tree are cut and attached to another tree. This method is preferred instead of growing new trees from seeds because apple trees have a “high degree of heterozygosity”. Why does this make growing trees from seeds less desirable than grafting?\n\na) Seeds carry more pathogens to the next generation of trees than grafts do.\n\nb) Seeds have a low germination rate due to having an odd number of chromosomes.\n\nc) Seeds have a low germination rate due to high genetic incompatibility.\n\nd) Seeds produce trees with different phenotypes, leading to inconsistent fruit quality.\n\ne) Seeds produce trees with more types of alleles, leading to off flavours."
+    },
+    {
+     "day": 1,
+     "number": 44,
+     "paper_label": "Exam",
+     "problem": "Mendel’s experiments with pea plants led to the Law of Independent Assortment. However, gene sequencing has shown that three of the genes responsible for the traits he studied are located on the same chromosome. What is the most likely explanation for Mendel’s observation of independent assortment for these genes?\n\na) Gene sequencing has a high error rate, leading to incorrect gene location results\n\nb) Multiple chromosomes have fused since Mendel’s experiments\n\nc) The genes have translocated to different chromosomes since Mendel’s experiments\n\nd) These genes are far apart on the chromosome\n\ne) The peas were polyploid, allowing two pairs chromosomes to assort randomly"
+    },
+    {
+     "day": 1,
+     "number": 45,
+     "paper_label": "Exam",
+     "problem": "Freckles in humans are determined by the MC1R gene, which follows Mendelian inheritance. A couple wants to know their chances of having a child together with freckles, so they create a pedigree showing the traits of their siblings and parents. Based on this information, what is the chance they will have a child with freckles?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2025-1-45-fig1.png\n\na) 0 %\n\nb) 25 %\n\nc) 50 %\n\nd) 75 %\n\ne) 100 %"
+    },
+    {
+     "day": 1,
+     "number": 46,
+     "paper_label": "Exam",
+     "problem": "In snapdragons, flower color is determined by one gene with two alleles: (R) resulting in red flowers and (W) resulting in white flowers. A botanist crosses a white-flowered plant with red-flowered plant. All the resulting offspring have pink flowers. If the pink plants are allowed to self-fertilize, what are the expected phenotypic ratios?\n\na) 100% pink\n\nb) 50% red, 50% white\n\nc) 25% red, 50% pink, 25% white\n\nd) 50% red, 25% pink, 25% white\n\ne) 25% red, 25% pink, 50% white"
+    },
+    {
+     "day": 1,
+     "number": 47,
+     "paper_label": "Exam",
+     "problem": "The 2024 Nobel prize in Medicine and Physiology was awarded for the discovery of microRNAs that play a crucial role in regulating gene expression. One example is lin-4, a 22-nucleotide microRNA in C. elegans that regulates the expression of the LIN-14 protein, which is coded by the lin-14 gene. This microRNA localizes to the cytoplasm and is too short to be translated. How does lin-4 regulate lin-14?\n\na) lin-4 binds to the lin-14 gene promoter and inhibits transcription of lin-14 gene\n\nb) lin-4 binds to the lin-14 gene promoter and promotes transcription of lin-14 gene\n\nc) lin-4 binds to the lin-14 mRNA and promotes translation of lin-14 mRNA\n\nd) lin-4 binds to the lin-14 mRNA and inhibits translation of lin-14 mRNA\n\ne) lin-4 binds to translation factors and promotes translation of lin-14 mRNA"
+    },
+    {
+     "day": 1,
+     "number": 48,
+     "paper_label": "Exam",
+     "problem": "There are 61 mRNA codons that specify various amino acids. During translation, tRNAs recognize and bind to codons (reading from the 5’ to the 3’ direction in the mRNA) and carry the corresponding amino acid to be incorporated into the polypeptide chain. One would expect that cells would have at least 61 unique tRNAs, one for every codon that specifies an amino acid. However, in humans, only 30-40 unique tRNAs are required to translate mRNA. What is the explanation for this discrepancy?\n\na) Only the first two positions of the codon are read by Watson-Crick pairing rules, while deviations are allowed in the third position\n\nb) Only the last two positions of the codon are read by Watson-Crick pairing rules, while deviations are allowed in the first position\n\nc) Only the first two positions of the codon are read by Watson-Crick pairing rules, while the nucleotide in the third position is redundant\n\nd) tRNAs can bind in either direction, effectively halving the number needed\n\ne) Only the last two positions of the codon are read by Watson-Crick pairing rules, while the nucleotide in the third position is redundant"
+    },
+    {
+     "day": 1,
+     "number": 49,
+     "paper_label": "Exam",
+     "problem": "Which of the following correctly represents the order of sequences in a prokaryotic mRNA molecule?\n\na) 3’ untranslated region → Protein-coding region → Shine-Dalgarno sequence → Stop codon\n\nb) Stop codon → Protein-coding region → 3’ untranslated region → Shine-Dalgarno sequence\n\nc) Protein-coding region → 3’ untranslated region → Stop codon → Shine-Dalgarno sequence\n\nd) Shine-Dalgarno sequence → Protein-coding region → Stop codon → 3’ untranslated region\n\ne) Shine-Dalgarno sequence → Stop codon → Protein-coding region → 3’ untranslated region"
+    },
+    {
+     "day": 1,
+     "number": 50,
+     "paper_label": "Exam",
+     "problem": "The 2024 Nobel prize in Chemistry was awarded for the development of an AI model called AlphaFold which can predict the 3D structures of proteins with unprecedented accuracy. This year, a new version of the AphaFold is being developed to determine how these proteins interact with metals, coenzymes and ligands. Which level(s) of protein structure will be impacted by these interactions?\n\na) All four levels of protein structure\n\nb) Quaternary only\n\nc) Tertiary and Quaternary\n\nd) Tertiary only\n\ne) Secondary and Tertiary"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Exam",
+     "problem": "Which of the following processes can impact genotype frequencies, but not allele frequencies within populations?\n\na. Drift\n\nb. Gene flow\n\nc. Mutation\n\nd. Non-random mating\n\ne. Selection"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Exam",
+     "problem": "Which of the following evolutionary forces would most likely lead to speciation?\n\na. Drift in a large population\n\nb. Heterozygote selective advantage in a small population\n\nc. Negative frequency-dependent selection\n\nd. No migration following a population bottleneck\n\ne. Positive frequency-dependent selection"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Exam",
+     "problem": "The central dogma of biology states that DNA encodes RNA which encodes protein. Which of these molecules came first, and what ability allowed them to replicate without the others?\n\na. RNA, which could act like protein\n\nb. Protein, which could act like RNA\n\nc. DNA, which could act like RNA\n\nd. Protein, which could act like DNA\n\ne. RNA, which could act like DNA"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Exam",
+     "problem": "Plants, animals and fungi are recognized as separate kingdoms from protists due to their analogous evolution of what?\n\na. Alternation of sexual and non-sexual generations\n\nb. Complex multicellularity\n\nc. Dominant diploid generation\n\nd. Endosymbiotic acquisition of mitochondria\n\ne. Motility within one or more life stages"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Exam",
+     "problem": "The evolution of seeds in plants and amniotic eggs in animals allowed both these groups to do what?\n\na. Decrease sexual dimorphism\n\nb. Decrease viral load\n\nc. Increase genetic diversity through sexual reproduction\n\nd. Increase pre-zygotic isolation\n\ne. Increase their fundamental niche size"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Exam",
+     "problem": "Measurements of diversity can be calculated based on species richness, species evenness, or both. Which is true based on the data provided?\n\na. Index A and B both include richness and evenness\n\nb. Index A includes evenness but not richness\n\nc. Index A includes richness but not evenness\n\nd. Index B includes evenness but not richness\n\ne. Index B includes richness but not evenness\n\n$$\\begin{array}{l|c|c|c} & \\text{Site 1} & \\text{Site 2} & \\text{Site 3} \\\\ \\hline \\text{Species 1} & 10 & 40 & 10 \\\\ \\hline \\text{Species 2} & 10 & 40 & 10 \\\\ \\hline \\text{Species 3} & 10 & 10 & 10 \\\\ \\hline \\text{Species 4} & 10 & 10 & 0 \\\\ \\hline \\text{Species 5} & 10 & 10 & 0 \\\\ \\hline \\text{Diversity Index A} & 5.0 & 2.5 & 3.0 \\\\ \\hline \\text{Diversity Index B} & 1.0 & 0.5 & 1.0 \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Exam",
+     "problem": "Which of the following enzymes would you expect a fungi that is an endosymbiont of plant roots to produce?\n\na. Cellulase\n\nb. Chitinase\n\nc. Ligninase\n\nd. Pectinase\n\ne. Phosphatase"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Exam",
+     "problem": "Which of the following is an example of net primary productivity?\n\na. Carbon fixed through photosynthesis plus carbon fixed in respiration\n\nb. Carbon fixed through photosynthesis minus carbon released in respiration\n\nc. Carbon released through photosynthesis plus carbon released in respiration\n\nd. Carbon released through photosynthesis minus carbon fixed in respiration\n\ne. The carbon fixed through photosynthesis"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Exam",
+     "problem": "There exists a band in the fossil record with a higher level of iridium. Which event does this layer of the record correspond to?\n\na. The beginning of life\n\nb. The Cambrian explosion\n\nc. The extinction of the non-avian dinosaurs\n\nd. The beginning of the industrial revolution\n\ne. The impact of the moon and the Earth"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Exam",
+     "problem": "Trees are hypothesized to have contributed to a mass extinction of marine animals during the Devonian period. How might this have occurred?\n\na. Trees began to make too much oxygen, making the ocean hyperoxic\n\nb. Trees began to make too much oxygen, making the ocean hypoxic\n\nc. Trees consume too much $\\mathrm{CO_2}$ from the air, causing eutrophication\n\nd. Trees consumed too much $\\mathrm{CO_2}$ from the air, which prevented phytoplankton from breathing\n\ne. Tree roots increased soil production and weathering, releasing minerals into the ocean, causing eutrophication"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Exam",
+     "problem": "Modern cladistics revised many traditional Linnaean classifications because some groups were defined based on what type of character?\n\na. Apomorphy\n\nb. Analogy\n\nc. Homology\n\nd. Synapomorphy\n\ne. Symplesiomorphy"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Exam",
+     "problem": "Complete the following statements with one of the options. In the lungs, the partial pressure of oxygen in the alveoli is ___________ when the partial pressure of oxygen in the pulmonary (lung) capillaries is 5.33 kPa. In the systemic tissues, the partial pressure of carbon dioxide in the systemic capillaries is ___________ when the partial pressure of carbon dioxide in the systemic tissues is 5.6 kPa.\n\na. 13.3 kPa and 13.3 kPa\n\nb. 2.3 kPa and 13.3 kPa\n\nc. 13.3 kPa and 5.33 kPa\n\nd. 5.6 kPa and 7.3 kPa\n\ne. 5.33kPa and 5.6 kPa"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Exam",
+     "problem": "What is the primary physiological mechanism by which a high salt diet may result in hypertension (high blood pressure)?\n\na. Increased constriction of blood vessels\n\nb. Decreased constriction of blood vessels\n\nc. Increased blood volume\n\nd. Decreased blood volume\n\ne. Increased heart rate"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Exam",
+     "problem": "Asthma is a common respiratory condition that can cause coughing, wheezing, and tightness in the chest. Which type of treatment would be most effective at reducing the symptoms of an asthma attack?\n\na. A drug that reduces inflammation\n\nb. A vaccination to prevent future asthma attacks\n\nc. A blood thinner to clear blockages in the capillaries of the lungs\n\nd. Regular exercise to improve lung function\n\ne. Antibiotics"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Exam",
+     "problem": "There is a type of congenital (you are born with it) heart defect that results in a hole between the right and left atria. Compared to a normal heart, which of the following changes would most likely be observed as a result of this defect?\n\na. Lower partial pressure of oxygen in the pulmonary artery\n\nb. Higher partial pressure of oxygen in the pulmonary artery\n\nc. Higher partial pressure of oxygen in the aorta\n\nd. Higher partial pressure of oxygen in the left ventricle\n\ne. Lower partial pressure of oxygen in the left atrium"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Exam",
+     "problem": "The following is a diagram of a typical neuronal action potential. Which of the following proteins is responsible for segment A of the action potential?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2026-1-16-fig1.png\n\na. Voltage gated Na+ channels\n\nb. Voltage gated K+ channels\n\nc. Voltage gated Ca2+ channels\n\nd. Na+/K+ ATPase\n\ne. H+ pump"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "Exam",
+     "problem": "The sympathetic nervous system is known as the ‘fight or flight’ arm of the autonomic nervous system. Which of the following physiological effects would you predict is a sympathetic effect?\n\na. Increased heart rate\n\nb. Constricted airways\n\nc. Increased digestion\n\nd. Constricted pupils\n\ne. Decreased mobilization of glucose"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "Exam",
+     "problem": "When a diabetic takes too much insulin to regulate their blood glucose, which of the following effects may occur?\n\na. Decreased plasma glucagon\n\nb. Decreased plasma glucose\n\nc. Increased plasma glucose\n\nd. Decreased plasma norepinephrine\n\ne. Decreased epinephrine"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "Exam",
+     "problem": "Which of the following substances can NOT filter through the glomerulus in the healthy kidney?\n\na. Glucose\n\nb. Proteins\n\nc. Na+\n\nd. Bicarbonate (HCO3$^-$)\n\ne. Nitrogenous wastes"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "Exam",
+     "problem": "Which of the following statements best describes how epinephrine initiated a cellular effect?\n\na. It binds to factors in the cytosol that influence the transcription of genes\n\nb. It binds to factors in the nucleus that influence the transcription of genes\n\nc. It binds to proteins on the cell surface that activate a cascade of intracellular events\n\nd. It binds to protein channels on the cell surface that control ion transport\n\ne. It binds to enzymes in the cytoplasm to initiate an effect"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Exam",
+     "problem": "In the homeostatic control of thyroid hormone production where are the sensors that detect blood concentrations of thyroid hormone located?\n\na. Thyroid gland\n\nb. Pituitary gland\n\nc. Heart\n\nd. Bone\n\ne. Hypothalamus"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Exam",
+     "problem": "Fruit fly nuclei contain four pairs of homologous chromosomes. During oogenesis, how many different possible combinations of chromosomes could a daughter cell inherit at the end of Meiosis I?\n\na. 8\n\nb. 4\n\nc. 32\n\nd. 16\n\ne. 64"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Exam",
+     "problem": "What role does mitosis play during sperm development in humans?\n\na. reduces the genetic material from diploid to haploid\n\nb. expands the number of precursor cells that will undergo spermatogenesis\n\nc. allows for the recombination of genetic material between homologous chromosomes\n\nd. ensures that each of the four sperm cells that are generated are of equal size\n\ne. allows genetic variation through independent assortment"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Exam",
+     "problem": "How does the production of the polar body contribute to oogenesis in humans?\n\na. Ensures that egg cells only complete meiosis after puberty\n\nb. Promotes the generation of four egg cells at the end of meiosis\n\nc. Allows for the egg to retain a larger volume of cytoplasm\n\nd. Supports the future motility of the egg\n\ne. stores nutrients for the embryo"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Exam",
+     "problem": "Which of the following options best describes the phenomenon shown in the diagram below?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2026-1-25-fig1.png\n\nThe whitefly gene BtPMaT1 is a homolog of the plant PMaT1 gene, and encodes an enzyme that neutralizes plant toxins. The whitefly (an insect herbivore) acquired this gene from plants over the course of evolution.\n\na. Horizontal gene transfer\n\nb. Non-disjunction\n\nc. Meiotic recombination\n\nd. Gene duplication\n\ne. Vertical gene transfer"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Exam",
+     "problem": "The pedigree below shows the inheritance of a genetic disorder across five generations. Which aspect of inheritance best explains the pattern shown?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2026-1-26-fig1.png\n\na. X-linked\n\nb. Y-linked\n\nc. Autosomal recessive\n\nd. Autosomal dominant\n\ne. Codominant"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Exam",
+     "problem": "The diagram below shows a classic experiment conducted by two scientists in which two populations of bacteriophages were grown separately: one in $^{35}$S and the other in $^{32}$P. Each population infected identical bacterial cultures. After infection, the mixtures were blended and centrifuged. Which of the following describes the outcome of the experiment?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2026-1-27-fig1.png\n\na. In Condition 1 and Condition 2, radioactivity was primarily in the bacterial pellet\n\nb. In Condition 1, radioactivity was primarily in the bacterial pellet; in Condition 2, radioactivity was primarily in the supernatant\n\nc. In Condition 1, radioactivity was primarily in the supernatant; in Condition 2, radioactivity was primarily in the bacterial pellet\n\nd. In Condition 1 and Condition 2, radioactivity was primarily in the supernatant\n\ne. In Condition 1, radioactivity was primarily in the bacterial pellet; in Condition 2, radioactivity was equally distributed between the bacterial pellet and supernatant"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Exam",
+     "problem": "The diagram below shows a classic experiment conducted by two scientists in which two populations of bacteriophages were grown separately: one in $^{35}$S and the other in $^{32}$P. Each population infected identical bacterial cultures. After infection, the mixtures were blended and centrifuged.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2026-1-28-fig1.png\n\nWhich of the following conclusions depends most directly on the localization of radioactivity observed in the above experiment?\n\na. Bacteriophages are made of both protein and nucleic acid\n\nb. Viral protein coats attach to the host cell during infection\n\nc. The material transferred into the bacterium contains the information required for viral replication\n\nd. Mechanical blending disrupts non-covalent protein interactions\n\ne. All of the above answer options are correct"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Exam",
+     "problem": "You are analyzing a DNA fragment and found the % composition of guanine to be 30%. What is the % composition of thymine in the molecule?\n\na. 30%\n\nb. 35%\n\nc. 20%\n\nd. 70%\n\ne. 40%"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Exam",
+     "problem": "The following nucleic acid represents the coding sequence of a DNA molecule:\n\nATG TAC CCT ACA CCC GAT TTA TGA\n\nHowever, the sequence was exposed to a beam of X-rays, inducing a mutation to the coding sequence:\n\nATG TAC $\\underline{\\text{A}}$CT ACA CCC GAT TTA TGA\n\nWhat kind of mutation would this be called?\n\na. Frameshift\n\nb. Silent\n\nc. Nonsense\n\nd. Missense\n\ne. Insertion"
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "Exam",
+     "problem": "Which protein relieves tension within DNA when it’s unwound during DNA replication?\n\na. DNA Helicase\n\nb. DNA gyrase\n\nc. Single-stranded binding proteins (SSBs)\n\nd. DNA ligase\n\ne. DNA primase"
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "Exam",
+     "problem": "Why is Taq polymerase used in a polymerase chain reaction (PCR) instead of regular DNA polymerase?\n\na. Taq polymerase only functions at low temperatures, making it ideal for PCR\n\nb. Regular DNA polymerase cannot recognize DNA nucleotides during PCR\n\nc. Taq polymerase doesn’t require RNA primers in PCR\n\nd. Taq polymerase doesn’t denature at high temperatures during PCR\n\ne. Taq polymerase synthesizes DNA faster"
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "Exam",
+     "problem": "How does a gel electrophoresis experiment allow for the separation of DNA molecules?\n\na. Separates DNA molecules based on their base composition; DNA molecules with more guanine-cytosine base pairs travel more slowly\n\nb. Separates DNA molecules based on their size; larger DNA molecules travel more slowly\n\nc. Separates DNA molecules based on their base composition; DNA molecules with more adenine-thymine base pairs travel more slowly\n\nd. Separates DNA molecules based on their size; smaller DNA molecules travel more slowly\n\ne. Separates DNA molecules based on their charge; positively and negatively charged DNA molecules approach oppositely charged electrodes"
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "Exam",
+     "problem": "The diagram below shows a chromosome before and after a molecular event takes place. Gene A encodes protein A, and gene B encodes protein B. Initially, protein A and protein B are produced normally. After the event, protein A is no longer produced, while protein B continues to be produced normally. Which type of DNA element is most likely responsible for this change?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2026-1-34-fig1.png\n\na. Transposon\n\nb. Pseudogene\n\nc. Intergenic DNA\n\nd. Intron\n\ne. Duplicated gene"
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "Exam",
+     "problem": "In recent years there has been a surge in the use of glucagon-like peptide-1 (GLP-1) drugs such as semaglutide (Ozempic) for the purpose of weight loss. Which of the following can be predicted as an effect of GLP-1 drugs based on its use for weight loss?\n\na. Increase blood sugar levels to provide energy for muscles\n\nb. Slows down rate of stomach emptying for a longer period of feeling full\n\nc. It slows down the metabolism in the body so that there is less need for calories\n\nd. It blocks the function of muscle cells so that the body requires fewer calories\n\ne. Breaks down fat stored in the body for energy"
+    },
+    {
+     "day": 1,
+     "number": 36,
+     "paper_label": "Exam",
+     "problem": "Parietal cells in the stomach express a H+/K+ ATPase that is responsible for establishing a pH lower than 1 in the stomach lumen. Chloride ions move from inside the parietal cells to the lumen using $\\underline{\\text{passive transport}}$ to form HCl. Which of the following best describes the force that drives the movement of chloride ions?\n\na. Exocytosis\n\nb. Receptor mediated transport\n\nc. Electrical gradient\n\nd. Chloride ATPase\n\ne. Concentration gradient"
+    },
+    {
+     "day": 1,
+     "number": 37,
+     "paper_label": "Exam",
+     "problem": "If you wanted to determine the activity of an ATPase pump in a test tube, which of the following would be the best thing to measure?\n\na. Amount of sodium transported intracellularly over time\n\nb. Amount of potassium transported extracellularly over time\n\nc. Amount of free phosphate generated over time\n\nd. Amount of diffusion that occurs over time\n\ne. Amount of potassium transported intracellularly over time"
+    },
+    {
+     "day": 1,
+     "number": 38,
+     "paper_label": "Exam",
+     "problem": "Which of the following is an example of facilitated diffusion?\n\na. Movement of sodium through sodium channels down its electrochemical gradient\n\nb. Transport of potassium to the inside of the cell using the Na+/K+ ATPase\n\nc. Endocytosis of membrane proteins in response to a chemical signal\n\nd. Movement of hydrogen to the outside of the cell against its concentration gradient\n\ne. Movement of oxygen across the cell membrane down its concentration gradient"
+    },
+    {
+     "day": 1,
+     "number": 39,
+     "paper_label": "Exam",
+     "problem": "Pancreatic cells have high secretory activity, in that by way of exocytosis they secrete large amounts of digestive enzymes. Which of the following organelles would you expect to be most abundant in these cells?\n\na. Mitochondria\n\nb. Lysosomes\n\nc. Nucleus\n\nd. Golgi apparatus\n\ne. Rough endoplasmic reticulum"
+    },
+    {
+     "day": 1,
+     "number": 40,
+     "paper_label": "Exam",
+     "problem": "Which of the following is the most hydrophobic?\n\na. Sodium\n\nb. Cholesterol\n\nc. Fructose\n\nd. Water\n\ne. Glycine"
+    },
+    {
+     "day": 1,
+     "number": 41,
+     "paper_label": "Exam",
+     "problem": "You dissolve 10 grams of maltose (a disaccharide) in water. If all of the maltose undergoes hydrolysis into glucose monomers, what would be the final mass of glucose if all the water was evaporated?\n\na. 5.0 grams\n\nb. Slightly less than 10 grams\n\nc. 10 grams\n\nd. Slightly more than 10 grams\n\ne. 20 grams"
+    },
+    {
+     "day": 1,
+     "number": 42,
+     "paper_label": "Exam",
+     "problem": "The shape and property of an amino acid is determined by its ….?\n\na. Amino group\n\nb. R group\n\nc. Three- dimensional structure\n\nd. Carboxyl group\n\ne. α-carbon"
+    },
+    {
+     "day": 1,
+     "number": 43,
+     "paper_label": "Exam",
+     "problem": "Adrenaline is the natural substrate for the enzyme called the adrenergic receptor, and when it interacts with this receptor in the heart it causes an increase in heart rate. What would you expect would happen to heart rate if an inhibitor of the adrenergic receptor, propranolol was given with adrenaline?\n\na. Heart rate would increase\n\nb. Heart rate would decrease\n\nc. Adrenaline and propranolol would bind to each other\n\nd. Heart rate would not change\n\ne. Heart rate would initially decrease and then increase"
+    },
+    {
+     "day": 1,
+     "number": 44,
+     "paper_label": "Exam",
+     "problem": "Which of the following types of bonds occur between pairs of bases from two strands of DNA?\n\na. Phosphodiester\n\nb. Nucleic acid\n\nc. Peptide\n\nd. Hydrogen\n\ne. Covalent"
+    },
+    {
+     "day": 1,
+     "number": 45,
+     "paper_label": "Exam",
+     "problem": "The diagram below/above shows a typical green plant leaf. What is the primary purpose of the leaf layer indicated in the diagram with an X?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2026-1-45-fig1.png\n\na. This layer stores water for the plant to use later\n\nb. This layer facilitates gas exchange between the atmosphere and mesophyll cells\n\nc. This layer is responsible for absorbing most of the light that enters the leaf\n\nd. This layer allows gases to enter and exit the epidermis of the leaf\n\ne. This layer allows nutrients to be transported to different parts of the leaf"
+    },
+    {
+     "day": 1,
+     "number": 46,
+     "paper_label": "Exam",
+     "problem": "Maple syrup, a famous Canadian sweetener, is produced by boiling sap extracted from maple trees in late winter, when the temperature at night is below freezing, and the temperature during the day is above freezing. Which tissue in the tree is the sap collected from?\n\na. Phloem\n\nb. Xylem\n\nc. Cortex\n\nd. Epidermis\n\ne. Endodermis"
+    },
+    {
+     "day": 1,
+     "number": 47,
+     "paper_label": "Exam",
+     "problem": "A tree trunk is cut, and one annual growth ring is thinner than the other rings. Which of the following could have resulted in this thin ring?\n\na. Reduced water transport in the xylem\n\nb. Reduced sugar transport in the phloem\n\nc. Increased transpiration\n\nd. Decreased cell division in the apical meristem\n\ne. Decreased cell division in the vascular cambium"
+    },
+    {
+     "day": 1,
+     "number": 48,
+     "paper_label": "Exam",
+     "problem": "A gardener sprays a plant with a growth regulator. After a week, the gardener comes back and notices that the stem has elongated and flower buds are developing. Which of the following growth regulators could be responsible for this growth?\n\na. Auxins\n\nb. Gibberellins\n\nc. Cytokinins\n\nd. Ethylene\n\ne. Abscisic"
+    },
+    {
+     "day": 1,
+     "number": 49,
+     "paper_label": "Exam",
+     "problem": "A gardener grows two species of flowering plants, A and B, which can sexually reproduce. She notices that when a plant of species A is isolated, it does not bear any fruit. When a plant of species B is isolated, it produces fruit with seeds. Which of the following is true about species A and B?\n\na. Species A and B can both self-pollinate\n\nb. Species A must cross-pollinate\n\nc. Species A is a gymnosperm while Species B is an angiosperm\n\nd. Species A is an angiosperm while Species B is a gymnosperm\n\ne. Species B generates more pollen than Species A"
+    },
+    {
+     "day": 1,
+     "number": 50,
+     "paper_label": "Exam",
+     "problem": "Which statement about this phylogenetic tree is CORRECT?\n\na. Humans are equally closely related to cats and frogs.\n\nb. Lizards and cats are more closely related than lizards and humans.\n\nc. Fish are the most recent common ancestor of the other organisms in the tree.\n\nd. Geese and fish are more closely related than geese and frogs.\n\ne. Frogs are equally closely related to cats and lizards.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2026-1-50-fig1.png"
+    }
+   ]
+  }
+ ]
+}

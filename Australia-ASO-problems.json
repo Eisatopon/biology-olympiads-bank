@@ -2,6 +2,341 @@
  "competition": "Australian Science Olympiad Exam — Biology",
  "years": [
   {
+   "year": 2007,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which process removes the waste products of metabolism from the body of a living organism ?\n\nA. Respiration\n\nB. Nutrition\n\nC. Egestion\n\nD. Excretion\n\nE. Reproduction"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which of the following is a list of entirely abiotic factors?\n\nA. Soil pH, temperature, viral infections.\n\nB. Viral infections, predators, competition for resources.\n\nC. Sunlight levels that penetrate the canopy, soil pH, number of species.\n\nD. Predators, temperature, sunlight levels that penetrate the canopy.\n\nE. Temperature, soil pH, oxygen content of soil."
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which of the following correctly shows the sequence from the smallest to the largest?\n\nA. Cell, nucleus, tissue, organ, system, organism.\n\nB. Organism, system, organ, tissue, cell, nucleus.\n\nC. Organism, organ, system, tissue, cell, nucleus.\n\nD. Nucleus, cell, tissue, organ, system, organism.\n\nE. Nucleus, cell, tissue, system, organ, organism."
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which sequence shows the energy flow in an ecosystem?\n\nA. Sun → carnivore → herbivore → plant.\n\nB. Plant → herbivore → carnivore → sun.\n\nC. Sun → plant → herbivore → carnivore.\n\nD. Carnivore → herbivore → plant → sun.\n\nE. Sun → plant → carnivore → herbivore."
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which of the following is NOT a function of blood?\n\nA. Delivery of nutrients to tissues.\n\nB. Repair of damaged tissues.\n\nC. Defence against infectious disease.\n\nD. Carriage of oxygen and carbon dioxide.\n\nE. Production of hormones such as insulin and glucagon."
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Refer to the following diagram representing a flower to answer questions 6 and 7.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2007-1-6-fig1.png\n\nWhich of the structures in the diagram contains haploid cells?\n\nA. 1\n\nB. 2\n\nC. 3\n\nD. 4\n\nE. 5"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Refer to the following diagram representing a flower to answer questions 6 and 7.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2007-1-6-fig1.png\n\nWhich of the structures contains chlorophyll?\n\nA. 1\n\nB. 2\n\nC. 4\n\nD. 5\n\nE. None of the structures contain chlorophyll."
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A cell contains enzymes, DNA, ribosomes, mitochondria and a plasma membrane. The cell could be from:\n\nA. bacteria.\n\nB. an animal but not a plant.\n\nC. a plant but not an animal.\n\nD. any kind of organism.\n\nE. a plant or an animal."
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which elements are found in amino acids before they are assembled into protein chains?\n\nA. Carbon, hydrogen, nitrogen, sulfur and oxygen.\n\nB. Hydrogen, carbon, sulfur and nitrogen.\n\nC. Nitrogen, oxygen, sulfur, phosphorous and carbon.\n\nD. Oxygen, phosphorous, nitrogen and hydrogen.\n\nE. Hydrogen, phosphorous, carbon and nitrogen."
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Use the following diagram for the next two questions. The diagram shows part of the carbon cycle.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2007-1-10-fig1.png\n\nWhich number represents photosynthesis?\n\nA. 1\n\nB. 2\n\nC. 3\n\nD. 4\n\nE. 5"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Use the following diagram for the next two questions. The diagram shows part of the carbon cycle.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2007-1-10-fig1.png\n\nWhich numbers show the conversion of carbon from an organic form to an inorganic form?\n\nA. 1 and 5\n\nB. 2 and 6\n\nC. 3 and 7\n\nD. 4 and 5\n\nE. 6 and 7"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Consider the following processes:\n\nI. Contraction of diaphragm\n\nII. Relaxation of diaphragm\n\nIII. Lung volume increases\n\nIV. Air flows into lungs\n\nIn what order do these processes occur when a person breathes air into the lungs?\n\nA. I → III → IV\n\nB. IV → III → I\n\nC. II → III → IV\n\nD. II → IV → III\n\nE. III → IV → II"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The diagram below shows two solutions that are separated by a semi-permeable membrane.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2007-1-13-fig1.png\n\nIn which direction will most water molecules move?\n\nA. From X to Y, decreasing the concentration gradient of sucrose.\n\nB. From X to Y, increasing the concentration gradient of sucrose.\n\nC. From Y to X, decreasing the concentration gradient of sucrose.\n\nD. From Y to X, increasing the concentration gradient of sucrose.\n\nE. There will be no net movement of water."
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A student recorded the events of a reaction using an enzyme at 37°C in his lab book. Into test tube 1, he put 10 mL of a boiled egg-white solution. This was cloudy in appearance. Then he added 2mL of an enzyme solution and stirred the solution. Ten minutes later, the solution had turned clear as shown in test tube 2.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2007-1-14-fig1.png\n\nThe suspension might have become clear more quickly if:\n\nA. More egg protein had been used.\n\nB. The mixture had not been stirred.\n\nC. The pH of the mixture had been changed.\n\nD. The temperature had been raised to 75°C.\n\nE. Iodine had been added to the test tube."
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A cricket fan sitting outside in the Melbourne Cricket Ground on a cold, windy day may use which of the following processes to keep warm?\n\nA. Vasodilation\n\nB. Vasoconstriction\n\nC. Radiation\n\nD. Convection\n\nE. Sweating (perspiration)"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Refer to the following information to answer questions 16, 17 and 18.\n\nA cladogram is a graphical way to represent the similarities between protein sequences of different species, shown by the length and branching of lines. Below is the cladogram generated when the sequence of the haemoglobin protein is compared between species.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2007-1-16-fig1.png\n\nThe species most closely related to humans is ________, and the species least related to humans is ________.\n\nA. Pig; sea cucumber\n\nB. Horse; pig\n\nC. Sea cucumber; horse\n\nD. Horse; sea cucumber\n\nE. Pig, horse"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Refer to the following information to answer questions 16, 17 and 18.\n\nA cladogram is a graphical way to represent the similarities between protein sequences of different species, shown by the length and branching of lines. Below is the cladogram generated when the sequence of the haemoglobin protein is compared between species.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2007-1-16-fig1.png\n\nFrom the information shown in this cladogram, you hypothesise that the horse is more closely related to the pig than to humans. What is the best way to test this theory?\n\nA. Compare the vestigial structures of humans, horses and pigs.\n\nB. Compare the genetic information contained in the red blood cells of humans, horses and pigs.\n\nC. Compare the genetic information contained in liver cells of humans, horses and pigs.\n\nD. Compare the gross morphology (overall shape) and organ systems of humans, horses and pigs.\n\nE. Compare the behaviour of humans, horses and pigs and the ecological niches they occupy."
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Refer to the following information to answer questions 16, 17 and 18.\n\nA cladogram is a graphical way to represent the similarities between protein sequences of different species, shown by the length and branching of lines. Below is the cladogram generated when the sequence of the haemoglobin protein is compared between species.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2007-1-16-fig1.png\n\nThe cladogram indicates that the deer is less closely related to the horse than you had originally thought. What could be a possible explanation for this finding?\n\nA. The deer diverged from the common ancestor that it shared with horses later than expected.\n\nB. The horse has evolved to be a larger size than the deer and therefore requires more haemoglobin than the deer.\n\nC. The deer is more at risk of predation than the horse and therefore needs a better supply of oxygen to the muscles.\n\nD. The embryos of horses and deer are very different to each other.\n\nE. The deer and the horse evolved in environments different enough to cause them to have more divergent haemoglobin sequences."
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Mutualistic relationships between individuals of two different species benefit both species. Which of the following is an example of a mutualistic relationship?\n\nA. Natural flora living in the human gut.\n\nB. Algae growing on a turtle’s shell.\n\nC. Ticks living on a cow’s legs.\n\nD. Tapeworms in a sheep’s intestines.\n\nE. Maggots on a rabbit carcass."
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Malaria is an infectious disease caused by a single-celled eukaryotic organism, carried by female mosquitoes. The mosquito is the:\n\nA. pathogen.\n\nB. vector.\n\nC. agent.\n\nD. disease.\n\nE. virus."
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The graph below shows the effect of $x$ on the rate of reaction of an enzyme-catalysed reaction.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2007-1-21-fig1.png\n\nWhich one of the following could be $x$?\n\nA. Either substrate concentration or temperature.\n\nB. Either enzyme concentration or pH.\n\nC. Either pH or substrate concentration.\n\nD. Either temperature or pH.\n\nE. Either temperature or enzyme concentration."
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "In a certain species of rat, fur colour is controlled by a single gene. There are two alleles for this gene, the black fur allele and the white fur allele. If these alleles were found to be incompletely dominant with respect to one another, then this species of rat would most likely have:\n\nA. only black fur.\n\nB. only white fur.\n\nC. two possible genotypes for fur colour.\n\nD. three possible phenotypes for fur colour.\n\nE. some animals with patches of white fur and patches of black fur."
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "DNA fingerprinting is often used to confirm the identity of an individual. In a family, a child’s DNA must be derived either from his mother or father, with approximately half the child’s genetic material coming from each parent.\n\nThe diagram shows a small section of the gel electrophoresis results from a DNA fingerprint analysis of a family. Which of the children is LEAST likely to be the offspring of both parents?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2007-1-23-fig1.png\n\nA. Child 1.\n\nB. Child 2.\n\nC. Child 3.\n\nD. None of the children are likely to be offspring of both parents.\n\nE. All children are definitely offspring of both parents."
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The following graph shows how the size of a population of fungi changes as it grows on top of an old bowl of soup in the fridge.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2007-1-24-fig1.png\n\nWhich of the following is LEAST likely to explain why the rate of population growth decreases at point X?\n\nA. Reduced availability of nutrients per individual.\n\nB. Reduced availability of space for each individual.\n\nC. Reduced access to oxygen for some individuals.\n\nD. Accumulation of toxic waste products.\n\nE. Reduced ability to find a mate."
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The pedigree below shows the inheritance of a genetically inherited blood disorder in a family. Circles represent females, squares represent males and coloured shapes represent effected individuals.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2007-1-25-fig1.png\n\nWhat is the most likely mode of inheritance of this disorder?\n\nA. X-linked dominant\n\nB. X-linked recessive\n\nC. Maternal inheritance\n\nD. Autosomal dominant\n\nE. Autosomal recessive"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which of the following pedigrees could occur if the shaded individuals show an X-linked dominant trait and partially shaded individuals are unaffected carriers of the trait?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2007-1-26-fig1.png"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The diagram below represents a portion of stained onion leaf.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2007-1-27-fig1.png\n\nWhat molecule is the stain most likely to be adhering to?\n\nA. DNA\n\nB. Phospholipids\n\nC. Protein\n\nD. Chitin\n\nE. Cellulose"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "You are trying to show Year 8 students that plants require the presence of light to produce oxygen. To do this you assemble the experimental system shown below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2007-1-28-fig1.png\n\nWhich of the following setups would be useful as a control for your experiment?\n\nI. The setup as above, but placed in a dark room.\n\nII. The setup as above, but with holes in the top of the container.\n\nIII. The setup as above, but with the plant removed from the pot.\n\nA. I only.\n\nB. II only.\n\nC. III only.\n\nD. I and II only.\n\nE. I and III only."
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A simplified food chain for an aquatic environment is shown below.\n\nalgae → mosquito larvae → small fish → large fish\n\nIf the number of mosquito larvae suddenly increased, what would happen?\n\nA. The number of small fish would increase.\n\nB. The number of large fish would decrease.\n\nC. The number of large fish would increase.\n\nD. The amount of algae would decrease.\n\nE. More than one of the above is correct."
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The following graph represents the rate of oxygen produced by a tomato plant over a 24 hour period.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2007-1-30-fig1.png\n\nWhich point on the graph represents midnight?\n\nA. 1\n\nB. 2\n\nC. 3\n\nD. 4\n\nE. 5"
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "An experiment is being designed to test if a newly synthesised compound kills bacteria. What would be the best positive control for this experiment?\n\nA. Bacteria treated with another unknown compound.\n\nB. Bacteria given an enriched supply of nutrients.\n\nC. Untreated bacteria.\n\nD. Bacteria treated with a known antibiotic.\n\nE. Yeast treated with a known antibiotic."
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "In the breakdown of glucose to release energy in the process of respiration, there are different stages of metabolism. These include the conversions between different carbon-containing compounds, as shown below:\n\nα-ketoglutarate → succinate → fumarate → malate\n\nIf the enzyme responsible for the conversion of succinate to fumarate became inactive, which of the following would occur?\n\nI. Some accumulation of succinate.\n\nII. Continued breakdown of α-ketoglutarate.\n\nIII. Gradual disappearance of fumarate.\n\nIV. An immediate stop to the production of malate.\n\nA. I and II\n\nB. II and III\n\nC. III and IV\n\nD. I, II and III\n\nE. II, III and IV"
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Below is a diagram of the secretory pathway from the endoplasmic reticulum (ER), through the Golgi apparatus, to the plasma membrane.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2007-1-33-fig1.png\n\nWhich of the following diagrams correctly represents the orientations of proteins A and B upon reaching the secretory vesicle and the plasma membrane?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2007-1-33-fig2.png"
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "If a foreign body is travelling in the human bloodstream in a large vein of the left leg, where is it most likely to block blood-flow eventually?\n\nA. Small arteries of the lung.\n\nB. Small veins of the lung.\n\nC. Capillaries of the left leg.\n\nD. Capillaries of the brain.\n\nE. The right atrium of the heart."
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The following diagram shows the regulation of the production of the male reproductive hormones. Gonadotropin-releasing hormone (GnRH) stimulates the anterior pituitary to release luteinising hormone (LH) which acts upon the testes to promote the production of androgens, such as testosterone.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2007-1-35-fig1.png\n\nIf a male bodybuilder takes steroid androgens, what effect would be seen?\n\nA. The negative feedback inhibition of LH release would be lost.\n\nB. The level of LH in the blood would accumulate.\n\nC. The stimulation of primary and secondary sex characteristics would increase.\n\nD. The production of natural androgens would be much less.\n\nE. The level of GnRH released from the anterior pituitary would decrease."
+    },
+    {
+     "day": 1,
+     "number": 36,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Root hairs are tiny cellular projections that grow from the epidermal layer of roots. What is their primary function?\n\nA. Anchoring the rest of the root into the soil.\n\nB. Displacing soil particles so the root can grow further.\n\nC. Capturing soil nematodes for use as a carbon source.\n\nD. Storing nutrients produced by the leaves.\n\nE. Increasing the root’s surface area to absorb more nutrients."
+    },
+    {
+     "day": 1,
+     "number": 37,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "In pea seeds, round (R) is dominant to wrinkled (r) and yellow (Y) is dominant to green (y). What percentage of round yellow seeds is expected from the cross: RrYY x RRYy?\n\nA. 100 %\n\nB. 75 %\n\nC. 50 %\n\nD. 25 %\n\nE. 0 %"
+    },
+    {
+     "day": 1,
+     "number": 38,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Refer to the following information to answer questions 38, 39 and 40.\n\nNematodes are small worms that can be grown on Petri dishes if provided with the right nutrients. The potency of the nutrients can be determined by measuring the migration of the nematodes towards the nutrient. The shaded disks shown in the diagram are soaked in different nutrients before placement in the Petri dishes and the net migration of the nematodes in the dishes after 30 minutes is shown by the length and direction of the arrows.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2007-1-38-fig1.png\n\nIn which of the dishes does the disk contain a beneficial nutrient?\n\nA. 1\n\nB. 2\n\nC. 3\n\nD. 1 and 2\n\nE. 2 and 3"
+    },
+    {
+     "day": 1,
+     "number": 39,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Refer to the following information to answer questions 38, 39 and 40.\n\nNematodes are small worms that can be grown on Petri dishes if provided with the right nutrients. The potency of the nutrients can be determined by measuring the migration of the nematodes towards the nutrient. The shaded disks shown in the diagram are soaked in different nutrients before placement in the Petri dishes and the net migration of the nematodes in the dishes after 30 minutes is shown by the length and direction of the arrows.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2007-1-38-fig1.png\n\nIn which of the dishes does the disk contain a weak toxin?\n\nA. 1\n\nB. 2\n\nC. 3\n\nD. None, as the nematodes would be killed by the toxin and show no net movement.\n\nE. It is impossible to tell without a positive control."
+    },
+    {
+     "day": 1,
+     "number": 40,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Refer to the following information to answer questions 38, 39 and 40.\n\nNematodes are small worms that can be grown on Petri dishes if provided with the right nutrients. The potency of the nutrients can be determined by measuring the migration of the nematodes towards the nutrient. The shaded disks shown in the diagram are soaked in different nutrients before placement in the Petri dishes and the net migration of the nematodes in the dishes after 30 minutes is shown by the length and direction of the arrows.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2007-1-38-fig1.png\n\nThe FLP gene is required by the nematodes to sense the nutrients in the disk. What would you expect the migration pattern of the nematodes to look like if they had a non-functional FLP gene?\n\nA. 1\n\nB. 2\n\nC. 3\n\nD. 2 or 3\n\nE. There would be no migration."
+    },
+    {
+     "day": 1,
+     "number": 41,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Injecting a person with a vaccine containing heat-killed microorganisms provides:\n\nA. active immunity by giving antibodies.\n\nB. passive immunity by stimulating the macrophages to produce antibodies.\n\nC. passive immunity by providing memory cells.\n\nD. active immunity by stimulating the body’s production of antibodies and memory cells.\n\nE. active immunity by stimulating the macrophages to produce antibodies."
+    },
+    {
+     "day": 1,
+     "number": 42,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Refer to the following information to answer questions 42 and 43.\n\nTwo individuals, both heterozygous (Aa) for a gene locus, are stranded on a remote island. The recessive allele a is deleterious so that aa individuals do not survive.\n\n$$\\text{Allele frequency of } \\mathbf{A} = \\frac{\\#\\ \\mathbf{Aa}\\text{ individuals} + (\\#\\ \\mathbf{AA}\\text{ individuals}) \\times 2}{\\#\\text{ total individuals} \\times 2}$$\n\nWhat is the allele frequency of A initially?\n\nA. 0\n\nB. 1/4\n\nC. 1/2\n\nD. 1/3\n\nE. 1/6"
+    },
+    {
+     "day": 1,
+     "number": 43,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Refer to the following information to answer questions 42 and 43.\n\nTwo individuals, both heterozygous (Aa) for a gene locus, are stranded on a remote island. The recessive allele a is deleterious so that aa individuals do not survive.\n\n$$\\text{Allele frequency of } \\mathbf{A} = \\frac{\\#\\ \\mathbf{Aa}\\text{ individuals} + (\\#\\ \\mathbf{AA}\\text{ individuals}) \\times 2}{\\#\\text{ total individuals} \\times 2}$$\n\nAfter one generation, what will be the allele frequency of a considering the genotypes of the individuals that survive?\n\nA. 0\n\nB. 1/4\n\nC. 1/2\n\nD. 1/3\n\nE. 1/6"
+    },
+    {
+     "day": 1,
+     "number": 44,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The table below shows the weights of dry biomass of four varieties of plants grown densely in separate 5$\\mathrm{m^2}$ plots for 20 weeks. One of the plots was enriched with fertiliser containing nitrogen, phosphorus and potassium, and the other plot was covered by a shade cloth.\n\n$$\\begin{array}{c|c|c} \\text{Plant} & \\text{Fertiliser} & \\text{Shade cloth} \\\\ \\hline 1 & 4.29 & 2.35 \\\\ 2 & 3.62 & 2.49 \\\\ 3 & 4.13 & 1.49 \\\\ 4 & 4.22 & 1.78 \\end{array}$$\n\nWhich of the above plants would grow better than the others in a well-nourished pot in an indoor environment?\n\nA. 1\n\nB. 2\n\nC. 3\n\nD. 4\n\nE. It is impossible to tell from the information provided."
+    },
+    {
+     "day": 1,
+     "number": 45,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Questions 45 and 46 refer to the following diagram of a leaf cross section. The central cylinder is enlarged as shown.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2007-1-45-fig1.png\n\nThe cell type W is likely to contain an abundance of which organelle?\n\nA. Chloroplasts\n\nB. Mitochondria\n\nC. Ribosomes\n\nD. Smooth endoplasmic reticulum\n\nE. Golgi bodies"
+    },
+    {
+     "day": 1,
+     "number": 46,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Questions 45 and 46 refer to the following diagram of a leaf cross section. The central cylinder is enlarged as shown.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2007-1-45-fig1.png\n\nWhich of the following labels is CORRECTLY matched with its function?\n\nA. V – secretes a waxy substance that enhances water loss.\n\nB. W – imparts physical strength to the leaf.\n\nC. X – primary structure for photosynthesis.\n\nD. Y – transports sucrose and other organic materials.\n\nE. Z – assists the passage of air through the leaf."
+    },
+    {
+     "day": 1,
+     "number": 47,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A short length of DNA from the cytochrome-C gene was compared in three different species. The nucleotide differences between the species are shown below.\n\n$$\\begin{array}{l|l} \\textit{Canis domesticus} & \\text{A C A G G A T C A} \\\\ \\textit{Felis margarita} & \\text{A G A C G A T C A} \\\\ \\textit{Felis nigripes} & \\text{A G A C G T T C A} \\end{array}$$\n\nWhich of the following conclusions can you draw from this data?\n\nA. Felis nigripes, Felis margarita and Canis domesticus are incorrectly classified.\n\nB. Felis nigripes, Felis margarita and Canis domesticus all share a common ancestor.\n\nC. Felis nigripes and Felis margarita are more closely related than either to Canis domesticus.\n\nD. Felis nigripes and Felis margarita must have evolved from Canis domesticus.\n\nE. Two of the above are correct."
+    },
+    {
+     "day": 1,
+     "number": 48,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The diagram below represents two species of bacteria grown on Petri dishes. The strip in the middle of the dishes contains the antibiotic penicillin applied to the strip in a gradient of concentrations.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2007-1-48-fig1.png\n\nWhich of the following statements is TRUE?\n\nA. The minimum concentration of penicillin required to inhibit the growth of Species A is approximately 800 units.\n\nB. If 900 units of penicillin was applied to a Petri dish containing both Species A and B, eventually Species A would occupy all of the Petri dish.\n\nC. Species A is less resistant to penicillin than Species B.\n\nD. Species A replicates faster than Species B, thus occupies a greater area than Species B in the presence of penicillin.\n\nE. At a concentration of 900 units, penicillin is able to inhibit the growth of Species B."
+    },
+    {
+     "day": 1,
+     "number": 49,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Dinitrophenol is a poison that inhibits the production of ATP. Which of the following will stop after muscle cells are treated with dinitrophenol?\n\nA. Active transport\n\nB. Passive transport\n\nC. Diffusion\n\nD. Photosynthesis\n\nE. Glucagon secretion"
+    },
+    {
+     "day": 1,
+     "number": 50,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "What property of water is MOST important to plants living just under the surface of water?\n\nA. Adhesion\n\nB. Solute concentration\n\nC. Transparency\n\nD. Surface tension\n\nE. Temperature"
+    },
+    {
+     "day": 2,
+     "number": 51,
+     "paper_label": "Section B: Written answers",
+     "problem": "A potometer is a device used for measuring the rate of water uptake by a leafy plant. The main reason for water uptake is transpiration. Potometers come in a variety of designs, but all follow the same basic principle:\n\n1. The plant is placed in a sealed container of water connected to a graduated capillary tube.\n\n2. A bubble is introduced into the capillary tube.\n\n3. As transpiration occurs water is taken up by the plant and the bubble moves.\n\nBy marking the position of the bubble in the tube, it is possible to measure the volume of water taken up by the plant over time.\n\nScientists wishing to study the transpiration rate of a variety of spinach measured the water taken up by a young spinach plant at different temperatures. The water usage for each temperature condition was measured for an hour. Light intensity and humidity were kept constant throughout the experiment. The results of this experiment are shown in the table below.\n\n$$\\begin{array}{c|c} \\text{Temperature (°C)} & \\text{Water usage (mL/h)} \\\\ \\hline 5 & 0.03 \\\\ 10 & 0.04 \\\\ 15 & 0.06 \\\\ 20 & 0.09 \\\\ 25 & 0.13 \\\\ 30 & 0.18 \\\\ 35 & 0.24 \\\\ 40 & 0.31 \\end{array}$$\n\na. Plot these data on the graph paper provided in the answer booklet. Join the data points using a continuous smooth curve and label each axis appropriately. [5 marks]\n\nb. From your graph, determine the temperature at which you would expect this plant to use 0.2 mL of water per hour. [1 mark]\n\nc. Transpiration rates are often expressed as volume of water lost per unit time per unit leaf area (ie. $\\mathrm{mL/h/m^2}$). If the total leaf area of this plant was found to be $0.05\\,\\mathrm{m^2}$, calculate the transpiration rate of this plant at 30°C. Units should be expressed as $\\mathrm{mL/h/m^2}$. [2 marks]\n\nd. Another spinach plant at a similar stage of development, but with a leaf surface area of $0.1\\ \\mathrm{m^2}$, was left connected to the potometer under the same conditions at 30°C. How many millilitres of water would you expect this plant to use in 6 hours? [2 marks]\n\ne. Briefly explain how an increase in humidity would affect the transpiration rate. [2 marks]\n\nf. Fill in the graph in your answer book by drawing a curve to show the rate of transpiration of a spinach plant over a 24 hour period in hot, dry, sunny conditions. [4 marks]\n\ng. Name two carbohydrates present in a leaf that would NOT be present in a red blood cell. [2 marks]"
+    },
+    {
+     "day": 2,
+     "number": 52,
+     "paper_label": "Section B: Written answers",
+     "problem": "Gross primary production (GPP) is the total amount of energy fixed by primary producers in an ecosystem. A fraction of this energy is used in the process of cellular respiration, and the remaining fixed energy is known as the net primary production (NPP) of the ecosystem. This relationship can be described as:\n\n$$\\text{Respiration} = \\text{GPP} - \\text{NPP}$$\n\nThe table below compares the energy flow in a temperate forest and a tropical rain forest.\n\n$$\\begin{array}{l|c|c} \\text{Process} & \\text{Energy (kJ m}^{-2}\\text{ year}^{-1}\\text{)} & \\\\ & \\text{Temperate forest} & \\text{Tropical forest} \\\\ \\hline \\text{GPP} & 48\\ 800 & 180\\ 000 \\\\ \\text{NPP} & 30\\ 000 & 52\\ 000 \\end{array}$$\n\na. Calculate the respiration that occurs in each type of forest in $\\mathrm{kJ\\ m^{-2}\\ year^{-1}}$. [2 marks]\n\nb. State two factors that may contribute to the greater amount of gross primary production in the tropical forest than in the temperate forest. [2 marks]\n\nc. In which forest does the biomass increase more over an equal area in one year? Give a reason for your choice. [2 marks]"
+    },
+    {
+     "day": 2,
+     "number": 53,
+     "paper_label": "Section B: Written answers",
+     "problem": "a. A student sequences a double-stranded DNA molecule but the sequencing results were not complete, as shown in the table below. Fill in the table in your answer booklet to show the composition of the DNA strands. [2 marks]\n\n$$\\begin{array}{l|c|c|c|c} & \\text{A} & \\text{C} & \\text{G} & \\text{T} \\\\ \\hline \\text{Coding strand} & 6 & & & 4 \\\\ \\text{Complementary strand} & & 2 & 3 & \\end{array}$$\n\nb. An endoenzyme breaks large molecules up from within the molecule; exoenzymes break large molecules by removing one group at a time from the ends of the large molecule. Explain why it is more effective to add an endoenzyme first before using an exoenzyme when breaking up a large molecule such as a protein. [3 marks]\n\nc. The synthesis of proteins involves many cell organelles and processes. Make a table of the similarities and differences of transcription and translation as they relate to protein synthesis. [6 marks]"
+    },
+    {
+     "day": 2,
+     "number": 54,
+     "paper_label": "Section B: Written answers",
+     "problem": "The ABO blood group system in humans is determined by three alleles ($I^A$, $I^B$ and $i$) at one gene locus. The $I^A$ and $I^B$ alleles are codominant with respect to each other and both $I^A$ and $I^B$ are dominant with respect to the $i$ allele.\n\nIndividuals homozygous for the recessive $i$ allele have group O blood while $I^Ai$ and $I^Bi$ individuals have group A and B blood respectively. $I^AI^B$ individuals have group AB blood.\n\nIMPORTANT: Use the nomenclature (symbols) used in the question in your answers where appropriate.\n\na. List all the possible genotypes of a person with group A blood. [2 marks]\n\nb. The first child in a family has blood group AB. The second child has blood group O. What are the genotypes of the parents? [2 marks]\n\nc. Using a diagram, explain as clearly as possible why an individual with blood group AB cannot be the parent of a child with blood group O. [3 marks]\n\nd. In a particular population, it was found that the frequency of the $I^A$, $I^B$ and $i$ alleles was 0.2, 0.1 and 0.7 respectively. Given this information, what proportion of the population has group AB blood? [3 marks]"
+    },
+    {
+     "day": 2,
+     "number": 55,
+     "paper_label": "Section B: Written answers",
+     "problem": "At a local primary school, there is an outbreak of head lice in the children. Parents are advised to treat their children with a new insecticide lotion instead of using one from last year. Explain how the head lice have become ‘resistant’ to the old lotion and why using a new lotion is advised. [5 marks]"
+    }
+   ]
+  },
+  {
    "year": 2008,
    "problems": [
     {
