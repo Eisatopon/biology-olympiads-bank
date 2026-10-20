@@ -2,6 +2,1191 @@
  "competition": "Australian Science Olympiad Exam — Biology",
  "years": [
   {
+   "year": 2019,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Exam",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-1-fig1.png\n\nWhat type of cell is depicted in the above figure?\n\na. red blood cell\n\nb. prokaryotic cell\n\nc. plant cell\n\nd. eukaryotic cell"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Exam",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-1-fig1.png\n\nWhat does the organelle labelled A produce when functioning normally in a cell?\n\na. protein\n\nb. mRNA\n\nc. ATP\n\nd. endoplasmic reticulum"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Exam",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-1-fig1.png\n\nWhat does the label B point out?\n\na. cell membrane\n\nb. cell wall\n\nc. endoplasmic reticulum\n\nd. mRNA"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Exam",
+     "problem": "The cell organelle pictured below is present in all cells and is crucial to cellular respiration.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-4-fig1.png\n\nWhat organelle plays a similar role but is found only in certain types of cells?\n\na. Mitochondria\n\nb. Golgi apparatus\n\nc. Chloroplast\n\nd. Rough endoplasmic reticulum"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Exam",
+     "problem": "What is the term that best describes the net movement of uncharged molecules from an area of low concentration to an area of high concentration?\n\na. diffusion\n\nb. active transport\n\nc. passive transport\n\nd. osmosis"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Exam",
+     "problem": "Diffusion is:\n\na. the spontaneous movement of molecules through a selectively permeable membrane\n\nb. driven by a gradient in the volume of water\n\nc. the net movement of molecules from a region of higher concentration to a region of lower concentration\n\nd. the net movement of molecules from a region of lower concentration to a region of higher concentration"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Exam",
+     "problem": "A solution that has a lower concentration of solute than another solution is called?\n\na. hypertonic\n\nb. hypotonic\n\nc. isotonic\n\nd. isoneutral"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Exam",
+     "problem": "Which of the pH values listed below represents the strongest acid?\n\na. 2\n\nb. 4\n\nc. 7\n\nd. 15"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Exam",
+     "problem": "DNA replication is semi conservative. This statement means that:\n\na. each replicated strand of DNA is made of a quarter the original DNA and three quarters new DNA from free nucleotides\n\nb. each replicated strand of DNA is made of half original DNA and half new DNA from free nucleotides\n\nc. the nucleotides are moved from the old strand to the new strand\n\nd. each strand of DNA has 50% new nucleotides"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Exam",
+     "problem": "DNA is a polymer made of nucleotide monomers. Each nucleotide is composed of phosphate, a deoxyribose sugar and a nitrogenous base.\n\nIf a bacterium composed of nitrogen 14 was grown in culture that contained nitrogen 16, the newly synthesised DNA would weigh:\n\na. more than the original bacterium DNA\n\nb. less than the original bacterium\n\nc. the same as the original bacterium DNA\n\nd. it would be unable to be weighed"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Exam",
+     "problem": "There are four different nitrogenous bases in DNA, guanine, cytosine, adenine and thymine. Within the double helix of DNA, guanine from one strand bids to cytosine while adenine binds to thymine.\n\nA sequence of 55 base pairs of nucleotides contains 33 cytosine bases. How many adenine bases are there in the sequence?\n\na. 11\n\nb. 22\n\nc. 44\n\nd. 55"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Exam",
+     "problem": "A single nucleotide polymorphism (SNP) is a DNA sequence variation occurring within a group of the same species in which a single nucleotide differs between individual members. SNPs can be in coding or non-coding regions of DNA. There are many studies that look at how SNPs correlate with a person’s phenotype. ACTN3 is a gene coding for muscle specific protein alpha-actinin-3. Three genotypes exist for this gene: RR, RX and XX. Lack of this protein (XX) is not associated with disease.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-12-fig1.png\n\nStephen M. Roth, Ph.D., University of Maryland; American Journal of Human Genetics\n\nThe alpha-actinin-3 protein?\n\na. gives an advantage in becoming an endurance athlete\n\nb. does not give an advantage in becoming an endurance athlete\n\nc. gives an advantage in becoming a power athlete\n\nd. does not give an advantage in becoming a power athlete"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Exam",
+     "problem": "A single nucleotide polymorphism (SNP) is a DNA sequence variation occurring within a group of the same species in which a single nucleotide differs between individual members. SNPs can be in coding or non-coding regions of DNA. There are many studies that look at how SNPs correlate with a person’s phenotype. ACTN3 is a gene coding for muscle specific protein alpha-actinin-3. Three genotypes exist for this gene: RR, RX and XX. Lack of this protein (XX) is not associated with disease.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-12-fig1.png\n\nStephen M. Roth, Ph.D., University of Maryland; American Journal of Human Genetics\n\nThe lack of the R allele:\n\na. prevents someone from becoming a power athlete\n\nb. does not prevent someone from becoming a power athlete\n\nc. prevents someone from becoming an athlete\n\nd. does not prevent someone from becoming an athlete"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Exam",
+     "problem": "A single nucleotide polymorphism (SNP) is a DNA sequence variation occurring within a group of the same species in which a single nucleotide differs between individual members. SNPs can be in coding or non-coding regions of DNA. There are many studies that look at how SNPs correlate with a person’s phenotype. ACTN3 is a gene coding for muscle specific protein alpha-actinin-3. Three genotypes exist for this gene: RR, RX and XX. Lack of this protein (XX) is not associated with disease.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-12-fig1.png\n\nStephen M. Roth, Ph.D., University of Maryland; American Journal of Human Genetics\n\nThe protein alpha-actinin-3 is most likely to be involved in:\n\na. anabolic respiration\n\nb. anaerobic respiration\n\nc. aerobic respiration\n\nd. catabolic respiration"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Exam",
+     "problem": "A DNA molecule is made from two strands of nucleotides, known as coding and template. The template strand carries the information used by the cell, and the coding strand is complementary. This is biologically analogous to:\n\na. an ‘up’ and a ‘down’ escalator\n\nb. two opposite lanes of a highway\n\nc. a pair of mittens\n\nd. a photograph and its negative"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Exam",
+     "problem": "When Scar referred to himself as being ‘at the shallow end of the gene pool’ to Simba in the Lion King, Disney met the world of science. What is the best description of the gene pool in this context?\n\na. All the genes found in the lion population\n\nb. The number of gene loci in the lion population\n\nc. The groups of genes that determine the polygenic traits in lions.\n\nd. The genes that conferred a selective advantage for strength in lions"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "Exam",
+     "problem": "When we discuss levels of biodiversity in an ecosystem, we are referring to\n\na. the numbers of animals and plants in the ecosystem\n\nb. how endangered the plants and animals in the ecosystem are\n\nc. the number of species recorded in the ecosystem\n\nd. how large the ecosystem is"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "Exam",
+     "problem": "The average amount of energy that is lost to cellular respiration from one heterotrophic level to the next in a four-step food chain is approximately:\n\na. 10%\n\nb. 90%\n\nc. 15%\n\nd. 60%"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "Exam",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-19-fig1.png\n\nWhich is a possible common ancestor for species C and E?\n\na. 1\n\nb. 2\n\nc. 3\n\nd. 4"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "Exam",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-19-fig1.png\n\nWhich pair represents the most closely related species?\n\na. A and B\n\nb. C and B\n\nc. D and E\n\nd. E and A"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Exam",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-19-fig1.png\n\nWhich species is most likely to be extinct?\n\na. B\n\nb. C\n\nc. D\n\nd. E"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Exam",
+     "problem": "Kathryn leaves a potato outside and it gradually decays. One of the main substances in the potato is the starch amylose, which is made of many glucose molecules bonded together. What happens to the chemical energy in amylose molecules as the potato decays?\n\na. Some of the energy is used to convert the amylose into nitrogen and phosphorous which passes into the soil as nutrients.\n\nb. Some of the energy is utilised by decomposers.\n\nc. Some of the energy is used to form carbon dioxide.\n\nd. Some of the energy is used up by decomposers and disappears."
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Exam",
+     "problem": "The molecule below shows the Carbon skeleton of a:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-23-fig1.png\n\na. Fatty Acid\n\nb. Carbohydrate\n\nc. Protein\n\nd. Nucleic acid"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Exam",
+     "problem": "When protein enzymes are heated excessively in a test tube, their activity usually decreases. In some cases, activity is restored when the temperature is returned to normal. In such a case, which of the following was unaffected by the original heating?\n\na. Ionic bonds\n\nb. Peptide bonds\n\nc. Hydrogen bonds\n\nd. Hydrophobic interactions"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Exam",
+     "problem": "When protein enzymes are heated excessively in a test tube and their activity does not return to normal, the enzyme is said to be:\n\na. saturated\n\nb. denatured\n\nc. dead\n\nd. ineffective"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Exam",
+     "problem": "Ecological pyramids are used in biology to represent relationships between and within populations quantitatively. Producers are shown on the bottom and subsequent layers represent higher-level consumers. The following diagram shows three different pyramids of population numbers.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-26-fig1.png\n\nWhich pyramid represents a population in the process of decreasing?\n\na. I only\n\nb. II only\n\nc. III only\n\nd. II and III"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Exam",
+     "problem": "Ecological pyramids are used in biology to represent relationships between and within populations quantitatively. Producers are shown on the bottom and subsequent layers represent higher-level consumers. The following diagram shows three different pyramids of population numbers.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-26-fig1.png\n\nWhich pyramid represents a population that is stable?\n\na. I only\n\nb. II only\n\nc. III only\n\nd. I and III"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Exam",
+     "problem": "Ecological pyramids are used in biology to represent relationships between and within populations quantitatively. Producers are shown on the bottom and subsequent layers represent higher-level consumers. The following diagram shows three different pyramids of population numbers.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-26-fig1.png\n\nWhich pyramid represents a pyramid of numbers in the African savannah?\n\na. I only\n\nb. II only\n\nc. III only\n\nd. II and III"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Exam",
+     "problem": "What type of population growth shown in the graph is exhibited by this hypothetical Daphnia sp. population that is reproducing in a water tank?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-29-fig1.png\n\na. Arithmetic growth\n\nb. Exponential growth\n\nc. Density-dependent growth\n\nd. Limited growth"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Exam",
+     "problem": "How does the meaning of the term “dispersal” differ from “dispersion” in ecological terms?\n\nDispersal is\n\na. immigration of animals into a territory.\n\nb. the pattern in which animals are dispersed in the ecosystem.\n\nc. the spreading of seeds.\n\nd. the movement and animals away from a home territory."
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "Exam",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-31-fig1.png\n\nWhich of the following statements is correct?\n\na. Herbivorous zooplankton are primary producers.\n\nb. Polar bears are under threat of extinction because harbour seals are tertiary consumers in the food chain.\n\nc. Harp seals eat arctic cod and capelin and killer whales eat harp seals.\n\nd. The primary production is increased when the number of zooplankton increase."
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "Exam",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-31-fig1.png\n\nWhich of the following is most likely to be the keystone species in this food web?\n\na. killer whale.\n\nb. arctic cod.\n\nc. phytoplankton.\n\nd. ringed seal."
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "Exam",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-33-fig1.png\n\nDuring which of the following stages of the cell cycle does DNA replication occur?\n\na. S phase.\n\nb. G1 phase.\n\nc. G2 phase.\n\nd. M phase."
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "Exam",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-33-fig1.png\n\nIn which cell stage does cell division occur?\n\na. S phase.\n\nb. G1 phase.\n\nc. G2 phase.\n\nd. M phase."
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "Exam",
+     "problem": "If the template strand of a DNA molecule has the sequence 3’ CTTGGATCGA 5’, which of the following mRNA strands would be produced?\n\na. 5’ CUUGGAUCGA 3’\n\nb. 5’ GUUCCATCGA 3’\n\nc. 5’ GAACCTAGCT 3’\n\nd. 5’ GAACCUAGCU 3’"
+    },
+    {
+     "day": 1,
+     "number": 36,
+     "paper_label": "Exam",
+     "problem": "Transpiration is the process by which water is lost by plants. To determine the effect that different conditions such as wind, humidity, and light intensity have on the rate of transpiration an experiment was designed using the progress of a tracer dye through the stem of a stick of celery. The distance travelled by the dye from the roots, up through vessels in the stem, was recorded in centimetres for a variety of treatments.\n\n$$\\begin{array}{c|cccc} & \\rlap{\\text{Simulated environmental condition}} & & & \\\\ \\text{Time (s)} & \\text{Wind} & \\text{Humidity} & \\text{Darkness} & \\text{Bright Light} \\\\ \\hline 0 & 0 & 0 & 0 & 0 \\\\ 10 & 2 & 1 & 1 & 2.5 \\\\ 20 & 3.5 & 2.5 & 2 & 3.5 \\\\ 30 & 5.5 & 3.5 & 2.5 & 5 \\\\ 40 & 7 & 5 & 3.5 & 6.5 \\end{array}$$\n\nBased on the data provided, which of the following conclusions is valid?\n\na. Wind causes more water loss due to transpiration than bright light\n\nb. Humidity causes less water loss due to transpiration than darkness\n\nc. Bright light causes less water loss due to transpiration than humidity.\n\nd. Interaction of the tracer dye with the celery’s tissues could explain discrepancies in the uniformity of the apparent rate of transpiration"
+    },
+    {
+     "day": 1,
+     "number": 37,
+     "paper_label": "Exam",
+     "problem": "Transpiration is the process by which water is lost by plants. To determine the effect that different conditions such as wind, humidity, and light intensity have on the rate of transpiration an experiment was designed using the progress of a tracer dye through the stem of a stick of celery. The distance travelled by the dye from the roots, up through vessels in the stem, was recorded in centimetres for a variety of treatments.\n\n$$\\begin{array}{c|cccc} & \\rlap{\\text{Simulated environmental condition}} & & & \\\\ \\text{Time (s)} & \\text{Wind} & \\text{Humidity} & \\text{Darkness} & \\text{Bright Light} \\\\ \\hline 0 & 0 & 0 & 0 & 0 \\\\ 10 & 2 & 1 & 1 & 2.5 \\\\ 20 & 3.5 & 2.5 & 2 & 3.5 \\\\ 30 & 5.5 & 3.5 & 2.5 & 5 \\\\ 40 & 7 & 5 & 3.5 & 6.5 \\end{array}$$\n\nWith an increase in humidity, the rate of transpiration is expected to be lower owing to:\n\na. a decrease in the rate of evaporation\n\nb. an increase in the rate of evaporation\n\nc. an increase in the rate of convection\n\nd. a decrease in the rate of convection"
+    },
+    {
+     "day": 1,
+     "number": 38,
+     "paper_label": "Exam",
+     "problem": "Transpiration is the process by which water is lost by plants. To determine the effect that different conditions such as wind, humidity, and light intensity have on the rate of transpiration an experiment was designed using the progress of a tracer dye through the stem of a stick of celery. The distance travelled by the dye from the roots, up through vessels in the stem, was recorded in centimetres for a variety of treatments.\n\n$$\\begin{array}{c|cccc} & \\rlap{\\text{Simulated environmental condition}} & & & \\\\ \\text{Time (s)} & \\text{Wind} & \\text{Humidity} & \\text{Darkness} & \\text{Bright Light} \\\\ \\hline 0 & 0 & 0 & 0 & 0 \\\\ 10 & 2 & 1 & 1 & 2.5 \\\\ 20 & 3.5 & 2.5 & 2 & 3.5 \\\\ 30 & 5.5 & 3.5 & 2.5 & 5 \\\\ 40 & 7 & 5 & 3.5 & 6.5 \\end{array}$$\n\nThe tracer dye would most likely travel through the plants:\n\na. veins\n\nb. xylem\n\nc. phloem\n\nd. stem"
+    },
+    {
+     "day": 1,
+     "number": 39,
+     "paper_label": "Exam",
+     "problem": "A volcano erupts in the middle of the Pacific Ocean, forming a new island. Marine eggs and larvae drift towards it on the currents allowing species to colonise and create a reef fringing the island. As time passes, factors such as predation, competition and diseases, result in the extinctions of some reef species.\n\nIf the reef is colonised each century by ten new species of plankton but 10% become extinct each century, how long will it take for the reef fauna to include at least 50 different species of plankton?\n\na. 300 years\n\nb. 400 years\n\nc. 800 years\n\nd. 1200 years"
+    },
+    {
+     "day": 1,
+     "number": 40,
+     "paper_label": "Exam",
+     "problem": "A volcano erupts in the middle of the Pacific Ocean, forming a new island. Marine eggs and larvae drift towards it on the currents allowing species to colonise and create a reef fringing the island. As time passes, factors such as predation, competition and diseases, result in the extinctions of some reef species.\n\nAn El Nino event results in a change in the direction of marine current around the island, preventing the reef from being colonized by any new species. Assuming the extinction rate remains at 10% per century, how long will it take for the biodiversity of the reef to reduce from 50 species of plankton to 30 species?\n\na. 500 years\n\nb. 300 years\n\nc. 800 years\n\nd. 1200 years"
+    },
+    {
+     "day": 1,
+     "number": 41,
+     "paper_label": "Exam",
+     "problem": "A volcano erupts in the middle of the Pacific Ocean, forming a new island. Marine eggs and larvae drift towards it on the currents allowing species to colonise and create a reef fringing the island. As time passes, factors such as predation, competition and diseases, result in the extinctions of some reef species.\n\nYou want to calculate the population size of turtles on the reef. You sample the number of turtles using a capture-mark-recapture survey. On the first visit you capture 20 turtles and mark their identity on their shell with a permanent marker. One month later on your second visit, you capture 15 turtles, 5 of which already had identity marks on their shell. How many individuals are in the population?\n\nUsing this formula: estimated population = $(T_1 \\times T_2) / T_3$\n\nwhere $T_1$ = number of animals marked in the first survey\n\nwhere $T_2$ = number of new animals marked in the second survey\n\nwhere $T_3$ = number of animals recaptured\n\na. 25\n\nb. 35\n\nc. 40\n\nd. 200"
+    },
+    {
+     "day": 1,
+     "number": 42,
+     "paper_label": "Exam",
+     "problem": "A fictitious protein named diflerrin has just been discovered in a new species of marine worms that live in highly saline environments with extremely low oxygen levels. Diflerrin is composed of two polypeptide chains and seven cysteine residues in total. It shares part of its amino acid sequence with the surface antigen of a parasitic human tapeworm by coincidence. It functions as a respiratory pigment similar to haemoglobin – it binds oxygen that flows over their gills, circulates around the body in the blood, and releases oxygen to respiring tissues.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-42-fig1.png\n\nThe structure of cysteine, a sulfur-containing amino acid, is shown above. How many disulfide bonds will be present in diflerrin?\n\na. 2\n\nb. 3\n\nc. 4\n\nd. 7"
+    },
+    {
+     "day": 1,
+     "number": 43,
+     "paper_label": "Exam",
+     "problem": "A fictitious protein named diflerrin has just been discovered in a new species of marine worms that live in highly saline environments with extremely low oxygen levels. Diflerrin is composed of two polypeptide chains and seven cysteine residues in total. It shares part of its amino acid sequence with the surface antigen of a parasitic human tapeworm by coincidence. It functions as a respiratory pigment similar to haemoglobin – it binds oxygen that flows over their gills, circulates around the body in the blood, and releases oxygen to respiring tissues.\n\nWhat level of protein structure will diflerrin display?\n\na. Primary structure\n\nb. Secondary structure\n\nc. Tertiary structure\n\nd. Quaternary structure"
+    },
+    {
+     "day": 1,
+     "number": 44,
+     "paper_label": "Exam",
+     "problem": "A fictitious protein named diflerrin has just been discovered in a new species of marine worms that live in highly saline environments with extremely low oxygen levels. Diflerrin is composed of two polypeptide chains and seven cysteine residues in total. It shares part of its amino acid sequence with the surface antigen of a parasitic human tapeworm by coincidence. It functions as a respiratory pigment similar to haemoglobin – it binds oxygen that flows over their gills, circulates around the body in the blood, and releases oxygen to respiring tissues.\n\nWhere would you expect diflerrin to be predominantly localised in a red blood cell? Assume it is the same as haemoglobin in this regard.\n\na. Embedded in the cell membrane so it can pick up oxygen more easily\n\nb. In the nucleus\n\nc. In the cytoplasm\n\nd. In the mitochondria so it can deliver oxygen more efficiently for aerobic cellular respiration"
+    },
+    {
+     "day": 1,
+     "number": 45,
+     "paper_label": "Exam",
+     "problem": "A fictitious protein named diflerrin has just been discovered in a new species of marine worms that live in highly saline environments with extremely low oxygen levels. Diflerrin is composed of two polypeptide chains and seven cysteine residues in total. It shares part of its amino acid sequence with the surface antigen of a parasitic human tapeworm by coincidence. It functions as a respiratory pigment similar to haemoglobin – it binds oxygen that flows over their gills, circulates around the body in the blood, and releases oxygen to respiring tissues.\n\nConsider diflerrin-oxygen dissociation curves A, B, C and D on the graph below. Note that curve A may be difficult to see as it is very close to the vertical axis and the line θ=1. Theta (θ) is defined as the fraction of total diflerrin bound to oxygen at various concentrations of oxygen. The concentration of oxygen in marine worm tissues is approximately 1 arbitrary unit. In the seawater surrounding the worm the concentration is 3 arbitrary units, as shown by the shaded vertical bars.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-45-fig1.png\n\nSource: modified from Principles of Biochemistry (Lehninger 6th edition)\n\nWhich diflerrin-oxygen dissociation curve is most likely to be correct?\n\na. Curve A\n\nb. Curve B\n\nc. Curve C\n\nd. Curve D"
+    },
+    {
+     "day": 1,
+     "number": 46,
+     "paper_label": "Exam",
+     "problem": "A fictitious protein named diflerrin has just been discovered in a new species of marine worms that live in highly saline environments with extremely low oxygen levels. Diflerrin is composed of two polypeptide chains and seven cysteine residues in total. It shares part of its amino acid sequence with the surface antigen of a parasitic human tapeworm by coincidence. It functions as a respiratory pigment similar to haemoglobin – it binds oxygen that flows over their gills, circulates around the body in the blood, and releases oxygen to respiring tissues.\n\nConsider diflerrin-oxygen dissociation curves A, B, C and D on the graph below. Note that curve A may be difficult to see as it is very close to the vertical axis and the line θ=1. Theta (θ) is defined as the fraction of total diflerrin bound to oxygen at various concentrations of oxygen. The concentration of oxygen in marine worm tissues is approximately 1 arbitrary unit. In the seawater surrounding the worm the concentration is 3 arbitrary units, as shown by the shaded vertical bars.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-45-fig1.png\n\nSource: modified from Principles of Biochemistry (Lehninger 6th edition)\n\nUsing the same graph in the previous question, which curve represents the protein with the highest affinity to oxygen across the whole range of oxygen concentrations?\n\na. Curve A\n\nb. Curve B\n\nc. Curve C\n\nd. Curve D"
+    },
+    {
+     "day": 1,
+     "number": 47,
+     "paper_label": "Exam",
+     "problem": "A fictitious protein named diflerrin has just been discovered in a new species of marine worms that live in highly saline environments with extremely low oxygen levels. Diflerrin is composed of two polypeptide chains and seven cysteine residues in total. It shares part of its amino acid sequence with the surface antigen of a parasitic human tapeworm by coincidence. It functions as a respiratory pigment similar to haemoglobin – it binds oxygen that flows over their gills, circulates around the body in the blood, and releases oxygen to respiring tissues.\n\nDiflerrin is investigated for its viability as an orally administered haemoglobin substitute in humans. Is this likely to be effective, and why or why not?\n\na. Yes, because it is a relatively small protein that may be absorbed by the microvilli of the small intestine.\n\nb. Yes, because it will pass through the oral mucosa ad diffuse into capillaries, where it can be taken up by red blood cells.\n\nc. No, because it will be excreted in urine by the filtering mechanism of the kidneys.\n\nd. No, because it will be broken down in the stomach by proteases."
+    },
+    {
+     "day": 1,
+     "number": 48,
+     "paper_label": "Exam",
+     "problem": "A fictitious protein named diflerrin has just been discovered in a new species of marine worms that live in highly saline environments with extremely low oxygen levels. Diflerrin is composed of two polypeptide chains and seven cysteine residues in total. It shares part of its amino acid sequence with the surface antigen of a parasitic human tapeworm by coincidence. It functions as a respiratory pigment similar to haemoglobin – it binds oxygen that flows over their gills, circulates around the body in the blood, and releases oxygen to respiring tissues.\n\nIntravenous administration of diflerrin in humans is also considered as an option. Is this likely to be effective, and why or why not?\n\na. Yes, because intravenous administration allows diflerrin to immediately contact the blood, where it will undergo facilitated diffusion across the membranes of red blood cells to assist in oxygen transport.\n\nb. Yes, because intravenous administration allows diflerrin to bypass metabolism of toxins and foreign substances in the liver, so it remains active as an oxygen transporter in the bloodstream.\n\nc. No, because diflerrin will be recognised as a foreign protein and attacked by immune cells such as eosinophils.\n\nd. No, because red blood cells will phogocytose diflerrin and cause it to become denatured while it is circulating in the bloodstream."
+    },
+    {
+     "day": 1,
+     "number": 49,
+     "paper_label": "Exam",
+     "problem": "A fictitious protein named diflerrin has just been discovered in a new species of marine worms that live in highly saline environments with extremely low oxygen levels. Diflerrin is composed of two polypeptide chains and seven cysteine residues in total. It shares part of its amino acid sequence with the surface antigen of a parasitic human tapeworm by coincidence. It functions as a respiratory pigment similar to haemoglobin – it binds oxygen that flows over their gills, circulates around the body in the blood, and releases oxygen to respiring tissues.\n\nWhat adaptation is the marine worm LEAST likely to have to survive in highly saline conditions\n\na. Active excretion of salt\n\nb. Production of hypoosmotic waste\n\nc. Reduced permeability of body surface to salt\n\nd. Production of hyperosmotic waste"
+    },
+    {
+     "day": 1,
+     "number": 50,
+     "paper_label": "Exam",
+     "problem": "The purpose of modern vaccines is to reduce the “lag” between infection and the production of sufficient antibodies to fight the pathogen. After being exposed to a virus responsible for influenza (the ‘flu), the antibody levels of two individuals were measured over the course of several days. This was done via blood sampling through a vein on the left arm. The counts of both individuals are presented below:\n\n$$\\begin{array}{l|l|l} \\text{Day} & \\text{Individual A} & \\text{Individual B} \\\\ \\hline 1 & 2 & 5 \\\\ 2 & 5 & 100 \\\\ 3 & 50 & 3500 \\\\ 4 & 1000 & 10000\\lt \\\\ 5 & 10000\\lt & 10000\\lt \\end{array}$$\n\nWhich individual/s is more likely to have received the influenza vaccine\n\na. Individual A, as their antibody counts increased more rapidly\n\nb. Individual B, as their antibody counts increased more rapidly\n\nc. Neither individual as their antibody levels both peak at 10000<\n\nd. Both individuals as their antibody levels both peak at 10000."
+    },
+    {
+     "day": 1,
+     "number": 51,
+     "paper_label": "Exam",
+     "problem": "The purpose of modern vaccines is to reduce the “lag” between infection and the production of sufficient antibodies to fight the pathogen. After being exposed to a virus responsible for influenza (the ‘flu), the antibody levels of two individuals were measured over the course of several days. This was done via blood sampling through a vein on the left arm. The counts of both individuals are presented below:\n\n$$\\begin{array}{l|l|l} \\text{Day} & \\text{Individual A} & \\text{Individual B} \\\\ \\hline 1 & 2 & 5 \\\\ 2 & 5 & 100 \\\\ 3 & 50 & 3500 \\\\ 4 & 1000 & 10000\\lt \\\\ 5 & 10000\\lt & 10000\\lt \\end{array}$$\n\nViruses are considered to be\n\na. non-living.\n\nb. primitive precursors of bacteria.\n\nc. the missing link between life and non-life.\n\nd. very small bacteria."
+    },
+    {
+     "day": 1,
+     "number": 52,
+     "paper_label": "Exam",
+     "problem": "Five different species of Australian animals were placed in laboratory chambers. The effect of changes in the temperature of the external environment (EM) on their metabolic rate was recorded and analysed. Each animal had similar body weights (around 50 grams) and the data was measured while the animals stayed at rest.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-52-fig1.png\n\nImage from 2016 IBO Theory paper A, question 27\n\nWhich of the following statements is true?\n\na. Species III had a similar metabolic rate at 20°C to species I at 10°C.\n\nb. Species II had the lowest recorded metabolic rate of all five species.\n\nc. If the temperature was lowered to -20°C, the metabolic rate of species IV would be around -2mL $\\mathrm{O_2}$/hr.\n\nd. The maximum possible metabolic rate for species I is 160mL$\\mathrm{O_2}$/hr."
+    },
+    {
+     "day": 1,
+     "number": 53,
+     "paper_label": "Exam",
+     "problem": "Five different species of Australian animals were placed in laboratory chambers. The effect of changes in the temperature of the external environment (EM) on their metabolic rate was recorded and analysed. Each animal had similar body weights (around 50 grams) and the data was measured while the animals stayed at rest.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-52-fig1.png\n\nImage from 2016 IBO Theory paper A, question 27\n\nChoose the most correct statement\n\na. The changes in body temperature in species IV is mostly dependent on the environment.\n\nb. Smaller animals generally have lower metabolic rates because they are better at retaining heat than larger animals.\n\nc. On a 15°C day, species IV will use less oxygen than species I.\n\nd. At 20°C, species I is producing heat at the same rate that it is losing heat to the environment."
+    },
+    {
+     "day": 1,
+     "number": 54,
+     "paper_label": "Exam",
+     "problem": "Five different species of Australian animals were placed in laboratory chambers. The effect of changes in the temperature of the external environment (EM) on their metabolic rate was recorded and analysed. Each animal had similar body weights (around 50 grams) and the data was measured while the animals stayed at rest.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-52-fig1.png\n\nImage from 2016 IBO Theory paper A, question 27\n\nWhich of the following is the best explanation for the increase in metabolic rate when the temperature exceeds 35°C in species I, II, and III?\n\na. A high temperature will increase the chemical reactions in the animal’s body, which also increases the production of heat as a by-product.\n\nb. Bodily organs begin to dysfunction at these high temperatures, causing the animal to overheat.\n\nc. Above 35°C, the metabolic rates are too low to be accurately detected by the equipment used, resulting in unreliable results.\n\nd. At high temperatures, animals engage in energy-requiring behaviours to lose additional heat to prevent overheating."
+    },
+    {
+     "day": 1,
+     "number": 55,
+     "paper_label": "Exam",
+     "problem": "Five different species of Australian animals were placed in laboratory chambers. The effect of changes in the temperature of the external environment (EM) on their metabolic rate was recorded and analysed. Each animal had similar body weights (around 50 grams) and the data was measured while the animals stayed at rest.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-52-fig1.png\n\nImage from 2016 IBO Theory paper A, question 27\n\nWhich of the following species correctly represents an ectothermic and endothermic animal?\n\nEctotherm | Endotherm\n\na. II | V\n\nb. IV | I\n\nc. V | IV\n\nd. I | III"
+    },
+    {
+     "day": 1,
+     "number": 56,
+     "paper_label": "Exam",
+     "problem": "Five different species of Australian animals were placed in laboratory chambers. The effect of changes in the temperature of the external environment (EM) on their metabolic rate was recorded and analysed. Each animal had similar body weights (around 50 grams) and the data was measured while the animals stayed at rest.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-52-fig1.png\n\nImage from 2016 IBO Theory paper A, question 27\n\nCertain animals are able to reduce heat transfer better than others. An example of this is a thick layer of body fat which helps insulate fur seals in cold ocean waters. Which of the following species was best able to insulate temperature, based on the data presented above?\n\na. Species I\n\nb. Species III\n\nc. Species IV\n\nd. Species V"
+    },
+    {
+     "day": 1,
+     "number": 57,
+     "paper_label": "Exam",
+     "problem": "Five different species of Australian animals were placed in laboratory chambers. The effect of changes in the temperature of the external environment (EM) on their metabolic rate was recorded and analysed. Each animal had similar body weights (around 50 grams) and the data was measured while the animals stayed at rest.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-52-fig1.png\n\nImage from 2016 IBO Theory paper A, question 27\n\nAll endothermic animals have a basal metabolic rate. This is the rate of energy expenditure per unit of time at rest to keep the body functioning. Which of the following species had the highest basal metabolic rate?\n\na. Species I\n\nb. Species II\n\nc. Species IV\n\nd. Species V"
+    },
+    {
+     "day": 1,
+     "number": 58,
+     "paper_label": "Exam",
+     "problem": "In the human body, lung function is affected by physical activity. As the intensity of activity increases, the body has a higher demand for lung function. The lungs respond to this by increasing two parameters: tidal volume and ventilation rate. Tidal volume is the volume of air that is breathed in and out by the lungs at rest (i.e. without extra effort to have a maximum inhalation or exhalation). Ventilation rate is a measure of how many breaths a person takes per unit of time. Below is a graph showing data for an athlete on a treadmill.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-58-fig1.png\n\nImage taken from 2016 IBO Theory paper A, question 21\n\nAt a treadmill speed of 12km/hr, what is the ventilation volume per minute closest to?\n\na. 15 litres\n\nb. 95 litres\n\nc. 110 litres\n\nd. 125 litres"
+    },
+    {
+     "day": 1,
+     "number": 59,
+     "paper_label": "Exam",
+     "problem": "In the human body, lung function is affected by physical activity. As the intensity of activity increases, the body has a higher demand for lung function. The lungs respond to this by increasing two parameters: tidal volume and ventilation rate. Tidal volume is the volume of air that is breathed in and out by the lungs at rest (i.e. without extra effort to have a maximum inhalation or exhalation). Ventilation rate is a measure of how many breaths a person takes per unit of time. Below is a graph showing data for an athlete on a treadmill.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-58-fig1.png\n\nImage taken from 2016 IBO Theory paper A, question 21\n\nAt different intensities of physical activity, tidal volume and ventilation rate increases to different degrees. In which of the following intervals does tidal volume increase faster than ventilation rate?\n\na. 6km/hr to 9km/hr\n\nb. 8km/hr to 11km/hr\n\nc. 13km/hr to 16km/hr\n\nd. 15km/hr to 18km/hr"
+    },
+    {
+     "day": 1,
+     "number": 60,
+     "paper_label": "Exam",
+     "problem": "In the human body, lung function is affected by physical activity. As the intensity of activity increases, the body has a higher demand for lung function. The lungs respond to this by increasing two parameters: tidal volume and ventilation rate. Tidal volume is the volume of air that is breathed in and out by the lungs at rest (i.e. without extra effort to have a maximum inhalation or exhalation). Ventilation rate is a measure of how many breaths a person takes per unit of time. Below is a graph showing data for an athlete on a treadmill.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-58-fig1.png\n\nImage taken from 2016 IBO Theory paper A, question 21\n\nAt higher altitudes, there is less oxygen available (owing to the change in pressure) in the air for gas exchange. If this experiment was repeated at high altitude (for example, on top of a mountain), how would you expect the results to be different when the athlete was running at 8km/hr?\n\nVital capacity | Ventilation rate\n\na. Higher | Higher\n\nb. Lower | Lower\n\nc. Unchanged | Lower\n\nd. Higher | Unchanged"
+    },
+    {
+     "day": 1,
+     "number": 61,
+     "paper_label": "Exam",
+     "problem": "In the human body, lung function is affected by physical activity. As the intensity of activity increases, the body has a higher demand for lung function. The lungs respond to this by increasing two parameters: tidal volume and ventilation rate. Tidal volume is the volume of air that is breathed in and out by the lungs at rest (i.e. without extra effort to have a maximum inhalation or exhalation). Ventilation rate is a measure of how many breaths a person takes per unit of time. Below is a graph showing data for an athlete on a treadmill.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-58-fig1.png\n\nImage taken from 2016 IBO Theory paper A, question 21\n\nWhich of the following statements is true?\n\na. At a treadmill speed of 0km/hr, the tidal volume would approach 0 litres/breath.\n\nb. If this experiment were completed on a young child instead of a fit athlete, both the tidal volume and ventilation rate would likely be significantly lower.\n\nc. In an adult, a tidal volume of 0.15 litres and a ventilation rate of 40 breaths per minute would provide equally effective ventilation as a tidal volume of 0.6 litres and a ventilation rate of 10 breaths per minute.\n\nd. If the treadmill speed continued to increase, the tidal volume would eventually reach a maximum value and would no longer increase any further."
+    },
+    {
+     "day": 1,
+     "number": 62,
+     "paper_label": "Exam",
+     "problem": "Nitrogen exists in two stable and non-radioactive isotopes as heavy ($^{15}\\mathrm{N}$) and “light” nitrogen ($^{14}\\mathrm{N}$). There also exist a number of radioactive isotopes that have short half-lives. When bacteria were grown in a medium containing $^{15}\\mathrm{N}$ for several generations, the DNA had a higher density than bacteria grown in a medium containing $^{14}\\mathrm{N}$.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-62-fig1.png\n\nWhen bacteria were taken from both media and mixed together, the DNA could be separated. Following centrifugation, “heavy” ($^{15}\\mathrm{N}$) DNA was found at the bottom while “light” ($^{14}\\mathrm{N}$). DNA was found on the top of the test tube. Which test tube best represents this?\n\na. Test Tube A\n\nb. Test Tube B\n\nc. Test Tube C\n\nd. Test Tube D"
+    },
+    {
+     "day": 1,
+     "number": 63,
+     "paper_label": "Exam",
+     "problem": "Nitrogen exists in two stable and non-radioactive isotopes as heavy ($^{15}\\mathrm{N}$) and “light” nitrogen ($^{14}\\mathrm{N}$). There also exist a number of radioactive isotopes that have short half-lives. When bacteria were grown in a medium containing $^{15}\\mathrm{N}$ for several generations, the DNA had a higher density than bacteria grown in a medium containing $^{14}\\mathrm{N}$.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-62-fig1.png\n\nBacteria grown in the $^{15}\\mathrm{N}$ medium were transferred to a medium containing $^{14}\\mathrm{N}$ and allowed to grow for one generation. Which test tube best represents DNA after one generation?\n\na. Test Tube A\n\nb. Test Tube B\n\nc. Test Tube C\n\nd. Test Tube D"
+    },
+    {
+     "day": 1,
+     "number": 64,
+     "paper_label": "Exam",
+     "problem": "Nitrogen exists in two stable and non-radioactive isotopes as heavy ($^{15}\\mathrm{N}$) and “light” nitrogen ($^{14}\\mathrm{N}$). There also exist a number of radioactive isotopes that have short half-lives. When bacteria were grown in a medium containing $^{15}\\mathrm{N}$ for several generations, the DNA had a higher density than bacteria grown in a medium containing $^{14}\\mathrm{N}$.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-62-fig1.png\n\nBacteria grown in the $^{14}\\mathrm{N}$ medium were transferred to a medium containing $^{15}\\mathrm{N}$ and allowed to grow for two generations. Which test tube best represents the DNA after two generations?\n\na. Test Tube A\n\nb. Test Tube B\n\nc. Test Tube C\n\nd. Test Tube D"
+    },
+    {
+     "day": 1,
+     "number": 65,
+     "paper_label": "Exam",
+     "problem": "Bacterial count of a liquid culture can be determined by three different methods:\n\n1. Cells can be counted under a microscope using a counting chamber;\n\n2. The absorbance of the culture can be measured in a spectrophotometer (with $A_{600} = 1$ corresponding to $8\\times10^{8}$ bacterial cells/ml);\n\n3. Several dilutions of the culture can be plated on agar and the colonies can be counted (see the figure below) to calculate the number of colony forming units per milliliter (cfu/ml).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-65-fig1.png\n\nA culture with $A_{600} = 0.1$ and a doubling time of 30 minutes will reach\n\na. $4\\times10^{8}$ cells/ml in less than two hours of growth\n\nb. $6\\times10^{8}$ cells/ml in less than two hours of growth\n\nc. $8\\times10^{8}$ cells/ml in less than two hours of growth\n\nd. $10\\times10^{8}$ cells/ml in less than two hours of growth"
+    },
+    {
+     "day": 1,
+     "number": 66,
+     "paper_label": "Exam",
+     "problem": "Bacterial count of a liquid culture can be determined by three different methods:\n\n1. Cells can be counted under a microscope using a counting chamber;\n\n2. The absorbance of the culture can be measured in a spectrophotometer (with $A_{600} = 1$ corresponding to $8\\times10^{8}$ bacterial cells/ml);\n\n3. Several dilutions of the culture can be plated on agar and the colonies can be counted (see the figure below) to calculate the number of colony forming units per milliliter (cfu/ml).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-65-fig1.png\n\nCounting colonies on plates:\n\na. Gives a greater estimate of the number of bacterial cells than counting cells under a microscope.\n\nb. Gives a smaller estimate of the number of bacterial cells than counting cells under a microscope.\n\nc. Gives a more exact number of bacterial cells than counting them under a microscope.\n\nd. It is impossible to count colonies on plates."
+    },
+    {
+     "day": 1,
+     "number": 67,
+     "paper_label": "Exam",
+     "problem": "Bacterial count of a liquid culture can be determined by three different methods:\n\n1. Cells can be counted under a microscope using a counting chamber;\n\n2. The absorbance of the culture can be measured in a spectrophotometer (with $A_{600} = 1$ corresponding to $8\\times10^{8}$ bacterial cells/ml);\n\n3. Several dilutions of the culture can be plated on agar and the colonies can be counted (see the figure below) to calculate the number of colony forming units per milliliter (cfu/ml).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-65-fig1.png\n\nUsing the plate giving the most accurate results (from the figure), the culture X is estimated to contain\n\na. $1.0 \\times 10^{5}$ cfu/ml\n\nb. $1.6 \\times 10^{5}$ cfu/ml\n\nc. $1.9.0 \\times 10^{6}$ cfu/ml\n\nd. $2.0 \\times 10^{6}$ cfu/ml"
+    },
+    {
+     "day": 1,
+     "number": 68,
+     "paper_label": "Exam",
+     "problem": "Bacterial count of a liquid culture can be determined by three different methods:\n\n1. Cells can be counted under a microscope using a counting chamber;\n\n2. The absorbance of the culture can be measured in a spectrophotometer (with $A_{600} = 1$ corresponding to $8\\times10^{8}$ bacterial cells/ml);\n\n3. Several dilutions of the culture can be plated on agar and the colonies can be counted (see the figure below) to calculate the number of colony forming units per milliliter (cfu/ml).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-65-fig1.png\n\nWhen repeating the plating of the most dilute solution, shown in the figure, many times:\n\na. some plates will show colonies.\n\nb. no growth will be observed on any plates.\n\nc. some plates will show too many colonies to count.\n\nd. three in ten of the plates will show growth"
+    },
+    {
+     "day": 1,
+     "number": 69,
+     "paper_label": "Exam",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-69-fig1.png\n\nThe following mRNA strand translates into which protein strand?\n\nmRNA: 5’CAAUCCUCAGCU3’\n\na. Gln.Ser.Ser.Ala\n\nb. Asn.Pro.Gln.Leu\n\nc. Ala.Ser.Ser.Gln\n\nd. Ser.Thr.Pro.Asn"
+    },
+    {
+     "day": 1,
+     "number": 70,
+     "paper_label": "Exam",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2019-1-69-fig1.png\n\nA frameshift mutation changes the reading frame of the nucleotides in a DNA molecule. If a frameshift mutation such that two c nucleotides were added at the 5’ end of the mRNA stand shown in question 69, the following protein strand would be produced instead of the correct one.\n\n[mRNA shown in question 69: 5’CAAUCCUCAGCU3’]\n\na. Leu.Gln.Pro.Asn.Pro.\n\nb. Pro.Asn.Pro.Gln.Leu\n\nc. Pro.Asn.Pro.Gln.\n\nd. Gln.Pro.Asn.Pro."
+    }
+   ]
+  },
+  {
+   "year": 2020,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Exam",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-1-fig1.png\n\nCell 1 is best described as what type of cell?\n\na. red blood cell\n\nb. prokaryotic cell\n\nc. plant cell\n\nd. eukaryotic cell"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Exam",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-1-fig1.png\n\nWhat does the organelle K produce when functioning normally in a cell?\n\na. protein\n\nb. mRNA\n\nc. ATP\n\nd. endoplasmic reticulum"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Exam",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-1-fig1.png\n\nLabel B, H and L are unique to cell 2. These labels represent what organelles\n\na. mitochondria, vacuole, cell membrane\n\nb. chloroplast, vacuole, cell wall\n\nc. endoplasmic reticulum, nucleus, cell wall\n\nd. chloroplast, vacuole, cell membrane"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Exam",
+     "problem": "What is the term that best describes the net movement of uncharged molecules from an area of high concentration to an area of low concentration?\n\na. diffusion\n\nb. active transport\n\nc. passive transport\n\nd. osmosis"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Exam",
+     "problem": "A group of scientists measured the distance covered over 24 hours by two samples of a common periwinkle (Littorina littorea)\n\n$$\\begin{array}{c|c|c} \\text{Individual} & \\text{Sample A (cm)} & \\text{Sample B (cm)} \\\\ \\hline 1 & 12 & 30 \\\\ 2 & 13 & 9 \\\\ 3 & 20 & 17 \\\\ 4 & 3 & 11 \\\\ 5 & 11 & 18 \\\\ 6 & 21 & 5 \\\\ 7 & 18 & 6 \\\\ 8 & 22 & 13 \\\\ 9 & 8 & 11 \\\\ 10 & 0 & 19 \\\\ \\hline \\text{Standard Deviation} & 7.58 & 7.42 \\end{array}$$\n\nThe mean of a sample is defined as\n\n$$\\bar{x} = \\frac{\\sum_{i=1}^{n} x_i}{n}$$\n\nThe mean of sample A is 12.8cm\n\nThe skew of a sample is defined as\n\n$$\\mathit{skew} = \\frac{n}{(n-1)(n-2)} \\sum_{i=1}^{n} \\left(\\frac{x_i - \\bar{x}}{s}\\right)^3$$\n\nwhere s represents standard deviation\n\nWhat is the skew of sample A?\n\na. 0.000\n\nb. -0.4176\n\nc. 1.0353\n\nd. -0.0241"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Exam",
+     "problem": "A group of scientists measured the distance covered over 24 hours by two samples of a common periwinkle (Littorina littorea)\n\n$$\\begin{array}{c|c|c} \\text{Individual} & \\text{Sample A (cm)} & \\text{Sample B (cm)} \\\\ \\hline 1 & 12 & 30 \\\\ 2 & 13 & 9 \\\\ 3 & 20 & 17 \\\\ 4 & 3 & 11 \\\\ 5 & 11 & 18 \\\\ 6 & 21 & 5 \\\\ 7 & 18 & 6 \\\\ 8 & 22 & 13 \\\\ 9 & 8 & 11 \\\\ 10 & 0 & 19 \\\\ \\hline \\text{Standard Deviation} & 7.58 & 7.42 \\end{array}$$\n\nThe mean of a sample is defined as\n\n$$\\bar{x} = \\frac{\\sum_{i=1}^{n} x_i}{n}$$\n\nThe mean of sample A is 12.8cm\n\nThe skew of a sample is defined as\n\n$$\\mathit{skew} = \\frac{n}{(n-1)(n-2)} \\sum_{i=1}^{n} \\left(\\frac{x_i - \\bar{x}}{s}\\right)^3$$\n\nwhere s represents standard deviation\n\nWhich of the following statements is true?\n\na. The mean of sample B is greater than the mean of sample A\n\nb. The skew of sample B is greater than the skew of sample A\n\nc. The data in sample A is grouped more closely around the mean than the data in sample B\n\nd. Sample B contains more observations than sample A"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Exam",
+     "problem": "Anna is studying a population of seabirds which roost on one particular island off the coast of Tasmania. She hypothesises that seabirds with longer beaks lay heavier eggs.\n\nAnna recorded the beak length and egg weight of a sample of 40 birds. Her results and the population of seabirds are plotted below\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-7-fig1.png\n\nWhich of the following is supported by Anna’s data?\n\na. The population has average egg weight of roughly 43 grams\n\nb. Birds with longer beaks tend to lay heavier eggs\n\nc. Birds with longer beaks tend to lay lighter eggs\n\nd. Birds with longer beaks have a competitive advantage"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Exam",
+     "problem": "Anna is studying a population of seabirds which roost on one particular island off the coast of Tasmania. She hypothesises that seabirds with longer beaks lay heavier eggs.\n\nAnna recorded the beak length and egg weight of a sample of 40 birds. Her results and the population of seabirds are plotted below\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-7-fig1.png\n\nWhich of the following is true?\n\na. The difference between Anna’s sample and the population could be attributed to random error\n\nb. There is a clear relationship between egg weight and beak length in the population\n\nc. Anna’s sample overestimates the average egg weight of the population\n\nd. Increasing the sample size would not improve Anna’s study"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Exam",
+     "problem": "On the left is corn yield, on the right is seal reproduction. Interpret these and answer the questions below:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-9-fig1.png\n\nIn the corn figure, the declining line indicates:\n\na. the influence of global warming on corn crops.\n\nb. an increase in available resources as population density increases.\n\nc. increasing competition as population density increases\n\nd. decreasing competition as population density increases"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Exam",
+     "problem": "On the left is corn yield, on the right is seal reproduction. Interpret these and answer the questions below:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-9-fig1.png\n\nIn the seal figure, the positive line may suggest:\n\na. more food available as the seals age\n\nb. as the population density increases, the seals have less food\n\nc. as the population density decreases, seal age at reproduction increases.\n\nd. less food available as the seals age"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Exam",
+     "problem": "On the left is corn yield, on the right is seal reproduction. Interpret these and answer the questions below:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-9-fig1.png\n\nThese two figures are evidence of:\n\na. density dependent competition\n\nb. keystone predators\n\nc. density independent population regulation\n\nd. resource scarcity increases as the density of a population decreases"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Exam",
+     "problem": "The following graph depicts the results of a study where the number of tadpoles within a particular habitat (finite resources) were experimentally varied.\n\nNote that the numbers next to the lines are the numbers of individuals in each treatment.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-12-fig1.png\n\nAs the number of tadpoles in the habitat increases, the mean body mass at week three:\n\na. increases\n\nb. decreases\n\nc. stays the same\n\nd. cannot tell from this diagram"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Exam",
+     "problem": "The following graph depicts the results of a study where the number of tadpoles within a particular habitat (finite resources) were experimentally varied.\n\nNote that the numbers next to the lines are the numbers of individuals in each treatment.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-12-fig1.png\n\nThis figure indicates that:\n\na. access to resources decreases as population size decreases\n\nb. access to resources decreases as population size increases\n\nc. access to resources is not affected by population size\n\nd. carrying capacity does not affect population size"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Exam",
+     "problem": "The following graph depicts the results of a study where the number of tadpoles within a particular habitat (finite resources) were experimentally varied.\n\nNote that the numbers next to the lines are the numbers of individuals in each treatment.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-12-fig1.png\n\nThis figure provides support for:\n\na. density-dependent population regulation\n\nb. density-independent population regulation\n\nc. neither of these density population effects\n\nd. both of these density population effects"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Exam",
+     "problem": "Rhizophores are leafless branches that arise from the stem and grow downward, producing roots at its tip when it reaches the soil. Rhizophores are commonly known as aerial roots. Scientists measured length and height of rhizophores of mangrove plant (Rhizophora mangle, Fig A). They also made cross sections of rhizophores and observed their anatomical characteristics. The rhizophore cross sections were classified in orders according to the number of arches away from the main stem. The results are shown in Fig B and Fig C.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-15-fig1.png\n\nFig: Rhizophores of Rhizophora mangle plants.\n\nA: Rhizophore height and length measurement.\n\nB: Change in height (empty square) and in length/height proportion (full circle) in five sequential orders of rhizophores.\n\nC: Relative proportions of bark (including aerenchyma), xylem and pith along the length of individual first-order rhizophores (left), and at the base of rhizophores of sequential orders (right).\n\nWhat mechanism makes water rise from the root system to the leaves\n\na. forces created in the cells of the root\n\nb. increased respiratory activity in root cells\n\nc. osmotic force in the shoot system\n\nd. tension in the cell sap due to transpiration"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Exam",
+     "problem": "Rhizophores are leafless branches that arise from the stem and grow downward, producing roots at its tip when it reaches the soil. Rhizophores are commonly known as aerial roots. Scientists measured length and height of rhizophores of mangrove plant (Rhizophora mangle, Fig A). They also made cross sections of rhizophores and observed their anatomical characteristics. The rhizophore cross sections were classified in orders according to the number of arches away from the main stem. The results are shown in Fig B and Fig C.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-15-fig1.png\n\nFig: Rhizophores of Rhizophora mangle plants.\n\nA: Rhizophore height and length measurement.\n\nB: Change in height (empty square) and in length/height proportion (full circle) in five sequential orders of rhizophores.\n\nC: Relative proportions of bark (including aerenchyma), xylem and pith along the length of individual first-order rhizophores (left), and at the base of rhizophores of sequential orders (right).\n\nWhich of the following statements is correct?\n\na. Rhizophore height and the length/height proportion in the rhizophores decreases with rhizophore order.\n\nb. Within first-order rhizophores, the xylem proportion in the cross-section is larger when closer to the main stem, and decreases progressively as the rhizophore approaches the ground.\n\nc. When rhizophore order changes from 1 to 5, bark and pith proportion decreases, while xylem proportion increases.\n\nd. The supportive function is likely enhanced in the first-order rhizophores, with lower length/height proportion, and the lowest proportion of xylem."
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "Exam",
+     "problem": "Rhizophores are leafless branches that arise from the stem and grow downward, producing roots at its tip when it reaches the soil. Rhizophores are commonly known as aerial roots. Scientists measured length and height of rhizophores of mangrove plant (Rhizophora mangle, Fig A). They also made cross sections of rhizophores and observed their anatomical characteristics. The rhizophore cross sections were classified in orders according to the number of arches away from the main stem. The results are shown in Fig B and Fig C.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-15-fig1.png\n\nFig: Rhizophores of Rhizophora mangle plants.\n\nA: Rhizophore height and length measurement.\n\nB: Change in height (empty square) and in length/height proportion (full circle) in five sequential orders of rhizophores.\n\nC: Relative proportions of bark (including aerenchyma), xylem and pith along the length of individual first-order rhizophores (left), and at the base of rhizophores of sequential orders (right).\n\nHow does water support a mangrove plant?\n\na. By transpiration, the process whereby the water is lost at the leaves, enabling constant cycling of water throughout the plant.\n\nb. By making the cells flaccid, enabling the mangrove plant to strengthen its structural integrity.\n\nc. By filling the stem with water, assisting the stem to resist gravitational as well as osmotic forces.\n\nd. By making the cells turgid, promoting rigidity of plant structures."
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "Exam",
+     "problem": "Sucrose is produced in leaves and translocated short and long distances through veins to non-photosynthetic organs such as roots, stems, flowers and fruits. Sucrose transport is essential for the distribution of carbohydrates in plants. Two principal pathways include symplast and apoplast by which sucrose molecules are transported in the phloem of leaves as shown in the Figure. In the symplastic pathway, sucrose moves from cell to cell via plasmodesmata, which are continuous junctions between neighbouring plant cells. The apoplastic pathway involves a step where sucrose is momentarily transported outside of a plant cell plasma membrane.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-18-fig1.png\n\nFigure. Diagram of the whole plant phloem network. M - Mesophyll, BS - Bundle sheath, MS - Mestome sheath, PP - Phloem parenchyma, VP - Vascular parenchyma, CC - Companion cell, TST - Thick walled sieve element, ST - Sieve element.\n\nWhich statement about phloem is true? It carries:\n\na. nitrate ions from the leaves to the roots\n\nb. sugars from the roots to the leaves\n\nc. nutrients to growing regions of the plant\n\nd. water from the roots to the leaves"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "Exam",
+     "problem": "Sucrose is produced in leaves and translocated short and long distances through veins to non-photosynthetic organs such as roots, stems, flowers and fruits. Sucrose transport is essential for the distribution of carbohydrates in plants. Two principal pathways include symplast and apoplast by which sucrose molecules are transported in the phloem of leaves as shown in the Figure. In the symplastic pathway, sucrose moves from cell to cell via plasmodesmata, which are continuous junctions between neighbouring plant cells. The apoplastic pathway involves a step where sucrose is momentarily transported outside of a plant cell plasma membrane.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-18-fig1.png\n\nFigure. Diagram of the whole plant phloem network. M - Mesophyll, BS - Bundle sheath, MS - Mestome sheath, PP - Phloem parenchyma, VP - Vascular parenchyma, CC - Companion cell, TST - Thick walled sieve element, ST - Sieve element.\n\nWhich of the following is correct?\n\na. Sucrose is synthesised in leaves and transported long distance through phloem to sinks under hydrostatic pressure gradient.\n\nb. Loading sucrose in the symplastic pathway requires energy at several steps due to the movement across the secondary walls of living cells.\n\nc. In the apoplastic pathway, sucrose molecules are passively loaded through plasmodemata.\n\nd. Unloading sucrose molecules at the sinks requires no energy release because of movement against a gradient concentration of sucrose."
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "Exam",
+     "problem": "A population of dragonfly larvae (Leucorrhinia intacta) is separated into two groups. In both groups, larvae populations are put inside a cage with no food limitation. The first group is exposed to a fish predator that can swim freely, but cannot enter the cage. The second group is a control with no fish. The proportion of larvae surviving and the proportion of live larvae failing to metamorphose in the two groups are shown below:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-20-fig1.png\n\nWhich of the following is correct?\n\na. One of the causes of high failure rate of metamorphosis of the larvae upon exposure to a non-lethal predator is cannibalism.\n\nb. The high mortality of larvae in the first group is due to predator-induced stress.\n\nc. In the predator treatment, the percentage of individuals that survived the larval stage completed emergence to the adult stage is higher than the percentage of those in the fishless treatment.\n\nd. The survival of dragonfly before metamorphosis is dependent on the predator while those during metamorphosis is not."
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Exam",
+     "problem": "Male guppies (Poecilia reticulata) show a complex colour pattern polymorphism that varies with predation pressure, reflecting a balance between selection for camouflage by predators and selection for attention by sexual selection. Three experimental ponds were used to study this phenomenon, mimicking the real condition on the native habitat of the guppies and its predators, Rivulus hartii and Crenicichla alta. One pond has the control group while the other two ponds were had one of the two predators added. In the field, C. alta was observed to be more dangerous than R. hartii.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-21-fig1.png\n\nFigure: Changes in the number of spots per fish during the course of the experiment. Line ‘K’ stands for pond without predator, ‘R’ for pond with R. hartii, and ‘C’ for pond with C. alta. In the X-axis, ‘F’ stands for the time when the foundation population was started, ‘S’ stands for the time when the predators were added, then ‘I’ and ‘II’ stands for the numbering of the following censuses.\n\nWhich of the following is correct?\n\na. The colour pattern is responsible for the reduced fitness of P. reticulata.\n\nb. Sexual selection for colour pattern of the P. reticulata cannot be inferred from the data.\n\nc. The colour pattern of the P. reticulata may be advantageous in escaping R. hartii.\n\nd. The two predators possibly use two different mechanisms to detect P. reticulata."
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Exam",
+     "problem": "The following graph illustrates the change in membrane potential (mV) during an action potential.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-22-fig1.png\n\nDuring the resting state, the membrane potential is -70mV. Which of the following statements is true?\n\na. In the resting state, there is no movement of ions across the plasma membrane.\n\nb. The membrane potential is maintained by the balance between active transport and simple diffusion of ions across the membrane.\n\nc. In the resting state, the concentration of potassium ions is greater inside the cell than outside the cell.\n\nd. If the cell is not in the resting state, an action potential cannot be generated."
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Exam",
+     "problem": "The following graph illustrates the change in membrane potential (mV) during an action potential.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-22-fig1.png\n\nChanges in the membrane potential that do not reach the threshold voltage are known as graded potentials. Which of the following statements is false?\n\na. The size of a graded potential is proportional to the stimulus, whereas the size of an action potential is the same regardless of the stimulus size.\n\nb. Graded potentials may be depolarising or hyperpolarising, whereas all action potentials are depolarising.\n\nc. Graded potentials propagate bidirectionally in a neuron, whereas action potentials are unidirectional.\n\nd. Both graded potentials and action potentials result in the opening of voltage-gated ion channels."
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Exam",
+     "problem": "The following graph illustrates the change in membrane potential (mV) during an action potential.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-22-fig1.png\n\nA drug that prevents the opening of voltage-gated sodium channels is administered. What effect will this have on the action potential?\n\na. Repolarisation will occur more slowly.\n\nb. The threshold voltage required to produce an action potential will increase.\n\nc. No action potential will be generated, regardless of the size of the stimulus.\n\nd. Voltage-gated potassium channels will open instead of voltage-gated sodium channels."
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Exam",
+     "problem": "Myasthenia gravis is a chronic autoimmune condition that affects the junction between neurons and muscles, causing serious muscle weakness. In most cases, it is caused by the production of antibodies against acetylcholine neurotransmitter receptors on the muscle.\n\nWhich of the following options is least likely to be used as a treatment for people with myasthenia gravis?\n\na. Anti-acetylcholinesterase agents to prevent the breakdown of acetylcholine in the neuromuscular junction.\n\nb. Immunosuppressants to reduce the activity of the immune system.\n\nc. Surgical removal of the thymus to prevent antibody production.\n\nd. A high sodium diet to increase the strength of action potentials."
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Exam",
+     "problem": "The following table provides information about three different solutions, with respect to the plasma membrane.\n\n$$\\begin{array}{l|c} \\text{Solution} & \\text{Diffusible across plasma membrane} \\\\ \\hline \\text{0.9\\% sodium chloride solution} & \\text{No} \\\\ \\hline \\text{5.0\\% dextrose (glucose) solution} & \\text{No} \\\\ \\hline \\text{1.8\\% urea solution} & \\text{Yes} \\end{array}$$\n\nThese solutions can all be treated as iso-osmolar to human cells.\n\nWhich of the following is not a characteristic of the plasma membrane?\n\na. It is selectively permeable.\n\nb. Cholesterol helps to maintain membrane fluidity at low temperatures.\n\nc. It is composed of a phospholipid bilayer.\n\nd. Peripheral proteins enable facilitated diffusion."
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Exam",
+     "problem": "The following table provides information about three different solutions, with respect to the plasma membrane.\n\n$$\\begin{array}{l|c} \\text{Solution} & \\text{Diffusible across plasma membrane} \\\\ \\hline \\text{0.9\\% sodium chloride solution} & \\text{No} \\\\ \\hline \\text{5.0\\% dextrose (glucose) solution} & \\text{No} \\\\ \\hline \\text{1.8\\% urea solution} & \\text{Yes} \\end{array}$$\n\nThese solutions can all be treated as iso-osmolar to human cells.\n\nWhich of the following statements about the three solutions is true?\n\na. Only 1.8\\% urea solution is isotonic to human cells.\n\nb. Only 0.9\\% saline and 5.0\\% dextrose are isotonic to human cells.\n\nc. Only 1.8\\% urea and 0.9\\% saline are isotonic to human cells.\n\nd. All three solutions are isotonic to human cells."
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Exam",
+     "problem": "The following graph illustrates the antimicrobial effect of antibiotics in vitro.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-28-fig1.png\n\nWhich of the following statements is supported?\n\na. In people who are immunocompromised, bacteriostatic drugs are less effective than bactericidal drugs.\n\nb. When given to treat bacterial infection, bactericidal drugs lead to a quicker recovery than bacteriostatic drugs.\n\nc. Bactericidal drugs tend to cause more adverse effects than bacteriostatic drugs.\n\nd. If a patient is only given bacteriostatic drugs for a bacterial infection, they will never be cured of the infection."
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Exam",
+     "problem": "The following graph shows relative oxygen concentrations in an airtight container containing one spinach plant exposed to varying light intensities. The y axis indicates oxygen concentration and the x axis indicates increasing light intensity from left to right. The units of both axes are arbitrary; they do not matter.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-29-fig1.png\n\nConsider the stages A, B, C and D marked at the top of the graph. At which stage is light limiting the rate of photosynthesis?\n\na. A\n\nb. B\n\nc. C\n\nd. D"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Exam",
+     "problem": "The following graph shows relative oxygen concentrations in an airtight container containing one spinach plant exposed to varying light intensities. The y axis indicates oxygen concentration and the x axis indicates increasing light intensity from left to right. The units of both axes are arbitrary; they do not matter.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-29-fig1.png\n\nConsider point X labelled on the graph. Select the CORRECT option:\n\na. At point X, the concentration of carbon dioxide is increasing.\n\nb. At point X, the concentration of carbon dioxide is decreasing.\n\nc. At point X, the concentration of carbon dioxide is constant.\n\nd. Insufficient information to answer the question."
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "Exam",
+     "problem": "The following graph shows relative oxygen concentrations in an airtight container containing one spinach plant exposed to varying light intensities. The y axis indicates oxygen concentration and the x axis indicates increasing light intensity from left to right. The units of both axes are arbitrary; they do not matter.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-29-fig1.png\n\nConsider the points on the graph labelled W, X, Y and Z. Each point has been paired up with a description of what is happening at that point. Select the INCORRECT pairing.\n\na. At point W, the rate of $\\mathrm{CO_2}$ consumption balances the rate of $\\mathrm{CO_2}$ production.\n\nb. At point X, the rate of photosynthesis exceeds the rate of respiration.\n\nc. At point Y, $\\mathrm{CO_2}$ concentration is a possible limiting factor.\n\nd. At point Z, $\\mathrm{O_2}$ concentration is decreasing and therefore the rate of respiration is higher than the rate of photosynthesis."
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "Exam",
+     "problem": "The three recognised colours of Labradors are black, chocolate and golden. These coat colours result from differences in two genetic loci which have alleles B/b and E/e respectively.\n\nSupplied is a simplified flowchart representing pigment deposition in labradors. E is the allele for functional MRC1 protein, while e is a mutated allele resulting in no MRC1 protein. B is the allele for functional TYRP1 enzyme, while b is a mutated allele resulting in no TYRP1 enzyme activity. If there is no pigment deposition, the labrador is considered golden.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-32-fig1.png\n\nWhich one of the following could be the genotype of a black female Labrador?\n\na. bbEE\n\nb. BBee\n\nc. BbEe\n\nd. Bbee"
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "Exam",
+     "problem": "The three recognised colours of Labradors are black, chocolate and golden. These coat colours result from differences in two genetic loci which have alleles B/b and E/e respectively.\n\nSupplied is a simplified flowchart representing pigment deposition in labradors. E is the allele for functional MRC1 protein, while e is a mutated allele resulting in no MRC1 protein. B is the allele for functional TYRP1 enzyme, while b is a mutated allele resulting in no TYRP1 enzyme activity. If there is no pigment deposition, the labrador is considered golden.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-32-fig1.png\n\nIf a double heterozygote female black Labrador is mated with a male Labrador of the same genotype, what is the phenotypic ratio of their offspring expected to be?\n\na. 9 black: 3 chocolate: 4 golden\n\nb. 9 black: 6 chocolate: 1 golden\n\nc. 12 black: 3 chocolate: 1 golden\n\nd. 1 black: 2 chocolate: 1 golden"
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "Exam",
+     "problem": "The three recognised colours of Labradors are black, chocolate and golden. These coat colours result from differences in two genetic loci which have alleles B/b and E/e respectively.\n\nSupplied is a simplified flowchart representing pigment deposition in labradors. E is the allele for functional MRC1 protein, while e is a mutated allele resulting in no MRC1 protein. B is the allele for functional TYRP1 enzyme, while b is a mutated allele resulting in no TYRP1 enzyme activity. If there is no pigment deposition, the labrador is considered golden.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-32-fig1.png\n\nIn a cross of a chocolate female with a chocolate male, which phenotypic ratio is IMPOSSIBLE?\n\na. All chocolate\n\nb. 3 chocolate to 1 golden\n\nc. 1 black to 1 chocolate"
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "Exam",
+     "problem": "The three recognised colours of Labradors are black, chocolate and golden. These coat colours result from differences in two genetic loci which have alleles B/b and E/e respectively.\n\nSupplied is a simplified flowchart representing pigment deposition in labradors. E is the allele for functional MRC1 protein, while e is a mutated allele resulting in no MRC1 protein. B is the allele for functional TYRP1 enzyme, while b is a mutated allele resulting in no TYRP1 enzyme activity. If there is no pigment deposition, the labrador is considered golden.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-32-fig1.png\n\nWhen a golden female Labrador was mated with a chocolate male, half of the puppies were chocolate and half were golden. What is the genotype of this golden female?\n\na. BBee\n\nb. Bbee\n\nc. bbee\n\nd. bbEe"
+    },
+    {
+     "day": 1,
+     "number": 36,
+     "paper_label": "Exam",
+     "problem": "This diagram summarises the phases of the cell cycle.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-36-fig1.png\n\nA sample of somatic cells in various stages of the cell cycle are labelled with a fluorescent dye that exclusively binds to DNA. A technique called flow cytometry is then used to:\n\n1. assess the intensity of the fluorescence in each single cell,\n2. sort cells with different fluorescent intensities into collection tubes, and\n3. count the number of cells in each collection tube.\n\nThe following graph is generated.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-36-fig2.png\n\nIdentify cell cycle phase(s) A, B and C on the diagram above.\n\n$$\\begin{array}{c|l|l|l} & \\text{Phase(s) A of cell cycle} & \\text{Phase(s) B of cell cycle} & \\text{Phase(s) C of cell cycle} \\\\ \\hline \\text{A} & \\text{Telophase, cytokinesis, G1} & \\text{S and anaphase} & \\text{Interphase, prophase, metaphase, G2} \\\\ \\hline \\text{B} & \\text{G1} & \\text{S} & \\text{G2 and M} \\\\ \\hline \\text{C} & \\text{Telophase, cytokinesis} & \\text{Anaphase} & \\text{Interphase, prophase, metaphase} \\\\ \\hline \\text{D} & \\text{M} & \\text{S and G2} & \\text{G1} \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 37,
+     "paper_label": "Exam",
+     "problem": "This diagram summarises the phases of the cell cycle.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-36-fig1.png\n\nA sample of somatic cells in various stages of the cell cycle are labelled with a fluorescent dye that exclusively binds to DNA. A technique called flow cytometry is then used to:\n\n1. assess the intensity of the fluorescence in each single cell,\n2. sort cells with different fluorescent intensities into collection tubes, and\n3. count the number of cells in each collection tube.\n\nThe following graph is generated.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-36-fig2.png\n\nWhat is the LEAST plausible reason as to why some cells may display a relative amount of DNA less than 1 arbitrary unit?\n\na. Some cells may be dead, and their DNA may have degraded over time.\n\nb. The measurement of fluorescence may not be completely exact, leading to random fluctuations.\n\nc. The fluorescent dye may not bind to DNA perfectly.\n\nd. They are haploid cells lacking multiple chromosomes due to non-disjunction."
+    },
+    {
+     "day": 1,
+     "number": 38,
+     "paper_label": "Exam",
+     "problem": "This diagram summarises the phases of the cell cycle.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-36-fig1.png\n\nA sample of somatic cells in various stages of the cell cycle are labelled with a fluorescent dye that exclusively binds to DNA. A technique called flow cytometry is then used to:\n\n1. assess the intensity of the fluorescence in each single cell,\n2. sort cells with different fluorescent intensities into collection tubes, and\n3. count the number of cells in each collection tube.\n\nThe following graph is generated.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-36-fig2.png\n\nThe following graphs are generated from flow cytometry analysis. The y-axis denotes cell count and the x-axis represents increasing DNA content from left to right. CPT (camptothecin) and APC (aphidicolin) are hypothesised to inhibit the cell cycle at various stages. One sample of cells is left untreated (no drug) as a control.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-38-fig1.png\n\nInterpret the graphs to identify the phase in which cell cycle arrest has occurred for both drugs.\n\n$$\\begin{array}{c|l|l} & \\text{CPT caused cell cycle arrest in…} & \\text{APC caused cell cycle arrest in…} \\\\ \\hline \\text{A} & \\text{G2/M phase} & \\text{G1 phase} \\\\ \\hline \\text{B} & \\text{G1 phase} & \\text{S phase} \\\\ \\hline \\text{C} & \\text{G2/M phase} & \\text{No effect (APC is not a cell cycle inhibitor)} \\\\ \\hline \\text{D} & \\text{G1 phase} & \\text{G1/S phase} \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 39,
+     "paper_label": "Exam",
+     "problem": "Every day, some 200 litres of blood are filtered by your kidneys. Most of that fluid is reabsorbed back into the body; the rest of it becomes urine. The basic unit of structure in the kidney is the nephron. Blood enters the nephron through the afferent arteriole which branches into a network of glomerular capillaries. A series of hydrostatic and osmotic pressures then draw fluid in or drive fluid out of these capillaries. The filtrate is collected in the capsular space which drains into the proximal convoluted tubule (PCT) of the nephron. This is the basis of renal filtration.\n\nGlomerular hydrostatic pressure (GHP) is the pressure exerted by blood on the walls of the glomerular capillaries. Capsular hydrostatic pressure (CHP) is the pressure exerted by the filtrate in the capsular space. Blood colloid osmotic pressure (BCOP) is the pressure exerted by the concentration of proteins in the blood. No proteins are expected to found in the capsular space as the glomerular capillary walls do not allow them to pass. The net filtration pressure (NFP) is the sum of all these pressures drawing fluids in or out of the glomerular capillaries.\n\nThe arrows in the diagram represent fluid moving in and out of the capillaries under the influence of these pressures.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-39-fig1.png\n\nIn which direction would blood colloid osmotic pressure (BCOP) drive fluid?\n\na. From the glomerular capillaries into the capsular space.\n\nb. From the capsular space back into the glomerular capillaries.\n\nc. BCOP does not have an effect on the direction of fluid movement because no proteins are expected to be found in the capsular space.\n\nd. Insufficient information to tell."
+    },
+    {
+     "day": 1,
+     "number": 40,
+     "paper_label": "Exam",
+     "problem": "Every day, some 200 litres of blood are filtered by your kidneys. Most of that fluid is reabsorbed back into the body; the rest of it becomes urine. The basic unit of structure in the kidney is the nephron. Blood enters the nephron through the afferent arteriole which branches into a network of glomerular capillaries. A series of hydrostatic and osmotic pressures then draw fluid in or drive fluid out of these capillaries. The filtrate is collected in the capsular space which drains into the proximal convoluted tubule (PCT) of the nephron. This is the basis of renal filtration.\n\nGlomerular hydrostatic pressure (GHP) is the pressure exerted by blood on the walls of the glomerular capillaries. Capsular hydrostatic pressure (CHP) is the pressure exerted by the filtrate in the capsular space. Blood colloid osmotic pressure (BCOP) is the pressure exerted by the concentration of proteins in the blood. No proteins are expected to found in the capsular space as the glomerular capillary walls do not allow them to pass. The net filtration pressure (NFP) is the sum of all these pressures drawing fluids in or out of the glomerular capillaries.\n\nThe arrows in the diagram represent fluid moving in and out of the capillaries under the influence of these pressures.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-39-fig1.png\n\nWhich option expresses the correct relationship between these four pressures?\n\na. NFP = CHP + BCOP - GHP\n\nb. NFP = CHP - BCOP - GHP\n\nc. NFP = GHP + CHP + BCOP\n\nd. NFP = GHP - CHP – BCOP"
+    },
+    {
+     "day": 1,
+     "number": 41,
+     "paper_label": "Exam",
+     "problem": "The control of thyroid hormone secretion follows the pathway depicted in the figure. Thyroid releasing hormone (TRH) is secreted by the hypothalamus, which stimulates the production of thyroid stimulating hormone (TSH) from the anterior pituitary. TSH then stimulates the production of the hormones thyroxine (T4) and triiodothyronine (T3) from the thyroid gland.\n\nThe thyroid gland requires dietary iodine to form T4 and T3. T4 contains four iodine atoms while T3 contains three.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-41-fig1.png\n\nHypothyroidism can be caused by iodine deficiency. What is the likely consequence of hypothyroidism?\n\na. High TSH, low T4 and low T3 levels.\n\nb. Low TSH, low T4 and low T3 levels.\n\nc. High TSH, low T4 and high T3 levels.\n\nd. Low TSH, high T4 and high T3 levels."
+    },
+    {
+     "day": 1,
+     "number": 42,
+     "paper_label": "Exam",
+     "problem": "The control of thyroid hormone secretion follows the pathway depicted in the figure. Thyroid releasing hormone (TRH) is secreted by the hypothalamus, which stimulates the production of thyroid stimulating hormone (TSH) from the anterior pituitary. TSH then stimulates the production of the hormones thyroxine (T4) and triiodothyronine (T3) from the thyroid gland.\n\nThe thyroid gland requires dietary iodine to form T4 and T3. T4 contains four iodine atoms while T3 contains three.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-41-fig1.png\n\nGraves’ disease is an autoimmune disease where the body produces thyroid-stimulating immunoglobulins that activate TSH receptors on the thyroid gland. What is the likely consequence of Graves’ disease?\n\na. Decreased TRH, increased TSH, increased T4 and increased T3 levels\n\nb. Decreased TRH, decreased TSH, increased T4 and increased T3 levels\n\nc. Increased TRH, decreased TSH, decreased T4 and decreased T3 levels\n\nd. Increased TRH, increased TSH, increased T4 and increased T3 levels"
+    },
+    {
+     "day": 1,
+     "number": 43,
+     "paper_label": "Exam",
+     "problem": "John takes 1g of soil and adds 9mL of water (making total volume 10mL). Assume all the bacteria in the soil end up evenly distributed in this suspension. Two serial 10-fold dilutions of this soil suspension are performed and 0.2mL of the last dilution is plated on an agar plate. After a two-day incubation period, 250 colony forming units (CFU) were counted on the agar plate. What is the concentration of bacteria in the initial soil sample?\n\na. 2.50 x 106 CFU/gram of soil\n\nb. 1.25 x 105 CFU/gram of soil\n\nc. 1.25 x 106 CFU/gram of soil\n\nd. 1.25 x 107 CFU/gram of soil"
+    },
+    {
+     "day": 1,
+     "number": 44,
+     "paper_label": "Exam",
+     "problem": "Bacteriophages, also known as phages, are viruses that can infect and kill bacteria. The susceptibility of a bacterial strain to infection by phages can be measured using a plaque assay.\n\nThe process of performing a plaque assay is: Phages are added to a lawn of bacterial cells growing on a plate. When one phage infects a cell, this infected cell is lysed and new phages are released. These newly released phages infect and lyse neighboring cells (the phages cannot travel to distant cells). The infection process proceeds until the area of cell lysis becomes so large that it is visible by the naked eye. This area of visible cell lysis, caused initially by one phage, is called a plaque. Therefore, the number of plaques is an estimate of the number of phages that were initially added to the lawn of bacterial cells. This is the plaque count.\n\nLet the efficiency of plaquing (EOP) be the ratio of a mutant bacterial strain’s plaque count to that of the wild type.\n\nUsing the above definition of EOP, which of the following is CORRECT?\n\na. An EOP value equal to 1 is impossible.\n\nb. An EOP value over 1 is impossible.\n\nc. An EOP value of 10-5 represents greater susceptibility to phage infection than a value of 10-1\n\nd. An EOP value of 10-5 represents greater resistance to phage infection than a value of 10-1"
+    },
+    {
+     "day": 1,
+     "number": 45,
+     "paper_label": "Exam",
+     "problem": "The absorption spectrum of a photosynthetic pigment and the spectrum of visible light are given below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-45-fig1.png\n\nWhat is the most likely colour of this photosynthetic pigment?\n\na. Green\n\nb. Red\n\nc. Violet\n\nd. Yellow"
+    },
+    {
+     "day": 1,
+     "number": 46,
+     "paper_label": "Exam",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-46-fig1.png\n\nFigure 1. 3D visualisation of the protein backbone structure for an enzyme involved in glycolysis. Please note some of the following questions relate to the circles and rectangles positioned on this visualisation.\n\nThe reaction that this enzyme catalyses is:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-46-fig2.png\n\nThe enzyme is composed of four subunits. There are certain sites on the enzyme that can bind to other molecules, indicated by the rectangles and ovals. Binding sites at the front of the molecule are indicated by solid lines. Binding sites at the back of the molecule is indicated by dotted lines. Oval sites can bind to fructose-6-phosphate. The sites indicated with rectangles bind fructose-2,6-bisphosphate. Interestingly, ATP can bind to both sites (ovals and rectangles), but ADP can only bind to rectangular sites.\n\nATP, ADP, and fructose-6-phosphate are all negative molecules.\n\nIn addition, please note that the term allosteric relates to enzymes that change the shape of the binding site of a molecule.\n\nEnzymes catalyse biochemical reactions by altering which of the following quantities associated with the reaction?\n\na. The enthalpy of formation, ΔH\n\nb. The equilibrium constant, Keq\n\nc. The change in Gibb’s free energy, ΔG\n\nd. The activation energy, Ea"
+    },
+    {
+     "day": 1,
+     "number": 47,
+     "paper_label": "Exam",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-46-fig1.png\n\nFigure 1. 3D visualisation of the protein backbone structure for an enzyme involved in glycolysis. Please note some of the following questions relate to the circles and rectangles positioned on this visualisation.\n\nThe reaction that this enzyme catalyses is:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-46-fig2.png\n\nThe enzyme is composed of four subunits. There are certain sites on the enzyme that can bind to other molecules, indicated by the rectangles and ovals. Binding sites at the front of the molecule are indicated by solid lines. Binding sites at the back of the molecule is indicated by dotted lines. Oval sites can bind to fructose-6-phosphate. The sites indicated with rectangles bind fructose-2,6-bisphosphate. Interestingly, ATP can bind to both sites (ovals and rectangles), but ADP can only bind to rectangular sites.\n\nATP, ADP, and fructose-6-phosphate are all negative molecules.\n\nIn addition, please note that the term allosteric relates to enzymes that change the shape of the binding site of a molecule.\n\nChoose the best option to complete the sentence: The ovals indicate_______ and the rectangles indicate ________.\n\na. allosteric sites, catalytic sites.\n\nb. catalytic sites, allosteric sites.\n\nc. where allosteric activators bind, where allosteric inhibitors bind.\n\nd. where allosteric inhibitors bind, where allosteric activators bind."
+    },
+    {
+     "day": 1,
+     "number": 48,
+     "paper_label": "Exam",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-46-fig1.png\n\nFigure 1. 3D visualisation of the protein backbone structure for an enzyme involved in glycolysis. Please note some of the following questions relate to the circles and rectangles positioned on this visualisation.\n\nThe reaction that this enzyme catalyses is:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-46-fig2.png\n\nThe enzyme is composed of four subunits. There are certain sites on the enzyme that can bind to other molecules, indicated by the rectangles and ovals. Binding sites at the front of the molecule are indicated by solid lines. Binding sites at the back of the molecule is indicated by dotted lines. Oval sites can bind to fructose-6-phosphate. The sites indicated with rectangles bind fructose-2,6-bisphosphate. Interestingly, ATP can bind to both sites (ovals and rectangles), but ADP can only bind to rectangular sites.\n\nATP, ADP, and fructose-6-phosphate are all negative molecules.\n\nIn addition, please note that the term allosteric relates to enzymes that change the shape of the binding site of a molecule.\n\nBecause the molecules that bind to the sites indicated with both ovals and/rectangles are_________, you would expect that the amino acids lining these sites to include_________\n\na. positively charged, Asp and Glu which are negatively charged.\n\nb. negatively charged, Lys and Arg which are positively charged.\n\nc. negatively charged, Asp and Glu which are negatively charged.\n\nd. positively charged, Lys and Arg which are positively charged."
+    },
+    {
+     "day": 1,
+     "number": 49,
+     "paper_label": "Exam",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-46-fig1.png\n\nFigure 1. 3D visualisation of the protein backbone structure for an enzyme involved in glycolysis. Please note some of the following questions relate to the circles and rectangles positioned on this visualisation.\n\nThe reaction that this enzyme catalyses is:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-46-fig2.png\n\nThe enzyme is composed of four subunits. There are certain sites on the enzyme that can bind to other molecules, indicated by the rectangles and ovals. Binding sites at the front of the molecule are indicated by solid lines. Binding sites at the back of the molecule is indicated by dotted lines. Oval sites can bind to fructose-6-phosphate. The sites indicated with rectangles bind fructose-2,6-bisphosphate. Interestingly, ATP can bind to both sites (ovals and rectangles), but ADP can only bind to rectangular sites.\n\nATP, ADP, and fructose-6-phosphate are all negative molecules.\n\nIn addition, please note that the term allosteric relates to enzymes that change the shape of the binding site of a molecule.\n\nDeficiency in the muscle isoform of the enzyme depicted in Figure 1 causes Tauri's disease (Type Vll glycogen storage disease). The metabolic outcomes in muscle cells are likely to include:\n\na. decreased fructose 1,6 bisphosphate, increased levels of fructose-6-phosphate\n\nb. decreased fructose 1,6 bisphosphate, decreased levels of fructose-6-phosphate\n\nc. increased fructose 1,6 bisphosphate, increased levels of fructose-6-phosphate\n\nd. increased fructose 1,6 bisphosphate, decreased levels of fructose-6-phosphate"
+    },
+    {
+     "day": 1,
+     "number": 50,
+     "paper_label": "Exam",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-46-fig1.png\n\nFigure 1. 3D visualisation of the protein backbone structure for an enzyme involved in glycolysis. Please note some of the following questions relate to the circles and rectangles positioned on this visualisation.\n\nThe reaction that this enzyme catalyses is:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-46-fig2.png\n\nThe enzyme is composed of four subunits. There are certain sites on the enzyme that can bind to other molecules, indicated by the rectangles and ovals. Binding sites at the front of the molecule are indicated by solid lines. Binding sites at the back of the molecule is indicated by dotted lines. Oval sites can bind to fructose-6-phosphate. The sites indicated with rectangles bind fructose-2,6-bisphosphate. Interestingly, ATP can bind to both sites (ovals and rectangles), but ADP can only bind to rectangular sites.\n\nATP, ADP, and fructose-6-phosphate are all negative molecules.\n\nIn addition, please note that the term allosteric relates to enzymes that change the shape of the binding site of a molecule.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-50-fig1.png\n\nFig 2A: Regulation of PFK activity\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-50-fig2.png\n\nFig 2B: Graph between the relative velocity and fructose-6 phosphate\n\nFigure 2A and 2B: Enzyme activity under different conditions. (PFK = Phosphofructokinase)\n\nFigure 2A shows that for this enzyme ATP is a/an:\n\na. allosteric activator.\n\nb. allosteric inhibitor.\n\nc. product.\n\nd. substrate."
+    },
+    {
+     "day": 1,
+     "number": 51,
+     "paper_label": "Exam",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-46-fig1.png\n\nFigure 1. 3D visualisation of the protein backbone structure for an enzyme involved in glycolysis. Please note some of the following questions relate to the circles and rectangles positioned on this visualisation.\n\nThe reaction that this enzyme catalyses is:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-46-fig2.png\n\nThe enzyme is composed of four subunits. There are certain sites on the enzyme that can bind to other molecules, indicated by the rectangles and ovals. Binding sites at the front of the molecule are indicated by solid lines. Binding sites at the back of the molecule is indicated by dotted lines. Oval sites can bind to fructose-6-phosphate. The sites indicated with rectangles bind fructose-2,6-bisphosphate. Interestingly, ATP can bind to both sites (ovals and rectangles), but ADP can only bind to rectangular sites.\n\nATP, ADP, and fructose-6-phosphate are all negative molecules.\n\nIn addition, please note that the term allosteric relates to enzymes that change the shape of the binding site of a molecule.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-50-fig1.png\n\nFig 2A: Regulation of PFK activity\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-50-fig2.png\n\nFig 2B: Graph between the relative velocity and fructose-6 phosphate\n\nFigure 2A and 2B: Enzyme activity under different conditions. (PFK = Phosphofructokinase)\n\nFigure 2A and Figure 2B show that when [fructose 6-phosphate] is high the enzyme:\n\na. exhibits product inhibition.\n\nb. exhibits non-competitive inhibition.\n\nc. is stabilised in the high activity state.\n\nd. is stabilised in the low activity state."
+    },
+    {
+     "day": 1,
+     "number": 52,
+     "paper_label": "Exam",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-46-fig1.png\n\nFigure 1. 3D visualisation of the protein backbone structure for an enzyme involved in glycolysis. Please note some of the following questions relate to the circles and rectangles positioned on this visualisation.\n\nThe reaction that this enzyme catalyses is:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-46-fig2.png\n\nThe enzyme is composed of four subunits. There are certain sites on the enzyme that can bind to other molecules, indicated by the rectangles and ovals. Binding sites at the front of the molecule are indicated by solid lines. Binding sites at the back of the molecule is indicated by dotted lines. Oval sites can bind to fructose-6-phosphate. The sites indicated with rectangles bind fructose-2,6-bisphosphate. Interestingly, ATP can bind to both sites (ovals and rectangles), but ADP can only bind to rectangular sites.\n\nATP, ADP, and fructose-6-phosphate are all negative molecules.\n\nIn addition, please note that the term allosteric relates to enzymes that change the shape of the binding site of a molecule.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-50-fig1.png\n\nFig 2A: Regulation of PFK activity\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-50-fig2.png\n\nFig 2B: Graph between the relative velocity and fructose-6 phosphate\n\nFigure 2A and 2B: Enzyme activity under different conditions. (PFK = Phosphofructokinase)\n\nThe $K_M$ of an enzymatic reaction is defined as the substrate concentration where there is enzymatic activity is half that of Vmax (maximum enzyme activity). Which of the following statements is correct?\n\na. A high $K_M$ is indicative of high enzyme efficiency.\n\nb. A low $K_M$ is indicative of a high enzyme efficiency.\n\nc. $K_M$ is calculated by doubling Vmax.\n\nd. $K_M$ is calculated by halving Vmax."
+    },
+    {
+     "day": 1,
+     "number": 53,
+     "paper_label": "Exam",
+     "problem": "Cellular respiration is a complex process involving many steps. Generally, these steps are grouped into 3 main phases: glycolysis, the citric acid cycle, and the electron transport chain. The process of glycolysis can be summarised as follows:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-53-fig1.png\n\nGiven this information, how many carbon atoms does a pyruvate molecule contain?\n\na. 1\n\nb. 2\n\nc. 3\n\nd. 4"
+    },
+    {
+     "day": 1,
+     "number": 54,
+     "paper_label": "Exam",
+     "problem": "Cellular respiration is a complex process involving many steps. Generally, these steps are grouped into 3 main phases: glycolysis, the citric acid cycle, and the electron transport chain. The process of glycolysis can be summarised as follows:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-53-fig1.png\n\nDuring glycolysis, there are steps at which ATP is created from ADP and phosphate and steps at which ATP is broken down. Which of the following options can be ruled out based on the information provided?\n\na. The creation and breakdown of ATP occur at different locations within the cell.\n\nb. The order of reactions is irrelevant, net ATP produced is the same.\n\nc. The breakdown of ATP releases energy that is required for glycolysis to proceed.\n\nd. Glycolysis involves energy investment and payoff phases which are both necessary for respiration."
+    },
+    {
+     "day": 1,
+     "number": 55,
+     "paper_label": "Exam",
+     "problem": "Cellular respiration is a complex process involving many steps. Generally, these steps are grouped into 3 main phases: glycolysis, the citric acid cycle, and the electron transport chain. The process of glycolysis can be summarised as follows:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-53-fig1.png\n\nGlycolysis utilises a total of 10 enzymes, including those mentioned in the above diagram. How might the cell benefit from using many different enzymes in cellular respiration?\n\na. Activation energy of a reaction is decreased, allowing it to occur more quickly.\n\nb. The cell needs fewer points at which it can promote function.\n\nc. Using specialised enzymes allows each step of respiration to occur more slowly.\n\nd. The cell needs fewer points at which it can limit enzyme function to control overall energy output."
+    },
+    {
+     "day": 1,
+     "number": 56,
+     "paper_label": "Exam",
+     "problem": "Cellular respiration is a complex process involving many steps. Generally, these steps are grouped into 3 main phases: glycolysis, the citric acid cycle, and the electron transport chain. The process of glycolysis can be summarised as follows:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-53-fig1.png\n\nGiven the necessity of cellular respiration to life, which of the following features would you NOT expect?\n\na. Negative feedback loops\n\nb. Positive feedback loops\n\nc. High levels of regulation\n\nd. Susceptibility to mutation"
+    },
+    {
+     "day": 1,
+     "number": 57,
+     "paper_label": "Exam",
+     "problem": "Review the following diagram and answer the 4 subsequent questions.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-57-fig1.png\n\nA protein’s primary structure consists of a series of amino acids held together by peptide (covalent) bonds. Which of the following would alter the primary protein structure?\n\na. Boiling the sample\n\nb. Increasing pH of the solution\n\nc. Decreasing pH of the 0solution\n\nd. Agitating the solution with a stirring rod"
+    },
+    {
+     "day": 1,
+     "number": 58,
+     "paper_label": "Exam",
+     "problem": "Review the following diagram and answer the 4 subsequent questions.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-57-fig1.png\n\nIf a mutation occurred which caused a protein’s primary structure to be half the original length, what is the most likely effect this would have on the cell?\n\na. Mutated proteins would fold, resulting in impaired cellular function.\n\nb. The mutated amino acid chain would be hydrolysed, resulting in no net effect on the cell.\n\nc. The defect in the protein would spread to other nearby cells, forming a plaque of malformed proteins.\n\nd. The protein would still be able to work normally if it had a quaternary structure, since each individual polypeptide chain comprises only a small part of the overall protein."
+    },
+    {
+     "day": 1,
+     "number": 59,
+     "paper_label": "Exam",
+     "problem": "Review the following diagram and answer the 4 subsequent questions.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-57-fig1.png\n\nA researcher is trying to synthesise a protein with tertiary structure. They have been able to produce a copy of the amino acid sequence, but have been unsuccessful in creating even one properly folded protein. What is the most likely reason for this?\n\na. The experiment’s temperature is too low.\n\nb. The solution is deficient in critical amino acids.\n\nc. The researchers have isolated the wrong segment of DNA\n\nd. The experiment’s pH does not mimic the correct cellular conditions."
+    },
+    {
+     "day": 1,
+     "number": 60,
+     "paper_label": "Exam",
+     "problem": "Review the following diagram and answer the 4 subsequent questions.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2020-1-57-fig1.png\n\nA prion is a rare type of misfolded protein that can trigger other correctly folded proteins of the same type to fold incorrectly.\n\nWhich of the following is LEAST likely to be an origin for prion disease in humans?\n\na. Unusually rapid cellular proliferation\n\nb. Eating contaminated vegetables\n\nc. Spontaneous mutation\n\nd. Environmental factors leading to abnormal cellular conditions"
+    }
+   ]
+  },
+  {
+   "year": 2021,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Exam",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-1-fig1.png\n\nThis cell is best described as what type of cell?\n\na. white blood cell\n\nb. prokaryotic cell\n\nc. plant cell\n\nd. animal cell\n\ne. epithelial cell"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Exam",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-2-fig1.png\n\nWhat is the name of the organelle labelled A?\n\na. Golgi apparatus\n\nb. Chloroplast\n\nc. Ribosome\n\nd. Mitochondria\n\ne. Nucleus"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Exam",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-3-fig1.png\n\nWhat does organelle A produce when functional in a cell?\n\na. Carbon dioxide\n\nb. Starch\n\nc. Oxygen\n\nd. ATP\n\ne. Glucose"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Exam",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-4-fig1.png\n\nThe organelle labelled B plays a role in the structural integrity of the cell. When filled with water, ions, minerals, and nutrients this organelle exerts a pressure to maintain the structural integrity. The term that relates to this pressure is:\n\na. Osmotic pressure\n\nb. Turgor pressure\n\nc. Cell pressure\n\nd. Hydrostatic pressure\n\ne. Structural pressure"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Exam",
+     "problem": "In Australia, the 25$^{\\text{th}}$ of April is ANZAC day. ANZAC Day is a national day of remembrance and honours all who served and died in all wars, conflicts, and peacekeeping operations.\n\nIn the United States however, the 25$^{\\text{th}}$ of April is National DNA Day. The day commemorates the completion of the Human Genome Project in 2003 and the discovery of DNA’s double helix structure in 1953.\n\nThe human genome is?\n\na. All of our genes\n\nb. All of our DNA\n\nc. All of the DNA and RNA found in the nucleus of a cell\n\nd. All of our RNA"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Exam",
+     "problem": "If a length of DNA comprises 10,000 nucleotides of which 26% is adenine, what is the predicted number of cytosine bases?\n\na. 48\n\nb. 96\n\nc. 1200\n\nd. 2400\n\ne. 4800"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Exam",
+     "problem": "Which of the following is found in RNA but not in DNA?\n\na. Thymine\n\nb. Guanine\n\nc. Uracil\n\nd. Phosphate group\n\ne. Cytosine"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Exam",
+     "problem": "When a gene is ‘expressed’ it is?\n\na. Transported around the body to make proteins\n\nb. Replicated within the cell\n\nc. Used as a blueprint to assemble the protein it codes for\n\nd. Used as a blueprint to assemble the peptide it codes for"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Exam",
+     "problem": "Pathogens are agents which infect humans and cause disease. Molecular mimicry occurs when foreign pathogens contain molecules that look like human molecules. When infected by such a pathogen, the body’s immune system attacks the pathogenic molecule.\n\nHowever, after the infection is cleared, the immune system may then mistakenly attack our own self-molecules.\n\nMolecular mimicry could occur because:\n\na. pathogen proteins resemble host proteins\n\nb. pathogens activate specific host cytokines\n\nc. pathogens activate specific host cell metabolism\n\nd. pathogens mimic specific host genes\n\ne. pathogens change their molecules to look like human molecules during an infection"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Exam",
+     "problem": "Which of the following may be pathogenic organisms?\n\nI. Bacteria\n\nII. Viruses\n\nIII. Prions\n\nIV. Fungi\n\nV. Protozoa\n\na. I and II\n\nb. I, II and V\n\nc. I, IV and V\n\nd. I, II, IV and V"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Exam",
+     "problem": "A Poikilotherm is an organism whose internal temperature varies considerably with their environment. In comparison, a homeotherm is able to maintain a stable internal body temperature regardless of external influence.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-11-fig1.png\n\nBiochemical reaction rates vary with temperature. To function, poikilotherms may have four to ten enzyme systems that operate at different temperatures for an important biochemical reaction. Compared to homeotherms in similar ecological niches, poikilotherms are likely to have:\n\na. more complex organ systems\n\nb. larger, more complex genomes\n\nc. enzymes that are significantly more resistant to denaturation\n\nd. enzymes that may perform very different functions depending on the temperature"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Exam",
+     "problem": "A Poikilotherm is an organism whose internal temperature varies considerably with their environment. In comparison, a homeotherm is able to maintain a stable internal body temperature regardless of external influence.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-12-fig1.png\n\nHomeotherms and poikilotherms generally have different energy requirements per body mass. Which response is correct?\n\na. A given food source can support a greater density of poikilothermic animals than homeothermic animals\n\nb. In niches with limited food, homeotherms tend to out compete poikilotherms\n\nc. Poikilotherms require more energy than homeotherms to reproduce\n\nd. A given food source can support the same density of poikilothermic and homeothermic animals"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Exam",
+     "problem": "The Great Barrier Reef is among the world’s most awe-inspiring and unique ecosystems. It spans more than 2,000 kilometres, has more than 600 types of coral, 1,600 types of fish and is of immense cultural significance, especially for traditional owners of the land.\n\nThe species of coral Acropora digitifera is unable to produce cysteine as it lacks the gene for an essential enzyme. However, the same organisms that give the coral its colour (dinoflagellates) also provide the organism with cysteine. This is an example of what kind of relationship?\n\na. Commensalism\n\nb. Predator-prey\n\nc. Mutualism\n\nd. Parasitism"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Exam",
+     "problem": "Turmeric is a flowering plant, Curcuma longa of the ginger family, Zingiberaceae. It has a very long history of medicinal use, dating back nearly 4000 years. In the last 25 years, over 3000 new publications have been released regarding the health effects of turmeric. The primary compound in turmeric is curcumin, which has been purported to have anti-inflammatory and antioxidant effects. Scientists conducted a study investigating the effect of varying concentrations and length of exposure of curcumin on adipocytes from a human cell line. Figure A shows the effect of curcumin concentration on the viability of a population of adipocytes.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-14-fig1.png\n\nFurther investigation showed that the effect on viability was due to changes in the regulation of apoptosis. Caspases are known to play essential roles in apoptosis and are an important regulator of this process is the Bax protein, which causes the release of cytochrome c.\n\nApoptosis is a process known as:\n\na. programmed cell death\n\nb. mitosis\n\nc. transcription\n\nd. cellular injury"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Exam",
+     "problem": "Turmeric is a flowering plant, Curcuma longa of the ginger family, Zingiberaceae. It has a very long history of medicinal use, dating back nearly 4000 years. In the last 25 years, over 3000 new publications have been released regarding the health effects of turmeric. The primary compound in turmeric is curcumin, which has been purported to have anti-inflammatory and antioxidant effects. Scientists conducted a study investigating the effect of varying concentrations and length of exposure of curcumin on adipocytes from a human cell line. Figure A shows the effect of curcumin concentration on the viability of a population of adipocytes.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-15-fig1.png\n\nFurther investigation showed that the effect on viability was due to changes in the regulation of apoptosis. Caspases are known to play essential roles in apoptosis and are an important regulator of this process is the Bax protein, which causes the release of cytochrome c.\n\nWhich organelle releases cytochrome c?\n\na. Mitochondrion\n\nb. Nucleolus\n\nc. Smooth endoplasmic reticulum\n\nd. Golgi apparatus"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Exam",
+     "problem": "Turmeric is a flowering plant, Curcuma longa of the ginger family, Zingiberaceae. It has a very long history of medicinal use, dating back nearly 4000 years. In the last 25 years, over 3000 new publications have been released regarding the health effects of turmeric. The primary compound in turmeric is curcumin, which has been purported to have anti-inflammatory and antioxidant effects. Scientists conducted a study investigating the effect of varying concentrations and length of exposure of curcumin on adipocytes from a human cell line. Figure A shows the effect of curcumin concentration on the viability of a population of adipocytes.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-16-fig1.png\n\nFurther investigation showed that the effect on viability was due to changes in the regulation of apoptosis. Caspases are known to play essential roles in apoptosis and are an important regulator of this process is the Bax protein, which causes the release of cytochrome c.\n\nCytochrome c:\n\na. Initiates the release of caspases from the mitochondria\n\nb. Interacts with DNA, leading to nuclear fragmentation\n\nc. Activates the first caspase of an enzymatic cascade\n\nd. Is an integral protein"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "Exam",
+     "problem": "Turmeric is a flowering plant, Curcuma longa of the ginger family, Zingiberaceae. It has a very long history of medicinal use, dating back nearly 4000 years. In the last 25 years, over 3000 new publications have been released regarding the health effects of turmeric. The primary compound in turmeric is curcumin, which has been purported to have anti-inflammatory and antioxidant effects. Scientists conducted a study investigating the effect of varying concentrations and length of exposure of curcumin on adipocytes from a human cell line. Figure A shows the effect of curcumin concentration on the viability of a population of adipocytes.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-17-fig1.png\n\nFurther investigation showed that the effect on viability was due to changes in the regulation of apoptosis. Caspases are known to play essential roles in apoptosis and are an important regulator of this process is the Bax protein, which causes the release of cytochrome c.\n\nBcl-2 is a protein that prevents the release of cytochrome c. The Bax/Bcl-2 ratio determines the balance of apoptosis. Figure B shows the effect of 0, 10, 20 and 40µM curcumin for a 24h period on the Bax/Bcl-2 ratio. An asterisk (*) denotes a statistically significant result. Figure C shows the result of a western blot.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-17-fig2.png\n\nCurcumin:\n\na. stimulates the growth of fat cells by increasing the production of Bcl-2\n\nb. inhibits the growth of fat cells by increasing the expression of Bax relative to Bcl-2\n\nc. inhibits the growth of fat cells by decreasing the synthesis of Bax\n\nd. inhibits the growth of fat cells by increasing the expression of Bcl-2 relative to Bax"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "Exam",
+     "problem": "Turmeric is a flowering plant, Curcuma longa of the ginger family, Zingiberaceae. It has a very long history of medicinal use, dating back nearly 4000 years. In the last 25 years, over 3000 new publications have been released regarding the health effects of turmeric. The primary compound in turmeric is curcumin, which has been purported to have anti-inflammatory and antioxidant effects. Scientists conducted a study investigating the effect of varying concentrations and length of exposure of curcumin on adipocytes from a human cell line. Figure A shows the effect of curcumin concentration on the viability of a population of adipocytes.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-18-fig1.png\n\nFurther investigation showed that the effect on viability was due to changes in the regulation of apoptosis. Caspases are known to play essential roles in apoptosis and are an important regulator of this process is the Bax protein, which causes the release of cytochrome c.\n\nBcl-2 is a protein that prevents the release of cytochrome c. The Bax/Bcl-2 ratio determines the balance of apoptosis. Figure B shows the effect of 0, 10, 20 and 40µM curcumin for a 24h period on the Bax/Bcl-2 ratio. An asterisk (*) denotes a statistically significant result. Figure C shows the result of a western blot.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-18-fig2.png\n\nThe concentration of ___(1)___ in the cytoplasm of the cells treated with ___(2)___ µM of curcumin compared to those treated with ___(3)___ µM is ___(4)___.\n\nWhich of the following options does NOT make the sentence above true?\n\na. (1) Cytochrome c, (2) 10, (3) 0, (4) Higher\n\nb. (1) Cytochrome c, (2) 20, (3) 0, (4) Higher\n\nc. (1) Cytochrome c, (2) 20, (3) 40, (4) Lower\n\nd. (1) Bax, (2) 20, (3) 40, (4) Lower\n\ne. (1) Bcl-2, (2) 0, (3) 40, (4) Higher"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "Exam",
+     "problem": "Turmeric is a flowering plant, Curcuma longa of the ginger family, Zingiberaceae. It has a very long history of medicinal use, dating back nearly 4000 years. In the last 25 years, over 3000 new publications have been released regarding the health effects of turmeric. The primary compound in turmeric is curcumin, which has been purported to have anti-inflammatory and antioxidant effects. Scientists conducted a study investigating the effect of varying concentrations and length of exposure of curcumin on adipocytes from a human cell line. Figure A shows the effect of curcumin concentration on the viability of a population of adipocytes.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-19-fig1.png\n\nFurther investigation showed that the effect on viability was due to changes in the regulation of apoptosis. Caspases are known to play essential roles in apoptosis and are an important regulator of this process is the Bax protein, which causes the release of cytochrome c.\n\nBcl-2 is a protein that prevents the release of cytochrome c. The Bax/Bcl-2 ratio determines the balance of apoptosis. Figure B shows the effect of 0, 10, 20 and 40µM curcumin for a 24h period on the Bax/Bcl-2 ratio. An asterisk (*) denotes a statistically significant result. Figure C shows the result of a western blot.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-19-fig2.png\n\nResults of the present study suggest that curcumin may be a promising therapeutic agent for:\n\na. Heart disease, by increasing adipocyte numbers surrounding the heart\n\nb. Obesity, by increasing adipocyte numbers through the induction of adipocyte apoptosis\n\nc. Obesity, by decreasing adipocyte numbers through the induction of adipocyte apoptosis\n\nd. Cardiovascular health, by decreasing a person’s fat free mass"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "Exam",
+     "problem": "When someone loses weight by “burning fat”, where does most of the mass of the fat go?\n\na. It is excreted in the faeces\n\nb. It is converted into energy according to $E=mc^2$, where E is energy, m is mass and c is the speed of light\n\nc. It is exhaled as carbon dioxide\n\nd. It is lost in sweat and urine"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Exam",
+     "problem": "The brain is a vitally important organ that has evolved a multitude of protective barriers, including the skull, cerebrospinal fluid, and the meninges.\n\nAnother protective element is the blood–brain barrier, which separates the blood in the circulatory system from the cerebrospinal fluid of the central nervous system. The blood–brain barrier was discovered in the late 19th century, when Paul Ehrlich, a German physician, injected a blue dye into the bloodstream of a mouse. All of the tissues in the mouse turned blue, with the exception of the brain and spinal cord. The effectiveness of the blood–brain barrier depends on the cells that line the interior of blood vessels. In capillaries that form the blood-brain barrier, these cells are packed more closely together than in other capillaries.\n\nWhich of the following statements is true?\n\na. The blue dye was composed of large hydrophilic molecules which were unable to diffuse across the blood-brain barrier\n\nb. The cells of the brain and spinal cord do not have a specific receptor for the dye to bind; therefore, it did not cause a colour change in these tissues.\n\nc. The molecules of blue dye were transported through the blood bound to large proteins, which were unable to diffuse across the blood-brain barrier.\n\nd. Cells that make up the capillary wall lack a phospholipid bilayer; therefore, the dye was unable to diffuse across the blood-brain barrier."
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Exam",
+     "problem": "Hemoglobin and myoglobin are proteins that have oxygen-carrying capacity. Hemoglobin is found in red blood cells and myoglobin is found in muscles. Hemoglobin can bind to four oxygen molecules at any point in time. In the lungs, where there is a high oxygen concentration, hemoglobin binds to oxygen forming oxyhemoglobin. Oxyhemoglobin then circulates the body in blood and unloads oxygen to tissues with a low oxygen concentration, reforming hemoglobin. Myoglobin stores oxygen in the muscle tissue and only releases oxygen when the partial pressure of oxygen has fallen drastically. Myoglobin is only found in the bloodstream after muscle injury.\n\nThe oxygen dissociation curve, depicted below, describes the relationship between the partial pressure of oxygen (x axis) and the oxygen saturation of hemoglobin or myoglobin (y axis).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-22-fig1.png\n\nThe partial pressure of O$_2$ in the lungs is around 100mmHg. In the lungs, the % O$_2$ saturation of hemoglobin is:\n\na. 90%\n\nb. 95%\n\nc. 100%\n\nd. 110%"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Exam",
+     "problem": "Hemoglobin and myoglobin are proteins that have oxygen-carrying capacity. Hemoglobin is found in red blood cells and myoglobin is found in muscles. Hemoglobin can bind to four oxygen molecules at any point in time. In the lungs, where there is a high oxygen concentration, hemoglobin binds to oxygen forming oxyhemoglobin. Oxyhemoglobin then circulates the body in blood and unloads oxygen to tissues with a low oxygen concentration, reforming hemoglobin. Myoglobin stores oxygen in the muscle tissue and only releases oxygen when the partial pressure of oxygen has fallen drastically. Myoglobin is only found in the bloodstream after muscle injury.\n\nThe oxygen dissociation curve, depicted below, describes the relationship between the partial pressure of oxygen (x axis) and the oxygen saturation of hemoglobin or myoglobin (y axis).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-23-fig1.png\n\nAs hemoglobin unloads oxygen:\n\na. It becomes easier to unload more oxygen\n\nb. It becomes harder to unload more oxygen\n\nc. Unloading oxygen continues at the same rate\n\nd. Carbon dioxide is exchanged for oxygen on hemoglobin"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Exam",
+     "problem": "Hemoglobin and myoglobin are proteins that have oxygen-carrying capacity. Hemoglobin is found in red blood cells and myoglobin is found in muscles. Hemoglobin can bind to four oxygen molecules at any point in time. In the lungs, where there is a high oxygen concentration, hemoglobin binds to oxygen forming oxyhemoglobin. Oxyhemoglobin then circulates the body in blood and unloads oxygen to tissues with a low oxygen concentration, reforming hemoglobin. Myoglobin stores oxygen in the muscle tissue and only releases oxygen when the partial pressure of oxygen has fallen drastically. Myoglobin is only found in the bloodstream after muscle injury.\n\nThe oxygen dissociation curve, depicted below, describes the relationship between the partial pressure of oxygen (x axis) and the oxygen saturation of hemoglobin or myoglobin (y axis).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-24-fig1.png\n\nIn intense exercise, muscles produce lactic acid. This increase in acidity within the muscle helps hemoglobin unload more oxygen. How would this change the oxyhaemoglobin dissociation curve?\n\na. The curve would shift to the left\n\nb. The curve would shift to the right\n\nc. The curve would shift up\n\nd. The curve would shift down"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Exam",
+     "problem": "Androgens and oestrogens are steroid (lipid) hormones that affect specific populations of cells in the human body. Which one of the following statements about this action is correct?\n\na. Oestrogen receptors and androgen receptors are found in identical regions of the body\n\nb. The steroid hormones act by binding to receptors concentrated on the plasma membrane\n\nc. Androgen and oestrogen signalling control only one pathway in the body\n\nd. The lipid solubility of steroid hormones means that all cells in the body are exposed to circulating steroid hormones\n\ne. Androgen and oestrogen can dissolve in water and thus travel in blood plasma without a reliance on protein carriers"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Exam",
+     "problem": "An antibody, also called immunoglobulin (Ig), is a protective protein produced by the immune system in response to the presence of a foreign substance. Antibodies are specific to one foreign molecule. They help the immune system to target and destroy the foreign material. With modern technology, scientists are now designing antibodies called monoclonal antibodies (mAbs). These are made to target specific proteins, ultimately to treat diseases.\n\nWhich of the following is true:\n\na. mAbs provide protection against a wide range of common infections\n\nb. mAbs can be used as the sole therapy to treat immunodeficiency in patients\n\nc. mAbs are designed for the treatment of patients with a cancer or disease caused by a specific pathogen\n\nd. mAbs can be used in place of intravenous IgG (IVIg) as a treatment for people who have antibody deficiencies\n\ne. mAbs can bind to two different molecules"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Exam",
+     "problem": "Capillary hydrostatic pressure is the pressure exerted by the blood on the walls of capillaries, forcing fluid out of the capillary. Colloid osmotic pressure is exerted by proteins within the blood and draws fluid back into the capillary via osmosis.\n\nAs blood travels from the arterial to the venous end of the capillary, capillary hydrostatic pressure decreases as fluid leaves, while colloid osmotic pressure increases as the concentration of plasma proteins increases due to the loss of fluid. Therefore, there is net filtration at the arterial end of the capillary but net absorption at the venous end. Overall, across the entire capillary, there is generally more filtration than absorption. The diagram below summarises this information.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-27-fig1.png\n\nPeripheral oedema or swelling occurs when excessive fluid exits the capillaries and accumulates in the interstitial spaces.\n\nWhich of the following options could cause peripheral oedema?\n\na. Liver disease, which decreases production of the plasma protein albumin\n\nb. Heart failure, where the heart is unable to pump sufficient blood to the rest of the body, leading to increased venous pressure\n\nc. Deep vein thrombosis, where a clot forms in the veins of the legs and obstructs venous blood flow\n\nd. Lymphatic filariasis, caused by worms such as Wuchereria bancrofti which may obstruct lymphatic vessels\n\ne. All of the options above would cause peripheral oedema"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Exam",
+     "problem": "What would cause increased capillary hydrostatic pressure?\n\na. Hypotension\n\nb. Increased fluid volume\n\nc. Decreased fluid volume\n\nd. Increased diameter of the capillary"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Exam",
+     "problem": "Polypeptide chains are formed via condensation polymerisation, where multiple amino acids are joined via condensation reactions to form a polymer. The Figure below demonstrates how a peptide bond (shaded in red) is formed via a condensation reaction that removes one water molecule and joins two amino acids together.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-29-fig1.png\n\nGlycine is an amino acid with a molecular formula of $\\mathrm{C_2H_5NO_2}$.\n\nWhat is the molecular formula of a polypeptide chain composed of one hundred (100) glycine molecules?\n\na. $\\mathrm{C_{200}H_{500}N_{100}O_{200}}$\n\nb. $\\mathrm{C_{200}H_{300}N_{100}O_{100}}$\n\nc. $\\mathrm{C_{200}H_{298}N_{100}O_{99}}$\n\nd. $\\mathrm{C_{200}H_{302}N_{100}O_{101}}$\n\ne. None of the above"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Exam",
+     "problem": "Auxin (IAA) is a hormone produced primarily in shoot apical meristems and young leaves. Root apical meristems also produce some auxin, although the root depends on the shoot for much of its auxin. Amongst its many functions in plant growth, auxin plays an important role in gravitropism.\n\nFigure A shows the anatomy of a root. Figure B shows the relationship between auxin concentration and growth of roots and shoots.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-30-fig1.png\n\nWhat concentration/s of auxin leads to a percentage stimulation of shoot growth closest to 50%?\n\na. $10^{-1}$ parts per million\n\nb. $10^{-1}$ parts per million and 10 parts per million\n\nc. $10^{-2}$ parts per million and 10 parts per million\n\nd. 2 x $10^{-2}$ parts per million and 30 parts per million\n\ne. 6 x $10^{-2}$ parts per million and 70 parts per million"
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "Exam",
+     "problem": "Auxin (IAA) is a hormone produced primarily in shoot apical meristems and young leaves. Root apical meristems also produce some auxin, although the root depends on the shoot for much of its auxin. Amongst its many functions in plant growth, auxin plays an important role in gravitropism.\n\nFigure A shows the anatomy of a root. Figure B shows the relationship between auxin concentration and growth of roots and shoots.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-31-fig1.png\n\nWhich of the statement/s is/are true?\n\nI. At low concentrations, auxin stimulates the root cap to elongate.\n\nII. The effects of auxin are confined to the regions in which it is synthesised.\n\nIII. Auxin stimulates gravitropism in root hairs.\n\nIV. Auxin is transported through the plant in an active, cell-to-cell manner.\n\na. I only\n\nb. I and II\n\nc. II and III\n\nd. I, III and IV\n\ne. IV only"
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "Exam",
+     "problem": "Auxin (IAA) is a hormone produced primarily in shoot apical meristems and young leaves. Root apical meristems also produce some auxin, although the root depends on the shoot for much of its auxin. Amongst its many functions in plant growth, auxin plays an important role in gravitropism.\n\nFigure A shows the anatomy of a root. Figure B shows the relationship between auxin concentration and growth of roots and shoots.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-32-fig1.png\n\nWhich of the following statements is true?\n\na. The concentration of auxin in the roots is inversely proportional to the concentration of auxin the shoots.\n\nb. Maximal shoot growth occurs at auxin concentrations of less than 1 x $10^{3}$ parts per billion.\n\nc. Maximal shoot growth occurs at auxin concentrations of less than 1 x $10^{-7}$ parts per billion.\n\nd. At a given concentration, auxin may not stimulate growth of both shoots and roots.\n\ne. At a given concentration, auxin may inhibit the growth of both shoots and roots."
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "Exam",
+     "problem": "The left ventricle of the heart pumps blood around the body. The amount of blood pumped out of the heart during one contraction is called the cardiac output. The cardiac output varies according to end diastolic volume (see diagram below). The end diastolic volume, also known as the preload, is the volume of blood in the left ventricle before contraction. The cardiac output is also influenced by contractility, which is the ability of the heart muscle to contract.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-33-fig1.png\n\nWhich of the following would increase cardiac output?\n\nI. Increased contractility\n\nII. Increased preload\n\nIII. Weakened heart muscle\n\nIV. Decreased blood volume\n\nV. Fight or flight response\n\na. I and II\n\nb. I, II and III\n\nc. I, II and IV\n\nd. I, II, and V\n\ne. I, II, III and IV"
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "Exam",
+     "problem": "The left ventricle of the heart pumps blood around the body. The amount of blood pumped out of the heart during one contraction is called the cardiac output. The cardiac output varies according to end diastolic volume (see diagram below). The end diastolic volume, also known as the preload, is the volume of blood in the left ventricle before contraction. The cardiac output is also influenced by contractility, which is the ability of the heart muscle to contract.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-34-fig1.png\n\nWhat would NOT result from an increased end-diastolic volume?\n\na. Increased stretching of the left ventricle.\n\nb. Weaker contraction of the left ventricle.\n\nc. Increased preload.\n\nd. Increased cardiac output.\n\ne. Increased volume of blood in the left ventricle before contraction."
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "Exam",
+     "problem": "The left ventricle of the heart pumps blood around the body. The amount of blood pumped out of the heart during one contraction is called the cardiac output. The cardiac output varies according to end diastolic volume (see diagram below). The end diastolic volume, also known as the preload, is the volume of blood in the left ventricle before contraction. The cardiac output is also influenced by contractility, which is the ability of the heart muscle to contract.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-35-fig1.png\n\nThis graph depicts the Frank-Starling law. The Frank-Starling Law is the description of cardiac function as it relates to myocyte stretch and contractility.\n\nWhich of the following best describes the Frank-Starling law of the heart?\n\na. Increase in end-diastolic volume results in an increased cardiac output.\n\nb. Increase in end-diastolic volume results in an increased heart rate.\n\nc. Increase in end-systolic volume indicates an increased cardiac output.\n\nd. End-systolic volume equals end-diastolic volume.\n\ne. Increase in cardiac output results in an increase in end-diastolic volume."
+    },
+    {
+     "day": 1,
+     "number": 36,
+     "paper_label": "Exam",
+     "problem": "There are three types of muscle contraction, see diagram below. All these muscle contractions occur against a load. Concentric contraction occurs when a muscle shortens against a load. Eccentric contraction occurs when muscle lengthens against a load. Finally, isometric contraction occurs when muscle does not shorten or lengthen against a load.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-36-fig1.png\n\nWithin a muscle, there are two types of receptors: muscle spindles and golgi tendon organs, see diagram below. Muscle spindles are found within the belly of a muscle. These are activated when the muscle stretches. Golgi tendon organs are found in the tendon of a muscle. A tendon attaches muscle to bone. Golgi tendon organs are activated when the muscle contracts and shortens. This information is sent to the central nervous system via sensory neurons.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-36-fig2.png\n\nWhat happens to sensory neuron activity during concentric contraction?\n\na. Muscle spindle nerve activity increase, Golgi tendon organ nerve activity decrease\n\nb. Muscle spindle nerve activity decrease, Golgi tendon organ nerve activity decrease\n\nc. Muscle spindle nerve activity increase, Golgi tendon organ nerve activity increase\n\nd. Muscle spindle nerve activity decrease, Golgi tendon organ nerve activity increase\n\ne. Muscle spindle nerve activity stays the same, Golgi tendon organ nerve activity stays the same"
+    },
+    {
+     "day": 1,
+     "number": 37,
+     "paper_label": "Exam",
+     "problem": "There are three types of muscle contraction, see diagram below. All these muscle contractions occur against a load. Concentric contraction occurs when a muscle shortens against a load. Eccentric contraction occurs when muscle lengthens against a load. Finally, isometric contraction occurs when muscle does not shorten or lengthen against a load.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-37-fig1.png\n\nWithin a muscle, there are two types of receptors: muscle spindles and golgi tendon organs, see diagram below. Muscle spindles are found within the belly of a muscle. These are activated when the muscle stretches. Golgi tendon organs are found in the tendon of a muscle. A tendon attaches muscle to bone. Golgi tendon organs are activated when the muscle contracts and shortens. This information is sent to the central nervous system via sensory neurons.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-37-fig2.png\n\nAfter drinking coffee, a person slowly lowers a mug down to the table. What happens to sensory neuron activity during this action?\n\na. Muscle spindle nerve activity increase, Golgi tendon organ nerve activity decrease\n\nb. Muscle spindle nerve activity decrease, Golgi tendon organ nerve activity decrease\n\nc. Muscle spindle nerve activity increase, Golgi tendon organ nerve activity increase\n\nd. Muscle spindle nerve activity decrease, Golgi tendon organ nerve activity increase"
+    },
+    {
+     "day": 1,
+     "number": 38,
+     "paper_label": "Exam",
+     "problem": "Energy can be stored in the body in different ways. Glucose and glycogen yield approximately 17 kJ of energy per gram while lipids (fats) yield 37 kJ per gram.\n\nIf the average person has stored 5 g of free glucose in their blood, 480 g total glycogen in their muscles and liver, 15 kg of lipids in their adipose tissue and has an energy requirement of 8700 kJ per day, approximately how many days could they theoretically survive under starvation conditions?\n\na. 25 days\n\nb. 35 days\n\nc. 45 days\n\nd. 55 days\n\ne. 65 days"
+    },
+    {
+     "day": 1,
+     "number": 39,
+     "paper_label": "Exam",
+     "problem": "The picture below shows a white-light microscopy image of Paramecium, a unicellular organism which is commonly found in freshwater environments.\n\nGiven that the scale bar represents 120 μm, approximately how many identical organisms can fit length-to-length across a petri dish with a 100 mm diameter?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-39-fig1.png\n\na. 17\n\nb. 30\n\nc. 58\n\nd. 80\n\ne. 108"
+    },
+    {
+     "day": 1,
+     "number": 40,
+     "paper_label": "Exam",
+     "problem": "The graph below shows the concentration of methane (CH$_4$) in the Earth’s atmosphere alongside the intensity of solar radiation over the past few millennia.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-40-fig1.png\n\nAccording to the graph, if the trend of CH$_4$ concentration had continued to match the trend on solar radiation intensity, the concentration at present would most likely be:\n\na. Less than 500 ppb.\n\nb. Between 500 and 550 ppb.\n\nc. Between 550 and 600 ppb.\n\nd. Between 600 and 700 ppb.\n\ne. Above 700 ppb."
+    },
+    {
+     "day": 1,
+     "number": 41,
+     "paper_label": "Exam",
+     "problem": "A spectrophotometer is a machine that measures how much light is absorbed or transmitted when passed through a solution. The result depends on the colour and clarity of the solution as well as the wavelength (colour) of light passed through it. Zijlstra & Buursma (1997) examined the absorptivity of four derivatives of haemoglobin (the pigment that makes blood red) for humans and cows (bovines) (Figure 1).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-41-fig1.png\n\nFigure 1. Absorption spectra of the common derivatives of cow (—) and human (- - - -) haemoglobin in the visible range. (A) oxyhaemoglobin, O$_2$Hb (1) and deoxyhaemoglobin, HHb (2); (B) methaemoglobin, Hi (1) and carboxyhaemoglobin, COHb (2). The absorptivity is expressed in $\\mathrm{L\\,mmol^{-1}\\,cm^{-1}}$.\n\nWhat is the approximate absorptivity of methaemoglobin for humans at 550nm?\n\na. $4\\ \\mathrm{L\\,mmol^{-1}\\,cm^{-1}}$\n\nb. $6\\ \\mathrm{L\\,mmol^{-1}\\,cm^{-1}}$\n\nc. $8\\ \\mathrm{L\\,mmol^{-1}\\,cm^{-1}}$\n\nd. $10\\ \\mathrm{L\\,mmol^{-1}\\,cm^{-1}}$\n\ne. $12\\ \\mathrm{L\\,mmol^{-1}\\,cm^{-1}}$"
+    },
+    {
+     "day": 1,
+     "number": 42,
+     "paper_label": "Exam",
+     "problem": "A spectrophotometer is a machine that measures how much light is absorbed or transmitted when passed through a solution. The result depends on the colour and clarity of the solution as well as the wavelength (colour) of light passed through it. Zijlstra & Buursma (1997) examined the absorptivity of four derivatives of haemoglobin (the pigment that makes blood red) for humans and cows (bovines) (Figure 1).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-42-fig1.png\n\nFigure 1. Absorption spectra of the common derivatives of cow (—) and human (- - - -) haemoglobin in the visible range. (A) oxyhaemoglobin, O$_2$Hb (1) and deoxyhaemoglobin, HHb (2); (B) methaemoglobin, Hi (1) and carboxyhaemoglobin, COHb (2). The absorptivity is expressed in $\\mathrm{L\\,mmol^{-1}\\,cm^{-1}}$.\n\nWhich of the following can be concluded from the data contained in the graphs?\n\na. There is a statistically significant spectral difference between bovine and human Hi.\n\nb. For HHb, O$_2$Hb, and COHb there are only minute spectral differences between bovine and human haemoglobin.\n\nc. In the O$_2$Hb spectrum the minimum at 560 nm is slightly higher for bovine than for human haemoglobin.\n\nd. At 508 nm the absorptivity of bovine haemoglobin is slightly lower than that of human haemoglobin.\n\ne. In the COHb spectrum the α-peak around 569 nm is somewhat higher for bovine haemoglobin, and in the minimum near 496 nm the spectrum of bovine haemoglobin lies a little above that of the human."
+    },
+    {
+     "day": 1,
+     "number": 43,
+     "paper_label": "Exam",
+     "problem": "Betsy and Bob are both high-risk carriers of a hereditary illness, X. After receiving genetic counselling, they were told that the probability of any child they have inheriting X is 12%. The illness affects boys and girls equally, both in terms of severity and in the probability of inheritance. Betsy and Bob plan to have two children.\n\nCalculate the probability that they will have two healthy (non-affected) sons.\n\na. 11.4%\n\nb. 12%\n\nc. 19.4%\n\nd. 44%\n\ne. 77.4%"
+    },
+    {
+     "day": 1,
+     "number": 44,
+     "paper_label": "Exam",
+     "problem": "The graph below displays the results of an ecological experiment conducted at the University of Sydney. Researchers removed limpets and/or urchins from study areas and recorded the percentage seaweed cover over the next 18 months. Limpets and urchins both feed on seaweed. The results of this experiment showed that urchins have a much greater effect than limpets in restricting seaweed distribution.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-44-fig1.png\n\nUnfortunately, the labels of the plot lines have disappeared. In no particular order, the labels are:\n\n1. No limpets or urchins removed (Control)\n\n2. Both limpets and urchins removed\n\n3. Only urchins removed\n\n4. Only limpets removed\n\nWhich of the following options correctly labels each line?\n\na. Purple – 1, Green – 3, Blue – 4, Red - 2\n\nb. Purple – 2, Green – 3, Blue – 4, Red – 1\n\nc. Purple – 2, Green – 4, Blue – 3, Red - 1\n\nd. Purple – 2, Green – 3, Blue – 1, Red - 4\n\ne. Purple – 1, Green – 2, Blue – 3, Red - 4"
+    },
+    {
+     "day": 1,
+     "number": 45,
+     "paper_label": "Exam",
+     "problem": "Differential staining is an important technique used in bacterial microbiology. One such stain is the Gram stain, which uses a crystal violet dye that binds to a cell wall layer called peptidoglycan. Thick layers of peptidoglycan stain dark purple in Gram-positive bacteria because the stain is retained. Thinner layers of peptidoglycan do not retain the stain effectively in Gram-negative bacteria and are therefore not stained the same deep purple. This is important because the staining result and subsequent classification inform medical staff on how best to treat an infection with this bacterium.\n\nBased on the information about differential staining, choose the CORRECT answer:\n\na. A Gram-negative and a Gram-positive bacterium will stain the same\n\nb. Gram-positive bacteria are harder to kill\n\nc. Gram-positive bacteria can be identified by a thick purple stained cell wall\n\nd. Gram-negative bacteria have no peptidoglycan layer in their cell wall\n\nd. The gram stain can be used to classify bacteria by their genus as well as their cell wall properties"
+    },
+    {
+     "day": 1,
+     "number": 46,
+     "paper_label": "Exam",
+     "problem": "With the rise in drug-resistant bacteria, it is crucial that antibacterial drugs are effective and prescribed appropriately to prevent selecting for resistance in the bacteria. We also need to understand their effect on other bacteria cohabiting the human body to prevent development of resistant strains of these other bacteria.\n\nThe Kirby-Bauer disk diffusion method is one technique used to assess the resistance of a bacterium to a drug. The bacteria are cultured on plates and small disks impregnated with specific antibiotics placed on the surface (coloured and labelled A-D below). The antibiotic from the disk diffuses into the growth medium as the bacteria on the surface of the plate replicates. Susceptible bacteria cannot grow in the presence of the antibiotic, resulting in a clear zone of inhibition around the disk. In contrast, resistant bacteria can replicate freely around the disk and there is no clear zone seen, just a ‘lawn’ of bacteria. The size of the inhibition zone is indicative of the effectiveness of the antibiotic impregnated in that disk. Zones of antibiotic diffusion should not overlap: if they do so a repeat of the experiment is required to determine their effectiveness.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-46-fig1.png\n\nWhich of the following statements is INCORRECT?\n\na. Antibiotics B and C require a repeated experiment to determine their effectiveness\n\nb. Antibiotic D is the best inhibitor of the growth of this bacterium\n\nc. The incubation process caused the differential growth of this bacterium species\n\nd. Antibiotic A is effective against this bacterium, although antibiotics B and C are potentially more effective than A\n\ne. Antibiotic B has not diffused evenly from disk B"
+    },
+    {
+     "day": 1,
+     "number": 47,
+     "paper_label": "Exam",
+     "problem": "Anna’s father has five daughters: 1. Nana, 2. Nemu, 3. Nino, 4. Nomi. What is the name of the fifth daughter?\n\na. Nune\n\nb. Nume\n\nc. Nunu\n\nd. Numu\n\ne. Anna"
+    },
+    {
+     "day": 1,
+     "number": 48,
+     "paper_label": "Exam",
+     "problem": "The graph shows the birth rate and death rate for a population of kangaroos over a 100-year period.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-48-fig1.png\n\nAssuming equal emigration and immigration, from 1900 to 2000, the population has:\n\na. Increased\n\nb. Decreased\n\nc. Stayed the same\n\nd. Increased until 1930, then decreased\n\ne. Decreased until 1930, then stayed the same"
+    },
+    {
+     "day": 1,
+     "number": 49,
+     "paper_label": "Exam",
+     "problem": "The graph shows changes in mass of three individual kangaroo ticks when they were removed and kept for two days at low humidity and then four days at high humidity.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-49-fig1.png\n\nThe best deduction from these data is that:\n\na. At high humidity ticks absorb water from the atmosphere\n\nb. At day 6 the ticks have recovered their body water\n\nc. The loss of mass during the first two days is due to starvation\n\nd. Individual ticks contain different amounts of water\n\ne. Individual ticks lose water at the same rate when held in low humidity conditions"
+    },
+    {
+     "day": 1,
+     "number": 50,
+     "paper_label": "Exam",
+     "problem": "Like many mammals, cat species use the XY sex-determination system where males have the sex chromosomes XY and females have the sex chromosomes XX. In a specific breed of cats called tortoiseshell cats, the major gene for fur colour is located on the X-chromosome. There are two fur colour alleles for this gene: one for orange fur and one for black fur.\n\nIn a specific litter of kittens, there are three kittens born with the following fur colours: pure orange fur, pure black fur, and one with both orange and black fur.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-50-fig1.png\n\nWhich of the following statements is most likely to be true?\n\na. The kitten with both orange and black fur is female\n\nb. The kitten with both orange and black fur is male\n\nc. The pure colour kittens (the pure black fur and pure orange fur) are male\n\nd. The pure colour kittens (the pure black fur and pure orange fur) are female\n\ne. The kitten’s sexes are randomly determined so cannot be determined"
+    },
+    {
+     "day": 1,
+     "number": 51,
+     "paper_label": "Exam",
+     "problem": "Like many mammals, cat species use the XY sex-determination system where males have the sex chromosomes XY and females have the sex chromosomes XX. In a specific breed of cats called tortoiseshell cats, the major gene for fur colour is located on the X-chromosome. There are two fur colour alleles for this gene: one for orange fur and one for black fur.\n\nIn a specific litter of kittens, there are three kittens born with the following fur colours: pure orange fur, pure black fur, and one with both orange and black fur.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-51-fig1.png\n\nAn orange fur female tortoiseshell cat was crossed with a black fur male tortoiseshell cat and had a litter of six kittens. Which of the following offspring colours are most likely?\n\na. 3 black fur male kittens and 3 mixed fur (orange and black fur) female kittens\n\nb. 4 orange fur male kittens and 2 mixed fur female kittens\n\nc. 2 black fur kittens, 2 orange fur kittens, 2 mixed fur kittens\n\nd. 1 mixed fur male kitten, 5 orange female kittens\n\ne. All kittens will be of a mixed fur pattern"
+    },
+    {
+     "day": 1,
+     "number": 52,
+     "paper_label": "Exam",
+     "problem": "Julie noticed an introduced species of weed disrupted the growth of native plant seedlings in the local park. She also recalled that symbiotic bacteria in the soil play a role in native plant seedling growth. Julie took two soil samples from an area where the weed species were growing (‘Affected’ soil samples) and sterilised ONE sample using ultraviolet light. She then obtained another two soil samples from an area without any evidence of the weed species (‘Unaffected’ soil samples) and sterilised one sample as well. She then planted some native seedlings in each soil sample and let them grow for 3 months. At the end of 3 months, she removed all the roots, stems, and leaves of the seedlings and weighed the biomass of the collected plant material.\n\nShe repeated this experiment 5 times with five different sets of soils and documented the results in a table:\n\n$$\\begin{array}{l|c|c|c|c|c} & \\text{Weighed seedling biomass (g)} & & & & \\\\ \\text{Soil category} & \\text{First set} & \\text{Second set} & \\text{Third set} & \\text{Fourth set} & \\text{Fifth set} \\\\ \\hline \\text{Affected} & 6 & 11 & 1 & 2 & 4 \\\\ \\text{Unaffected} & 141 & 149 & 139 & 128 & 140 \\\\ \\text{Sterilised affected} & 3 & 7 & 5 & 2 & 5 \\\\ \\text{Sterilised unaffected} & 10 & 21 & 9 & 7 & 14 \\end{array}$$\n\nJulie also examined the soil samples with and without the weed species under a light microscope to examine the symbiotic bacteria present in the soil.\n\n$$\\begin{array}{l|c|c|c|c|c} & \\text{Number of symbiotic bacteria viewed per mm}^2\\text{ under the microscope} & & & & \\\\ \\text{Soil category} & \\text{First set} & \\text{Second set} & \\text{Third set} & \\text{Fourth set} & \\text{Fifth set} \\\\ \\hline \\text{Affected} & 6 & 7 & 11 & 6 & 8 \\\\ \\text{Unaffected} & 515 & 534 & 501 & 456 & 466 \\end{array}$$\n\nWhich conclusion is most supported by the data results?\n\na. The symbiotic bacteria in the soil are a shared resource that the weed species outcompetes the native seedlings for\n\nb. The presence of symbiotic bacteria supports the growth of the introduced weed species by forming a mutualistic relationship\n\nc. The native seedlings promote symbiotic bacteria growth in the soil, which then inhibits the growth of the introduced weed species\n\nd. The data shows there is no relationship between the symbiotic bacteria, introduced weed species, and native seedlings\n\ne. The weed species suppresses native seedling growth by decreasing the number of symbiotic bacteria in the soil"
+    },
+    {
+     "day": 1,
+     "number": 53,
+     "paper_label": "Exam",
+     "problem": "Julie noticed an introduced species of weed disrupted the growth of native plant seedlings in the local park. She also recalled that symbiotic bacteria in the soil play a role in native plant seedling growth. Julie took two soil samples from an area where the weed species were growing (‘Affected’ soil samples) and sterilised ONE sample using ultraviolet light. She then obtained another two soil samples from an area without any evidence of the weed species (‘Unaffected’ soil samples) and sterilised one sample as well. She then planted some native seedlings in each soil sample and let them grow for 3 months. At the end of 3 months, she removed all the roots, stems, and leaves of the seedlings and weighed the biomass of the collected plant material.\n\nShe repeated this experiment 5 times with five different sets of soils and documented the results in a table:\n\n$$\\begin{array}{l|c|c|c|c|c} & \\text{Weighed seedling biomass (g)} & & & & \\\\ \\text{Soil category} & \\text{First set} & \\text{Second set} & \\text{Third set} & \\text{Fourth set} & \\text{Fifth set} \\\\ \\hline \\text{Affected} & 6 & 11 & 1 & 2 & 4 \\\\ \\text{Unaffected} & 141 & 149 & 139 & 128 & 140 \\\\ \\text{Sterilised affected} & 3 & 7 & 5 & 2 & 5 \\\\ \\text{Sterilised unaffected} & 10 & 21 & 9 & 7 & 14 \\end{array}$$\n\nJulie also examined the soil samples with and without the weed species under a light microscope to examine the symbiotic bacteria present in the soil.\n\n$$\\begin{array}{l|c|c|c|c|c} & \\text{Number of symbiotic bacteria viewed per mm}^2\\text{ under the microscope} & & & & \\\\ \\text{Soil category} & \\text{First set} & \\text{Second set} & \\text{Third set} & \\text{Fourth set} & \\text{Fifth set} \\\\ \\hline \\text{Affected} & 6 & 7 & 11 & 6 & 8 \\\\ \\text{Unaffected} & 515 & 534 & 501 & 456 & 466 \\end{array}$$\n\nHow could Julie best increase the validity of her experiment?\n\na. Increase the number of times she repeated the experiment and collect more numerical data, and then average the results\n\nb. Introduce a friend to repeat her experiment and check Julie’s data collection\n\nc. Dry out the seedling biomass samples in a dehydrator before recording the weight\n\nd. Count the number of seedlings instead of weighing them\n\nd. Recording biomass weights to two decimal points, rather than rounding them to the nearest gram"
+    },
+    {
+     "day": 1,
+     "number": 54,
+     "paper_label": "Exam",
+     "problem": "When eukaryotic cells divide, they pass through the ‘cell cycle’, which can be subdivided into a series of phases. This is depicted in the picture below. Cells that begin to prepare for cell division enter the G1 phase (‘Gap 1’ phase). In the G1 phase, cellular and cytoplasmic contents are produced in preparation for cell division (such as proteins, organelles, and the cytoplasm itself). After this phase, the cell progresses into the S phase (‘Synthesis’ phase) where DNA replication occurs, and then into the G2 phase (‘Gap 2’ phase) where the cell grows further by producing and assembling the cytoplasmic materials for mitosis and cytokinesis. Finally, the cell enters the mitotic phase (labelled ‘M’) and cytokinesis (labelled ‘C’) and completes cell division.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-54-fig1.png\n\nLiam is using x-ray radiation to induce mutations in a strain of animal cells in his laboratory. At which phase of the cell cycle is a cell most likely to mutate when exposed to radiation?\n\na. G1\n\nb. S\n\nc. G2\n\nd. M\n\ne. C"
+    },
+    {
+     "day": 1,
+     "number": 55,
+     "paper_label": "Exam",
+     "problem": "When eukaryotic cells divide, they pass through the ‘cell cycle’, which can be subdivided into a series of phases. This is depicted in the picture below. Cells that begin to prepare for cell division enter the G1 phase (‘Gap 1’ phase). In the G1 phase, cellular and cytoplasmic contents are produced in preparation for cell division (such as proteins, organelles, and the cytoplasm itself). After this phase, the cell progresses into the S phase (‘Synthesis’ phase) where DNA replication occurs, and then into the G2 phase (‘Gap 2’ phase) where the cell grows further by producing and assembling the cytoplasmic materials for mitosis and cytokinesis. Finally, the cell enters the mitotic phase (labelled ‘M’) and cytokinesis (labelled ‘C’) and completes cell division.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-55-fig1.png\n\nAnna is a scientist who looked through the microscope at a dividing animal embryo. She noticed that in the early stages of embryo development, the cells undergo cell division in quick succession and the daughter cells become smaller with each division, as depicted in the image below. Unlike regular cell division, embryo cells divide through a modified cell cycle known as ‘cleavage’ where some phases of the cell cycle are shortened or skipped entirely.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-55-fig2.png\n\nWhich phase of the cell cycle is shortened the most in ‘cleavage’ division?\n\na. S and G1 phases\n\nb. G1 and G2 phases\n\nc. M and C phases\n\nd. G2 and M phases\n\ne. M and S phases"
+    },
+    {
+     "day": 1,
+     "number": 56,
+     "paper_label": "Exam",
+     "problem": "The pangolin is an endangered mammal, with 4 species native to Africa and another 4 species native to the Asian continent. Pangolins are protected by CITES, the Convention on International Trade in Endangered Species of Wild Fauna and Flora. CITES aims to ensure that the international trade in wild animals and plants does not threaten their survival.\n\nCITES records of intercepted pangolin trades (1977-2014) are summarised below. Red sectors in the pie graphs indicate that a country was the origin of an exported pangolin, blue indicates that a country was the destination for an imported pangolin. The width of the arrow and diameter of pie graphs indicate the relative size of the trade.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-56-fig1.png\n\nWhich of these statements is NOT supported by the data?\n\na. New Zealand (NZ) is involved in the illegal trade of pangolins\n\nb. The USA (US) is the main destination for imported pangolins\n\nc. More pangolins are exported from Asia than Africa\n\nd. Italy (IT) exports more pangolins than the USA (US)\n\ne. Asian countries are involved in both the importation and exportation of pangolins"
+    },
+    {
+     "day": 1,
+     "number": 57,
+     "paper_label": "Exam",
+     "problem": "The genetic sequence of the virus that causes COVID-19 was compared with virus samples from different non-human hosts and from environmentally collected strains and all samples were plotted against the average similarity of the group. The COVID-19 virus found in the environment is very similar to that from humans, likely reflecting the current high levels of transmission within the human population and shedding into the environment.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-57-fig1.png\n\nFrom the list below, what is the best inference that can be made from these data? The COVID-19 virus\n\na. evolved spontaneously in the environment, with no clear host\n\nb. has its closest evolutionary link to a pangolin virus\n\nc. has its closest evolutionary link to a bat (Rhinolophine) virus\n\nd. has its closest evolutionary link to a Dengue virus\n\ne. evolved from the common cold virus (HCov – 229E)"
+    },
+    {
+     "day": 1,
+     "number": 58,
+     "paper_label": "Exam",
+     "problem": "A phylogenetic tree is a diagram that shows the evolutionary relationships of living things that have descended from a common ancestor. Each branching point in this phylogenetic tree represents the divergence of two groups from a common ancestor.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-58-fig1.png\n\nConsidering the vertebrate tree above, which of the following options correctly orders vertebrates from the least to the most number of branching points experienced in total since the evolutionary divergence that resulted in vertebrates?\n\na. Jawless fish < cartilaginous fish < crocodiles < birds\n\nb. Bony fish < amphibians < snakes < lizards\n\nc. Amphibians < mammals < turtles < birds\n\nd. Lizards < turtles < amphibians < birds\n\ne. Lizards < snakes < crocodiles < birds"
+    },
+    {
+     "day": 1,
+     "number": 59,
+     "paper_label": "Exam",
+     "problem": "All vertebrates show some sort of bilateral symmetry. What advantage does this provide?\n\na. Concentration of most sensory organs are in the head\n\nb. Walking on land\n\nc. Flying\n\nd. Development of bones\n\ne. Ability to give birth to live offspring"
+    },
+    {
+     "day": 1,
+     "number": 60,
+     "paper_label": "Exam",
+     "problem": "Join all of the shapes below together matching the letters. Which shape (A – E) will this make?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-60-fig1.png"
+    },
+    {
+     "day": 1,
+     "number": 61,
+     "paper_label": "Exam",
+     "problem": "Review the following map and answer the 5 subsequent questions.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-61-fig1.png\n\nEcologists have been studying the small archipelago shown in the map above. They have been comparing the ecology of the mainland with those on the nearby islands and have come up with a few discoveries. The area has not been known to have been inhabited by humans, so it remains very natural. The mainland contains a low mountain range approximately 50km inland from the coast (highest peak approximately 400m above sea level) and the prevailing winds are westerlies.\n\nWhich Island is expected to contain the greatest species diversity?\n\na. 1\n\nb. 5\n\nc. 3\n\nd. 2\n\ne. 6"
+    },
+    {
+     "day": 1,
+     "number": 62,
+     "paper_label": "Exam",
+     "problem": "Review the following map and answer the 5 subsequent questions.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-62-fig1.png\n\nEcologists have been studying the small archipelago shown in the map above. They have been comparing the ecology of the mainland with those on the nearby islands and have come up with a few discoveries. The area has not been known to have been inhabited by humans, so it remains very natural. The mainland contains a low mountain range approximately 50km inland from the coast (highest peak approximately 400m above sea level) and the prevailing winds are westerlies.\n\nAfter investigating all of the vegetation types on each region the ecologists identified an area that would fit the description of a rain shadow. Where would the rain shadow be most likely to have been identified?\n\na. East of the mountain range on the mainland\n\nb. West of the mountain range on the mainland\n\nc. Island 3\n\nd. Island 6\n\ne. Island 1"
+    },
+    {
+     "day": 1,
+     "number": 63,
+     "paper_label": "Exam",
+     "problem": "Review the following map and answer the 5 subsequent questions.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-63-fig1.png\n\nEcologists have been studying the small archipelago shown in the map above. They have been comparing the ecology of the mainland with those on the nearby islands and have come up with a few discoveries. The area has not been known to have been inhabited by humans, so it remains very natural. The mainland contains a low mountain range approximately 50km inland from the coast (highest peak approximately 400m above sea level) and the prevailing winds are westerlies.\n\nThe ecologists monitor the number of geckos on Island 3 and find that their birth rate equals 0.2 per annum. When the ecologist counted them this year there were 110 geckos on the island.\n\nHow many will there be at the same time next year?\n\na. 55\n\nb. 132\n\nc. 22\n\nd. 165\n\ne. 172"
+    },
+    {
+     "day": 1,
+     "number": 64,
+     "paper_label": "Exam",
+     "problem": "Review the following map and answer the 5 subsequent questions.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-64-fig1.png\n\nEcologists have been studying the small archipelago shown in the map above. They have been comparing the ecology of the mainland with those on the nearby islands and have come up with a few discoveries. The area has not been known to have been inhabited by humans, so it remains very natural. The mainland contains a low mountain range approximately 50km inland from the coast (highest peak approximately 400m above sea level) and the prevailing winds are westerlies.\n\nConsidering the smaller islands only, which one would be expected to have the greatest biodiversity?\n\na. 2\n\nb. 4\n\nc. 5\n\nd. 6\n\ne. 0 (they would all be equal)"
+    },
+    {
+     "day": 1,
+     "number": 65,
+     "paper_label": "Exam",
+     "problem": "Review the following map and answer the 5 subsequent questions.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2021-1-65-fig1.png\n\nEcologists have been studying the small archipelago shown in the map above. They have been comparing the ecology of the mainland with those on the nearby islands and have come up with a few discoveries. The area has not been known to have been inhabited by humans, so it remains very natural. The mainland contains a low mountain range approximately 50km inland from the coast (highest peak approximately 400m above sea level) and the prevailing winds are westerlies.\n\nThe ecologists studying the biodiversity on the islands notice that the geckos on island 3 look darker than those on island 1, even though genetic analysis shows that they are the same species.\n\nWhat is most likely to produce this phenomenon?\n\na. Radiant heat differs on each island\n\nb. The islands differ in their gecko prey availability\n\nc. Predation pressure\n\nd. Genetic bottleneck\n\ne. Low reproduction rates"
+    }
+   ]
+  },
+  {
    "year": 2023,
    "problems": [
     {
