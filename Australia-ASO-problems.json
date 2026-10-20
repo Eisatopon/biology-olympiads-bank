@@ -2,6 +2,1149 @@
  "competition": "Australian Science Olympiad Exam — Biology",
  "years": [
   {
+   "year": 2008,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which of the following is the BEST reason for including protein in the diet?\n\na. Energy for the body.\n\nb. Fibre for digestion.\n\nc. Raw materials for cell growth and repair.\n\nd. Vitamins for fighting disease."
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which of the following organisms are used to convert milk into yoghurt?\n\na. Bacteria.\n\nb. Protozoa.\n\nc. Viruses.\n\nd. Algae.\n\ne. Fungi."
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The growth of some plants can be improved by spreading bone meal (ground-up bones) around their roots. What does bone meal supply to plants that improves growth?\n\na. Energy.\n\nb. Minerals.\n\nc. Vitamins.\n\nd. Carbon dioxide."
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Tissues are found in living things. What is the definition of a tissue?\n\na. A group of cells with similar structure and function.\n\nb. A group of cells with different structure and function working together.\n\nc. A group of organelles contained inside a cell.\n\nd. The substances that constitute the walls of a cell."
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which one of the following characteristics is most likely to be found in mammals that are subject to predation by other mammals?\n\na. Eyes on the sides of head.\n\nb. Teeth that are long and pointed.\n\nc. Claws on the feet.\n\nd. Ears that cannot move."
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which of the following is NOT a function of the blood?\n\na. Digestion of food.\n\nb. Protection against disease.\n\nc. Transport of waste materials away from the tissues.\n\nd. Transport of oxygen to different parts of the body."
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Malaria is a disease in humans caused by the protozoan parasite Plasmodium, which is transmitted by mosquitoes. The drug chloroquine has been widely used to treat malaria for several decades. Recently, the number of malaria cases not responding to chloroquine has increased.\n\nWhat of the following is the most likely explanation?\n\na. Malaria sufferers are now excreting chloroquine before it can kill the parasite.\n\nb. Mutations conferring chloroquine resistance now arise more frequently in Plasmodium.\n\nc. Chloroquine favours the survival and reproduction of resistant parasites.\n\nd. A new species of Plasmodium has emerged."
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which of the following features of the platypus is characteristic of mammals?\n\na. Predation of other animals.\n\nb. Production of milk.\n\nc. Nesting and laying of eggs.\n\nd. Webbed feet."
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Eukaryotic genes tend to consist of coding regions (exons) and non-coding regions (introns). The figure shows how such a gene leads to the production of a protein.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-1-9-fig1.png\n\nWhich of the following statements is true?\n\na. Thymine content of (1) and (2) is approximately equal.\n\nb. The process occurring between (2) and (3) takes place in the cytosol.\n\nc. (4) can hybridise with (2).\n\nd. The number of amino acid residues in (5) must equal the number of nucleotide residues in (2).\n\ne. All processes occurring between (3) and (5) take place in the nuclei."
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Seeds develop from which part of the plant?\n\na. Flower.\n\nb. Leaf.\n\nc. Root.\n\nd. Stem."
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "When an active muscle cell experiences a shortage of oxygen the pH changes due to the build up of certain by-products of energy metabolism. Which of the following correctly lists the nature of the pH change and the major substance responsible?\n\n$$\\begin{array}{l|l|l} & \\text{pH change} & \\text{substance} \\\\ \\hline \\text{a.} & \\text{decrease} & \\text{carbon dioxide} \\\\ \\text{b.} & \\text{decrease} & \\text{lactic acid} \\\\ \\text{c.} & \\text{increase} & \\text{carbon dioxide} \\\\ \\text{d.} & \\text{increase} & \\text{lactic acid} \\\\ \\text{e.} & \\text{decrease} & \\text{pyruvate} \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The graphs below show the effects of temperature and pH on enzyme activity.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-1-12-fig1.png\n\nWhich statement explains the enzyme activity at the point shown?\n\na. At P, hydrogen bonds are formed between enzyme and substrate.\n\nb. At Q, the kinetic energy of enzyme and substrate is highest.\n\nc. At R, peptide bonds in the enzyme begin to break.\n\nd. At S, the substrate is completely denatured."
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The following graph shows the effect of pH on the structure of a protein that consists entirely of repeating residues of a single amino acid.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-1-13-fig1.png\n\nWhich of the following statements is true?\n\na. At pH2 the protein has lost its secondary structure.\n\nb. At pH2 the protein has lost its tertiary structure.\n\nc. At pH10 the protein has lost its primary structure.\n\nd. At pH10 the protein has lost its secondary structure."
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The primary reason scientists repeat the measurements they take during experiments is so that they can:\n\na. check that the equipment is working.\n\nb. list all the results in a table.\n\nc. estimate experimental error.\n\nd. change the experimental conditions."
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The body can reduce local blood flow by constricting blood vessels. This is particularly important in\n\na. thermal regulation.\n\nb. preventing capillary rupture.\n\nc. absorbing the correct amount of waste carbon dioxide.\n\nd. lengthening the lifespan of red blood cells.\n\ne. keeping the walls of thicker blood vessels elastic, in case of damage."
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which of the following characteristics of water makes life on Earth possible?\n\na. It has a low specific heat capacity.\n\nb. It has a low heat of vaporisation.\n\nc. It has a low relative surface tension.\n\nd. It is found in all three states in the natural environment.\n\ne. The liquid form is denser than the solid."
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Identical animal cells were placed in solutions of differing water potentials. The diagram shows the volume of the cells at the start and the end of the experiment. Which cell was placed in the solution with the lowest (most negative) water potential?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-1-17-fig1.png"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Aldosterone is secreted by the adrenal cortex. It is regulated by ACTH, a hormone secreted by the anterior pituitary gland. Normally, negative feedback occurs where aldosterone inhibits the secretion of ACTH.\n\nAddison’s disease occurs when the aldosterone secreting cells of the adrenal cortex are impaired, resulting in lowered aldosterone secretion. Which of the following test results best confirms the presence of Addison’s disease?\n\na. The injection of ACTH fails to increase the secretion of aldosterone.\n\nb. The ACTH level in the blood is low.\n\nc. The level of aldosterone in the blood is low.\n\nd. The administration of aldosterone alleviates symptoms.\n\ne. The removal of the adrenal cortex worsens symptoms."
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Insulin is an important protein hormone in the regulation of blood glucose levels. Insulin-dependent diabetics are unable to synthesise their own insulin and must rely on the biotechnology industry to produce the insulin they cannot. Mature insulin consists of 2 polypeptide chains linked by several disulfide bonds. To synthesise correctly assembled insulin, the two amino acid chains are generated in separate strains of E. coli and purified. The purified chains are then combined under conditions favouring disulfide formation.\n\nWhich of the following aspects of insulin structure remain unchanged throughout this process?\n\na. Primary structure.\n\nb. Tertiary structure.\n\nc. Quaternary structure.\n\nd. All aspects of structure are altered during this process.\n\ne. All aspects of structure remain unchanged during this process but differ from the structure of insulin produced in healthy individuals."
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The primary production of an ecosystem is the amount of biomass added through photosynthesis, measured in g/m$^2$/year.\n\n$$\\begin{array}{l|c|c} & \\text{Average Primary Production (g/m}^2\\text{/yr)} & \\text{Percentage of Total Primary Production of Earth} \\\\ \\hline \\text{Open ocean} & 125 & 24 \\\\ \\text{Tropical rainforest} & 2200 & 22 \\\\ \\text{Algal beds and reefs} & 2500 & 2 \\end{array}$$\n\nWhat is the most likely reason for the disparity between the average primary production and the percentage of the total primary production of the earth of the different ecosystems?\n\na. Cyanobacteria in the ocean can fix carbon into biomass at very high rates.\n\nb. Algae fix carbon very slowly.\n\nc. Algae fix carbon at the highest rates.\n\nd. Algal beds make up a much lower proportion of the total surface area of the earth than the open ocean.\n\ne. Phytoplankton in the ocean have a very high turnover rate."
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The proportion of adenine bases in a sample of DNA was found to be 12%. Which of the following statements is true? The proportion of:\n\na. uracil bases in the sample is 12%.\n\nb. uracil bases in the sample is 88%.\n\nc. thyroxine bases in the sample is 12%.\n\nd. cytosine bases in the sample is 38%.\n\ne. cytosine bases in the sample is 12%."
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Consider the following diagrams:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-1-22-fig1.png\n\nWhich of the specimens shown above is most closely related to specimen E?\n\na. Specimen A.\n\nb. Specimen B.\n\nc. Specimen C.\n\nd. Specimen D."
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "An investigator measured the amount of oxygen used by brine shrimps living in 3% and 15% salt solutions. The results are presented in the graph below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-1-23-fig1.png\n\nThe investigator also made the following observations:\n\n• Brine-shrimp living in 15% salt solution were less active than those in 3% salt solution.\n• The animals grew less rapidly in the 15% salt solution.\n• Females living in 3% salt solution produced more eggs.\n\nWhat hypothesis was being investigated?\n\na. Brine-shrimp have the ability to maintain a uniform internal concentration of salt.\n\nb. The cells of the brine-shrimp performing the work of active transport require extra oxygen.\n\nc. Brine-shrimp living in a 15% salt solution pump water instead of pumping salt.\n\nd. A 15% salt solution contains less dissolved oxygen than 3% salt solution."
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "In the 1960s the drug cholesterlower, after the usual period of carefully monitored clinical trials, was declared by its manufacturers to be safe and very effective at lowering cholesterol levels in the blood. The World Health Organisation carried out exactly the same kind of trial on the drug but for a much longer period than the usual five years. The results in 1980 showed that the mortality rate from all causes was 25% higher for those on cholesterlower than for those who, though similar in other respects, had not taken the drug. Which of the following is a conclusion that can be drawn from the above passage?\n\na. The five-year trial period may not be sufficient to identify all drug side effects.\n\nb. Taking cholesterlower reduces life expectancy by 25%.\n\nc. Cholesterlower is less effective at reducing cholesterol levels than was at first thought.\n\nd. After the original trials, the manufacturers concealed the side effects of cholesterlower.\n\ne. The monitoring programme instigated by the World Health Organisation was carried out efficiently."
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A study investigating the factors contributing to evolutionary changes in animal size was conducted. The mean size of all mammals in a region of North America was calculated (using data from the fossil record) for a period of 10 million years. The temperature in the region was also calculated and graphs representing the findings are shown below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-1-25-fig1.png\n\nWhich of the following is the most likely explanation of the trend evident in the graphs?\n\na. Larger animals can more easily avoid predation, thus having a selective advantage during cold periods when food is scarce.\n\nb. Larger animals produce less $\\mathrm{CO_2}$ through respiration, which contributes to low atmospheric $\\mathrm{CO_2}$ levels and decreases global temperature.\n\nc. The cold climate stimulates animals to grow larger, a characteristic they then pass on to their offspring.\n\nd. Larger animals use energy to heat themselves more efficiently and have a selective advantage during cold periods.\n\ne. The increased surface area to volume ratio of larger mammals gives them a selective advantage during cold periods."
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "What is the primary function of large leaves found on seedlings growing on the forest floor?\n\na. Provision of shade for their root systems.\n\nb. Elimination of excess water that is entering via the roots.\n\nc. To allow for leaf damage by insects.\n\nd. Acquisition of as much light as possible for photosynthesis."
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Use the following information to answer questions 27-29.\n\nA microbiologist was testing the effect of antibiotics on one strain of pathogenic bacteria. She plated out the bacteria on a suitable agar medium and placed small discs soaked in antibiotic solutions of equal concentration on the agar. She then incubated the plates under matched conditions and measured the region of no growth surrounding the discs. The following results were obtained.\n\n$$\\begin{array}{c|c|c|c} \\text{Antibiotic} & \\text{Diameter of zone with no bacterial growth (mm)} & & \\\\ & \\text{Experiment} & \\text{Positive control} & \\text{Negative control} \\\\ \\hline 1 & 8 & 22 & 2 \\\\ 2 & 19 & 23 & 0 \\\\ 3 & 15 & 21 & 1 \\\\ 4 & 9 & 24 & 3 \\\\ 5 & 10 & 23 & 2 \\end{array}$$\n\nWhich antibiotic appears to be the most effective?\n\na. 1\n\nb. 2\n\nc. 3\n\nd. 4\n\ne. 5"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Use the following information to answer questions 27-29.\n\nA microbiologist was testing the effect of antibiotics on one strain of pathogenic bacteria. She plated out the bacteria on a suitable agar medium and placed small discs soaked in antibiotic solutions of equal concentration on the agar. She then incubated the plates under matched conditions and measured the region of no growth surrounding the discs. The following results were obtained.\n\n$$\\begin{array}{c|c|c|c} \\text{Antibiotic} & \\text{Diameter of zone with no bacterial growth (mm)} & & \\\\ & \\text{Experiment} & \\text{Positive control} & \\text{Negative control} \\\\ \\hline 1 & 8 & 22 & 2 \\\\ 2 & 19 & 23 & 0 \\\\ 3 & 15 & 21 & 1 \\\\ 4 & 9 & 24 & 3 \\\\ 5 & 10 & 23 & 2 \\end{array}$$\n\nWhat would be a suitable negative control for this experiment?\n\na. Antibiotic discs but no bacteria.\n\nb. Antibiotic discs and a different, antibiotic-resistant strain of bacteria.\n\nc. Discs soaked in a harmless solution and the same strain of bacteria.\n\nd. Discs soaked in a known toxic solution and the same strain of bacteria.\n\ne. Antibiotic discs and yeast."
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Use the following information to answer questions 27-29.\n\nA microbiologist was testing the effect of antibiotics on one strain of pathogenic bacteria. She plated out the bacteria on a suitable agar medium and placed small discs soaked in antibiotic solutions of equal concentration on the agar. She then incubated the plates under matched conditions and measured the region of no growth surrounding the discs. The following results were obtained.\n\n$$\\begin{array}{c|c|c|c} \\text{Antibiotic} & \\text{Diameter of zone with no bacterial growth (mm)} & & \\\\ & \\text{Experiment} & \\text{Positive control} & \\text{Negative control} \\\\ \\hline 1 & 8 & 22 & 2 \\\\ 2 & 19 & 23 & 0 \\\\ 3 & 15 & 21 & 1 \\\\ 4 & 9 & 24 & 3 \\\\ 5 & 10 & 23 & 2 \\end{array}$$\n\nThere is at least one variable that the microbiologist has not controlled in this experiment. What is it?\n\na. The amount of antibiotic applied to the agar.\n\nb. The strain of bacteria used.\n\nc. The temperature at which the plates were incubated.\n\nd. The rate at which the antibiotic solutions diffuse through the agar.\n\ne. The amount of moisture available to the bacteria."
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Consider the following diagram and key:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-1-30-fig1.png\n\nThe following key has been devised for a group of toadstool fungi.\n\n$$\\begin{array}{lll} \\text{1a} & \\text{Gills present under cap} & 2 \\\\ \\text{1b} & \\text{Gills not present under cap} & 5 \\\\ \\text{2a} & \\text{Basal cup absent} & 3 \\\\ \\text{2b} & \\text{Basal cup present} & 4 \\\\ \\text{3a} & \\text{Gills pink, turning brown} & \\text{Psalliota campestris} \\\\ \\text{3b} & \\text{Gills not as above} & \\text{Lepiota gracilenta} \\\\ \\text{4a} & \\text{Cap red with white flecks} & \\text{Amanita muscaria} \\\\ \\text{4b} & \\text{Cap white} & \\text{Rozites australiensis} \\\\ \\text{5a} & \\text{Annulus present} & \\text{Boletus elegans} \\\\ \\text{5b} & \\text{Annulus absent} & \\text{Hydnum repandum} \\end{array}$$\n\nUsing the above key the following specimen may be identified as:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-1-30-fig2.png\n\na. Lepiota gracilenta.\n\nb. Amanita muscaria.\n\nc. Rozites australiensis.\n\nd. Boletus elegans.\n\ne. Hydnum repandum."
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The diagram shows a red blood cell and the concentrations of ions, in mmol dm$^{-3}$, in the plasma and the cell.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-1-31-fig1.png\n\nWhich ions are actively transported into and out of the cell?\n\n$$\\begin{array}{l|c|c} & \\text{into cell} & \\text{out of cell} \\\\ \\hline \\text{a.} & \\mathrm{Cl^-} & \\mathrm{K^+} \\\\ \\text{b.} & \\mathrm{K^+} & \\mathrm{Na^+} \\\\ \\text{c.} & \\mathrm{Na^+} & \\mathrm{Cl^-} \\\\ \\text{d.} & \\mathrm{Na^+} & \\mathrm{K^+} \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Use the pedigree below showing the inheritance of a recessive characteristic in a family.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-1-32-fig1.png\n\nWhich one of the lists given in the answer key below contains individuals in this pedigree who are definitely heterozygous for the recessive characteristic?\n\na. 1, 2 and 7.\n\nb. 3, 6 and 7.\n\nc. 1, 3 and 6.\n\nd. 1, 5 and 6."
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Use the following information to answer the questions 33-34.\n\nThe diagram below shows a food web. Arrows represent the direction of energy flow and a different letter represents each species.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-1-33-fig1.png\n\n$$\\begin{array}{l|l} \\text{Answer key} & \\text{Type of organism} \\\\ \\hline \\text{a.} & \\text{Primary consumer} \\\\ \\text{b.} & \\text{Primary producer} \\\\ \\text{c.} & \\text{Tertiary consumer} \\\\ \\text{d.} & \\text{Herbivore} \\\\ \\text{e.} & \\text{Decomposer} \\end{array}$$\n\nWhich answer most correctly describes the role of organisms D? Select your response from the above key."
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Use the following information to answer the questions 33-34.\n\nThe diagram below shows a food web. Arrows represent the direction of energy flow and a different letter represents each species.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-1-33-fig1.png\n\n$$\\begin{array}{l|l} \\text{Answer key} & \\text{Type of organism} \\\\ \\hline \\text{a.} & \\text{Primary consumer} \\\\ \\text{b.} & \\text{Primary producer} \\\\ \\text{c.} & \\text{Tertiary consumer} \\\\ \\text{d.} & \\text{Herbivore} \\\\ \\text{e.} & \\text{Decomposer} \\end{array}$$\n\nWhich answer most correctly describes the role of organisms Z? Select your response from the above key."
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "When pure breeding black Andalusian chickens are crossed with pure breeding white Andalusian chickens the first generation offspring are all grey in colour (known as ‘blue’ Andalusians). What is the expected phenotypic ratio when two of these ‘blue’ Andalusians are mated and produce offspring?\n\na. 25% grey, 50% black, 25% white.\n\nb. 50% black, 50% white.\n\nc. 25% black, 50% grey, 25% white.\n\nd. 50% black, 50% grey."
+    },
+    {
+     "day": 1,
+     "number": 36,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A few shoots from the water plant, Elodea, were placed upside down in water and illuminated. Bubbles of constant size that were emitted from the leaves and stem were counted and the rate of bubble formation calculated at various light intensities. The results are summarised in the following figure.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-1-36-fig1.png\n\nThe above experiment was repeated but a strong bicarbonate solution was added to provide an excess of $\\mathrm{CO_2}$. The results are shown in the following figure.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-1-36-fig2.png\n\nWhat does experiment 2 tell us about experiment 1?\n\na. $\\mathrm{CO_2}$ is the limiting factor at X in experiment 1.\n\nb. Light can be made to be limiting by decreasing other factors.\n\nc. Temperature is limiting at Y in experiment 2.\n\nd. $\\mathrm{CO_2}$ is limiting at X in experiment 2."
+    },
+    {
+     "day": 1,
+     "number": 37,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A scientific study seeks to establish the optimum water temperature for growing trout under farming conditions. Which of the following factors is likely to be an unavoidable source of experimental error?\n\na. Length of study being curtailed by trout lifespan.\n\nb. Death of trout at extremely high or low temperatures.\n\nc. Cost of keeping trout tanks at different temperatures.\n\nd. Variation of optimum temperature between individuals.\n\ne. Obtaining accurate measurements of trout growth."
+    },
+    {
+     "day": 1,
+     "number": 38,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Use the following information to answer the questions 38-39\n\nThe gag reflex is a reflex contraction of the muscles of the throat, which stops material from entering the throat (except in swallowing) and helps to prevent choking. The sensory nerve in this reflex is the glossopharyngeal nerve, and the motor nerve to the throat muscles is the vagus nerve. For questions 38-39, match the correct label to the components of the gag reflex. Each may be used once, more than once or not at all.\n\na. Afferent limb\n\nb. Efferent limb\n\nc. Integrator\n\nd. Signal\n\ne. Receptor\n\nGlossopharyngeal nerve."
+    },
+    {
+     "day": 1,
+     "number": 39,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Use the following information to answer the questions 38-39\n\nThe gag reflex is a reflex contraction of the muscles of the throat, which stops material from entering the throat (except in swallowing) and helps to prevent choking. The sensory nerve in this reflex is the glossopharyngeal nerve, and the motor nerve to the throat muscles is the vagus nerve. For questions 38-39, match the correct label to the components of the gag reflex. Each may be used once, more than once or not at all.\n\na. Afferent limb\n\nb. Efferent limb\n\nc. Integrator\n\nd. Signal\n\ne. Receptor\n\nPressure sensors in the throat."
+    },
+    {
+     "day": 1,
+     "number": 40,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Periodically, the sun develops relatively cool dark areas known as sunspots. Scientists have found that periods of high sunspot activity coincide with stormy periods on Earth. Hence sunspots cause storms on Earth. Which of the following is the best statement of the flaw in the argument above?\n\na. It disputes the fact that storms are the result of low-pressure systems in the Earth's atmosphere.\n\nb. It ignores the influence of periods of low sunspot activity on Earth's weather systems.\n\nc. It assumes that because sunspots and storms occur at the same time, sunspots cause storms.\n\nd. It overlooks the fact that there is always a storm somewhere on Earth.\n\ne. It ignores the fact that there are stormy periods in some areas but not in others while there is sunspot activity."
+    },
+    {
+     "day": 1,
+     "number": 41,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A DNA segment has this nucleotide sequence:\n\nA A G C T C T T A C G A A T A T T C\n\nWhich mRNA sequence is complementary to this sequence?\n\na. A A G C T C T T A C G A A T A T T C\n\nb. T T C G A G A A T G C T T A T A A G\n\nc. A A G C U C U U A C G A A U A U U C\n\nd. U U C G A G A A U G C U U A U A A G"
+    },
+    {
+     "day": 1,
+     "number": 42,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The diagram below represents the relationships between organisms in a remote pond ecosystem.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-1-42-fig1.png\n\nFrom this information which of the following is the most likely to be correct?\n\na. DDT introduced to the ecosystem would be in highest concentration in the tissues of Detritivore 1.\n\nb. The introduction of consumer 4 individuals from an external population would lead to a temporary increase in numbers of producer 2.\n\nc. Disease in the producer 1 population would lead to an increase in the producer 3 population.\n\nd. Extermination of consumer 3 would cause a sustained increase in the population of consumer 2.\n\ne. Consumer 1 is more adaptable with regards to its food source than consumer 3."
+    },
+    {
+     "day": 1,
+     "number": 43,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "In humans, the hormone insulin is secreted by the pancreas in response to increased blood glucose levels. Insulin helps cells take up glucose from the bloodstream. Type II diabetes is a condition where body cells lose their sensitivity to insulin.\n\nHow will a person with type II diabetes respond to a rise in blood glucose?\n\n$$\\begin{array}{c|c} & \\text{Blood insulin levels} \\\\ \\hline \\text{a.} & \\text{No change} \\\\ \\text{b.} & \\text{Increase} \\\\ \\text{c.} & \\text{Decrease} \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 44,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Different types of cells from the same organism can be distinguished by the different proteins they produce. Scientists often use these differences to identify subtly different cell types that look morphologically identical. The figure below shows two graphs representing the presence of particular proteins on the surface of a heterogenous cell population isolated from the blood. For example the graph on the left depicts three distinct cell subsets within the population; cells lacking both protein A and protein B ($\\mathrm{A^{neg}B^{neg}}$), cells with protein A but not protein B ($\\mathrm{A^{pos}B^{neg}}$) and cells with both protein A and protein B ($\\mathrm{A^{pos}B^{pos}}$). The plot on the right depicts the same cell population but is looking at the protein markers A and C.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-1-44-fig1.png\n\nFrom the information provided which of the following is true of this cell population?\n\na. There is a cell subset which is $\\mathrm{A^{neg}B^{neg}C^{neg}}$.\n\nb. All $\\mathrm{B^{neg}}$ cells are $\\mathrm{C^{pos}}$.\n\nc. There is a cell subset positive for all three proteins.\n\nd. All $\\mathrm{B^{pos}}$ cells are $\\mathrm{C^{neg}}$.\n\ne. There are more $\\mathrm{B^{neg}}$ cells than $\\mathrm{B^{pos}}$ cells."
+    },
+    {
+     "day": 1,
+     "number": 45,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Consider the following key:\n\n$$\\begin{array}{lll} \\text{1a} & \\text{Wings present} & 2 \\\\ \\text{1b} & \\text{Wings absent} & \\text{Order Apterygota} \\\\ \\text{2a} & \\text{With one pair of wings} & \\text{Order Diptera} \\\\ \\text{2b} & \\text{With two pairs of wings} & 3 \\\\ \\text{3a} & \\text{Front wings of coarser texture than hind wings} & 4 \\\\ \\text{3b} & \\text{All wings membranous. May be hair or scale covered} & 8 \\\\ \\text{4a} & \\text{Basal two-thirds of front wing thickened, remainder membranous} & \\text{Order Hemiptera} \\\\ \\text{4b} & \\text{Whole of front wing of same texture} & 5 \\\\ \\text{5a} & \\text{Front wings hard and horny} & \\text{Order Coleoptera} \\\\ \\text{5b} & \\text{Front wings slightly thickened with distinct veins} & 6 \\\\ \\text{6a} & \\text{Mouthparts of piercing type} & \\text{Order Hemiptera} \\\\ \\text{6b} & \\text{Mouthparts of biting type} & 7 \\\\ \\text{7a} & \\text{Hind legs much longer than other legs} & \\text{Order Orthoptera} \\\\ \\text{7b} & \\text{All legs more or less equal in length} & \\text{Order Blattodea} \\\\ \\text{8a} & \\text{Wings and body completely covered by fine scales or hairs} & \\text{Order Lepidoptera} \\\\ \\text{8b} & \\text{Wings without scales or hairs} & 9 \\\\ \\text{9a} & \\text{Hind and front wings linked by a row of hooks. Front of abdomen narrowed to form a 'waist'} & \\text{Order Hymenoptera} \\\\ \\text{9b} & \\text{Wings not joined. No 'waist'} & \\text{Order Odonata} \\end{array}$$\n\nLepidoptera would have the following characteristics:\n\na. two pairs of membranous wings covered in fine scales.\n\nb. one pair of membranous wings lacking scales or hairs.\n\nc. two pairs of wings, the front pair being of coarse texture.\n\nd. two pairs of membranous wings which are not hooked together and lack hairs or scales."
+    },
+    {
+     "day": 1,
+     "number": 46,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The enzyme subtilisin is a protease, originally found in the bacteria Bacillus subtilis, that is produced in vast quantities annually for use in laundry powders (Have you ever wondered about the mysterious “enzymes” mentioned in all those laundry powder ads?). In order to generate washing powders that work over a range of different conditions, subtilisin has been the focus of many protein engineers attempting (and succeeding) to create subtilisin variants that have optimal activity in conditions other than those naturally occurring in B.subtilis. The graphs below show the activities of engineered subtilisin variants over a range of temperatures and pH.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-1-46-fig1.png\n\nWhich variant would be most appropriate for use in a cold water laundry detergent at 20°C?\n\na. A.\n\nb. B.\n\nc. C.\n\nd. D."
+    },
+    {
+     "day": 1,
+     "number": 47,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "When an elephant jumps off a very tall platform, it initially gains speed rapidly. Its acceleration decreases due to air resistance until it reaches terminal velocity. The elephant then falls at this velocity until it opens its parachute. The parachute slows down the elephant until it reaches a new steady speed, which it maintains until it reaches the ground.\n\nWhich of these graphs shows this?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-1-47-fig1.png"
+    },
+    {
+     "day": 2,
+     "number": 48,
+     "paper_label": "Section B: Short answer questions",
+     "problem": "What percentage of offspring from an AaBB x aaBb cross will be either AaBb OR aaBB? Write your answer as a percentage on the section B answer sheet. [1 mark]"
+    },
+    {
+     "day": 2,
+     "number": 49,
+     "paper_label": "Section B: Short answer questions",
+     "problem": "Penetrance refers to the proportion of individuals of a given genotype who display the associated phenotype. For example in a particular plant seed coat colour can be either brown or red. The brown phenotype is seen in all individuals with genotypes RR or Rr and 40% of individuals with genotype rr. The remaining 60% of individuals with genotype rr have the red phenotype. Red seed coat is therefore said to be 60% penetrant. [1 mark]\n\nWhat proportion of the seeds resulting from the crossing of genotype Rr with Rr would have brown seed coats? Write your answer as a percentage on the section B answer sheet."
+    },
+    {
+     "day": 2,
+     "number": 50,
+     "paper_label": "Section B: Short answer questions",
+     "problem": "Tinkerbell has 2 pigs. She estimates the weight of one as being 85 kg and the other as about 72 kg. She has ready access to a cheap source of potatoes but wishes to feed her pigs a 50/50 nutritional mix of potatoes and meal. Two tables from her feed book are reproduced below. [1 mark]\n\n$$\\begin{array}{l|l} \\text{State of pig} & \\text{Amount of meal to feed each day(for feeding meal alone)} \\\\ \\hline \\text{80 kg bacon weight} & \\text{2.5 kg} \\\\ \\text{60 kg -80 kg} & \\text{2.0 kg} \\\\ \\text{50 kg -60 kg} & \\text{1.8 kg} \\\\ \\text{40 kg -50 kg} & \\text{1.6 kg} \\\\ \\text{30 kg -40 kg} & \\text{1.4 kg} \\\\ \\text{20 kg -30 kg} & \\text{1.0 kg} \\\\ \\text{Weaners 8 10 weeks} & \\text{Up to 1.0 kg} \\\\ \\text{Weaners 6 weeks to weaning} & \\text{250 g -350 g} \\end{array}$$\n\n$$\\begin{array}{l|l} \\text{Nutritional equivalents to 1 kg of meal} & \\\\ \\hline \\text{Carrots} & \\text{8 kg} \\\\ \\text{Comfrey} & \\text{5 kg} \\\\ \\text{Grass} & \\text{5 kg} \\\\ \\text{Kale} & \\text{7 kg} \\\\ \\text{Potatoes} & \\text{5 kg} \\\\ \\text{Skim milk} & \\text{6 litres} \\\\ \\text{Swedes} & \\text{8 kg} \\\\ \\text{Whey} & \\text{9 -10 kg} \\end{array}$$\n\nHow much meal should Tinkerbell feed her pigs each day? Calculate an amount in kg that would be sufficient to feed both pigs. Write your answer on the section B answer sheet."
+    },
+    {
+     "day": 2,
+     "number": 51,
+     "paper_label": "Section B: Short answer questions",
+     "problem": "An organism that reproduces sexually has the genotype AaBbCcDd. How many unique haploid gametes can this organism generate? Write your answer as a whole number on the section B answer sheet. [1 mark]"
+    },
+    {
+     "day": 2,
+     "number": 52,
+     "paper_label": "Section B: Short answer questions",
+     "problem": "Farmer Pan is planning to use a 10 acre field to supply winter silage for his cattle and hay for his sheep. He reckons to get 100 bales of hay from each acre. Before cutting the hay he will first cut an acre round the edge of the field as silage. This allows him to manoeuvre his hay making machinery. After making his hay in June he will cut the whole field as second cut silage in August and again as third cut silage in September. His farm manual provides the following information. [1 mark]\n\nHow many bales of silage will Farmer Pan have at the end of his harvest? Write your answer as a whole number on the section B answer sheet.\n\n$$\\begin{array}{l|l|l} & \\text{As silage} & \\text{As hay} \\\\ \\hline \\text{First cut} & \\text{7 bales per acre} & \\text{100 small bales per acre} \\\\ \\text{Second cut} & \\text{5 bales per acre} & \\text{Not applicable} \\\\ \\text{Third cut} & \\text{4 bales per acre} & \\text{Not applicable} \\end{array}$$"
+    },
+    {
+     "day": 2,
+     "number": 53,
+     "paper_label": "Section B: Short answer questions",
+     "problem": "To measure the amount of air in soil, four steps were followed as illustrated in the diagram below, using identical beakers throughout. [1 mark]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-2-53-fig1.png\n\nCalculate the % (by volume) of air in the soil sample. Write your answer as a percentage on the section B answer sheet."
+    },
+    {
+     "day": 2,
+     "number": 54,
+     "paper_label": "Section B: Short answer questions",
+     "problem": "Use the following information to answer the questions 54-59.\n\nAn experiment is set up to test if chemical X is mutagenic.\n\nAlanine is an amino acid that is essential for bacterial growth. Many bacteria can synthesise alanine from pyruvate as shown by the reaction below:\n\n$$\\text{Pyruvate} \\xrightarrow{\\text{Enzyme Y}} \\text{Alanine}$$\n\nA particular strain of Escherichia coli has a point mutation in the gene that codes for enzyme Y, which makes the enzyme non-functional. This strain of E. coli was inoculated onto agar plates and incubated for 24 hours. Additional chemicals were added as shown below.\n\nPlate A – Alanine and pyruvate\n\nPlate B – Pyruvate only\n\nPlate C – Pyruvate and a known mutagen\n\nPlate D – Pyruvate and chemical X\n\nAfter incubation the plates were removed and inspected. The results are represented in the diagram below:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-2-54-fig1.png\n\nWhich of the plates serve(s) as a positive control? Write your answer on the section B answer sheet. [1 mark]"
+    },
+    {
+     "day": 2,
+     "number": 55,
+     "paper_label": "Section B: Short answer questions",
+     "problem": "Use the following information to answer the questions 54-59.\n\nAn experiment is set up to test if chemical X is mutagenic.\n\nAlanine is an amino acid that is essential for bacterial growth. Many bacteria can synthesise alanine from pyruvate as shown by the reaction below:\n\n$$\\text{Pyruvate} \\xrightarrow{\\text{Enzyme Y}} \\text{Alanine}$$\n\nA particular strain of Escherichia coli has a point mutation in the gene that codes for enzyme Y, which makes the enzyme non-functional. This strain of E. coli was inoculated onto agar plates and incubated for 24 hours. Additional chemicals were added as shown below.\n\nPlate A – Alanine and pyruvate\n\nPlate B – Pyruvate only\n\nPlate C – Pyruvate and a known mutagen\n\nPlate D – Pyruvate and chemical X\n\nAfter incubation the plates were removed and inspected. The results are represented in the diagram below:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-2-54-fig1.png\n\nDecide whether the following statements are true (T) or false (F). Mark the answer sheet either T or F.\n\nThe growth on plate A indicates that alanine is a potent mutagen. [1 mark]"
+    },
+    {
+     "day": 2,
+     "number": 56,
+     "paper_label": "Section B: Short answer questions",
+     "problem": "Use the following information to answer the questions 54-59.\n\nAn experiment is set up to test if chemical X is mutagenic.\n\nAlanine is an amino acid that is essential for bacterial growth. Many bacteria can synthesise alanine from pyruvate as shown by the reaction below:\n\n$$\\text{Pyruvate} \\xrightarrow{\\text{Enzyme Y}} \\text{Alanine}$$\n\nA particular strain of Escherichia coli has a point mutation in the gene that codes for enzyme Y, which makes the enzyme non-functional. This strain of E. coli was inoculated onto agar plates and incubated for 24 hours. Additional chemicals were added as shown below.\n\nPlate A – Alanine and pyruvate\n\nPlate B – Pyruvate only\n\nPlate C – Pyruvate and a known mutagen\n\nPlate D – Pyruvate and chemical X\n\nAfter incubation the plates were removed and inspected. The results are represented in the diagram below:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-2-54-fig1.png\n\nDecide whether the following statements are true (T) or false (F). Mark the answer sheet either T or F.\n\nOn plates C and D, colonies grow only when a mutation has occurred in the faulty gene for enzyme Y. [1 mark]"
+    },
+    {
+     "day": 2,
+     "number": 57,
+     "paper_label": "Section B: Short answer questions",
+     "problem": "Use the following information to answer the questions 54-59.\n\nAn experiment is set up to test if chemical X is mutagenic.\n\nAlanine is an amino acid that is essential for bacterial growth. Many bacteria can synthesise alanine from pyruvate as shown by the reaction below:\n\n$$\\text{Pyruvate} \\xrightarrow{\\text{Enzyme Y}} \\text{Alanine}$$\n\nA particular strain of Escherichia coli has a point mutation in the gene that codes for enzyme Y, which makes the enzyme non-functional. This strain of E. coli was inoculated onto agar plates and incubated for 24 hours. Additional chemicals were added as shown below.\n\nPlate A – Alanine and pyruvate\n\nPlate B – Pyruvate only\n\nPlate C – Pyruvate and a known mutagen\n\nPlate D – Pyruvate and chemical X\n\nAfter incubation the plates were removed and inspected. The results are represented in the diagram below:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-2-54-fig1.png\n\nDecide whether the following statements are true (T) or false (F). Mark the answer sheet either T or F.\n\nThe difference in number of colonies on plates C and D must be due to differing concentrations of the mutagens. [1 mark]"
+    },
+    {
+     "day": 2,
+     "number": 58,
+     "paper_label": "Section B: Short answer questions",
+     "problem": "Use the following information to answer the questions 54-59.\n\nAn experiment is set up to test if chemical X is mutagenic.\n\nAlanine is an amino acid that is essential for bacterial growth. Many bacteria can synthesise alanine from pyruvate as shown by the reaction below:\n\n$$\\text{Pyruvate} \\xrightarrow{\\text{Enzyme Y}} \\text{Alanine}$$\n\nA particular strain of Escherichia coli has a point mutation in the gene that codes for enzyme Y, which makes the enzyme non-functional. This strain of E. coli was inoculated onto agar plates and incubated for 24 hours. Additional chemicals were added as shown below.\n\nPlate A – Alanine and pyruvate\n\nPlate B – Pyruvate only\n\nPlate C – Pyruvate and a known mutagen\n\nPlate D – Pyruvate and chemical X\n\nAfter incubation the plates were removed and inspected. The results are represented in the diagram below:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-2-54-fig1.png\n\nDecide whether the following statements are true (T) or false (F). Mark the answer sheet either T or F.\n\nPlate B is unnecessary for the purposes of this experiment. [1 mark]"
+    },
+    {
+     "day": 2,
+     "number": 59,
+     "paper_label": "Section B: Short answer questions",
+     "problem": "Use the following information to answer the questions 54-59.\n\nAn experiment is set up to test if chemical X is mutagenic.\n\nAlanine is an amino acid that is essential for bacterial growth. Many bacteria can synthesise alanine from pyruvate as shown by the reaction below:\n\n$$\\text{Pyruvate} \\xrightarrow{\\text{Enzyme Y}} \\text{Alanine}$$\n\nA particular strain of Escherichia coli has a point mutation in the gene that codes for enzyme Y, which makes the enzyme non-functional. This strain of E. coli was inoculated onto agar plates and incubated for 24 hours. Additional chemicals were added as shown below.\n\nPlate A – Alanine and pyruvate\n\nPlate B – Pyruvate only\n\nPlate C – Pyruvate and a known mutagen\n\nPlate D – Pyruvate and chemical X\n\nAfter incubation the plates were removed and inspected. The results are represented in the diagram below:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-2-54-fig1.png\n\nDecide whether the following statements are true (T) or false (F). Mark the answer sheet either T or F.\n\nRepetition would improve the accuracy of the results. [1 mark]"
+    },
+    {
+     "day": 2,
+     "number": 60,
+     "paper_label": "Section B: Short answer questions",
+     "problem": "Use the following information to answer the questions 60-64.\n\nBelow is a pedigree showing members of a particular family affected by a disease that can lead to kidney failure.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-2-60-fig1.png\n\nBy examining the pedigree, determine whether the following statements are true or false. For questions 60-62, mark the answer sheet either T or F.\n\nThe lack of affected individuals in generations I and III indicates the disorder arises from a spontaneous mutation. [1 mark]"
+    },
+    {
+     "day": 2,
+     "number": 61,
+     "paper_label": "Section B: Short answer questions",
+     "problem": "Use the following information to answer the questions 60-64.\n\nBelow is a pedigree showing members of a particular family affected by a disease that can lead to kidney failure.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-2-60-fig1.png\n\nBy examining the pedigree, determine whether the following statements are true or false. For questions 60-62, mark the answer sheet either T or F.\n\nThere is sufficient information to conclude that the trait is X-linked. [1 mark]"
+    },
+    {
+     "day": 2,
+     "number": 62,
+     "paper_label": "Section B: Short answer questions",
+     "problem": "Use the following information to answer the questions 60-64.\n\nBelow is a pedigree showing members of a particular family affected by a disease that can lead to kidney failure.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-2-60-fig1.png\n\nBy examining the pedigree, determine whether the following statements are true or false. For questions 60-62, mark the answer sheet either T or F.\n\nIndividual III3 is heterozygous for the trait [1 mark]"
+    },
+    {
+     "day": 2,
+     "number": 63,
+     "paper_label": "Section B: Short answer questions",
+     "problem": "Use the following information to answer the questions 60-64.\n\nBelow is a pedigree showing members of a particular family affected by a disease that can lead to kidney failure.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-2-60-fig1.png\n\nAssuming that the trait is X-linked, determine the probability that individual IV1 (sex unknown) is affected by the disorder. Write your answer as a decimal fraction on section B answer sheet. [1 mark]"
+    },
+    {
+     "day": 2,
+     "number": 64,
+     "paper_label": "Section B: Short answer questions",
+     "problem": "Use the following information to answer the questions 60-64.\n\nBelow is a pedigree showing members of a particular family affected by a disease that can lead to kidney failure.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-2-60-fig1.png\n\nAssuming that the trait is X-linked, determine the probability that individual IV1 (sex unknown) is a carrier of the disorder. Write your answer as a decimal fraction on the section B answer sheet. [1 mark]"
+    },
+    {
+     "day": 3,
+     "number": 65,
+     "paper_label": "Section C: Short answer questions",
+     "problem": "During photosynthesis, plants use light energy to incorporate carbon, sourced from $\\mathrm{CO_2}$, into glucose molecules. Photosynthesis can be studied by providing radioactive $\\mathrm{CO_2}$ (labelled with carbon-14) to plants and determining the amount of radioactive carbon present in plant tissue. [19 marks total]\n\nA healthy plant was kept for 24 hours in an enclosed environment at constant temperature and humidity, with a constant supply of oxygen and radioactive $\\mathrm{CO_2}$. The apparatus was set up near a window so the plant would be exposed to natural light.\n\nLeaf samples were taken at 3 hour intervals and the amount of radioactivity present determined. The results are shown below.\n\n$$\\begin{array}{c|c} \\text{Time point (hours)} & \\text{Radioactivity in leaf tissue (counts per minute)} \\\\ \\hline 0 & 67 \\\\ 3 & 88 \\\\ 6 & 124 \\\\ 9 & 153 \\\\ 12 & 161 \\\\ 15 & 159 \\\\ 18 & 157 \\\\ 21 & 155 \\\\ 24 & 181 \\end{array}$$\n\na. Plot the data in the table above on the axes provided. [5 marks]\n\nb. Approximately what range of time points corresponds to night time? [1 mark]\n\nc. Describe and explain the shape of your graph during the time period in part b. [3 marks]\n\nd. The experiment is repeated using a similar plant, the leaves of which have been smeared with oil before the experiment starts. On your graph, draw and label a line to show the level of radioactivity in leaf tissue under these conditions for the same time period. [2 marks]\n\ne. In another experiment, radioactive water (where the oxygen atoms were radioactively labelled) was added to plants. No radioactivity was detected in leaves. How might you account for this? [4 marks]\n\nIn another experiment, Farmer Loo investigated the effects of two different strains (707 and 313) of Rhizobium on the growth of a leguminous plant. The results are given in the table below.\n\n$$\\begin{array}{l|l|l|l} \\text{Fertiliser added} & \\text{Fresh mass per plant (g)} & & \\\\ \\text{(kg/ha)} & \\text{No Rhizobium} & \\text{Strain 707} & \\text{Strain 313} \\\\ \\hline 0 & 7.0 & 12.4 & 9.7 \\\\ 20 & 8.4 & 7.7 & 7.7 \\\\ 40 & 9.4 & 6.6 & 8.0 \\end{array}$$\n\nf. Draw a bar chart to represent the data given. [2 marks]\n\ng. Summarise the trend shown by the data. [2 marks]"
+    },
+    {
+     "day": 3,
+     "number": 66,
+     "paper_label": "Section C: Short answer questions",
+     "problem": "The graph shows two methods by which immunity can be brought about. [6 marks total]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-3-66-fig1.png\n\nA safe level of immunity is given at 60 arbitrary units.\n\na. How long does it take for each method to give a safe level of immunity? [2 marks]\n\nI. Active\n\nII. Passive\n\nb. Which method becomes ineffective first and after how long? [2 marks]\n\nc. With reference to the data in the graph compare the active and passive immune responses. [2 marks]"
+    },
+    {
+     "day": 3,
+     "number": 67,
+     "paper_label": "Section C: Short answer questions",
+     "problem": "Flowering in flowering plants is regulated by photoperiodism, which is the relative lengths of daylight to darkness. Plants may be long day plants, short day plants or neutral to the effects of the daylength. [5 marks total]\n\nConsider the following information.\n\nThere is a plant pigment that exists in two forms, $\\mathrm{P_{660}}$ and $\\mathrm{P_{730}}$.\n\n$\\mathrm{P_{660}}$ has a maximum light absorption around 660 nm (red light) and $\\mathrm{P_{730}}$ has a maximum light absorption around 730nm (far red light).\n\nRed light is absorbed by $\\mathrm{P_{660}}$ which converts it to $\\mathrm{P_{730}}$.\n\nFar red light is absorbed by $\\mathrm{P_{730}}$ which converts it to $\\mathrm{P_{660}}$.\n\n$\\mathrm{P_{730}}$ in the dark slowly converts to $\\mathrm{P_{660}}$ and it is this slow conversion that is the ‘clock’ by which the plant measures night length.\n\nFlowering in long day plants is stimulated only if the level of $\\mathrm{P_{730}}$ stays above a critical value. Flowering in short day plants is stimulated only if the level of $\\mathrm{P_{730}}$ drops below a critical value.\n\na. Draw a simple flow chart to illustrate the interconversion between $\\mathrm{P_{660}}$ and $\\mathrm{P_{730}}$. [2 marks]\n\nA number of Poinsettia plants were subjected to three different patterns of illumination (blank spaces) and darkness (black spaces). The following results were obtained.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2008-3-67-fig1.png\n\nb. Using the information above, deduce whether Poinsettias are long day plants, short day plants or day neutral plants. Explain your answer. [3 marks]"
+    },
+    {
+     "day": 3,
+     "number": 68,
+     "paper_label": "Section C: Short answer questions",
+     "problem": "Draw up a table comparing the causes and effects of global warming and the depletion of the ozone layer. [4 marks]"
+    },
+    {
+     "day": 3,
+     "number": 69,
+     "paper_label": "Section C: Short answer questions",
+     "problem": "Sam the scholar was doing a thought experiment one day, idly weighing out 20mL of water for an osmosis experiment on a balance. He put his thumb into the beaker of water, thereby displacing the water. Never mind, he reasoned, it’s not the volume that’s important; it’s the mass I’m after. Would the mass of the water increase, decrease or stay the same? Explain. [2 marks]"
+    }
+   ]
+  },
+  {
+   "year": 2009,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "What percentage of adenine bases would there be in double stranded DNA that is comprised of 34% guanine bases?\n\na. 16%\n\nb. 32%\n\nc. 34%\n\nd. 66%"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Proteins are components of all of the following except:\n\na. ATP\n\nb. Cell walls\n\nc. Enzymes\n\nd. Ribosomes\n\ne. Xylem"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which of the following does NOT increase genetic variation of cells?\n\na. Insertion of foreign DNA into the genome\n\nb. Integration of DNA from a virus into the host genome\n\nc. Sexual reproduction\n\nd. Point mutations\n\ne. Chromosomal translocations"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The graph below shows the decrease in concentration of the substrate for an enzymatic reaction over time. The half-life of any reaction is the time taken for the concentration of a limiting reactant to halve.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-1-4-fig1.png\n\nWhat is the best estimate of the half-life for this reaction?\n\na. 0.5 minutes\n\nb. 1 minute\n\nc. 1.5 minutes\n\nd. 3 minutes\n\ne. 6 minutes"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Use the following information to answer questions 5 and 6:\n\nCane toads were introduced from Hawaii to Australia in 1935 to combat the native cane beetles that were devouring sugarcane crops. After their release into parts of Queensland they have been advancing at about 50 kilometres a year across Australia. Recently it has been observed that new generations of toads at the frontline of the spread have longer legs.\n\n\nWhich of the following does NOT explain this observation?\n\na. Individuals with shorter legs are less likely to survive\n\nb. In the original population of toads, natural variation meant that leg lengths varied between individuals\n\nc. Longer legs enable individuals to travel faster and further than others\n\nd. The spread is occurring at an increasing rate as their legs become longer"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Use the following information to answer questions 5 and 6:\n\nCane toads were introduced from Hawaii to Australia in 1935 to combat the native cane beetles that were devouring sugarcane crops. After their release into parts of Queensland they have been advancing at about 50 kilometres a year across Australia. Recently it has been observed that new generations of toads at the frontline of the spread have longer legs.\n\n\nThis is an example of which type of selection?\n\na. Balancing\n\nb. Directional\n\nc. Diversifying\n\nd. Negative\n\ne. Stabilising"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "What are the possible blood types of a child of a man with blood type B and a woman (whose parents were both AB) of blood type A?\n\na. A only\n\nb. A or B only\n\nc. B or O only\n\nd. A or AB only\n\ne. B or AB only"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The effects of a gaseous pollutant are assessed by exposing a cage of 100 mice to the pollutant. The survival rate is then compared to another cage of similar mice with clean air. The cages were chosen in a randomised manner. What is the greatest flaw in this experimental design? A lack of:\n\na. appropriate control groups\n\nb. replication\n\nc. clear outcome measure\n\nd. randomisation"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which of the following contains blood with the highest oxygen content?\n\na. Aorta\n\nb. Left ventricle\n\nc. Pulmonary artery\n\nd. Pulmonary vein\n\ne. Right atrium"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Skin pigmentation in a South American species of frog is autosomally inherited and controlled by three alleles, R, $\\mathrm{r^y}$ and $\\mathrm{r^r}$. $\\mathrm{r^y}$ (yellow) and $\\mathrm{r^r}$ (red) are codominantly expressed such that the $\\mathrm{r^yr^r}$ genotype results in an orange phenotype. The R allele is dominant over both of the others and results in a dark blue phenotype.\n\nTwo frogs are crossed and offspring produced in the following ratio -\n\n2 blue : 1 red : 1 orange\n\nWhat are the genotypes of the parent frogs?\n\na. $\\mathrm{Rr^y}$ and $\\mathrm{Rr^r}$\n\nb. $\\mathrm{r^yr^r}$ and $\\mathrm{r^yr^r}$\n\nc. $\\mathrm{Rr^r}$ and $\\mathrm{Rr^r}$\n\nd. $\\mathrm{r^yr^r}$ and $\\mathrm{Rr^r}$\n\ne. $\\mathrm{Rr^r}$ and $\\mathrm{r^yr^y}$"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The energy of a photon is inversely proportional to its wavelength. The wavelengths of visible light, from lowest to highest, are: violet, indigo, blue, green, yellow, orange, red. An unusual species of plant has leaves that appear blue. Otherwise its photosynthetic system is identical to that of typical green plants. Which colour plant, blue or a green, would be able to regenerate more ATP from the same amount of white light?\n\na. A blue plant would be more efficient\n\nb. Both plants will be equally efficient, as they are being exposed to white light\n\nc. A green plant would be more efficient\n\nd. Neither plant will be able to generate any ATP\n\ne. It is impossible to tell from the information provided"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The rate of photosynthesis in a plant can be indirectly measured via determining the:\n\na. carbon dioxide output\n\nb. change in biomass\n\nc. change in humidity of the space around a plant\n\nd. pH of the leaves of a plant"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Use the following information to answer questions 13 and 14.\n\nAn experiment is set up to test the effectiveness of a newly developed antibiotic, ‘Nobact’. Bacteria are plated out onto agar and the plates are incubated at 37°. The composition of the 5 plates are shown below:\n\n$$\\begin{array}{l|l} \\text{Plate 1} & \\textit{E. coli} \\\\ \\hline \\text{Plate 2} & \\textit{E. coli}\\text{ + doxycycline (a known antibiotic at a concentration known to be bactericidal)} \\\\ \\hline \\text{Plate 3} & \\textit{E. coli}\\text{ + Nobact (0.25 relative concentration)} \\\\ \\hline \\text{Plate 4} & \\textit{E. coli}\\text{ + Nobact (0.50 relative concentration)} \\\\ \\hline \\text{Plate 5} & \\textit{E. coli}\\text{ + Nobact (1.00 relative concentration)} \\end{array}$$\n\n\nWhich of the plates can be described as a positive control?\n\na. Plate 1\n\nb. Plate 2\n\nc. Plate 3\n\nd. Plate 4\n\ne. Plate 5"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Use the following information to answer questions 13 and 14.\n\nAn experiment is set up to test the effectiveness of a newly developed antibiotic, ‘Nobact’. Bacteria are plated out onto agar and the plates are incubated at 37°. The composition of the 5 plates are shown below:\n\n$$\\begin{array}{l|l} \\text{Plate 1} & \\textit{E. coli} \\\\ \\hline \\text{Plate 2} & \\textit{E. coli}\\text{ + doxycycline (a known antibiotic at a concentration known to be bactericidal)} \\\\ \\hline \\text{Plate 3} & \\textit{E. coli}\\text{ + Nobact (0.25 relative concentration)} \\\\ \\hline \\text{Plate 4} & \\textit{E. coli}\\text{ + Nobact (0.50 relative concentration)} \\\\ \\hline \\text{Plate 5} & \\textit{E. coli}\\text{ + Nobact (1.00 relative concentration)} \\end{array}$$\n\n\nIt was found that a relative concentration of 0.25 Nobact was insufficient to prevent bacterial growth, but at a relative concentration of 0.50 no bacterial growth was seen. However this information is insufficient to determine if Nobact is bactericidal or simply bacteriostatic (arrests bacterial growth, but is not lethal) at this concentration. Nobact is a heat-labile compound that is susceptible to breakdown by the enzyme β-lactamase.\n\nWhich of the following would be the most effective means of determining if Nobact is bactericidal or bacteriostatic at a relative concentration of 0.50?\n\nTreat the plate grown incubated with 0.50 Nobact with:\n\na. doxycycline and reincubate observing any changes\n\nb. 100°C moist heat and reincubate\n\nc. doxycycline and 100°C moist heat prior to reincubation\n\nd. β-lactamase and reincubate\n\ne. β-lactamase and 100°C moist heat prior to reincubation"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Consider the following diagram, which represents part of a cell.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-1-15-fig1.png\n\nIf the cell comes from an organism that has been growing in an environment in which its sole source of nitrogen is labelled radioactively, we would expect to find radioactivity in structure/s:\n\na. A only\n\nb. A and B only\n\nc. A, B and C only\n\nd. A, B, C and D"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which statement best explains why red blood cells are incapable of carrying out mitosis?\n\na. They don’t contain DNA\n\nb. They have reached full maturity\n\nc. They do not need to replicate\n\nd. They are biconcave\n\ne. They contain haemoglobin"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Consider the following five types of organisms\n\n$$\\begin{array}{ll} \\text{I} & \\text{decay causing bacteria.} \\\\ \\text{II} & \\text{photosynthesising bacteria.} \\\\ \\text{III} & \\text{mould fungi.} \\\\ \\text{IV} & \\text{flowering plants.} \\\\ \\text{V} & \\text{animals.} \\end{array}$$\n\nWhich of the following arrangements best classifies these organisms into two groups based on their nutrition?\n\na. Group I: I and II; Group II: III, IV and V\n\nb. Group I: I, III and V; Group II: II and IV\n\nc. Group I: I, II and III; Group II: IV and V\n\nd. Group I: I, II, III, and IV; Group II: V"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The relationships of certain organisms of the Arctic regions are shown in the figure below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-1-18-fig1.png\n\nA reduction in the intensity of light would first affect:\n\na. Bacteria\n\nb. Protozoans\n\nc. Spiders\n\nd. Algae\n\ne. Aquatic larvae and worms"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A Year 11 Biology student was given a number of identified and labelled echinoderms which he used to construct the following key:\n\n$$\\begin{array}{lll} \\text{1A} & \\text{Animal star-shaped} & 2 \\\\ \\text{1B} & \\text{Not star-shaped} & 6 \\\\[4pt] \\text{2A} & \\text{Arms touching near body} & 3 \\\\ \\text{2B} & \\text{Arms completely separated at body} & 5 \\\\[4pt] \\text{3A} & \\text{Five arms} & 4 \\\\ \\text{3B} & \\text{More than five arms} & \\textit{Solaster pappous} \\\\[4pt] \\text{4A} & \\text{Arm length about half total radius of the animal} & \\textit{Asterina gibbosa} \\\\ \\text{4B} & \\text{Arm length much more than half of the total radius of the animal} & \\textit{Aserias rubens} \\\\[4pt] \\text{5A} & \\text{Five arms} & \\textit{Ophiothrix fragilis} \\\\ \\text{5B} & \\text{More than five arms} & \\textit{Ophiothrix multans} \\\\[4pt] \\text{6A} & \\text{Spherical or heart-shaped, covered in spines} & 7 \\\\ \\text{6B} & \\text{Gherkin-shaped with spines} & \\textit{Cucumoria normani} \\\\[4pt] \\text{7A} & \\text{Body heart-shaped, with weak spines} & \\textit{Spatangus purpureus} \\\\ \\text{7B} & \\text{Body spherical, with long spines} & \\textit{Echinus esculentus} \\end{array}$$\n\nWhich of the following animals was NOT used by the student to construct his key?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-1-19-fig1.png"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A student looking through a microscope made the observations shown in the diagram below:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-1-20-fig1.png\n\nWhat is the approximate length of the animal?\n\na. 0.02mm\n\nb. 10 millimetres\n\nc. 40 micrometres\n\nd. 200 micrometres"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Two experiments are outlined below\n\nExperiment I. When leaf blades were removed from young Coleus plants, leaving the leaf stalks intact, the leaf stalks fell off many weeks before those of control plants. However, if small portions of the leaf blade were left on, the leaf stalks remained on the stem for much longer periods.\n\nExperiment II. Leaf blades from Coleus plants were removed leaving the leaf stalk intact. The cut ends of the leaf stalks of half of the plants were covered with lanolin containing auxin. Leaf stalks of the other half of the plants were covered with plain lanolin. The leaf stalks with plain lanolin fell off in a few days; those treated with auxin remained on the plant for as long, or longer, than plants with intact leaves.\n\nWhat hypothesis was being tested by experiment II?\n\na. Auxin is a growth hormone and therefore stimulates growth of the leaf blade\n\nb. Leaf blades produce auxin\n\nc. Auxin produced in the leaf blade causes leaf fall\n\nd. Auxin in the leaf blade prevents leaf fall\n\ne. Auxin has no effect on leaf fall"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Use the following information to answer questions 22 and 23.\n\nIn an investigation of factors affecting water loss by plants, the following four experimental setups were prepared, and were left for two hours. Conditions in the setups were similar, except for the factors noted.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-1-22-fig1.png\n\nSilica gel absorbs water. The silica gel was weighed before and after the two-hour period and the increase in weight taken as a measure of water lost by the leafy twig.\n\n\nA biologist stated that twig 1 would be expected to lose more water than twig 3 if the stomata of the species of plant were sensitive to light. To make this prediction he must have assumed that:\n\na. more stomata are found in leaves than in stems\n\nb. much of the water is lost through the stomata\n\nc. plants lose more water while photosynthesising\n\nd. stomata of this species of plant open in the dark"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Use the following information to answer questions 22 and 23.\n\nIn an investigation of factors affecting water loss by plants, the following four experimental setups were prepared, and were left for two hours. Conditions in the setups were similar, except for the factors noted.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-1-22-fig1.png\n\nSilica gel absorbs water. The silica gel was weighed before and after the two-hour period and the increase in weight taken as a measure of water lost by the leafy twig.\n\n\nComparison of the mass of the silica gel from setups 1 and 2 would help determine if:\n\na. gas exchange is necessary for photosynthesis\n\nb. light is necessary for photosynthesis\n\nc. water is lost via the leaves\n\nd. stomatal opening is dependent on the $\\mathrm{CO_2}$ concentration within the leaf\n\ne. stomata are present on the stem"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The following scheme shows the relationship between an enzyme (E) and its substrate (S), product (P) and an inhibitor (I):\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-1-24-fig1.png\n\nIn the above scheme, assume (i) that increasing the concentration of S increases the activity of the enzyme (ii) that at low substrate concentrations the presence of I reduces reaction velocity, and (iii) that the same maximum velocity of reaction can be reached in the presence or absence of I. Which of the following terms best describes what is occurring in pathway B?\n\na. Positive Feedback\n\nb. Non-competitive inhibition\n\nc. Competitive inhibition\n\nd. Negative feedback\n\ne. Homeostatic regulation"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "As people get older, the walls of their arteries become less elastic. What effect would this have on their blood flow?\n\na. Blood flow will increase due to the heart having to pump harder\n\nb. Blood flow will become uneven due to fluctuations in blood pressure\n\nc. Blood flow will slow dramatically, due to a sudden drop in blood pressure\n\nd. Blood flow will remain unchanged as it is unaffected by changes to the arteries\n\ne. Blood flow becomes greater, because the blood becomes thinner as people get older"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Look carefully at the following table:\n\n$$\\begin{array}{c|c} \\text{Type of cell} & \\text{Amount of DNA (arbitrary units)} \\\\ \\hline \\text{Epithelial cell} & 400 \\\\ \\text{Ovum} & 200 \\\\ \\text{Cheek cell} & 400 \\\\ \\text{Ciliated cell} & 400 \\end{array}$$\n\nHow many arbitrary units of DNA would a sperm cell have from an individual of the same species?\n\na. 800\n\nb. 100\n\nc. 200\n\nd. 400\n\ne. 300"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The phylogenetic tree of species A-G can be split into genera in many different ways. However, one of the options below is clearly invalid. Which one?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-1-27-fig1.png\n\na. Genus 1: ABC; Genus 2: DE; Genus 3: FG\n\nb. Genus 1: AB; Genus 2: CDE; Genus 3: FG\n\nc. Genus 1: A; Genus 2: BCDE; Genus 3: FG\n\nd. Genus 1: AB; Genus 2: CD; Genus 3: EFG\n\ne. Genus 1: ABCDE; Genus 2: FG"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A scientific study seeks to establish the optimum water temperature for growing trout under farming conditions. Which of the following factors is likely to be an unavoidable source of experimental error?\n\na. Length of study being curtailed by lifespan of trout\n\nb. Death of trout at extremely high or low temperatures\n\nc. Cost of keeping trout tanks at different temperatures\n\nd. Variation of optimum temperature between individuals\n\ne. Obtaining accurate measurements of trout growth"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A scientist was investigating the factors needed to produce the green pigment chlorophyll in seedlings. Four groups of broad bean seedlings were grown from seeds under identical conditions with the exception of the presence of magnesium ions ($\\mathrm{Mg^{2+}}$), chloride ions ($\\mathrm{Cl^-}$) and light, which were varied as shown in the table below.\n\nA stock nutrient solution was used to administer all mineral ions necessary for healthy plant growth, except for $\\mathrm{Mg^{2+}}$ and $\\mathrm{Cl^-}$.\n\n$$\\begin{array}{l} + = \\text{presence} \\\\ - = \\text{absence} \\end{array}$$\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-1-29-fig1.png\n\nFrom these results, it would be reasonable to conclude that for chlorophyll production:\n\na. chloride ions are not needed\n\nb. magnesium ions are required when light is absent\n\nc. either magnesium or chloride are sufficient\n\nd. magnesium ions counter the effect of chloride ions\n\ne. light is not required"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Consider the following experiment in which equal amounts of ground up liver cells, with the ATP removed, are placed in respirometers I, II and III. Flask I contains glucose. ATP is added to flask II. Flask III contains a glucose solution and ATP. Flask IV contains no liver - only glucose and ATP. All flasks are placed in a water bath at 20°C. The following figures represent the respirometers after one hour.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-1-30-fig1.png\n\nThe main function of flask number IV is to:\n\na. measure gas changes due to temperature changes\n\nb. measure gas changes due to temperature and air pressure changes\n\nc. control changes in gas pressures\n\nd. determine how glucose and ATP function"
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Use the information below to answer questions 31-33.\n\nUsing special enzymes, scientists have been able to isolate the gene for the anti-viral animal protein interferon, and splice it into the DNA of certain bacteria. These bacteria can now produce interferon.\n\nThe steps involved in this process are shown in the diagram below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-1-31-fig1.png\n\n\nStructure A is probably a/an:\n\na. single nucleotide\n\nb. DNA polynucleotide\n\nc. RNA polynucleotide\n\nd. interferon polypeptide\n\ne. oligosaccharide"
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Use the information below to answer questions 31-33.\n\nUsing special enzymes, scientists have been able to isolate the gene for the anti-viral animal protein interferon, and splice it into the DNA of certain bacteria. These bacteria can now produce interferon.\n\nThe steps involved in this process are shown in the diagram below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-1-31-fig1.png\n\n\nStructure B is probably:\n\na. a ribosome\n\nb. a folded interferon protein\n\nc. recombinant DNA\n\nd. messenger RNA\n\ne. transfer RNA"
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Use the information below to answer questions 31-33.\n\nUsing special enzymes, scientists have been able to isolate the gene for the anti-viral animal protein interferon, and splice it into the DNA of certain bacteria. These bacteria can now produce interferon.\n\nThe steps involved in this process are shown in the diagram below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-1-31-fig1.png\n\n\nProkaryotic DNA does not typically contain introns. With this in mind, what would be the most appropriate type of DNA to use when inserting a eukaryotic gene into bacterial DNA?\n\na. The antisense DNA strand of the eukaryotic gene\n\nb. The reverse transcriptase product of the antisense DNA strand of the eukaryotic gene\n\nc. The pre-mRNA of the eukaryotic gene\n\nd. The mRNA of the eukaryotic gene\n\ne. The reverse transcriptase product of the mRNA of the eukaryotic gene"
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The graphs below show the proportion of the total cases and deaths caused by the influenza virus due to the strain H1N1\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-1-34-fig1.png\n\nThe two diagrams together indicate that:\n\na. H1N1 infections make up about 10% of all influenza infections yet cause about 95% of all influenza deaths\n\nb. H1N1 infections contribute little to the number of influenza deaths as it only accounts for about 10% of all cases\n\nc. Influenza deaths as a result of infection by other strains are more likely than those caused by the H1N1 strain\n\nd. Most other strains of influenza are relatively harmless"
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Hormones are often involved in negative feedback loops. For example, the release of a hormones X, Y and Z can be depicted as follows:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-1-35-fig1.png\n\nThe hormones involved in the female reproductive cycle are GnRH, LH, FSH, progesterone and oestrogens. A flowchart outlining the relationships between these is shown as follows:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-1-35-fig2.png\n\nProgesterone and oestrogens are required to maintain the uterine wall during pregnancy and LH and FSH are required for ovulation.\n\nBased on the above information, which of the following would be the MOST effective contraceptive?\n\na. High daily doses of LH and FSH\n\nb. High daily doses of progesterone and oestrogens\n\nc. High daily doses of GnRH\n\nd. High daily doses of oestrogens only"
+    },
+    {
+     "day": 2,
+     "number": 36,
+     "paper_label": "Section B: Written answers",
+     "problem": "A sexual organism has the genotype AaBbCcDd. How many unique haploid gametes can this organism generate? [1 mark]"
+    },
+    {
+     "day": 2,
+     "number": 37,
+     "paper_label": "Section B: Written answers",
+     "problem": "91% of the mass of an average cabbage is made up of water. [2 marks]\n\na. If 90% of the remaining mass is made up of carbohydrates and 10% of protein, estimate, in MJ, the energy contained in 2 cabbages weighing 700g each. Note that the average heat of combustion of carbohydrates and proteins are 17 and 24kJ/g respectively.\n\nb. If a human consumed these two cabbages, would you expect them to obtain the calculated amount of energy?\n\nYes (Y) or No (N)"
+    },
+    {
+     "day": 2,
+     "number": 38,
+     "paper_label": "Section B: Written answers",
+     "problem": "The active ingredient of chillies is capsaicin. The piquancy of a chilli can be measured by the Scoville scale using the Scoville Organoleptic Test. Extracts from a chilli are diluted until a panel of tasters (typically 5) can no longer taste the capsaicin. So a chilli yielding an extract that can still be tasted at a 1 in 10 000 dilution scores 10 000 SHU (Scoville heat units).\n\nA chemist is assessing the strength of the Capsicum chinense, or Habanero chilli. During the extraction process, 1 part chilli pulp is combined with 1 part pure ethanol. A series of tubes (labelled 1-6) is prepared, each with 9 mL of water. 1 mL of the chilli/ethanol extract is placed in tube 1, and then mixed. 1 mL is then taken from tube 1 and placed in tube 2, and then mixed. The process is repeated for tubes 3-6.\n\nThe chemist determines that capsaicin can be detected in tube 1-5, but not in tube 6. What is the minimum strength of the Habenero chilli in SHU? [1 mark]"
+    },
+    {
+     "day": 2,
+     "number": 39,
+     "paper_label": "Section B: Written answers",
+     "problem": "The diagram below depicts the loci of two genes during a stage of meiosis. [3 marks]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-2-39-fig1.png\n\nUse the following key to answer parts a and b.\n\n$$\\begin{array}{ll|ll} 1. & \\text{Telomere} & 6. & \\text{Plasmodesmata} \\\\ 2. & \\text{Centrosome} & 7. & \\text{Plasma} \\\\ 3. & \\text{Centromere} & 8. & \\text{Intron} \\\\ 4. & \\text{Centriole} & 9. & \\text{Exon} \\\\ 5. & \\text{Chiasma} & & \\end{array}$$\n\na. Name the structures labelled P on the diagram.\n\nb. Name the structures labelled Q on the diagram\n\nUse the following key to answer part c.\n\n$$\\begin{array}{ll|ll} 1. & \\text{Interphase} & 6. & \\text{Anaphase I} \\\\ 2. & \\text{Prophase II} & 7. & \\text{Anaphase II} \\\\ 3. & \\text{Metaphase I} & 8. & \\text{Telophase I} \\\\ 4. & \\text{Metaphase II} & 9. & \\text{Telophase II} \\end{array}$$\n\nc. Name a stage in meiosis when Q would be visible.\n\nWith reference to the chromosome diagram above determine whether the following statements are true (T) or false (F) of a cross between individuals of genotype AaBb and aabb.\n\nd. If the loci of genes A/a and B/b were located on different chromosomes the genotypic ratio of the offspring would be approximately 1:3\n\ne. The closer the genes are on the chromosome the greater the difference between the genotypic ratios of the offspring found than if the genes were located on separate chromosomes\n\nf. It is likely that there will be more offspring of genotype AaBb than Aabb"
+    },
+    {
+     "day": 2,
+     "number": 40,
+     "paper_label": "Section B: Written answers",
+     "problem": "The diagram shows the energy flow for part of a salt marsh ecosystem. All values are given in $\\mathrm{kJ/m^2/yr}$. (GPP = Gross Primary Production, NPP = Net Primary Production) [3 marks]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-2-40-fig1.png\n\na. Calculate the percentage of the energy from sunlight which is fixed as GPP by the rice grass.\n\nDetermine whether the following statements are true (T) or false(F).\n\nb. Primary Production refers to the conversion of photons into chemical energy\n\nc. The energy lost between the rice grass and the insects is solely due to metabolism by the rice grass"
+    },
+    {
+     "day": 2,
+     "number": 41,
+     "paper_label": "Section B: Written answers",
+     "problem": "Peeled potatoes were cut into two sizes of cubes – 1 $\\mathrm{cm^3}$ (1 cm × 1 cm×1 cm) and 27 $\\mathrm{cm^3}$ (3 cm × 3 cm × 3 cm) and weighed. Then, 27 of the 1$\\mathrm{cm^3}$ cubes were placed in one beaker of distilled water, and one 27$\\mathrm{cm^3}$ cube was placed in another beaker. One hour later the cubes were removed and their surfaces carefully dried. They were then reweighed. The results are shown in the table [5 marks]\n\n$$\\begin{array}{l|c|c} & \\text{Small cubes} & \\text{Large cube} \\\\ \\hline \\text{Volume of cube } (\\mathrm{cm^3}) & 1 & 27 \\\\ \\text{Surface area of cube } (\\mathrm{cm^2}) & 6 & 54 \\\\ \\text{Number of cubes in beaker} & 27 & 1 \\\\ \\text{Total mass of cubes at start (g)} & 52.75 & 52.97 \\\\ \\text{Total mass after 1 hour in water (g)} & 55.31 & 53.55 \\end{array}$$\n\nFor each cube size calculate the total increase in mass over the hour\n\na. Small\n\nb. Large\n\nFor each cube size calculate the surface area: volume ratio\n\nc. Small\n\nd. Large\n\nFor each cube size calculate the percentage increase in mass after 1 hour in water\n\ne. Small\n\nf. Large\n\nDetermine whether the following statements are true (T) or false (F)\n\ng. The 27 small cubes were used as they have the same total volume and surface area as the large cube\n\nh. The lower water potential of the potato compared to the surrounding solution results in the mass increase of the potato\n\ni. The difference in percentage increase in mass of the large and small cubes is due to the larger volume of the large cube compared one of the individual small cubes\n\nj. If the potatoes were left in the water long enough for the system to reach equilibrium the large cube would display percentage increase in mass equal to that of the small cubes"
+    },
+    {
+     "day": 2,
+     "number": 42,
+     "paper_label": "Section B: Written answers",
+     "problem": "The table below describes the structure and function of some organelles in eukaryotic cells. Complete the table by choosing from the list (1 - 13) to identify the empty boxes a-e. [2.5 marks]\n\n$$\\begin{array}{c|c|c} \\text{organelle} & \\text{structure / feature} & \\text{function of feature} \\\\ \\hline \\text{nucleus} & \\text{nucleoli present} & \\text{c.} \\\\ \\hline \\text{a.} & \\text{inner membrane folded into cristae} & \\text{d.} \\\\ \\hline \\text{b.} & \\text{vesicles containing hydrolytic enzyme} & \\text{breakdown of old organelles} \\\\ \\hline \\text{smooth endoplasmic reticulum} & \\text{flattened membrane-bound sacs} & \\text{e.} \\end{array}$$\n\n1. DNA replication\n\n2. Mitochondria\n\n3. Chloroplast\n\n4. Increased surface are for enzymes\n\n5. RNA synthesis\n\n6. Rough endoplasmic reticulum\n\n7. Lipid storage and synthesis\n\n8. Cell membrane\n\n9. Lysosomes\n\n10. Ribosomal RNA synthesis\n\n11. Processing proteins in a cell\n\n12. Golgi apparatus\n\n13. Storage of enzymes"
+    },
+    {
+     "day": 2,
+     "number": 43,
+     "paper_label": "Section B: Written answers",
+     "problem": "The half-life of carbon-14 is approximately 5700 years. During a study of human evolution, a human skull is found to have approximately 1/8$^{\\text{th}}$ of the carbon-14 levels found in the atmosphere. What is the age of the skull? (give your answer to the nearest 1000 years) [1 mark]"
+    },
+    {
+     "day": 2,
+     "number": 44,
+     "paper_label": "Section B: Written answers",
+     "problem": "Determine whether the following statements are true (T) or false (F). [2.5 marks]\n\na. If humans and pandas belong to the same class, then they must also belong to the same genus\n\nb. The fins of the mackerel and the seal are shared, primitive characteristics\n\nc. For approximately half of the history of life, there has been nothing but single celled organisms\n\nd. Natural selection acts only on the species level\n\ne. Natural selection acts directly on the genotype of an organism"
+    },
+    {
+     "day": 2,
+     "number": 45,
+     "paper_label": "Section B: Written answers",
+     "problem": "The graph below shows the changes in quantity of DNA within a cell as it goes through a series of cell divisions. [5 marks]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-2-45-fig1.png\n\nUse the following answer key to answer questions a to e.\n\n$$\\begin{array}{ll|ll} 1 & \\text{Mitosis} & 8 & \\text{Prometaphase} \\\\ 2 & \\text{Meiosis} & 9 & \\text{Crossing over} \\\\ 3 & \\text{Plasmolysis} & 10 & \\text{Fertilization} \\\\ 4 & \\text{DNA replication} & 11 & \\text{Prophase} \\\\ 5 & \\text{Anaphase} & 12 & \\text{Somatocytes} \\\\ 6 & \\text{Metaphase} & 13 & \\text{Gametes} \\\\ 7 & \\text{Cytokinesis} & 14 & \\text{Oogonia} \\end{array}$$\n\na. What type of cell division is occurring at A?\n\nb. What type of cell division is occurring during B?\n\nc. What event is occurring at the point marked X?\n\nd. What is the name given to the cells produced at point marked Y?\n\ne. What event is occurring at the point marked Z?"
+    },
+    {
+     "day": 3,
+     "number": 46,
+     "paper_label": "Section C: Short answer questions",
+     "problem": "A university student was studying the animals in the Grant Memorial National Park. Following are the numbers of kangaroos and dingoes that were recorded visiting a watering site in the middle of the park over two years. [9 marks]\n\na. Convert the figures into a line graph by plotting the animal numbers on the vertical axis against time on the horizontal axis. Plot the kangaroo numbers and the dingo numbers on the same graph but use different colours for each line.\n\n$$\\begin{array}{l|c|c} \\text{Month} & \\text{Kangaroo population estimate} & \\text{Dingo population estimate} \\\\ \\hline \\text{January} & 111 & 16 \\\\ \\text{February} & 109 & 18 \\\\ \\text{March} & 93 & 21 \\\\ \\text{April} & 91 & 17 \\\\ \\text{May} & 90 & 16 \\\\ \\text{June} & 86 & 14 \\\\ \\text{July} & 89 & 12 \\\\ \\text{August} & 94 & 9 \\\\ \\text{September} & 98 & 11 \\\\ \\text{October} & 105 & 13 \\\\ \\text{November} & 121 & 15 \\\\ \\text{December} & 125 & 16 \\\\ \\text{January} & 130 & 16 \\\\ \\text{February} & 124 & 19 \\\\ \\text{March} & 113 & 23 \\\\ \\text{April} & 108 & 24 \\\\ \\text{May} & 99 & 20 \\\\ \\text{June} & 95 & 19 \\\\ \\text{July} & 97 & 15 \\\\ \\text{August} & 100 & 14 \\\\ \\text{September} & 106 & 11 \\\\ \\text{October} & 109 & 13 \\\\ \\text{November} & 113 & 14 \\\\ \\text{December} & 111 & 18 \\end{array}$$\n\n© 2008 Gould Group - All Rights Reserved.\n\nb. Is there any relationship between the kangaroo and the dingo numbers? If so, account for this.\n\nc. The park management have decided to stop a rabbit prevention program because it is too expensive. What effect could this have on the dingo population and why?"
+    },
+    {
+     "day": 3,
+     "number": 47,
+     "paper_label": "Section C: Short answer questions",
+     "problem": "The movement of water by osmosis plays a crucial role in the maintenance of biological systems. The osmotic pressure (π) generated by a solute is proportional to the concentration of that solute and can be approximated by the following formula:\n\n$$\\pi = CRT$$\n\nwhere\n\nπ is in mmHg\n\nC is the concentration of the solution in osmoles $\\mathrm{L^{-1}}$\n\nR = 62.36367 L mmHg $\\mathrm{K^{-1}}$ $\\mathrm{mol^{-1}}$\n\nT = absolute temperature (273 + degrees celcius)\n\nThe following experiment is set up. Compartments A and B both contain 1 litre of pure water separated by a semi-permeable membrane (through which glucose cannot travel).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-3-47-fig1.png\n\n2 mmol of glucose is dissolved in compartment B and a pressure of 24 mmHg (additional to atmospheric pressure) is applied to the top of the compartment (as shown). Assume that the temperature is 24°C.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-3-47-fig2.png\n\nWhich direction (if at all) would water move? Explain your answer showing all working. [5 marks]"
+    },
+    {
+     "day": 3,
+     "number": 48,
+     "paper_label": "Section C: Short answer questions",
+     "problem": "The diagram below shows one possible pattern for human evolution. This is a simplified diagram, which only shows four of the many hominid species which scientists think have existed over the last 1.7 million years. [8 marks]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-3-48-fig1.png\n\nFigure 1: A simple diagram of the development of hominid species over the last 1.7 million years.\n\nMichael Morwood from the University of Wollongong, was one of the anthropologists in 2004 to unearth LB1, the first specimen, an adult female, of a suspected new species to be named Homo floresiensis. LB1 was found on Flores, an island in Indonesia, which still undergoes periods of volcanic activity.\n\nLB1 was estimated to be about 18,000 years old. Since 2004, discussion has centred on whether this is a new species of human, the remains from a dwarf or an individual with microcephaly. Individuals with microcephaly have very small brains, reduced life expectancy and delayed development. Due to genetic factors microcephaly can become fixed in small populations.\n\nLast year, Australian researchers Peter Obendof, Charles Oxnard and Ben Kefford suggested an environmental cause, iodine deficiency, as an explanation for the small size of the Flores specimens. They postulated that these specimens are cretins of iodine deficient mothers, UWA Professor Oxnard stating that many of the “features are actually due to the complexly delayed growth patterns” found in cretins. Iodine is an essential component of thyroxine, an important hormone produced by the thyroid gland. Lack of thyroxine leading to cretinism is found in children born to iodine-depleted mothers. This is becoming more common in the US and Australia.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-3-48-fig2.png\n\nFigure 2: A diagram of skulls from the hominid skull in Flores and a modern human.\n\nAlongside the skeletal remains of LB1 were animal remains, evidence of tools and cooking equipment. It is not clear if these artefacts were associated directly with LB1 or modern humans. The wrist, shoulder and arm bones seemed to resemble those of a chimpanzee or an early hominid such as the australopithecines, rather than modern humans. But as Oxnard points out, this is the pattern in some cretins as well.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-3-48-fig3.png\n\nFigure 3: Relationship between the cranial capacity and height in different hominids. (from Schoenemann and Allen, 2006)\n\na. Discuss the evidence for and against the classification of LB1 as a specimen of a new species\n\nb. How could small size be considered to be an adaptation to isolated island conditions?\n\nc. Suggest two possible reasons for the loss of species from Flores.\n\nd. What remedy would you suggest to prevent iodine deficiency in modern humans?"
+    },
+    {
+     "day": 3,
+     "number": 49,
+     "paper_label": "Section C: Short answer questions",
+     "problem": "Flower colour in a species of plant is determined by two gene pairs, R/B and C/c. The R allele is codominant to the B allele, and the C allele is dominant to the c allele. If at least one C allele is present, the flowers will be coloured; otherwise, they will be white. The R/B allele pair determine whether the flower is red (RR), purple (RB) or blue (BB). [5 marks]\n\nTwo of these plants are crossed to give 100 offspring which all have either white or purple flowers.\n\nUse the answer key below to answer questions a and b.\n\n$$\\begin{array}{l|l|l|l} & \\text{Genotype} & & \\text{Genotype/Phenotype} \\\\ \\hline 1. & \\text{CCRR} & 8. & \\text{ccRB} \\\\ 2. & \\text{CCRB} & 9. & \\text{ccBB} \\\\ 3. & \\text{CCBB} & 10. & \\text{white} \\\\ 4. & \\text{CcRR} & 11. & \\text{red} \\\\ 5. & \\text{CcRB} & 12. & \\text{purple} \\\\ 6. & \\text{CcBB} & 13. & \\text{blue} \\\\ 7. & \\text{ccRR} & & \\end{array}$$\n\nWhat is/are the possible genotype(s) of the:\n\na. White offspring?\n\nb. Purple offspring?\n\nWhat are the possible genotypes of the parents if, of the 100 offspring, 50 have white flowers and 50 have purple flowers and one parent has:\n\nc. red flowers?\n\nd. blue flowers?\n\ne. What are the possible genotypes of the parents if, of the 100 offspring, 25 have white flowers and 75 have purple flowers?"
+    },
+    {
+     "day": 3,
+     "number": 50,
+     "paper_label": "Section C: Short answer questions",
+     "problem": "Explain the relationship between the following two observations. [2 marks]\n\n• Cancers generally develop from a single cell containing multiple mutations within its genome.\n• Cancer is often described as a disease of old age, its incidence rising greatly in older generations."
+    },
+    {
+     "day": 3,
+     "number": 51,
+     "paper_label": "Section C: Short answer questions",
+     "problem": "There are two main types of rabies vaccines. The first consists of inactivated virus, whilst the second contains anti-rabies immunoglobulin.\n\nWhich of these vaccines would be most appropriate to administer to a traveller intending to spend an extended period of time in a country where rabies is present in the canine population? Explain your choice. [4 marks]"
+    },
+    {
+     "day": 3,
+     "number": 52,
+     "paper_label": "Section C: Short answer questions",
+     "problem": "In the Galapagos Islands there have been many efforts to eradicate the introduced rat population that is negatively affecting the endemic fauna. One suggestion for the eradication of the rat population is to introduce a snake from mainland Ecuador that commonly feeds on rats. What are two foreseeable problems with this method of control? [2 marks]"
+    },
+    {
+     "day": 3,
+     "number": 53,
+     "paper_label": "Section C: Short answer questions",
+     "problem": "In the sub-Antarctic forests near Ushuaia, Argentina, a single leaf can take 2 years to decompose completely, significantly longer than an equivalent leaf in rainforests in northern parts of South America. With reference to the organisms responsible for decomposition of organic matter discuss possible reasons for this discrepancy. [4 marks]"
+    },
+    {
+     "day": 3,
+     "number": 54,
+     "paper_label": "Section C: Short answer questions",
+     "problem": "The Ames test is a simple test for the mutagenic capacity of chemical compounds. To conduct the test, bacteria unable to synthesise histidine due to a mutation in a single gene of the synthesis pathway are plated on an agar plate lacking histidine. (Histidine is an amino acid essential for growth). [4 marks]\n\nA small paper disc soaked in a known concentration of the suspected mutagen is then placed at the centre of the plate allowing the mutagen to diffuse out into the plate. The bacterial growth is then monitored. Growth occurs when the mutagen reverses the mutation within the mutated gene of the histidine synthesis pathway. The diagram below depicts the outcome of an Ames test conducted with a known mutagen.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-3-54-fig1.png\n\na. Explain the absence of bacterial growth in the:\n\ni. Inner zone of no growth.\n\nii. Outer zone of no growth.\n\nb. Draw rings on the diagram on the ANSWER SHEET (labelled i and ii) to indicate the location of the bacterial growth zone if the disc was soaked in:\n\ni. a higher concentration of the same mutagen.\n\nii. an equal concentration of a less effective mutagen."
+    },
+    {
+     "day": 3,
+     "number": 55,
+     "paper_label": "Section C: Short answer questions",
+     "problem": "The kangaroo rat (genus Dipodomy) is a rodent that lives in arid and semi-arid desert regions in North America. Able to survive without any drinking water, the Kangaroo rat has many behavioural, physiological and anatomical adaptations to help conserve water. [7 marks]\n\nThe following graph shows the relationship between air temperature (ambient temperature) and the temperature of expired air in various desert dwelling animals and humans.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-3-55-fig1.png\n\nGraph is from “Environmental physiology of animals” By Pat Willmer, G. Stone, Ian A. Johnston, published by Wiley-Blackwell, 2000\n\na. Describe the trend seen in the graph, by comparing the data for humans and kangaroo rats.\n\nb. Explain how this helps the kangaroo rat to conserve water.\n\nThe kangaroo rat consumes no water, yet it is still lost though evaporation and waste excretion (albeit in small quantities).\n\nc. Explain how it is able to replace this water given that it only ingests seeds, which are protein and carbohydrate rich.\n\nd. Describe a behavioural adaptation likely to help conserve water in the kangaroo rat."
+    },
+    {
+     "day": 3,
+     "number": 56,
+     "paper_label": "Section C: Short answer questions",
+     "problem": "The amino acid sequences of polypeptides are often represented using a single letter code to designate the amino acids. The table in the Appendix, shows the alignment of 5 related polypeptides represented in this fashion. The amino acid code is also included on this page. [12 marks]\n\nThe aligned polypeptides have descended from a common ancestor, the greater the time since their divergence, the greater the difference between their sequences. By comparing their sequences it is therefore possible judge which polypeptides diverged earlier, and which share a more recent common ancestor. The simplest way to compare the sequences is to count the amino acid differences (an example of such a difference has been circled on the alignment).\n\na. Count the amino acid differences between each of the polypeptides and complete the table on the ANSWER SHEET. The number of amino acid changes between polypeptide a10 and the other polypeptides has already been completed to help you along.\n\nb. Which polypeptides probably share the most recent common ancestor?\n\nc. Which polypeptide probably diverged from the others first?\n\nThe evolutionary relationship between polypeptides such as these can be represented in the form a tree, an example of which is shown below, where Polypeptides D and E are the most closely related, sharing the most recent common ancestor (signified by the last branch point).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-3-56-fig1.png\n\nd. In the space provided on the ANSWER SHEET draw a similar tree to show the relationship between the polypeptides as inferred by the alignment.\n\ne. Would you expect the gene sequences for these polypeptides to appear more or less similar in sequence to each other than the polypeptide sequences? Explain your answer.\n\nf. This sequence alignment shows that only certain regions of the polypeptide sequences are prone to change, whilst others show relatively little change over time. Why might this be the case?\n\nAppendix\n\nSequence Alignment\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2009-3-56-fig2.png\n\nAmino Acid Code\n\n$$\\begin{array}{llll} \\text{A = alanine} & \\text{G = glycine} & \\text{M = methionine} & \\text{S = serine} \\\\ \\text{C = cysteine} & \\text{H = histidine} & \\text{N = asparagine} & \\text{T = threonine} \\\\ \\text{D = aspartic acid} & \\text{I = isoleucine} & \\text{P = proline} & \\text{V = valine} \\\\ \\text{E = glutamic acid} & \\text{K = lysine} & \\text{Q = glutamine} & \\text{W = tryptophan} \\\\ \\text{F = phenylalanine} & \\text{L = leucine} & \\text{R = arginine} & \\text{Y = tyrosine} \\end{array}$$"
+    }
+   ]
+  },
+  {
+   "year": 2010,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "An educated speculation or a possible answer to a question is called a:\n\na. scientific method.\n\nb. theory.\n\nc. law.\n\nd. hypothesis.\n\ne. fact."
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Two groups of people were tested to determine whether garlic lowers blood cholesterol levels. One group was given 800 mg of garlic powder daily for four months and exhibited an average 12% reduction in the blood cholesterol. The other group was not given any garlic and after four months averaged a 3% reduction in cholesterol. The group that was not given the garlic was the:\n\na. peer group.\n\nb. test group.\n\nc. treatment group.\n\nd. control group.\n\ne. double-blind group."
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The constant appearance of new strains of influenza virus is an example of:\n\na. a model.\n\nb. random mutation.\n\nc. selection pressure.\n\nd. survivorship.\n\ne. success."
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which of the following options lists the levels of mammalian structural hierarchy starting with the most complex, down to the simplest unit?\n\na. organelle, cell, tissue, organ, organ system.\n\nb. organ system, organ, cell, tissue, organelle.\n\nc. organ system, organelle, tissue, cell, organ.\n\nd. organ system, organ, tissue, cell, organelle.\n\ne. organ, organ system, tissue, cell, organelle."
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The environment external to our bodies is ever changing, yet our internal conditions remain relatively stable. This is mediated by a process called:\n\na. homeostasis.\n\nb. metastasis.\n\nc. responsiveness.\n\nd. adaptation.\n\ne. evolution."
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Blood glucose concentration rises after a meal and stimulates release of the hormone insulin. Insulin travels in the blood and stimulates body cells to uptake glucose from the bloodstream. This reduces blood glucose concentration. This is an example of:\n\na. negative feedback.\n\nb. positive feedback.\n\nc. dynamic equilibrium.\n\nd. integration control.\n\ne. set point adjustment."
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The prefix hypo- means _____________, whereas hyper- means _____________.\n\na. front, back.\n\nb. right, left.\n\nc. inside, outside.\n\nd. clear, dark.\n\ne. below, above."
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "What type of bond attracts one water molecule to another?\n\na. An ionic bond.\n\nb. A peptide bond.\n\nc. A hydrogen bond.\n\nd. A covalent bond.\n\ne. A hydrolytic bond."
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Most human cells range from 10 to 15 micrometers in diameter. What limits how large a cell can be?\n\na. A cell’s lifespan.\n\nb. Nutrients available in the environment of a cell.\n\nc. The relationship between its volume and length.\n\nd. The relationship between its length and surface area.\n\ne. The relationship between its volume and surface area."
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Jared lost a lot of weight eating a low calorie diet. Where did all the fat / mass go?\n\na. The mass was released as $\\mathrm{CO_2}$ and $\\mathrm{H_2O}$.\n\nb. The mass was converted to energy and used up.\n\nc. The mass was converted to ATP molecules.\n\nd. The mass was broken down to amino acids and eliminated from the body.\n\ne. The mass was converted to urine and faeces and eliminated from the body."
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Blood has a pH ranging from 7.35 to 7.45. Slight deviations from this can cause major problems, even death.\n\nOne of your friends, Champ, is something of a gym buff and has been doing an intense workout. You remember from your Biology classes that skeletal muscle cells produce metabolic acids such as lactic acid. Champ’s blood pH does not drop significantly in spite of the metabolic acids released into the blood. Champ is able to maintain a constant blood pH because:\n\na. metabolic acids are neutralized in muscle cells before they are released into the blood.\n\nb. metabolic bases are produced at the same rate by muscle cells to neutralize the acids.\n\nc. the respiratory system removes excess $\\mathrm{H^+}$ from the blood before the pH is lowered.\n\nd. the fluids of the body contain chemicals called buffers that resist changes in pH.\n\ne. endothelial cells secrete excess $\\mathrm{H^+}$ to prevent a decrease in pH."
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The following is a biochemical pathway for the control of pink pigment. Production occurs in three reaction steps, regulated by the genes X, Y and Z which assort independently. Only the product of gene Z has colour, all the other products in the pathway are colourless.\n\n$$\\text{no colour} \\xrightarrow{\\text{X}} \\text{step 1} \\xrightarrow{\\text{Y}} \\text{step 2} \\xrightarrow{\\text{Z}} \\text{pink pigment}$$\n\nAny of the alleles x, y or z when inherited as a homozygous recessive pair result in blocking of the pathway which gives rise to a colourless phenotype. If a red XX YY ZZ parent is crossed with a colourless xx yy zz and any of their F$_1$ offspring are then crossed with an xx yy zz individual (a test cross), what proportion of the offspring will be pink?\n\na. 1/8.\n\nb. 1/4.\n\nc. 1/2.\n\nd. 3/16.\n\ne. 1/16."
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A previously unknown organism that lacks both a nuclear membrane and mitochondria has just been discovered. Which of the following would this organism most likely possess?\n\na. Lysosomes.\n\nb. Cilia.\n\nc. Endoplasmic reticulum.\n\nd. Chloroplasts.\n\ne. Ribosomes."
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "When a heterozygote for a particular gene locus A is selfed, the probability of obtaining an aa offspring is 1/4, and the probability of obtaining an Aa offspring is 1/2. Similarly, when a double heterozygote AaBb is selfed, the probability of obtaining an AaBB offspring is:\n\na. 1/2.\n\nb. 1/4.\n\nc. 1/8.\n\nd. 1/16.\n\ne. 1/32."
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The death cap mushroom Amanita phalloides is the leading cause of mushroom poisonings, as it resembles many edible species and tastes quite pleasant. The main toxin in the mushroom inhibits an RNA polymerase in humans, causing eventual cell death in the organs, which receive the contaminated blood from the digestive system.\n\nOut of the following organs, which will be the MOST immediately affected?\n\na. Lungs.\n\nb. Pancreas.\n\nc. Heart.\n\nd. Skin.\n\ne. Liver."
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Van Leeuwenhoek is acknowledged as the inventor of the first microscope. This enabled individual cells to be seen for the first time and paved way for the study of microscopic organisms and cell biology. Sometimes, students find difficulty in appreciating measurement and scale using a microscope. A young Biology student tried to work out the size of a human hair, by placing a ruler under the low power of a microscope such that the mm scale appeared as in the left of the diagram. When one human hair was viewed under the high power of the same microscope, it appeared as on the right.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-1-16-fig1.png\n\nIf the low power objective magnifies 4x and the high power magnifies 40x, the thickness of the hair is:\n\na. 0.1 mm.\n\nb. 0.15 mm.\n\nc. 0.25 mm.\n\nd. 0.3 mm.\n\ne. 0.35 mm."
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The apparatus shown is used to measure the oxygen uptake by small animals.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-1-17-fig1.png\n\nA mouse was introduced into the apparatus and after a few minutes, a thin film of detergent was introduced into the tube, as shown. During a 5-minute period the detergent film moved inwards (i.e. towards the mouse) from 0.1 $\\mathrm{cm^3}$ to 2.3 $\\mathrm{cm^3}$. In the same 5-minute period, a detergent film in a control apparatus (without a mouse) moved in the same direction from 0.4 $\\mathrm{cm^3}$ to 0.6 $\\mathrm{cm^3}$.\n\nThe rate of oxygen uptake by the mouse was:\n\na. 2.2 $\\mathrm{cm^3}$ per minute.\n\nb. 0.4 $\\mathrm{cm^3}$ per minute.\n\nc. 2.4 $\\mathrm{cm^3}$ per minute.\n\nd. 2.0 $\\mathrm{cm^3}$ per minute."
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "During replication or transcription, errors sometimes occur such that certain nucleotides are repeated. These errors are often referred to as duplications. Duplications of nucleotide bases within genes vary in severity. Some result in non-functional proteins and others may have little or no effect on function. The diagram below shows a strand of mRNA produced from a particular gene.\n\nWhich of the following duplication events is most likely to lead to the synthesis of a non-functional protein?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-1-18-fig1.png\n\na. A base pair is duplicated at X.\n\nb. Three base pairs are duplicated at X.\n\nc. A base pair is duplicated at Y.\n\nd. Three base pairs are duplicated at Y.\n\ne. A base pair is duplicated at Z."
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A given DNA sample has 60% purines. The source of this DNA is most likely to be:\n\na. a eukaryotic cell.\n\nb. a bacterial cell.\n\nc. cDNA synthesized from a eukaryotic cell.\n\nd. a bacteriophage with double-stranded DNA.\n\ne. a bacteriophage with single-stranded DNA."
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The human enzyme acetaldehyde dehydrogenase is formed from the assembly of 4 polypeptide chains and is therefore known as a tetramer (meaning 4 subunits). These chains are the product of a single gene for which there are two alleles; N encoding a normal polypeptide, and M encoding a mutant polypeptide. Tetramers containing one or more mutant polypeptides have effectively no enzymatic activity.\n\nIf the relative acetaldehyde dehydrogenase activity of NN and MM homozygote cells are 1 and 0 respectively, what is the activity of the NM heterozygote cells, assuming that both alleles are expressed at equal rates?\n\na. 1/2.\n\nb. 1/4.\n\nc. 1/8.\n\nd. 1/16.\n\ne. 1/32."
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "In a preliminary experiment as part of a study looking at the development of poison in a species of poisonous fish, eggs and sperm were harvested from a wild population and in vitro fertilization carried out. The resulting embryos were then hatched and grown in an indoor plastic tank containing artificial seawater. It was found that the fish never became poisonous.\n\nIn a later experiment young fish grown in this tank were divided into two groups and placed in separate pens in a bay where they were exposed to real seawater. One pen had a horizontal net that prevented the fish from reaching the sea bottom, while the other pen had no horizontal net. Subsequently, no poison was detected from the fish cultured in the pen with the net, but poison was found in fish from the other pen.\n\nWhich of the following can be concluded from this experiment? To be toxic:\n\na. a component present in natural seawater but not artificial seawater is necessary.\n\nb. fish must reach maturity.\n\nc. the fish must be able to reach the sea floor.\n\nd. fish must observe adult fish in their natural environment, as it is the result of a learned behaviour."
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The following information applies to Questions 22-23\n\nA group of students examined the distribution patterns of mangrove organisms on a shore in Hong Kong by conducting transect surveys, collecting species distribution data and plotting these results. The figure below is a plot of the tree height and tree species distribution along a transect. The Y-axis is tree height, and the X-axis is the distance along the transect in metres. The shore profile along the transect is overlaid. The distribution pattern (the presence and absence) of the mangrove animals is plotted as horizontal bar charts under the graph.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-1-22-fig1.png\n\nSalinity tolerance sets the zonation pattern of mangrove plants in Hong Kong. Considering the information given, which species of mangrove is likely to be the most salt-tolerant?\n\na. Lumnitzera racemosa.\n\nb. Kandelia candel.\n\nc. Avicennia marina."
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The following information applies to Questions 22-23\n\nA group of students examined the distribution patterns of mangrove organisms on a shore in Hong Kong by conducting transect surveys, collecting species distribution data and plotting these results. The figure below is a plot of the tree height and tree species distribution along a transect. The Y-axis is tree height, and the X-axis is the distance along the transect in metres. The shore profile along the transect is overlaid. The distribution pattern (the presence and absence) of the mangrove animals is plotted as horizontal bar charts under the graph.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-1-23-fig1.png\n\nC. rhizophorarum is a hornshell (Class Gastropoda) that feeds on detritus and microalgae. S. cucullata is the hooded oyster (Class Bivalvia) and is a filter feeder. What is the most likely reason that the distribution of these two species is non-overlapping?\n\na. The two species have similar niches and therefore compete strongly.\n\nb. C. rhizophorarum is associated with the mangrove, K. candel.\n\nc. S. cucullata has adaptations that enable it to tolerate long periods of exposure when the tide it out.\n\nd. S. cucullata has adaptations to enable it to tolerate high salinities."
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Two vacuum flasks were set up, one containing germinating seeds, the other containing dead and sterilised seeds, as shown in the diagram below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-1-24-fig1.png\n\nWhich of the following would prove that germinating seeds produce heat?\n\na. The temperature of the flask containing the germinating seeds was higher on the third day than on the second day.\n\nb. Two days after setting up the apparatus, the temperature of the flask containing the germinating seeds was 2° C above room temperature.\n\nc. The temperature of the flask containing the sterilised seeds fell during the first two days of the experiment, whilst the temperature of the flask containing germinating seeds did not.\n\nd. The temperature of the flask containing the germinating seeds was always several degrees above the temperature of the flask containing the sterilised seeds.\n\ne. The temperature of the flask containing the germinating seeds rose steadily during the first three days of the experiment, whilst the temperature of the flask containing germinating seeds did not."
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A degenerative disease that develops in people aged between 35 and 45 is caused by a dominant allele. A couple has two children, who are both younger than 20 years old. One parent suffers from the disease and is known to be heterozygous for the allele responsible. The other parent, who is 50 years old, does not show any signs of the disease. What is the probability that both children will develop the disease when they become older?\n\na. 1/16.\n\nb. 3/16.\n\nc. 1/4.\n\nd. 9/16.\n\ne. 3/4."
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The following information applies to Questions 26-28\n\nHomiothermic (warm-blooded) mammals can maintain a relatively constant body temperature as a result of a number of different internal and external means.\n\nThe graph below shows the relationship between the metabolic heat production of a homiothermic mammal at rest and the environmental temperature.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-1-26-fig1.png\n\nWhat is the range of environmental temperatures when the mammal’s body temperature is relatively stable?\n\na. -35 °C to 50 °C.\n\nb. 0 °C to 30 °C.\n\nc. -20 °C to 35 °C.\n\nd. 0 °C to 30 °C.\n\ne. -25 °C to 40 °C."
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The following information applies to Questions 26-28\n\nHomiothermic (warm-blooded) mammals can maintain a relatively constant body temperature as a result of a number of different internal and external means.\n\nThe graph below shows the relationship between the metabolic heat production of a homiothermic mammal at rest and the environmental temperature.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-1-27-fig1.png\n\nWhat is the temperature at which the mammal would begin to shiver if the environmental temperature gradually decreased from 45 °C to -40 °C?\n\na. -35 °C.\n\nb. -20 °C.\n\nc. -10 °C.\n\nd. 0 °C."
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The following information applies to Questions 26-28\n\nHomiothermic (warm-blooded) mammals can maintain a relatively constant body temperature as a result of a number of different internal and external means.\n\nThe graph below shows the relationship between the metabolic heat production of a homiothermic mammal at rest and the environmental temperature.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-1-28-fig1.png\n\nThe increase in metabolic heat production between environmental temperatures 35 °C and 45 °C is due to:\n\na. the response of the body’s metabolism to an increase in body temperature.\n\nb. an increase in the activity of sweat glands.\n\nc. an increase in blood flow through the skin.\n\nd. a sudden increase in environmental temperature."
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A species of insect was found to have developed resistance to a commonly used insecticide. Which of the following is the most likely explanation?\n\na. Insects learned how to avoid the pesticide, and these learned behaviours were passed on subsequent generations.\n\nb. The original gene pool included genes that conferred resistance to the insecticide.\n\nc. The insecticide stimulated development of resistance in certain individuals and this was inherited.\n\nd. The insecticide caused a mutation that increased insect fitness and which was passed on to subsequent generations."
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Absorption of a drug in the gastro-intestinal tract depends on a number of factors. Penicillin V, the structure of which is shown below, is a weak acid and has a pKa = 2.7. This means that at pH values less than 2.7 the carboxyl group of most molecules will be protonated (as shown in the diagram), whilst at higher pH values most molecules will be deprotonated (have lost $\\mathrm{H^+}$).\n\nThe pH in stomach is about 2.0, and that in the intestine is 7.5. Most of the drug is absorbed in the intestine.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-1-30-fig1.png\n\nChoose the most likely reason for this from the following statements:\n\na. The molecule of drug being hydrophobic in nature passes through gastric and intestinal membranes to a very small extent. However, because of the much greater surface area in the intestine, the major quantity of the drug is absorbed here.\n\nb. As the drug is a weak acid it is more stable in the acidic pH of the stomach and will only begin to breakdown and be absorbed at the higher pH in the small intestine.\n\nc. The protonated form of the drug prevails in stomach, which slows down its absorption. Hence, the drug gets preferentially absorbed in the intestine.\n\nd. The deprotonated form of the drug prevails in the intestine which hinders/slows down its absorption. However, owing to the large surface area available in the intestine, the drug is mainly absorbed here.\n\ne. Due to rapid churning movement and the low pH in the stomach, the drug is completely broken down into smaller fragments, which can be efficiently absorbed in the small intestine."
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The process of artificial kidney dialysis is shown schematically using the following symbols:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-1-31-fig1.png\n\nWhich of the following correctly depicts the process?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-1-31-fig2.png"
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Alleles $\\mathrm{I^A}$ and $\\mathrm{I^B}$ present on chromosome 9 are responsible for blood groups A and B, respectively. Blood group O results when these alleles are either absent or not expressed. The alleles $\\mathrm{I^A}$ and $\\mathrm{I^B}$ are expressed only if the H allele is present on chromosome 19, either in the homozygous or heterozygous condition, where h stands for the recessive allele.\n\nGilbert belongs to the AB blood group. His sister Helen belongs to the A group while their father belongs to the O group. Which of the following maternal and paternal genotypes could give rise to this pattern of phenotypes?\n\n$$\\begin{array}{l|l|l} & \\text{Mother} & \\text{Father} \\\\ \\hline \\text{a.} & \\mathrm{H/H,\\ I^A/I^B} & \\mathrm{H/h,\\ I^O/I^O} \\\\ \\text{b.} & \\mathrm{H/h,\\ I^B/I^O} & \\mathrm{h/h,\\ I^A/I^O} \\\\ \\text{c.} & \\mathrm{h/h,\\ I^O/I^O} & \\mathrm{h/h,\\ I^A/I^O} \\\\ \\text{d.} & \\mathrm{H/H,\\ I^A/I^O} & \\mathrm{H/h,\\ I^B/I^O} \\\\ \\text{e.} & \\mathrm{h/h,\\ I^B/I^O} & \\mathrm{H/h,\\ I^O/I^O} \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Totally submerged aquatic plants can cause a pH change in the surrounding water when they carry out photosynthesis. What pH change happens and what causes it?\n\na. The pH falls because carbon dioxide is absorbed.\n\nb. The pH rises because carbon dioxide is absorbed.\n\nc. The pH falls because oxygen is released.\n\nd. The pH rises because oxygen is released."
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A man with a genetic disease marries a phenotypically normal woman. They have four girls and four boys; all of the girls have the same disease as their father, but none of the boys does. What is the most likely explanation?\n\nThe disease is caused by:\n\na. an autosomal dominant allele.\n\nb. an autosomal recessive allele.\n\nc. an X-linked dominant allele.\n\nd. an X-linked recessive allele.\n\ne. a Y-linked allele."
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Young laughing gull chicks peck at the tip of the parent’s beak, which in turn induces the adult gull to regurgitate food. Experiments were conducted with one-day old and three-day old chicks, the latter being reared with their parents. These chicks were presented with models of the parent head and the following responses were obtained:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-1-35-fig1.png\n\nWhich is the best interpretation of these results?\n\na. Pecking behaviour is a fixed action pattern where any long pointed object acts as an equally effective stimulus.\n\nb. The pecking rate of laughing gull chicks increases with age.\n\nc. The response of one-day old chicks is more pronounced when the model is closer to that of the parent.\n\nd. Act of pecking is an innate behaviour while the discriminatory capacity of the chicks is a result of learning."
+    },
+    {
+     "day": 1,
+     "number": 36,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Male Coho Salmon, found in the freshwater streams of North America, have two reproductive strategies to fertilize the eggs laid by females. Larger males are able to fight with each other successfully to gain proximity to females but smaller males are unable to do so. The latter adopt another strategy, that of sneaking, in which they hide behind rocks and quickly approach females to fertilize the eggs before the larger males are able to do so. Which of the following graphs correctly depicts the success of these strategies (assessed as proximity to the female) in relation to body size?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-1-36-fig1.png"
+    },
+    {
+     "day": 1,
+     "number": 37,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Sickle cell anaemia is an autosomal recessive trait. Individual 2 in the following pedigree is a carrier for this trait. Assuming that individuals 3 and 4 are normal homozygous, what is the probability that individual 6 will have the disease?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-1-37-fig1.png\n\na. 1/16.\n\nb. 1/32.\n\nc. 1/64.\n\nd. 1/128."
+    },
+    {
+     "day": 1,
+     "number": 38,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The following information applies to Questions 38-40\n\nAntibodies are a key part of the immune response and mediate their activity by their ability to bind pathogens in a highly specific manner (Similar to the lock and key model of enzyme-substrate binding). Scientists have learned to manipulate the immune system of animals to produce antibodies not only against pathogens but also against various non-pathogenic proteins they wish to study. These antibodies will then specifically bind the protein of interest. By tagging antibodies specific for a protein of interest with a fluorescent marker, antibodies can be used to find the location of the protein within a cell. This is done by permeabilising the cell to the antibody and washing it through the cell such that it will bind any protein of interest present. A fluorescence microscope can then be used to detect the tagged antibody and hence the location of the protein of interest can be determined.\n\nWhere would you expect to detect fluorescence in a cell exposed in this fashion to a tagged antibody raised against an enzyme of glycolysis?\n\na. The nucleus.\n\nb. The endoplasmic reticulum.\n\nc. The mitochondria.\n\nd. The cytosol.\n\ne. The cell membrane."
+    },
+    {
+     "day": 1,
+     "number": 39,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The following information applies to Questions 38-40\n\nAntibodies are a key part of the immune response and mediate their activity by their ability to bind pathogens in a highly specific manner (Similar to the lock and key model of enzyme-substrate binding). Scientists have learned to manipulate the immune system of animals to produce antibodies not only against pathogens but also against various non-pathogenic proteins they wish to study. These antibodies will then specifically bind the protein of interest. By tagging antibodies specific for a protein of interest with a fluorescent marker, antibodies can be used to find the location of the protein within a cell. This is done by permeabilising the cell to the antibody and washing it through the cell such that it will bind any protein of interest present. A fluorescence microscope can then be used to detect the tagged antibody and hence the location of the protein of interest can be determined.\n\nIf a cell undergoing metaphase of mitosis was treated with a tagged antibody specific for the proteins of the mitotic spindle what would you expect to see under the microscope?\n\na. A band of fluorescence across the equator of the cell which denotes the axis of cell division.\n\nb. Fluorescent fibres extending from opposite ends of the cell and meeting at the equator.\n\nc. Fluorescent fibres extending a short way towards the equator from opposite poles of the cell.\n\nd. Fluorescence at opposite poles of the cell.\n\ne. Fluorescence at the nuclear envelope."
+    },
+    {
+     "day": 1,
+     "number": 40,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The following information applies to Questions 38-40\n\nAntibodies are a key part of the immune response and mediate their activity by their ability to bind pathogens in a highly specific manner (Similar to the lock and key model of enzyme-substrate binding). Scientists have learned to manipulate the immune system of animals to produce antibodies not only against pathogens but also against various non-pathogenic proteins they wish to study. These antibodies will then specifically bind the protein of interest. By tagging antibodies specific for a protein of interest with a fluorescent marker, antibodies can be used to find the location of the protein within a cell. This is done by permeabilising the cell to the antibody and washing it through the cell such that it will bind any protein of interest present. A fluorescence microscope can then be used to detect the tagged antibody and hence the location of the protein of interest can be determined.\n\nDue to their specific binding capabilities, antibodies can also be used to purify a protein of interest from a cell lysate (the contents of the cell released by lysing/bursting the cell). In this instance the antibody is attached to a solid matrix and the cell lysate is washed over the matrix. In this way the protein of interest can bind to the antibody, whilst other proteins, which the antibody does not recognise are washed off. The protein of interest can then be eluted by denaturing the protein-protein interactions binding it to the antibody. This process is known as immunoaffinity purification.\n\nA young scientist was attempting to purify their protein of interest in this fashion. When the eluted solution was examined, it contained three different proteins. When these proteins were re-exposed to the antibody, only one was able to bind the antibody. Which of the following statements is the most likely explanation for these observations?\n\na. The protein of interest is bound to two other proteins within the cell that remained bound during the purification procedure.\n\nb. The protein of interest is present in three different forms within the cell.\n\nc. The antibody has specificity for three unrelated proteins, one of which is the protein of interest.\n\nd. The elution process caused the breakdown of the protein of interest."
+    },
+    {
+     "day": 1,
+     "number": 41,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The following information applies to Questions 41-42\n\nA section of DNA was sequenced and one of its strands reads:\n\n3'   T A C A G G G T C G C T C A T A T T C G A   5'\n\nGive the correct mRNA sequence for this piece of DNA.\n\na. U A C A G G G U C G C U C A U A U U C G A\n\nb. A T G T C C C A G C G A G T A T A A G C T\n\nc. T A C A G G G T C G C T C A T A T T C G A\n\nd. A U G U C C C A G C G A G U A U A A G C U"
+    },
+    {
+     "day": 1,
+     "number": 42,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The following information applies to Questions 41-42\n\nA section of DNA was sequenced and one of its strands reads:\n\n3'   T A C A G G G T C G C T C A T A T T C G A   5'\n\nUsing the table provided below, determine the sequence of amino acids that is specified by the DNA strand above:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-1-42-fig1.png\n\na. ser ser arg gln asp STOP val\n\nb. ser ser arg gln asp STOP\n\nc. ser gln arg val ala\n\nd. ser gln arg val\n\ne. met ser gln arg val"
+    },
+    {
+     "day": 1,
+     "number": 43,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "If a molecule of carbon dioxide released into the blood in your left foot travels out of your nose, it must pass through all of the following structures except the:\n\na. right atrium.\n\nb. pulmonary vein.\n\nc. alveolus.\n\nd. bronchus.\n\ne. pulmonary artery."
+    },
+    {
+     "day": 1,
+     "number": 44,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "One action of the hormone glucagon is to cause the activation of adenylyl cyclase in liver cells. Adenylyl cyclase is an enzyme that converts ATP into the messenger molecule cyclic AMP (cAMP), the presence of which triggers a cascade of events within the cell that lead to the breakdown of glycogen and the subsequent release of glucose into the blood stream. This pathway is summarised in the diagram below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-1-44-fig1.png\n\nWhen glucagon is removed adenylyl cyclase becomes inactive again and ceases to convert ATP to cAMP. The enzyme phosphodiesterase converts cAMP into AMP.\n\nThe following table summarises an experiment measuring glucose release by liver cell cultures under various conditions.\n\n$$\\begin{array}{l|l|l} \\text{Culture} & \\text{Conditions} & \\text{Observations} \\\\ \\hline 1 & \\text{No additions} & \\text{Minimal glucose release} \\\\ 2 & \\text{Glucagon added and later removed} & \\text{Glucose released into media, rapid reduction in release after glucagon removed} \\\\ 3 & \\text{Caffeine added} & \\text{Minimal glucose release} \\\\ 4 & \\text{Glucagon and caffeine added, glucagon then removed but caffeine maintained} & \\text{Glucose released into media, slow reduction in release after glucagon removed.} \\end{array}$$\n\nBased on these observations, which of the following is most likely?\n\na. Caffeine binds the active site of adenylyl cylclase.\n\nb. Caffeine inhibits the action of phosphodiesterase.\n\nc. Caffeine stimulates synthesis of cAMP.\n\nd. Caffeine prevents glucagon breakdown."
+    },
+    {
+     "day": 1,
+     "number": 45,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A region of a double-stranded DNA molecule is represented in the following schematic. The hyphens denote sequences of unspecified lengths:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-1-45-fig1.png\n\nIf the region within the box were to undergo inversion, which of the following sequences would be produced?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-1-45-fig2.png"
+    },
+    {
+     "day": 2,
+     "number": 46,
+     "paper_label": "Section B: Short answers",
+     "problem": "In a breed of rabbits, multiple alleles with the following dominance relationships control coat coloration:\n\nC (agouti) > $c^{ch}$ (chinchilla) > $c^{h}$ (Himalayan) > c (albino).\n\nAn experimental cross between agouti and Himalayan produced 50% agouti and 50% Himalayan progeny. Which of the following crosses would have the lowest probability of producing this result? [1 mark]\n\nA. $Cc^{h}$ X $c^{h}c^{h}$\n\nB. Cc X $c^{h}c$\n\nC. $Cc^{h}$ X $c^{h}c$\n\nD. Cc X $c^{h}c^{h}$"
+    },
+    {
+     "day": 2,
+     "number": 47,
+     "paper_label": "Section B: Short answers",
+     "problem": "Plants and animals accumulate starch and glycogen as a storage polysaccharide, respectively. Starch consists of two sorts of large, water-insoluble polymers of glucose, amylose and amylopectin. Amylose is essentially unbranched and linear while amylopectin is highly and regularly branched, which forms branch clusters. Glycogen is also a branched glucose polymer, but unlike amylopectin, it is relatively small and water-soluble. In the glycogen molecule, branches are shorter, irregular, and not clustered. [3 marks]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-2-47-fig1.png\n\nBiosynthesis of starch involves three classes of enzymes: chain elongation enzymes, branching enzymes, and debranching enzymes. Sugary, a rice mutant, is deficient in a particular debranching enzyme. The endosperm of this mutant is characterized by the accumulation of glycogen-like polysaccharide instead of amylopectin.\n\n47a. In consideration of this information, the role of the wild-type debranching enzyme in starch biosynthesis is to:\n\nI. remove all branches from amylopectin to form amylose.\n\nII. shorten every branch of amylopectin.\n\nIII. regulate the branching pattern of amylopectin.\n\nIV. cut 1 α 4 glycosidic bonds of amylopectin.\n\nThe seeds of the Sugary mutant of rice are not different from the wild-type seeds in the size and appearance before desiccation, which is associated with seed maturation. During desiccation, however, the Sugary seeds become shrunk and wrinkled.\n\n47b. This phenomenon suggests that before desiccation, as compared with the wild-type seeds, the Sugary seeds contain:\n\n$$\\begin{array}{l|l|l} & \\text{storage polysaccharide} & \\text{water} \\\\ \\hline \\text{I.} & \\text{more} & \\text{less} \\\\ \\text{II.} & \\text{more} & \\text{more} \\\\ \\text{III.} & \\text{less} & \\text{more} \\\\ \\text{IV.} & \\text{less} & \\text{less} \\end{array}$$\n\nBacteria including cyanobacteria accumulate a glycogen-like polysaccharide for storing glucose.\n\n47c. Which of the following can reasonably explain the evolution of storage polysaccharides?\n\nThe common ancestor of plants and animals could synthesize:\n\nI. both amylopectin and glycogen, but plants have lost the ability of glycogen synthesis during evolution.\n\nII. both amylopectin and glycogen, but animals have lost the ability of amylopectin synthesis.\n\nIII. amylopectin but not glycogen, and animals have acquired the ability of glycogen synthesis.\n\nIV. glycogen but not amylopectin, and plants have acquired the ability of amylopectin synthesis."
+    },
+    {
+     "day": 2,
+     "number": 48,
+     "paper_label": "Section B: Short answers",
+     "problem": "Hunting of Northern elephant seals reduced their population size to as few as 20 individuals at the end of the 19th century. Their population has since rebounded to over 30,000. But their genomes still carry the marks of this bottleneck when compared to the population of Southern elephant seals that was not so intensely hunted. Such bottlenecks are manifested in the form of: [1 mark]\n\nA. abundance of unique mutations.\n\nB. increased frequency of deleterious recessive alleles.\n\nC. reduced genetic variation.\n\nD. increased population size."
+    },
+    {
+     "day": 2,
+     "number": 49,
+     "paper_label": "Section B: Short answers",
+     "problem": "The following table shows the number of estimated nucleotide substitutions that have occurred since the divergence of seven species (a-g).\n\n$$\\begin{array}{c|c|c|c|c|c|c} & \\text{b} & \\text{c} & \\text{d} & \\text{e} & \\text{f} & \\text{g} \\\\ \\hline \\text{a} & 39 & 72 & 128 & 126 & 159 & 269 \\\\ \\text{b} & & 81 & 130 & 128 & 158 & 268 \\\\ \\text{c} & & & 129 & 127 & 157 & 267 \\\\ \\text{d} & & & & 56 & 154 & 271 \\\\ \\text{e} & & & & & 151 & 268 \\\\ \\text{f} & & & & & & 273 \\end{array}$$\n\nWhich of the phylogenetic trees below best shows the relationship among these seven species? [1 mark]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-2-49-fig1.png"
+    },
+    {
+     "day": 2,
+     "number": 50,
+     "paper_label": "Section B: Short answers",
+     "problem": "The stoichiometry of aerobic and anaerobic degradation of glucose by yeast are as follows: [3 marks]\n\n$$\\mathrm{C_6H_{12}O_6 + 6O_2 \\rightarrow 6CO_2 + 6H_2O}$$\n\n$$\\mathrm{C_6H_{12}O_6 \\rightarrow 2C_2H_5OH + 2CO_2}$$\n\nIn an experiment, the complete utilisation of 0.5 mol of glucose, partly under aerobic and partly under anaerobic conditions, yielded 1.8 mol of $\\mathrm{CO_2}$.\n\n50a. Calculate the percentage of glucose that was utilised aerobically.\n\nThe Respiratory Quotient (RQ) is the ratio of the $\\mathrm{CO_2}$ produced to the $\\mathrm{O_2}$ utilized.\n\n50b. Calculate the RQ for this experiment.\n\nThe diagram below shows a respirometer used to measure gas exchange in germinating seeds. The screw clip was briefly opened to allow the gas round the seeds to be at atmospheric pressure. The clip was then closed and, after 20 minutes, the adjusting screw at the bottom used to equalise the pressure in the two limbs of the manometer. The change in volume in the right hand limb was then measured. Potassium hydroxide (KOH) can absorb carbon dioxide. The potassium hydroxide solution was then replaced with water, and another measurement obtained in a similar way over another 20 minute period. As before, the screw clip and adjustment screw were used to ensure that changes in volume were measured at atmospheric pressure.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-2-50-fig1.png\n\nTwo further measurements were obtained in the same way using a control apparatus without seeds. The results are shown in the table below. A ‘plus’ reading indicates an increase in volume of gas in the flask; a ‘minus’ indicates a decrease in volume.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-2-50-fig2.png\n\n50c. What was the RQ for these seeds?\n\nThe net assimilation of $\\mathrm{CO_2}$ of a plant is 0.5 moles when illuminated during the day. The net consumption of $\\mathrm{O_2}$ is 0.12 moles during the night.\n\n50d. Assuming that all the gas exchange is due to photosynthesis and respiration of the biomass (equivalent molecular mass of 30), what is the net production or consumption of biomass in grams during a complete 12 h day:12 h night diurnal cycle?"
+    },
+    {
+     "day": 2,
+     "number": 51,
+     "paper_label": "Section B: Short answers",
+     "problem": "Determine whether the following statements are true (T) or false (F). [2 marks]\n\n51a. The greater the concentration gradient the faster the diffusion rate.\n\n51b. If a cell doubled in diameter, it would have twice as much cytoplasm to maintain.\n\n51c. The nucleus is the largest organelle in most cells.\n\n51d. Osmosis is the movement of water from a region of low solute concentration to a region of high solute concentration."
+    },
+    {
+     "day": 2,
+     "number": 52,
+     "paper_label": "Section B: Short answers",
+     "problem": "Cardiac output is defined as the amount of blood pumped by each ventricle over a period of time. It is determined by multiplying the heart rate and the stroke volume. The stroke volume is the amount of blood ejected by each ventricle with each beat. If the heart of a woman beats 56 times in a minute, the volume of blood in her heart is 120 ml immediately prior to contraction and 76 ml at the end of contraction, calculate her cardiac output in mL/min. [1 mark]"
+    },
+    {
+     "day": 2,
+     "number": 53,
+     "paper_label": "Section B: Short answers",
+     "problem": "The oocytes of a sea star grow within the follicle in the gonad. Eventually they cease meiosis at prophase I and are maintained as immature eggs. The immature eggs resume meiosis when stimulated and lose their nuclear envelop as shown below. [4 marks]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-2-53-fig1.png\n\nIt has been observed that the resumption of meiosis occurs in response to a signal from the nervous system of the adult sea star and the following hypotheses have been generated:\n\n53a. Hypothesis 1: Adult nerve tissue releases a substance that directly acts on immature eggs causing them to resume meiosis.\n\n53b. Hypothesis 2: Adult nerve tissue releases a substance that directly acts on immature eggs causing them to resume meiosis, but the follicle blocks the substance from reaching the immature eggs.\n\n53c. Hypothesis 3: Adult nerve tissue releases a precursor of a substance that directly acts on immature eggs causing them to resume meiosis, which is processed by the follicle into an active compound that causes immature eggs to resume meiosis.\n\n53d. Hypothesis 4: Adult nerve tissue releases a substance which induces follicles to secrete a substance which then acts on the cell surface of an immature egg to cause a resumption of meiosis.\n\nTo explore the merits of these hypotheses the following experiments were conducted.\n\nExperiment 1: Extract from the nerve tissue of adult starfish was added to immature eggs surrounded by follicles.\n\nResult: Meiosis resumed.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-2-53-fig2.png\n\nExperiment 2: Extract from the nerve tissue of adult starfish was added to immature eggs from which follicles were removed.\n\nResult: Meiosis did NOT resume.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-2-53-fig3.png\n\nExperiment 3: Extract from the nerve tissue of adult starfish was added to follicles after they had been separated from immature eggs, and subsequently the medium was added to immature eggs without follicles.\n\nResult: Meiosis resumed.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-2-53-fig4.png\n\nExperiment 4: Extract from the nerve tissue of an adult starfish was added to follicles after separated from immature eggs, and the medium was injected to immature eggs without follicles.\n\nResult: Meiosis did NOT resume.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-2-53-fig5.png\n\nBased on these results, indicate whether or not each hypothesis should be rejected or not rejected."
+    },
+    {
+     "day": 2,
+     "number": 54,
+     "paper_label": "Section B: Short answers",
+     "problem": "On the basis of the photoperiod required for flowering, plants can be described as:\n\nI. Short-day plants\n\nII. Long-day plants\n\nIII. Day-length indifferent plants\n\nThe effect of varying light periods on flowering in these three types of plants is depicted in the graphs below, where TM, the trophic minimum, is the minimum light that is required to produce the organic matter indispensable to the plants metabolism and CP is the critical period for flowering.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-2-54-fig1.png\n\nChoose a plant type (I, II or III) for each of the three graphs and fill in the table in your answer sheet. [3 marks]"
+    },
+    {
+     "day": 2,
+     "number": 55,
+     "paper_label": "Section B: Short answers",
+     "problem": "For intracellular infectious bacteria and viruses to successfully invade a cell, they must bind to receptors on the cell surface. HIV specifically infects helper T cells, which express the CD4 molecule, but not CD8 on their cell surface, making it possible to distinguish helper T cells from other lymphocytes. Thus, CD4 is hypothesized to be a receptor for HIV. [3 marks]\n\n55a. Which TWO of the following experiment would test this hypothesis? Experiments that examine whether:\n\nI. an antibody against CD4 added to a co-culture system of CD4-positive T cells and HIV can inhibit HIV infection of T cells.\n\nII. an antibody against HIV added to a co-culture system of CD4-positive T cells and HIV can inhibit HIV infection of T cells.\n\nIII. forced expression of the CD4 gene in HIV-resistant CD4-negative T cells causes a recovery of susceptibility to HIV infection.\n\nIV. forced expression of the CD8 gene in HIV-resistant CD8-negative T cells causes a recovery of susceptibility to HIV infection.\n\nIt is known that HIV cannot infect mice, although the mouse has CD4-positive helper T cells, because mouse CD4 cannot bind to HIV. To study further the mechanism of HIV infection in human cells human genes for CD4 and a human chemokine receptor CXCR4 were expressed in mouse cells. The results were as follows:\n\n• When the human CD4 gene alone was expressed in mouse T cells, HIV could bind to the cells but could not infect them.\n• When human chemokine receptor (CXCR4) was expressed in addition to human CD4 in mouse cells, HIV was able to infect the cells.\n• When human CD4 and CXCR4 genes were expressed in mouse cells and the cells were cultivated in the presence of SDF-1a, a ligand of CXCR4, infection by HIV was perturbed.\n\n55b. Which of the following sentences states the best conclusion based on the above experiments?\n\nI. If CXCR4 is expressed in mouse cells, CD4 is not required for the infection of HIV.\n\nII. Human CD4 is required for the binding with HIV, and the binding is enhanced by the SDF-1a ligand.\n\nIII. Even if human CD4 is expressed in mouse T cells, CXCR4 is required for binding of HIV to the T cells.\n\nIV. Human CD4 is required for the binding with HIV, but infection of HIV into cells requires help of CXCR4."
+    },
+    {
+     "day": 2,
+     "number": 56,
+     "paper_label": "Section B: Short answers",
+     "problem": "With regards to breathing, tidal volume is defined as the volume of air entering the lungs in a single inspiration, and is approximately equal to the volume exhaled during subsequent expiration on normal quiet breathing.\n\nExchange of gases with the blood occurs in the alveoli of lungs. In the conducting airways (e.g. the trachea), which also contain a volume of air, no gas exchange takes place. The space within these airways is called the anatomical dead space. Thus the volume of fresh air entering the alveoli during each inspiration equals the tidal volume minus the volume of air in the anatomical dead space. The total volume of fresh air entering the alveoli per minute is called the alveolar ventilation and is expressed in ml/min and varies directly with the respiration rate.\n\nConsider the hypothetical breathing patterns of three individuals; I, II and III.\n\n$$\\begin{array}{l|c|c|c} \\text{Individual} & \\text{Tidal volume (ml/breath)} & \\text{Frequency (breaths/min)} & \\text{Anatomic dead space (ml/breath)} \\\\ \\hline \\text{I} & 800 & 12 & 600 \\\\ \\text{II} & 500 & 16 & 350 \\\\ \\text{III} & 600 & 12 & 200 \\end{array}$$\n\nWhich of the following holds true about the alveolar ventilation of these three individuals? [1 mark]\n\nA. II has considerably greater alveolar ventilation than III.\n\nB. I has considerably greater alveolar ventilation than III.\n\nC. III has considerably greater alveolar ventilation than II.\n\nD. I has considerably greater alveolar ventilation than II."
+    },
+    {
+     "day": 2,
+     "number": 57,
+     "paper_label": "Section B: Short answers",
+     "problem": "HN is a recessive mutant of soybean that exhibits a hypernodulating phenotype. As shown in Figure 1, the roots of the HN mutant form more nodules than the wild-type (WT) roots, and the shoot growth of the HN mutant is retarded compared to WT. Figure 2 schematically shows the nodulation phenotypes observed in grafting experiments with WT and the HN mutant. In the absence of Rhizobium, the HN mutant is not phenotypically different from WT in any aspects.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-2-57-fig1.png\n\nFigure 1\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-2-57-fig2.png\n\nFigure 2\n\nFrom the following statements, mark “X” in the appropriate box choosing the option in the bracket. [3 marks]\n\n57a. In the HN mutant, what determines the hypernodulation phenotype?\n\nI. shoot\n\nII. root\n\n57b. How does the shoot of WT regulate the number of nodules?\n\nI. positively regulates\n\nII. negatively regulates\n\nIII. is neutral for the regulation of\n\n57c. In the HN mutant, how are hypernodulation and shoot growth related?\n\nI. Hypernodulation is the cause of retarded shoot growth\n\nII. Hypernodulation is the result of retarded shoot growth\n\nIII. Hypernodulation is independent of retarded shoot growth"
+    },
+    {
+     "day": 3,
+     "number": 58,
+     "paper_label": "Section C: Written answers",
+     "problem": "The rate of oxygen consumption in mammals shows a clear relationship with animal mass. The calculation of the rate of $\\mathrm{O_2}$ consumption per unit body mass, or specific oxygen consumption, allows for comparison of oxygen consumption between animals of varying sizes. [10 marks]\n\nShown below are the body mass ($M_b$) and total $\\mathrm{O_2}$ consumption ($\\dot{V}_{\\mathrm{O_2}}$) for a variety of mammals.\n\na. Calculate the $\\mathrm{O_2}$ consumption per kilogram for each animal (to two decimal places) and write your answer in the table below.\n\n$$\\begin{array}{l|l|l|l} \\text{Animal} & \\text{Body mass } M_b\\ \\text{(kg)} & \\text{Total } \\mathrm{O_2} \\text{ consumption } \\dot{V}_{\\mathrm{O_2}}\\ (\\text{litre } \\mathrm{O_2\\ h^{-1}}) & \\mathrm{O_2} \\text{ consumption per kilogram, } \\dot{V}_{\\mathrm{O_2}}/M_b\\ (\\text{litre } \\mathrm{O_2\\ kg^{-1}\\ h^{-1}}) \\\\ \\hline \\text{Shrew} & 0.0048 & 0.0355 & \\\\ \\text{Harvest mouse} & 0.0090 & 0.0225 & \\\\ \\text{Mouse} & 0.025 & 0.041 & \\\\ \\text{Rat} & 0.290 & 0.25 & \\\\ \\text{Cat} & 2.5 & 1.70 & \\\\ \\text{Sheep} & 42.7 & 9.59 & \\\\ \\text{Man} & 70 & 14.76 & \\\\ \\text{Elephant} & 3833 & 268.00 & \\end{array}$$\n\nb. Plot the $\\mathrm{O_2}$ consumption per kilogram and the body mass on the axes below, giving an appropriate title and labelling the axes.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-3-58-fig1.png\n\nc. Describe the trend in the graph.\n\nd. A kangaroo rat has a specific oxygen consumption of 1.80 litre $\\mathrm{O_2\\ kg^{-1}\\ h^{-1}}$. Use your graph to determine the approximate mass of a kangaroo rat.\n\ne. Provide an explanation for the relationship between mammal size and oxygen consumption."
+    },
+    {
+     "day": 3,
+     "number": 59,
+     "paper_label": "Section C: Written answers",
+     "problem": "A biology student, Sam, was performing an investigation as part of a school assignment on digestion. He is exploring the digestion of an emulsion of fat droplets in water by Enzyme A. The diagram below shows the apparatus Sam used at the start of the experiment. It consists of a bag of Visking tubing (permeable to water and salts) containing an emulsion of fat droplets in water and enzyme A. The Visking bag is suspended in a beaker of water and pH indicator solution. [4 marks]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-3-59-fig1.png\n\nThe pH indicator is green in a pH of 7, blue when the pH is above 7 and red when it is below 7. The apparatus is kept at 40°C for 20 minutes during which time the indicator changes from green to red.\n\na. What is enzyme A?\n\nb. Why did Sam keep the apparatus at 40 °C?\n\nc. What products did Sam find after digestion of the emulsion by enzyme A?\n\nd. Explain the change in pH in the beaker."
+    },
+    {
+     "day": 3,
+     "number": 60,
+     "paper_label": "Section C: Written answers",
+     "problem": "New strains of potentially useful bacteria and plants have been produced by genetic modification (for example, most of the insulin that diabetics use is produced by genetically modified bacteria). However there are concerns about releasing genetically modified (GM) organisms into the environment and much research has been carried out concerning aspects of safety. [8 marks]\n\nIn 2009/2010, the northern hemisphere experienced the most severe winter of recent years and many farm crops were lost as a result of ice damage.\n\nPseudomonas syringae is a common bacterium that lives on the surface of leaves. A naturally occurring strain is called Ice+ because in cold weather, the bacterium promotes the formation of ice crystals and this causes frost damage in crop plans. Deletion of a single gene produces the genetically modified Ice– strain. This strain does not result in the formation of ice crystals.\n\nIt is thought that the presence of the Ice- strain of P. syringae on crop plants might reduce frost damage caused to crops caused by the Ice+ strain during severe cold.\n\na. Explain the ecological assumption on which this idea is based. [2 marks]\n\nb. The Ice- strain grows on the surface on the leaves of crop plants. It also grows on the leaves of other plants in the area in which it is released. Suggest how spraying a field with the Ice- strain may have an adverse effect on the crop yield. [3 marks]\n\nAn investigation was carried out into the survival of the Ice- strain under natural conditions. Ice- bacteria were suspended in a carrier solution and sprayed on the leaves of potato plants. The population densities of the Ice- strain of P. syringae and all bacteria on the leaves were then monitored. Results are shown in the graph below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-3-60-fig1.png\n\nc. Suggest a suitable control to be used in this investigation. [1 mark]\n\nd. Suggest the advantage in plotting data such as these on a log scale. [1 mark]\n\ne. Explain whether or not the results of this investigation indicate that the Ice- strain would be likely to spread to plants other than the crop plants on which they were sprayed. [1 mark]"
+    },
+    {
+     "day": 3,
+     "number": 61,
+     "paper_label": "Section C: Written answers",
+     "problem": "12 rabbits were released in Australia in 1859. They reproduced rapidly and started to spread quickly, so that by 1886 they were advancing at about 100km per year. By 1905 they had spanned the continent. Rabbit proof fencing was inadequate to halt their progress. [10 marks]\n\nIn an attempt to control the huge rabbit population myxomatosis was introduced in 1950. Myxomatosis is a viral disease in rabbits transmitted from rabbit to rabbit by rabbit fleas. The virus causes blindness and then death.\n\nThis spread through the rabbit population resulted in a 99.9% mortality rate. However over the next few years the rabbit population recovered, although not to the pre-myxomatosis numbers. At present, the mortality rate due to myxomatosis in rabbits is at around 40%.\n\na. What caused the spread of rabbits in Australia between 1859 and 1905? [2 marks]\n\nb. What caused the high mortality rate in the rabbit population just after myxomatosis was introduced in 1950? [2 marks]\n\nc. How did the rabbit population recover from the effect of myxomatosis? [4 marks]\n\nd. How would you explain the current mortality rate of 40%? [2 marks]"
+    },
+    {
+     "day": 3,
+     "number": 62,
+     "paper_label": "Section C: Written answers",
+     "problem": "The graph below shows changes in the relative contribution of different sources of energy during a period of exercise. [5 marks]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-3-62-fig1.png\n\na. What is the greatest source of muscle energy after 20 minutes exercise? [1 mark]\n\nb. Suggest why prolonged exercise may help an individual lose weight. [2 marks]\n\nc. Why are Australians urged to consume more complex carbohydrates rather than simple carbohydrates? [2 marks]"
+    },
+    {
+     "day": 3,
+     "number": 63,
+     "paper_label": "Section C: Written answers",
+     "problem": "Dichloro-Diphenyl-Trichloroethane (DDT) was a widely used synthetic pesticide before its use was banned in many countries due to concerns about its affects on the environment. The use of DDT in Australia has been banned since 1987. [3 marks]\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2010-3-63-fig1.png\n\nThe figure shows the DDT concentrations (ppm) in an aquatic food chain.\n\na. Using the food chain above explain what is occurring between trophic levels. [1 mark]\n\nb. Explain what consequence/s the presence of DDT in the environment could have on the human population. [2 marks]"
+    }
+   ]
+  },
+  {
    "year": 2011,
    "problems": [
     {
