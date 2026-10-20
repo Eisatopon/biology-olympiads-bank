@@ -2,6 +2,921 @@
  "competition": "University of Toronto National Biology Competition (NBC)",
  "years": [
   {
+   "year": 2015,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Exam",
+     "problem": "Which of the following structures is NOT found in BOTH plant and animal cells?\n\na. Nucleus\n\nb. Mitochondria\n\nc. Thylakoid membrane\n\nd. Golgi apparatus\n\ne. Endoplasmic reticulum"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Exam",
+     "problem": "When a living human red blood cell is placed in pure fresh water the cell will swell and burst. What is the reason for this?\n\na. Water molecules move from higher to lower concentration of dissolved particles.\n\nb. The cell membrane dissolves in water.\n\nc. Cells lose stability outside the human body.\n\nd. Water molecules move from higher to lower concentration of water.\n\ne. Water is actively transported into the cell because it is a hypotonic solution."
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Exam",
+     "problem": "Julia is late for school one morning. She eats some yogurt directly from a new container, and then puts the remaining yogurt (in the container) back into the fridge. The next day she finds that the surface of the yogurt is no longer smooth but has broken into several liquefied products. The enzymes from her saliva, via the spoon, have continued digesting the yogurt. What will happen over time?\n\na. The reaction will continue since the enzyme is not consumed by the reaction.\n\nb. The reaction will soon stop because the amount of saliva is small, and she would have to add more saliva to continue the degradation.\n\nc. The reaction will continue until half of the substrate is digested and then stop because the concentrations of substrate and product will be equal.\n\nd. The reaction will reverse and the surface of the yogurt in the container will become smooth again.\n\ne. The reaction will stop because the enzyme will be denatured in the refrigerator."
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Exam",
+     "problem": "In the figure here, two columns of water are separated by a semipermeable membrane through which only water molecules can pass. Side 1 contains coloured dye and water; Side 2 contains only pure water. What will happen after time passes?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2015-1-4-fig1.png\n\na. Water will leave Side 1 and enter Side 2.\n\nb. Water will leave Side 2 and enter Side 1.\n\nc. Dye will leave Side 1 and enter Side 2.\n\nd. Water will leave Side 2 and enter Side 1; dye will leave Side 1 and enter Side 2.\n\ne. Water will leave Side 1 and enter Side 2; dye will leave Side 1 and enter Side 2."
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Exam",
+     "problem": "What will occur if an animal cell’s membrane is pierced?\n\na. The membrane will tear.\n\nb. The membrane will reseal.\n\nc. The membrane will be denatured.\n\nd. The membrane will expand.\n\ne. The membrane will unfold."
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Exam",
+     "problem": "You are studying the effects of temperature on the rate of a particular enzyme-catalyzed reaction. When you increase the temperature from 30° to 50°C, what effect will this have on the rate of the reaction?\n\na. It will increase.\n\nb. It will decrease.\n\nc. It will stay the same.\n\nd. It will increase and then decrease.\n\ne. More information about the enzyme is needed to predict the effect(s)."
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Exam",
+     "problem": "Consider a gene, ABC, which codes for an enzyme involved in the metabolism of sugars. There are two known alleles of this gene, ABC1 and ABC2. Which statement correctly describes the relationship between the ABC gene and the ABC1 and ABC2 alleles?\n\na. The gene is a sequence of amino acids and the alleles are a very similar sequence of amino acids.\n\nb. The gene is a trait and the alleles are a sequence of amino acids.\n\nc. The gene is a trait and the alleles are a nucleotide sequence.\n\nd. The gene is a nucleotide sequence and the alleles are a sequence of amino acids.\n\ne. Both the gene and the alleles are a nucleotide sequence."
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Exam",
+     "problem": "Which structure in a eukaryotic cell originated from a prokaryotic cell?\n\na. Endoplasmic reticulum\n\nb. Golgi apparatus\n\nc. Mitochondrion\n\nd. Lysosome\n\ne. Nucleus"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Exam",
+     "problem": "The average beak size within populations of finches on the Galapagos Islands fluctuates annually in response to the availability of seeds. When only large seeds are available, the average beak size in a population is large; when only smaller seeds are available, the average beak size in a population is small. Which statement about the relationship between seed size and beak size is CORRECT?\n\na. The fluctuation in seed size results in changes in beak size so that finches can eat the available seeds.\n\nb. The fluctuation in seed size causes emigration of finches with beak sizes that cannot handle the seeds and immigration of finches with beak sizes that can handle the seeds.\n\nc. The fluctuation in seed size causes all finches to produce offspring with a beak size that can handle the seeds.\n\nd. The fluctuation in seed size results in differences in the number of offspring produced by finches with beaks of different sizes.\n\ne. The fluctuation in seed size causes a mutation in the finch population that changes beak size, resulting in finches that can eat the available seeds."
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Exam",
+     "problem": "A small protein completely unfolds in a solution containing a high concentration of urea and becomes entirely inactive. Upon removal of the urea, the protein returns to being completely active. What principle of protein structure is illustrated by this example?\n\na. The protein is a catalyst, and so is not used up in the reaction with urea.\n\nb. The formation of disulfide bonds is required for tertiary structure.\n\nc. The tertiary structure is dictated by the primary structure.\n\nd. The formation of tertiary structure follows a positive co-operative pathway.\n\ne. The changes to both entropy and enthalpy are positive with respect to tertiary structure formation."
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Exam",
+     "problem": "A researcher has discovered an organism with cells that contain a previously undescribed organelle. She conducts tests on the isolated organelle to see if it is involved in major metabolic reactions. She incubates these organelles in a solution containing a known amount of the molecules listed in the table below. She records the change in the amount of each molecule from time = 0 to time = 1, and the results are shown here. Based on the results, which metabolic process is taking place in this organelle?\n\n$$\\begin{array}{l|l} \\textbf{Molecules} & \\textbf{Change} \\\\ \\hline \\mathrm{O_2} & \\text{No change} \\\\ \\hline \\mathrm{CO_2} & \\text{Increase} \\\\ \\hline \\text{ATP} & \\text{Increase} \\\\ \\hline \\text{NADH} & \\text{Increase} \\end{array}$$\n\na. Citric acid (Krebs) cycle\n\nb. Glycolysis\n\nc. Electron transport chain and oxidative phosphorylation\n\nd. Light-dependent reactions of photosynthesis\n\ne. Calvin cycle"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Exam",
+     "problem": "What level of taxonomic organization contains both fungi and plants?\n\na. Class\n\nb. Order\n\nc. Phylum\n\nd. Kingdom\n\ne. Domain"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Exam",
+     "problem": "Which statement about the partial pressure of oxygen ($\\mathrm{O_2}$) in the dead space of the trachea at the end of exhalation is CORRECT?\n\na. It is higher than the partial pressure of $\\mathrm{O_2}$ in the external atmosphere.\n\nb. It is the same as the partial pressure of $\\mathrm{O_2}$ in the external atmosphere.\n\nc. It is lower than the partial pressure of $\\mathrm{O_2}$ in the external atmosphere.\n\nd. It is lower than the partial pressure of $\\mathrm{O_2}$ in the lungs.\n\ne. It is higher than the partial pressure of $\\mathrm{O_2}$ in the external atmosphere and lower than that of the lungs."
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Exam",
+     "problem": "Consider the three double stranded DNA molecules below. You slowly heat a solution containing all three molecules, causing them to disassociate and become single stranded. In which order will they disassociate (first to last)?\n\n$$\\begin{array}{ccc} \\underline{\\text{Molecule 1:}} & \\underline{\\text{Molecule 2:}} & \\underline{\\text{Molecule 3:}} \\\\ \\text{5' GCGGGCCAGCCCGAG 3'} & \\text{5' ATTATAAAATATTTA 3'} & \\text{5' GCGGGCCTATTTAGA 3'} \\\\ \\text{3' CGCCCGGTCGGGCTC 5'} & \\text{3' TAATATTTTATAAAT 5'} & \\text{3' CGCCCGGATAAATCT 5'} \\end{array}$$\n\na. Molecule 1 then 2 then 3\n\nb. Molecule 1 then 3 then 2\n\nc. Molecule 2 then 3 then 1\n\nd. Molecule 2 then 1 then 3\n\ne. Molecule 3 then 2 then 1"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Exam",
+     "problem": "The pulmonary artery takes _____________ blood from the _____________ to the _____________.\n\na. oxygenated; heart; body\n\nb. oxygenated; heart; lungs\n\nc. deoxygenated; lungs; heart\n\nd. oxygenated; lungs; heart\n\ne. deoxygenated; heart; lungs"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Exam",
+     "problem": "Which statement about a skin cell from a woman and a skin cell from her son is CORRECT?\n\na. 25% of the mother’s nuclear DNA sequences are found in the son’s skin cell.\n\nb. 50% of the mother’s nuclear DNA sequences are found in the son’s skin cell.\n\nc. 75% of the mother’s nuclear DNA sequences are found in the son’s skin cell.\n\nd. 100% of the mother’s nuclear DNA sequences are found in the son’s skin cell.\n\ne. The amount of the mother’s nuclear DNA sequences found in the son’s skin cell depends on which chromosomes the son inherited from his mother."
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "Exam",
+     "problem": "Parietal cells of the stomach release hydrochloric acid (HCl) to aid in digestion. Why are parietal cells themselves not digested by HCl?\n\na. The $\\mathrm{H^+}$ and $\\mathrm{Cl^-}$ ions are released separately, and only form HCl once they are in the lumen of the stomach.\n\nb. Parietal cells contain inhibitory enzymes that inactivate the HCl, preventing proteolysis.\n\nc. Mucous secreted by cells in the gastric pit prevents the HCl from accessing the parietal cells.\n\nd. HCl has to be activated by pepsinogen, which is released by chief (peptic) cells.\n\ne. Bicarbonate ($\\mathrm{HCO_3^-}$) ions inside of the parietal cells neutralize the HCl."
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "Exam",
+     "problem": "The hydrolysis of sucrose to glucose and fructose is exergonic. However, if you dissolve sucrose in water and keep the solution overnight at room temperature, there is no detectable conversion to glucose and fructose. Why?\n\na. The change in free energy of the reaction is positive.\n\nb. The change in free energy of the reaction is negative.\n\nc. The activation energy of the reaction is high.\n\nd. This is a condensation reaction, which is thermodynamically unfavourable.\n\ne. The free energy of the products is higher than the free energy of the reactant."
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "Exam",
+     "problem": "Over the last century, the population sizes of many animal and plant species have been rapidly declining due to human activities. Given this information, which evolutionary mechanism would most likely be affected by this change?\n\na. Natural selection\n\nb. Genetic drift\n\nc. Artificial selection\n\nd. Gene flow\n\ne. Mutation"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "Exam",
+     "problem": "You are studying the transport of a charged molecule (called chasenate) by three different types of cells. You want to determine which cell type uses active transport to take up the molecule. Each cell type is placed in media containing a high concentration of chasenate. The ratio of concentration of chasenate inside of the cell to concentration of chasenate outside of the cell is measured over time and the results are shown in the graph here. Which cell type(s) are most likely to be using active transport to take up chasenate?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2015-1-20-fig1.png\n\na. Cell type 1\n\nb. Cell type 2\n\nc. Cell type 3\n\nd. Cell types 1 and 2\n\ne. Cell types 2 and 3"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Exam",
+     "problem": "Carbonic acid and sodium bicarbonate (sodium hydrogen carbonate) act as buffers in the blood. When a small amount of acid is added to this buffer, the $\\mathrm{H^+}$ ions are used up as they combine with the bicarbonate ions. What happens as a result?\n\na. The pH of the blood increases.\n\nb. The pH of the blood does not change.\n\nc. The pH of the blood decreases.\n\nd. Carbonic acid breaks down.\n\ne. Sodium hydrogen carbonate is formed."
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Exam",
+     "problem": "Bruce has hypothyroidism, a condition in which the thyroid gland is not producing adequate amounts of thyroxin (T4) and triiodothyronine (T3). Bruce also has low levels of circulating thyroid-stimulating hormone (TSH) and high levels of circulating thyrotropin-releasing hormone (TRH). What is the cause of Bruce’s hypothyroidism?\n\na. TSH receptors on the follicular cells of his thyroid gland are not functioning.\n\nb. The sodium/iodide symporters on the follicular cells of his thyroid gland are not functioning.\n\nc. Iodine absorption by his gastrointestinal tract has been reduced.\n\nd. There is a lack of production and/or release of TSH from the pituitary gland.\n\ne. There is a lack of production and/or release of TRH from the hypothalamus."
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Exam",
+     "problem": "In some cases of diabetes in humans, glucose is metabolized to sorbitol. The enzyme sorbitol dehydrogenase then converts sorbitol into fructose by the reaction shown here. What type of reaction is this?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2015-1-23-fig1.png\n\na. Hydration\n\nb. Hydrogenation\n\nc. Oxidation/reduction\n\nd. Condensation\n\ne. Hydrolysis"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Exam",
+     "problem": "A mutation occurs in a liver cell of a dog before the dog reproduces. When it reproduces, how many of the puppies are expected to have the mutation?\n\na. All of the puppies will have the mutation.\n\nb. Half of the puppies will have the mutation.\n\nc. It depends which chromosomes the puppies inherit.\n\nd. It depends if the mutation is dominant or recessive.\n\ne. None of the puppies will inherit the mutation."
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Exam",
+     "problem": "Upon implanting into the uterine wall, a blastocyst signals the release of human chorionic gonadotropin (hCG). What is the function of hCG?\n\na. Maintain the corpus luteum, thus maintaining elevated levels of circulating progesterone and estrogen.\n\nb. Maintain elevated levels of progesterone and estrogen by stimulating the pituitary gland.\n\nc. Eliminate the corpus luteum, thus maintaining elevated levels of circulating luteinizing hormone.\n\nd. Eliminate the corpus luteum, thus maintaining elevated levels of circulating progesterone.\n\ne. Maintain the corpus luteum, thus maintaining elevated levels of circulating luteinizing hormone."
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Exam",
+     "problem": "The electron carriers NADH and $\\mathrm{FADH_2}$ each donate electrons to the electron transport chain (ETC). Which statement best explains why $\\mathrm{FADH_2}$ generates fewer ATP than NADH does?\n\na. Each molecule of $\\mathrm{FADH_2}$ donates fewer electrons to the ETC than NADH does.\n\nb. $\\mathrm{FADH_2}$ is only used to donate electrons when the cell has used up all of its NADH.\n\nc. The citric acid (Krebs) cycle generates more NADH than $\\mathrm{FADH_2}$.\n\nd. For each molecule of glucose oxidized, equal numbers of $\\mathrm{FADH_2}$ and NADH are produced.\n\ne. There is a lower reduction potential associated with $\\mathrm{FADH_2}$ than NADH."
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Exam",
+     "problem": "Natural selection acts ___________ on the phenotype and ___________ on the genotype.\n\na. directly; directly\n\nb. directly; indirectly\n\nc. indirectly; indirectly\n\nd. indirectly; directly\n\ne. indirectly; not at all"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Exam",
+     "problem": "Violet eats an entire bag of gummy bear candies, which are high in glucose. How could a glucose molecule from a gummy bear provide the energy used to do work in Violet’s cells?\n\na. The glucose molecule is digested into simpler molecules, which have more energy.\n\nb. The glucose molecule is converted into ATP (adenosine triphosphate).\n\nc. The atoms of the glucose molecule are turned into energy.\n\nd. The energy within the glucose molecule is used to form molecules such as ATP.\n\ne. The energy of the glucose molecule is transferred to $\\mathrm{CO_2}$ and $\\mathrm{H_2O}$."
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Exam",
+     "problem": "Which of the following is the definition of evolution used by evolutionary biologists?\n\na. Genetic change in a population or taxon over time.\n\nb. Survival of the fittest individuals in a population.\n\nc. Change in appearance within an individual’s lifetime.\n\nd. Increasing complexity of organisms over time.\n\ne. Adaptation of an organism to its environment."
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Exam",
+     "problem": "How does water get to the leaves of a tall tree?\n\na. It is pushed up from the roots to the leaves via a metabolically active pump in root cells.\n\nb. It is pulled up from the roots by negative pressure generated by the evaporation of water from the leaves.\n\nc. It is actively transported from cell to cell.\n\nd. It enters the leaves through open stomata.\n\ne. It is transported through phloem tissues."
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "Exam",
+     "problem": "Alcohol reduces the secretion of anti-diuretic hormone (ADH, also known as vasopressin). What happens when ADH levels are lowered?\n\na. There will be an $\\underline{\\text{increased}}$ volume of $\\underline{\\text{dilute}}$ urine produced.\n\nb. There will be an $\\underline{\\text{increased}}$ volume of $\\underline{\\text{concentrated}}$ urine produced.\n\nc. There will be a $\\underline{\\text{decreased}}$ volume of $\\underline{\\text{dilute}}$ urine produced.\n\nd. There will be a $\\underline{\\text{decreased}}$ volume of $\\underline{\\text{concentrated}}$ urine produced.\n\ne. There will be an $\\underline{\\text{increased}}$ volume of urine whose concentration is $\\underline{\\text{unchanged}}$."
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "Exam",
+     "problem": "How does the second law of thermodynamics apply to living organisms?\n\na. As energy transformations occur, free energy increases and unusable energy decreases.\n\nb. Reactions occur only with an input of energy.\n\nc. The potential energy of ATP is converted to kinetic energy such as muscle contractions.\n\nd. To maintain order, life requires a constant input of energy.\n\ne. The complexity of living organisms is in disagreement with the second law of thermodynamics."
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "Exam",
+     "problem": "Which of the following is the strongest evidence for a shared evolutionary history between whales and fish?\n\na. They occupy aquatic habitats.\n\nb. They have a streamlined body shape.\n\nc. They first appeared in the fossil record at about the same time.\n\nd. They can be top predators in marine food webs.\n\ne. They have a backbone that protects the nerve cord."
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "Exam",
+     "problem": "Consider two versions of a gene: the wild-type (normal), and a mutant version which contains a 100 base-pair insertion within the first intron of the gene. DNA was extracted from a homozygous wild-type (WT) cell, and a homozygous mutant (M) cell, and polymerase chain reaction (PCR) was used to amplify the entire gene sequence. The PCR products were separated using agarose gel electrophoresis (the gel separates DNA fragments based on nucleotide length). The arrow indicates the direction of movement of DNA through the gel. Which gel below correctly shows the expected PCR products?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2015-1-34-fig1.png\n\na. Gel A\n\nb. Gel B\n\nc. Gel C\n\nd. Gel D\n\ne. Gel E"
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "Exam",
+     "problem": "A cell cycle consists of:\n\na. mitosis and meiosis.\n\nb. G1, the S phase, and G2.\n\nc. prophase, metaphase, anaphase, and telophase.\n\nd. interphase and mitosis.\n\ne. meiosis and fertilization."
+    },
+    {
+     "day": 1,
+     "number": 36,
+     "paper_label": "Exam",
+     "problem": "What type of organism can convert nitrogen gas into chemical form (ammonia) that can then be used by other organisms?\n\na. Bacteria\n\nb. Plants\n\nc. Green algae\n\nd. Fungi\n\ne. Protists"
+    },
+    {
+     "day": 1,
+     "number": 37,
+     "paper_label": "Exam",
+     "problem": "The product of the CAL gene is a transcription factor called CAL. CAL regulates transcription of another gene, ATH, by binding to the promoter of ATH. What type of mutation in the CAL gene is $\\underline{\\text{most}}$ likely to result in a CAL protein that has $\\underline{\\text{reduced}}$ binding affinity for the ATH promoter?\n\na. A deletion of the promoter.\n\nb. A single nucleotide substitution in an exon, resulting in no change to the amino acid sequence.\n\nc. The deletion of three nucleotides within an intron.\n\nd. A deletion of 50 nucleotides after exon 3.\n\ne. An insertion of three nucleotides at the start of exon 3, adding a new stop codon."
+    },
+    {
+     "day": 1,
+     "number": 38,
+     "paper_label": "Exam",
+     "problem": "The figure shows chromosomes that have replicated in a cell that will soon undergo meiosis. The alleles of three genes, A, B, and C, are labelled (the black ovals are centromeres). Which of the following gamete genotypes would be the LEAST frequent product after meiosis?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2015-1-38-fig1.png\n\na. A1 B2 C1\n\nb. A1 B1 C1\n\nc. A1 B2 C2\n\nd. A2 B1 C1\n\ne. A2 B1 C2"
+    },
+    {
+     "day": 1,
+     "number": 39,
+     "paper_label": "Exam",
+     "problem": "Nutrients are cycled between the abiotic (non-living) and biotic (living) components of an ecosystem. Which organisms can both take up $\\underline{\\text{and}}$ release carbon in an ecosystem?\n\na. Insects\n\nb. Fungi\n\nc. Vertebrates\n\nd. Plants\n\ne. None of the above, as carbon cycling is complex and requires multiple species interactions."
+    },
+    {
+     "day": 1,
+     "number": 40,
+     "paper_label": "Exam",
+     "problem": "During an asthma attack in humans, the muscles around the main passageway into the lungs (bronchi) contract, resulting in narrowing of the bronchi. In order to breathe in the same volume of air $\\underline{\\text{in a single breath}}$ as one would normally (that is, when not having an asthma attack) which of the following must occur?\n\na. Raising of the diaphragm higher into the chest cavity.\n\nb. Increase the number of contractions of the diaphragm that occur in a one-minute interval.\n\nc. Relaxing of the external intercostal muscles.\n\nd. Lowering of the diaphragm into the abdominal cavity.\n\ne. Contracting of the internal intercostal muscles."
+    },
+    {
+     "day": 1,
+     "number": 41,
+     "paper_label": "Exam",
+     "problem": "In mice, tail shape is controlled by a single gene. You cross a mouse with a bent tail with/to a mouse with a straight tail. Half of their offspring have bent tails and half have straight tails (regardless of gender). What conclusion based on these results is CORRECT?\n\na. Bent tail is dominant to straight tail.\n\nb. Straight tail is dominant to bent tail.\n\nc. One parent mouse is heterozygous, the other is homozygous.\n\nd. Both parent mice are heterozygous.\n\ne. Neither bent tail nor straight tail are dominant."
+    },
+    {
+     "day": 1,
+     "number": 42,
+     "paper_label": "Exam",
+     "problem": "What is the best manipulation to undertake to achieve the goal of increasing the carrying capacity of a population of native (wild) plants in a given area (for example, a grassland habitat)?\n\na. Increase the availability of nutrients.\n\nb. Increase the number of herbivores.\n\nc. Increase the intensity of competition among plant species.\n\nd. Increase the amount of disruptive human activity.\n\ne. Increase the number of carnivorous tertiary consumers."
+    },
+    {
+     "day": 1,
+     "number": 43,
+     "paper_label": "Exam",
+     "problem": "Which statement about competition between two species is CORRECT?\n\na. Competition always results in the extinction of one species.\n\nb. Competition always occurs between generalist species.\n\nc. Competition always reduces the population size of at least one species.\n\nd. Competition always causes one species to adapt to a new resource.\n\ne. Competition always creates new ecological niches for both species."
+    },
+    {
+     "day": 1,
+     "number": 44,
+     "paper_label": "Exam",
+     "problem": "Intestinal bacteria are necessary for plant-eating animals to digest:\n\na. lipids.\n\nb. nitrogen.\n\nc. carbon dioxide.\n\nd. cellulose.\n\ne. proteins."
+    },
+    {
+     "day": 1,
+     "number": 45,
+     "paper_label": "Exam",
+     "problem": "The membrane potential of a neuron is determined by the movement of ions across the membrane. The likelihood of a neuron firing an action potential depends on whether the membrane becomes depolarized to the action potential threshold for that neuron. Which scenario would most likely result in the neuron reaching the threshold for generating an action potential?\n\na. Net inward movement of $\\mathrm{Cl^-}$.\n\nb. Net outward movement of $\\mathrm{Cl^-}$.\n\nc. Net outward movement of $\\mathrm{Na^+}$.\n\nd. A combination of a net outward movement of $\\mathrm{Na^+}$ and a net inward movement of $\\mathrm{Cl^-}$.\n\ne. A combination of a net outward movement of $\\mathrm{Na^+}$ and a net outward movement of $\\mathrm{Cl^-}$."
+    },
+    {
+     "day": 1,
+     "number": 46,
+     "paper_label": "Exam",
+     "problem": "During translation, what would happen if an anticodon that differs at $\\underline{\\text{all}}$ nucleotide positions successfully binds to a codon of an mRNA?\n\na. The amino acid will not be added to the protein.\n\nb. No protein would be made.\n\nc. The protein would still be made, but at lower amounts.\n\nd. The protein would be unaffected.\n\ne. The wrong amino acid will be added to the protein."
+    },
+    {
+     "day": 1,
+     "number": 47,
+     "paper_label": "Exam",
+     "problem": "Tuna are apex predators that are currently overfished by humans. Which statement correctly describes a consequence of this human activity for the abundance of organisms in the food chain shown here?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2015-1-47-fig1.png\n\na. Zooplankton will decrease.\n\nb. Phytoplankton will decrease.\n\nc. Sardines will decrease.\n\nd. All three species (phytoplankton, zooplankton, sardines) will decrease.\n\ne. All three species (phytoplankton, zooplankton, sardines) will increase."
+    },
+    {
+     "day": 1,
+     "number": 48,
+     "paper_label": "Exam",
+     "problem": "If a flowering plant (an angiosperm) fails to produce gibberellin what is most likely to happen?\n\na. Fruit will not ripen.\n\nb. The plant will be short in overall height.\n\nc. Its tolerance to drought will be reduced.\n\nd. Lateral growth will stop, such as no side branches off of the main stem.\n\ne. Leaves will not be shed in the fall months."
+    },
+    {
+     "day": 1,
+     "number": 49,
+     "paper_label": "Exam",
+     "problem": "A sequence of DNA is shown below. Hypothetically, if either strand could be transcribed, in what direction will the RNA polymerase move?\n\n$$\\begin{array}{l} \\text{5' GGGTATCCC 3'} \\\\ \\text{3' CCCATAGGG 5'} \\end{array}$$\n\na. From left to right on both strands.\n\nb. From right to left on both strands.\n\nc. From left to right on the upper strand, and from right to left on the lower strand.\n\nd. From right to left on the upper strand, and left to right on the lower strand.\n\ne. It will bind to both strands but will be unable to move because of spatial interference."
+    },
+    {
+     "day": 1,
+     "number": 50,
+     "paper_label": "Exam",
+     "problem": "Ebola virus disease (EVD), formerly known as Ebola hemorrhagic fever, is a severe, often fatal illness in humans. Which statement about Ebola is FALSE?\n\na. The virus is transmitted to humans from wild animals.\n\nb. Ebola spreads from human to human by inhaling the airborne virus.\n\nc. The first EVD outbreaks occurred in remote villages in Africa; the most recent outbreak in West Africa involves major urban as well as rural areas.\n\nd. There is as yet no proven treatment available for EVD.\n\ne. There are currently no licensed Ebola vaccines but potential candidates are undergoing evaluation."
+    }
+   ]
+  },
+  {
+   "year": 2016,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Exam",
+     "problem": "During lactic acid fermentation, one molecule of glucose (left figure) is converted to two molecules of lactic acid (right figure). During this reaction, which carbon atoms in glucose (numbered 1 to 6) are reduced and which are oxidized?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2016-1-1-fig1.png\n\na. Carbons 1 and 3 are reduced; carbons 4 and 6 are oxidized.\n\nb. Carbons 2 and 5 are reduced; carbons 1 and 6 are oxidized.\n\nc. Carbons 1 and 6 are reduced; carbons 3 and 4 are oxidized.\n\nd. Carbons 3 and 4 are reduced; carbons 2 and 5 are oxidized.\n\ne. Carbons 3 and 4 are reduced; carbons 1 and 6 are oxidized."
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Exam",
+     "problem": "Which of the following would be found within an autotrophic eukaryotic cell (and not a heterotrophic eukaryotic cell)?\n\na. Mitochondria\n\nb. Ribosomes\n\nc. Rough endoplasmic reticulum\n\nd. Chlorophyll\n\ne. Vacuole"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Exam",
+     "problem": "A botanist wants to breed a new variety of daisy with orange flowers. She crosses a yellow variety with a red variety. She knows that the daisy with yellow petals contains a dominant yellow petal allele and a recessive white petal allele. In which scenario is it possible to obtain an orange flower?\n\na. Red petals have incomplete dominance to yellow petals and are dominant to white petals.\n\nb. Red petals have incomplete dominance to white petals and are recessive to yellow petals.\n\nc. Red petals are dominant to yellow petals and white petals.\n\nd. Red petals are dominant to yellow petals and co-dominant to white petals.\n\ne. Red petals are recessive to yellow petals and dominant to white petals."
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Exam",
+     "problem": "Which of the following mechanisms allows evolutionary biologists to best predict how allele frequencies in a population will change over time?\n\na. Mutation\n\nb. Natural selection\n\nc. Horizontal gene transfer\n\nd. Genetic drift\n\ne. Non-random mating"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Exam",
+     "problem": "Which statement accurately describes essential amino acids?\n\na. They are the only amino acids required for life.\n\nb. They are the only amino acids to contain sulphur (sulfur).\n\nc. They can only be obtained by eating meat.\n\nd. They are the only amino acids required in protein synthesis.\n\ne. They cannot be manufactured by an organism’s body."
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Exam",
+     "problem": "In a eukaryotic cell, where does the synthesis of DNA, RNA, and proteins occur? (ER = endoplasmic reticulum)\n\n$$\\begin{array}{l|l|l|l} & \\text{DNA} & \\text{RNA} & \\text{Proteins} \\\\ \\hline \\text{a.} & \\text{nucleus} & \\text{nucleus} & \\text{nucleus} \\\\ \\hline \\text{b.} & \\text{nucleus} & \\text{cytosol} & \\text{cytosol + ER} \\\\ \\hline \\text{c.} & \\text{nucleus} & \\text{nucleus} & \\text{cytosol + ER} \\\\ \\hline \\text{d.} & \\text{cytosol} & \\text{cytosol} & \\text{nucleus} \\\\ \\hline \\text{e.} & \\text{cytosol} & \\text{nucleus} & \\text{cytosol + ER} \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Exam",
+     "problem": "The spontaneous self-assembly of phospholipids in an aqueous environment are shown at right. What is the most important contributor to this spontaneous assembly?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2016-1-7-fig1.png\n\na. Hydrogen bonding of water.\n\nb. Strong hydrophobic interactions between the hydrophobic tails.\n\nc. Decreased entropy of lipids.\n\nd. Hydrogen bonding and ionic interactions between the phospholipid head groups.\n\ne. Increased entropy of water."
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Exam",
+     "problem": "Nicotine increases the secretion of antidiuretic hormone (ADH) (also known as vasopressin). What is the impact of nicotine on reabsorption of water in the nephron?\n\na. Increased reabsorption of water in the descending limb of the loop of Henle.\n\nb. Decreased reabsorption of water in the descending limb of the loop of Henle.\n\nc. Increased reabsorption of water in the collecting duct.\n\nd. Decreased reabsorption of water in the collecting duct.\n\ne. Increased reabsorption of water in the descending limb of the loop of Henle and in the collecting duct."
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Exam",
+     "problem": "If you isolate mitochondria and place them in a buffer with a low pH they begin to make ATP. Why?\n\na. In a buffer, isolated mitochondria are directly exposed to high concentrations of oxygen.\n\nb. The low pH of the buffer causes an increase in protons in the inter-membrane space of the isolated mitochondria, leading to ATP production by ATP synthase.\n\nc. The low pH of the buffer causes a release of $\\mathrm{OH^-}$ by the isolated mitochondria, which is directly coupled to ATP synthesis by the ATP synthase.\n\nd. The low pH of the buffer causes stress to the mitochondrial outer membrane, which activates the ATP synthase.\n\ne. ATP synthase is soluble in the buffer and so it can now synthesize ATP."
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Exam",
+     "problem": "How would a population of animals be spatially distributed if each animal actively defends its own territory?\n\na. Uniformly\n\nb. Randomly\n\nc. Clumped\n\nd. Linearly\n\ne. Exponentially"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Exam",
+     "problem": "Sucrose and monosodium glutamate (MSG) are added to a salad dressing made of vinegar and oil. If the mixture is then shaken, it will eventually separate into two phases. After this phase separation, where will most of the sucrose and MSG be located?\n\na. Both will concentrate in the vinegar.\n\nb. Both will concentrate in the oil.\n\nc. Both will concentrate at the interface between the two phases.\n\nd. Sucrose will concentrate in the oil, and MSG will concentrate in the vinegar.\n\ne. Sucrose will concentrate in the vinegar, and MSG will concentrate in the oil."
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Exam",
+     "problem": "In humans, red-green colour blindness is a trait conferred by a mutation at a single gene. All males with a single copy of the mutant allele are colour blind; females with a single copy of the mutant allele are not colour blind. What is the nature of the gene for red-green colour blindness?\n\na. Y-linked and recessive\n\nb. Y-linked and dominant\n\nc. X-linked and dominant\n\nd. X-linked and recessive\n\ne. Autosomal and recessive"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Exam",
+     "problem": "Glucose (from ingested food) moves from the lumen of the small intestine through an epithelial cell and into the bloodstream, as shown in the diagram. Which statement about this movement is CORRECT?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2016-1-13-fig1.png\n\na. The glucose moves from the epithelial cell to the blood vessel against its concentration gradient.\n\nb. The movement of glucose from the lumen into the epithelial cell requires a facilitated transport protein.\n\nc. The movement of glucose from the lumen into the epithelial cell requires an active transport protein and an energy source.\n\nd. The movement of glucose from the epithelial cell into the blood vessel requires an active transport protein and an energy source.\n\ne. The movement of glucose from the epithelial cell into the blood vessel does not require a transport protein."
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Exam",
+     "problem": "Humans can dramatically alter their environment to allow for human population expansion and growth. Which of the following best describes what humans are manipulating to allow for increasing their population size?\n\na. The rate of births\n\nb. The number of deaths\n\nc. The amount of available nutrients\n\nd. The availability of water\n\ne. The carrying capacity of the environment"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Exam",
+     "problem": "A farmer planted canola seeds on the same day, in the same field, every year for the past four years. The farmer observed that the seeds took a week longer to germinate this year. Which of the following is NOT a plausible explanation for why it took longer for the seeds to germinate this year?\n\na. The seeds used this year were older.\n\nb. There are more nutrients in the soil this year.\n\nc. It was colder this year.\n\nd. It rained less this year.\n\ne. It was cloudier this year."
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Exam",
+     "problem": "When Streptococcus pneumonia is exposed to an antibiotic, bacteria try to pump the antibiotic out of their cell interior. Which mechanism is most likely used by bacteria to pump the antibiotic out?\n\na. Diffusion\n\nb. Facilitated diffusion\n\nc. Osmosis\n\nd. Active transport\n\ne. Symport (when two different molecules move in the same direction)"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "Exam",
+     "problem": "Which of the following best supports the hypothesis that mitochondria are descendants of endosymbiotic bacteria cells?\n\na. Mitochondria and bacteria possess similar ribosomes and DNA.\n\nb. Mitochondria and bacteria possess similar nuclei.\n\nc. Glycolysis occurs in both mitochondria and bacteria.\n\nd. Both mitochondria and bacteria have microtubules.\n\ne. Both mitochondria and photosynthetic bacteria possess chloroplasts."
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "Exam",
+     "problem": "A soluble protein contains a leucine amino acid (shown at right) in its hydrophobic core. If leucine is substituted with one of the five amino acids below, which substitution would lead to the LEAST change to the three-dimensional structure of the protein?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2016-1-18-fig1.png\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2016-1-18-fig2.png"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "Exam",
+     "problem": "Which statement about shared ancestry is CORRECT?\n\na. Snails and worms share a common ancestor as neither organism uses legs for locomotion.\n\nb. Fish and whales share a common ancestor as both can survive in an aquatic environment.\n\nc. Birds and bats share a common ancestor as both organisms can fly.\n\nd. Chipmunks and squirrels share a common ancestor as they have a similar diet.\n\ne. Snakes and rats share a common ancestor as both organisms develop limbs as embryos."
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "Exam",
+     "problem": "In Mendel’s experiments with pea plants, he described two unlinked genes that controlled seed shape and seed colour. He crossed plants that were homozygous for green and wrinkled seeds with plants that were homozygous for yellow and round seeds. All of the resulting $\\mathrm{F_1}$ plants had yellow and round seeds. If $\\mathrm{F_1}$ plants were crossed with plants that were homozygous for yellow and wrinkled seeds, what proportion of the progeny would you expect to have $\\underline{\\text{yellow}}$ and $\\underline{\\text{round}}$ seeds?\n\na. 1/16\n\nb. 3/16\n\nc. 1/4\n\nd. 1/2\n\ne. 9/16"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Exam",
+     "problem": "Which of the following was first proposed by Charles Darwin?\n\na. The term “evolution”\n\nb. The theory of evolution by natural selection\n\nc. DNA as genetic material\n\nd. The independent assortment of chromosomes\n\ne. The inheritance of acquired characteristics"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Exam",
+     "problem": "The ______ receive(s) blood from the ______ and the ______.\n\na. liver; hepatic arteries; hepatic portal vein\n\nb. liver; hepatic arteries, hepatic veins\n\nc. kidneys; renal arteries, renal veins\n\nd. kidneys; renal arteries; renal portal vein\n\ne. lungs; pulmonary arteries; pulmonary veins"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Exam",
+     "problem": "Which statement about structures in plants is FALSE?\n\na. The spines on a cactus are modified leaves and they can deter predators.\n\nb. Roots interact with soil fungi and bacteria that help provide nutrients to the plant.\n\nc. The cells of the upper and lower epidermis of leaves contain chloroplasts.\n\nd. The colour of petals attracts animal pollinator.\n\ne. The anther contains pollen."
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Exam",
+     "problem": "In which image will adenine (shown as A in these images) be the next nucleotide to be added to the nucleic acid during normal DNA replication?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2016-1-24-fig1.png\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2016-1-24-fig2.png"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Exam",
+     "problem": "Two populations of rabbits were separated by a mountain range for 1 million years. Over time, the mountains eroded, and there is now an opening that allows for contact between individuals from the two populations. Scientists studying these rabbits have determined that they are now two separate species due to pre-zygotic reproductive isolation. Which of the following would NOT support this conclusion?\n\na. The rabbits from the two populations breed at different times of the year.\n\nb. The rabbits from the two populations use very different behaviours to attract mates.\n\nc. The rabbits from the two populations occur in very different habitats.\n\nd. The rabbits from the two populations have incompatible reproductive structures.\n\ne. The rabbits from the two populations produce offspring with an odd number of chromosomes."
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Exam",
+     "problem": "How would the production of ATP be affected if an isolated chloroplast is exposed to a toxin that makes its thylakoid membranes freely permeable to hydrogen ions?\n\na. ATP would still be produced because the proton gradient would increase.\n\nb. ATP would still be produced by the light-independent reactions.\n\nc. ATP would still be produced by the photosynthetic electron transport chain.\n\nd. ATP would no longer be produced in the light-dependent reactions.\n\ne. ATP would no longer be produced in the light-independent reactions."
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Exam",
+     "problem": "What proportion of total DNA in cells of a male human comes from each of his parents?\n\na. Slightly more DNA from his father than his mother\n\nb. Slightly more DNA from his mother than his father.\n\nc. Equally from both parents.\n\nd. An extra X-chromosome from his mother.\n\ne. An extra Y-chromosome from his mother."
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Exam",
+     "problem": "Emphysema is a condition in which the small airways of the lung become narrow, and the alveoli are degraded and begin to form larger spaces. Which of the following is NOT likely to occur in a patient with emphysema?\n\na. An increase in carbon dioxide levels in the blood.\n\nb. A decrease in oxygen levels in the blood.\n\nc. A decrease in breathing rate.\n\nd. An increase in hemoglobin level.\n\ne. A decrease in respiratory surface area."
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Exam",
+     "problem": "Why is maintaining a high body temperature (e.g., 37°C) more challenging for smaller endothermic animals than for larger endothermic animals?\n\na. Smaller animals have a lower metabolic rate (per gram of body mass) relative to larger animals.\n\nb. Smaller animals have a higher surface area to volume ratio and therefore lose greater amounts of heat to the environment.\n\nc. Smaller animals have lower surface area to volume ratio and therefore lose greater amounts of heat to the environment.\n\nd. Smaller animals are unable to produce enough brown adipose tissue whereas larger animals can.\n\ne. Smaller animals are unable to shiver at a rate that is fast enough to produce heat in their muscles."
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Exam",
+     "problem": "Every cell in a normal human body is derived from a single cell. However, cells eventually become specialized to perform specific tasks and functions. What best explains this occurrence?\n\na. Chromosomes crossover during mitosis\n\nb. Random genetic mutation\n\nc. Targeted genetic mutation\n\nd. Genetic responses to the environment\n\ne. Altered expression of genes"
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "Exam",
+     "problem": "The drug Furosemide affects the body’s water equilibrium by inhibiting the membrane proteins that actively pump sodium ($\\mathrm{Na^+}$) and chloride ($\\mathrm{Cl^-}$) ions across the cell membranes of the thick ascending limb of the loop of Henle. What does this drug cause?\n\na. Reduced retention of $\\mathrm{Na^+}$ and $\\mathrm{Cl^-}$ ions in the urine and an increase in total blood volume.\n\nb. Reduced retention of $\\mathrm{Na^+}$ and $\\mathrm{Cl^-}$ ions in the urine and a decrease in total blood volume.\n\nc. Higher retention of $\\mathrm{Na^+}$ and $\\mathrm{Cl^-}$ ions in the urine and an increase in total blood volume.\n\nd. Higher retention of $\\mathrm{Na^+}$ and $\\mathrm{Cl^-}$ ions in the urine and a decrease in total blood volume.\n\ne. No change in the retention of $\\mathrm{Na^+}$ and $\\mathrm{Cl^-}$ in the urine, but an increase in the total blood volume."
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "Exam",
+     "problem": "Which of the following would increase the rate of growth of a population of animals?\n\na. An increase in female fecundity\n\nb. An increase in density\n\nc. An increase in mortality rate\n\nd. An increase in predation\n\ne. An increase in carrying capacity"
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "Exam",
+     "problem": "In which direction(s) are the leading and lagging strands synthesized during DNA replication?\n\na. 5ʹ to 3ʹ on both the leading and lagging strands.\n\nb. 3ʹ to 5ʹ on both the leading and lagging strands.\n\nc. Both 5ʹ to 3ʹ and 3ʹ to 5ʹ on either the leading or lagging strands.\n\nd. 5ʹ to 3ʹ on the leading strand and 3ʹ to 5ʹ on the lagging strand.\n\ne. 3ʹ to 5ʹ on the leading strand and 5ʹ to 3ʹ on the lagging strand."
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "Exam",
+     "problem": "Which statement about this phylogenetic tree is CORRECT?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2016-1-34-fig1.png\n\na. Humans are equally closely related to cats and frogs.\n\nb. Lizards and cats are more closely related than lizards and humans.\n\nc. Fish are the most recent common ancestor of the other organisms in the tree.\n\nd. Geese and fish are more closely related than geese and frogs.\n\ne. Frogs are equally closely related to cats and lizards."
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "Exam",
+     "problem": "I am unicellular. I am autotrophic. I swim with a flagellum. I possess a nucleus. My cell wall lacks both chitin and peptidoglycan. Who am I?\n\na. A fungus\n\nb. A bacterium\n\nc. A protist\n\nd. An archaeon\n\ne. A flowering plant"
+    },
+    {
+     "day": 1,
+     "number": 36,
+     "paper_label": "Exam",
+     "problem": "Athletes that undertake endurance training do so to improve their body’s ability to cope with intense and prolonged activity. This training results in changes to the heart and circulatory system. Which of the following would NOT be a resulting change?\n\na. The heart increases in size (left ventricle wall becomes thicker and the chamber gets bigger).\n\nb. The heart decreases in size (left ventricle wall becomes thinner and the chamber gets smaller).\n\nc. Heart stroke volume increases (more blood is pumped by the heart with each beat).\n\nd. The exercising heart rate decreases (slower heart rate compared to people who have not trained).\n\ne. The resting heart rate decreases (slower heart rate compared to people who have not trained)."
+    },
+    {
+     "day": 1,
+     "number": 37,
+     "paper_label": "Exam",
+     "problem": "Why are male animals able to provide gametes with more genetic diversity than females for reproduction?\n\na. Males provide more genes in sperm than females provide in eggs.\n\nb. Male gametes are produced via meiosis, but female gametes are produced via mitosis.\n\nc. Crossing over occurs more often in the formation of sperm than in eggs.\n\nd. Spermatogenesis in males results in four functional sperm, while oogenesis in females results in only one egg and three structures that contain genetic information that is lost when they disintegrate.\n\ne. Sperm that contain a recombination of genes are usually more successful in fertilizing an egg."
+    },
+    {
+     "day": 1,
+     "number": 38,
+     "paper_label": "Exam",
+     "problem": "Trypsin and elastase are both enzymes that catalyze the hydrolysis of peptide bonds. Trypsin only cuts next to lysine; elastase only cuts next to alanine. Why?\n\na. Trypsin is a protein, and elastase is not.\n\nb. $\\Delta G$ for the two reactions is different.\n\nc. One of the reactions is endergonic, and the other is exergonic.\n\nd. Hydrolysis of lysine bonds requires water; hydrolysis of alanine bonds does not.\n\ne. The shape of the active site for the two enzymes is different."
+    },
+    {
+     "day": 1,
+     "number": 39,
+     "paper_label": "Exam",
+     "problem": "How does myelination increase the speed that action potentials can travel along an axon?\n\na. Myelin insulates the axon from the leakage of ions across the membrane, which allows the action potential to “hop” to the next region of high ion channel density.\n\nb. Myelin conducts the action potentials down the axon by increasing ion channel density.\n\nc. Myelin decreases intracellular resistance, which causes the action potentials to decay at a slower rate.\n\nd. Myelin decreases intracellular resistance, which causes the action potentials to decay at a faster rate.\n\ne. Myelin increases the membrane resistance and decreases the intracellular resistance, which causes the action potentials to decay at a slower rate."
+    },
+    {
+     "day": 1,
+     "number": 40,
+     "paper_label": "Exam",
+     "problem": "Which of the following is the best description of how materials move in plants within xylem and phloem?\n\n$$\\begin{array}{l|l|l} & \\text{In xylem, materials move:} & \\text{In phloem, materials move:} \\\\ \\hline \\text{a.} & \\text{from roots to the leaves} & \\text{from leaves to the roots} \\\\ \\hline \\text{b.} & \\text{from leaves to the roots} & \\text{from roots to the leaves} \\\\ \\hline \\text{c.} & \\text{in both directions between roots and leaves} & \\text{from leaves to the roots} \\\\ \\hline \\text{d.} & \\text{from roots to the leaves} & \\text{in both directions between roots and leaves} \\\\ \\hline \\text{e.} & \\text{in both directions between roots and leaves} & \\text{in both directions between roots and leaves} \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 41,
+     "paper_label": "Exam",
+     "problem": "If the food chain shown here is controlled from the bottom up, what will happen if human activity results in the removal of hawks from the environment?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2016-1-41-fig1.png\n\na. Snakes, toads, grasshoppers, and grass will increase in abundance.\n\nb. Snakes, toads, grasshoppers, and grass will decrease in abundance\n\nc. Snakes and grasshoppers will decrease in abundance; toads and grass will increase in abundance.\n\nd. Snakes and grasshoppers will increase in abundance; toads and grass will decrease in abundance.\n\ne. The abundance of snakes, toads, grasshoppers, and grass will not change."
+    },
+    {
+     "day": 1,
+     "number": 42,
+     "paper_label": "Exam",
+     "problem": "Which statement best explains the evolution of fins in whales and fish?\n\na. The common ancestor of whales and fish possessed genes for fins.\n\nb. Whales and fish possess the same mutations in their genomes.\n\nc. Fins evolved in whales and fish because they both use them to swim in water.\n\nd. Fins evolved in whales and fish because of different mutations that occurred in their genomes.\n\ne. Fins evolved in whales and fish because their most recent common ancestor swam in water."
+    },
+    {
+     "day": 1,
+     "number": 43,
+     "paper_label": "Exam",
+     "problem": "How does a plant respond after detecting abscisic acid in a leaf?\n\na. Close stomatal pores and decrease photosynthesis.\n\nb. Close stomatal pores and increase photosynthesis.\n\nc. Open stomatal pores and increase photosynthesis.\n\nd. Open stomatal pores and decrease photosynthesis.\n\ne. There is no change in stomatal pores, but the rate of photosynthesis increases."
+    },
+    {
+     "day": 1,
+     "number": 44,
+     "paper_label": "Exam",
+     "problem": "Where on Earth is most organic carbon located?\n\na. The atmosphere\n\nb. Soils\n\nc. Living organisms\n\nd. Oceans\n\ne. Sedimentary rock of marine origin"
+    },
+    {
+     "day": 1,
+     "number": 45,
+     "paper_label": "Exam",
+     "problem": "Which statement about ribosomes is CORRECT?\n\na. Ribosomes contain DNA and protein.\n\nb. Ribosomal subunits leave the nucleus after being formed by the nucleolus.\n\nc. Ribosomes are active in carbohydrate synthesis.\n\nd. Polyribosomes are the subunits of ribosomes.\n\ne. Ribosomes are only found associated with the endoplasmic reticulum in eukaryotic cells."
+    },
+    {
+     "day": 1,
+     "number": 46,
+     "paper_label": "Exam",
+     "problem": "Which of the following can be used to correctly determine whether a cell is a bacteria or a protist?\n\na. The presence or absence of a rigid cell wall.\n\nb. Whether or not the cell contains membrane-bound compartments.\n\nc. The presence or absence of ribosomes.\n\nd. Whether or not the cell carries out cellular metabolism.\n\ne. Whether or not the cell contains its own genome."
+    },
+    {
+     "day": 1,
+     "number": 47,
+     "paper_label": "Exam",
+     "problem": "Which statement about the structure of DNA and RNA is CORRECT?\n\na. DNA nucleotides contain phosphate groups and RNA nucleotides do not.\n\nb. DNA is a non-polar molecule and RNA is a polar molecule.\n\nc. DNA uses cytosine nucleotides and RNA does not.\n\nd. DNA contains nitrogen atoms and RNA does not.\n\ne. DNA contains a different sugar group than RNA."
+    },
+    {
+     "day": 1,
+     "number": 48,
+     "paper_label": "Exam",
+     "problem": "Macromolecules do NOT donate electrons directly to the electron transport chain (ETC). Why?\n\na. The ETC can only receive electrons carried by oxidized electron carrier molecules such as $\\mathrm{NAD^+}$.\n\nb. The ETC is only found in the mitochondrial outer membrane, and not all cells have mitochondria.\n\nc. The ETC can only receive electrons carried by reduced electron carrier molecules such as NADH.\n\nd. The ETC only works by accepting electrons from oxidized carbon.\n\ne. Macromolecules do not have enough electrons to donate to the ETC."
+    },
+    {
+     "day": 1,
+     "number": 49,
+     "paper_label": "Exam",
+     "problem": "Hypercapnia is a condition in which levels of carbon dioxide in the blood are abnormally elevated. Why does hypercapnia result in an increase in ventilation rate?\n\na. Increasing ventilation rate will increase the amount of oxygen entering the lungs.\n\nb. Increasing ventilation rate will increase the amount of carbon dioxide entering the lungs.\n\nc. The increase in blood pH stimulates breathing in order to expel excess carbon dioxide.\n\nd. The decrease in blood pH stimulates breathing in order to expel excess carbon dioxide.\n\ne. Chemoreceptors in the brain and aorta stimulate breathing in order to attain more oxygen."
+    },
+    {
+     "day": 1,
+     "number": 50,
+     "paper_label": "Exam",
+     "problem": "An outbreak of Zika virus, transmitted by mosquitoes, was recently identified in Brazil. In Zika virus-affected areas an increase in the number of infants born with microcephaly (abnormally small brain and head) has been reported. The Brazilian Ministry of Health investigated 35 cases of babies born with microcephaly (the results are shown below). All 35 infants are being tested for the presence of Zika virus. However, as of March 2016, the results are not yet available. Based solely on the data shown here which of the following is the most correct conclusion?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2016-1-50-fig1.png\n\nSymptoms of 35 infants born with microcephaly summer 2015\n\na. When a pregnant woman is infected with the Zika virus, her child will be born with microcephaly.\n\nb. The Zika virus is possibly associated with microcephaly.\n\nc. Mosquito bites transmit Zika virus, which causes microcephaly in newly born children.\n\nd. If a woman is not infected with Zika virus, none of her future children will have microcephaly.\n\ne. Zika virus causes severe microcephaly, but not low to moderate microcephaly."
+    }
+   ]
+  },
+  {
+   "year": 2017,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Exam",
+     "problem": "Which statement is CORRECT?\n\na. Some viruses have elaborate cell structures.\n\nb. The nucleus is present in both prokaryotes and eukaryotes, but not in viruses.\n\nc. Ribosomes are present in eukaryotes, but not in prokaryotes or viruses.\n\nd. Some prokaryotes are multicellular.\n\ne. Some eukaryotes are unicellular."
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Exam",
+     "problem": "A dog has adult tapeworms (Taenia saginata) attached to the lining of its small intestine. What happens to tapeworm eggs when they are released into the small intestine?\n\na. They move through the digestive tract to the host’s mouth and are expelled.\n\nb. They move through the intestine and then are expelled in the urine via the ureters.\n\nc. They move through the intestine and then are expelled through the anus along with the feces.\n\nd. They move through the intestine and are digested by the host.\n\ne. They remain in the small intestine until the host dies."
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Exam",
+     "problem": "Two fruit flies with the genotypes AABbCc and aaBBCc are crossed. Which of the following genotypes is most likely to occur in the offspring?\n\na. AaBBcc\n\nb. AaBbCc\n\nc. AaBBCC\n\nd. AAbbCc\n\ne. aaBbCc"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Exam",
+     "problem": "The bacterium E. coli requires simple organic molecules for growth and energy. What is E. coli?\n\na. A chemoautotroph\n\nb. A chemoheterotroph\n\nc. A photochemotroph\n\nd. A photoautotroph\n\ne. A photoheterotroph"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Exam",
+     "problem": "If a piece of wire is tied tightly around a tree trunk as the tree grows it will be compressed by the wire. As this occurs, how will the tree first be affected?\n\na. The tree trunk will bulge above and below the wire, but otherwise remain unaffected.\n\nb. Water from the roots will not be able to reach the leaves.\n\nc. The trunk will become weak and the tree may fall over.\n\nd. Sugars produced in the leaves will not be able to reach the roots.\n\ne. The tree will become vulnerable to insects and pathogens."
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Exam",
+     "problem": "Doctors recommend that patients avoid the unnecessary use of antibiotics as this can lead to the evolution of “superbugs.” Which statement best explains this?\n\na. Pathogenic bacteria have a high rate of reproduction, which enables adaptive mutations to spread quickly in the population.\n\nb. Individual bacteria cells mutate in response to the antibiotic, which makes them immune.\n\nc. As the human body becomes habituated to antibiotics, the immune system starts to break them down before they can affect the infection.\n\nd. The human body breaks down antibiotics into sugars, which promote bacteria growth.\n\ne. Artificial antibiotics interfere with the antibiotics that are naturally produced by the body."
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Exam",
+     "problem": "Which statement about invasive species is most likely to be CORRECT?\n\na. Invasive species often arise when new niches open in a new habitat.\n\nb. Invasive species usually reproduce more slowly than native species.\n\nc. Invasive species are often easy to control.\n\nd. Invasive species may be aggressive competitors, and thus increase overall biodiversity.\n\ne. Some invasive species can change the physical structure of their new habitat."
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Exam",
+     "problem": "Which of the following evolved in early eukaryotes after they split off from prokaryotes?\n\na. Proteins\n\nb. Lipid bilayer\n\nc. Nuclear envelope\n\nd. The use of ATP to transfer energy within cells\n\ne. DNA"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Exam",
+     "problem": "“Mighty oaks from little acorns grow” is a common proverb. An acorn (which contains an oak seed) fits in the palm of your hand, but a mature oak tree can have a dry mass of over 8 tonnes. Which process below contributes most to this dry mass?\n\na. The roots absorb minerals from the soil.\n\nb. The roots absorb carbon-containing molecules, such as glucose, from the soil.\n\nc. The roots absorb water from the soil.\n\nd. The leaves absorb sunlight.\n\ne. The leaves incorporate gas from the atmosphere."
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Exam",
+     "problem": "Male Birds of Paradise have feathers that are brightly coloured and highly visible, while females of the same species have duller colouration. Which statement best explains why this difference evolved?\n\na. Female birds prefer to mate with males that have bright feathers.\n\nb. Male and female birds live in different habitats.\n\nc. Male birds with bright feathers produce more sperm.\n\nd. Birds with bright feathers live longer than birds with dull feathers.\n\ne. Male birds prefer to mate with females that have dull feathers."
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Exam",
+     "problem": "The rate of reaction of an enzyme over a range of temperatures is measured. What is the most likely explanation for the data shown in this graph?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2017-1-11-fig1.png\n\na. The enzyme works rapidly at first but then gets used up in the reaction after about 50 degrees.\n\nb. The enzyme is running out of substrate and so is slowing down.\n\nc. The enzyme speeds its collisions with the substrate as it warms but begins to denature past a certain temperature.\n\nd. The enzyme could begin to speed up its rate again after about 65 degrees.\n\ne. The enzyme is unstable, unlike most enzymes that can work well across a range of temperatures."
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Exam",
+     "problem": "What is the most probable outcome of using large amounts of nitrogen-containing fertilizers for use in agriculture?\n\na. Little or no effect on the carbon cycle in ecosystems.\n\nb. A decrease in the growth of aquatic algae due to excess nitrogen leaching into waterways.\n\nc. An increase in $\\mathrm{CO_2}$ and $\\mathrm{O_2}$ in aquatic environments which can kill aquatic organisms.\n\nd. The amount of nitrogen stored in the soil and waterways exceeding the amount of nitrogen in the atmosphere.\n\ne. Populations of nitrogen-fixing bacteria in soil are negatively affected (through reduction in plant dependence on its mutualistic association with nitrogen-fixing bacteria)."
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Exam",
+     "problem": "In vertebrates, the hypothalamus, pituitary gland, adrenal glands, and their interactions comprise the HPA-axis. The HPA-axis is an important regulator of stress, the immune system, and other processes. Cortisol is a glucocorticoid hormone of the adrenal gland that provides negative feedback to the hypothalamus and the pituitary gland. Why is cortisol considered part of a negative-feedback pathway?\n\na. The adrenal gland suppresses cortisol production.\n\nb. Cortisol inhibits hormone production in the hypothalamus and the pituitary gland.\n\nc. Cortisol causes the hypothalamus and the pituitary gland to decrease in size.\n\nd. The overproduction of cortisol causes desensitization of the hypothalamus and pituitary glands to cortisol.\n\ne. The hypothalamus and pituitary gland secrete substances that inhibit cortisol production in the adrenal glands."
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Exam",
+     "problem": "Below is the phenotype pedigree of a family with a history of Huntington’s Disease. What does this pedigree indicate about the genetics of this disease?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2017-1-14-fig1.png\n\na. It is Y-linked dominant.\n\nb. It is Y-linked recessive.\n\nc. It is autosomal dominant.\n\nd. It is autosomal recessive.\n\ne. This pedigree does not provide enough information to comment on the genetics of Huntington’s Disease."
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Exam",
+     "problem": "A patient who suffered a stroke was asked to read a simple phrase and to repeat it back to the doctor. The patient could read and understand the phrase, but was unable to produce intelligible sounds. Which area of the brain was most likely to have been damaged?\n\na. The pons, a region of the brainstem.\n\nb. The corpus callosum.\n\nc. The superior parietal lobule (Brodmann’s area), a region of the parietal lobe.\n\nd. Broca’s area, a region of the frontal lobe.\n\ne. The hippocampus, a region of the temporal lobe."
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Exam",
+     "problem": "Imagine that in the year 2100 humans have established a permanent colony on Mars and, due to a critical shortage of rocket fuel, the Mars colony becomes isolated from Earth for 1000 years. Once contact is restored, it is discovered that a much higher proportion of the Martian population has naturally curly hair than the population on Earth. What is the most likely evolutionary explanation for this?\n\na. A mutation emerged in the straight-haired Martians that led to their offspring’s hair to be curlier.\n\nb. Curly hair is favoured by natural selection on Mars.\n\nc. There is a feature of the environment of Mars that causes straight hair to become curly.\n\nd. When the Mars colony was first established, more of the original colonists had curly hair than straight hair.\n\ne. Curly hair is favoured by sexual selection on Mars."
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "Exam",
+     "problem": "This diagram shows a double-stranded section of a nucleic acid. Hydrogen bonds are shown by the slashed lines. The nucleotide sequences below are written in their normal, conventional directionality. Which sequence is correct for one of the strands shown in the diagram?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2017-1-17-fig1.png\n\na. TCTC\n\nb. CTCT\n\nc. AGAG\n\nd. UCUC\n\ne. CUCU"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "Exam",
+     "problem": "Tiger sharks feed on sea turtles. Sea turtles feed on sea grass. Fish lay their eggs within sea grass. If hunters were to kill most of the tiger sharks in this ecosystem what is most likely to happen?\n\na. There would be an increase in sea turtles, and decrease in fish.\n\nb. There would be a decrease in sea turtles, and increase in sea grass.\n\nc. Overgrazing of sea grass would lead to an increase in fish.\n\nd. There would be a decrease in fish, and increase in sea grass.\n\ne. There would be an increase in sea turtles, and increase in sea grass."
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "Exam",
+     "problem": "What functional groups are present on this molecule?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2017-1-19-fig1.png\n\na. Ether and aldehyde\n\nb. Hydroxyl and aldehyde\n\nc. Hydroxyl and carboxylic acid\n\nd. Hydroxyl and ester\n\ne. Hydroxyl and ketone"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "Exam",
+     "problem": "Which statement about sieve-tube elements is CORRECT?\n\na. They are non-living cells that conduct sugars from leaves to the rest of the plant.\n\nb. They are living cells that conduct water and minerals from roots to the rest of the plant.\n\nc. They are non-living cells that conduct water and minerals from roots to the rest of the plant.\n\nd. They are living cells that conduct sugars from leaves to the rest of the plant.\n\ne. They are non-living cells that conduct both water and sugars throughout the plant."
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Exam",
+     "problem": "Consider the four molecules below and their permeability across a phospholipid bilayer with no proteins in the bilayer. Order the molecules from LEAST permeable (left) to MOST permeable (right).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2017-1-21-fig1.png\n\na. 4 < 3 < 2 < 1\n\nb. 4 < 2 < 1 < 3\n\nc. 3 < 2 < 4 < 1\n\nd. 3 < 1 < 2 < 4\n\ne. 2 < 3 < 1 < 4"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Exam",
+     "problem": "How does the anatomy of birds allow them to ventilate their lungs in a unidirectional manner?\n\na. Bird lungs are a single tube through which inhaled air flows.\n\nb. Bird lungs are very elastic which allows them to manipulate air pressures throughout the thoracic cavity to facilitate unidirectional airflow.\n\nc. The wings also act as bellows to drive air straight through the lungs from the trachea.\n\nd. Rigid air sacs create pressure changes that drive air through the lungs.\n\ne. Inhaled air travels to the posterior of the thoracic cavity, and then travels anteriorly through the lungs."
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Exam",
+     "problem": "In a container, a phospholipid bilayer separates two salt solutions: side A is hypertonic relative to side B. Which of the following will happen?\n\na. There will be a net movement of water molecules from side A to side B.\n\nb. There will be a net movement of water molecules from side B to side A.\n\nc. There will be an initial movement of water molecules from side A to side B, then equilibrium will be reached.\n\nd. There will be an initial movement of water molecules from side B to side A, then a net movement from side B to side A.\n\ne. There will be individual water molecules moving only from side B to side A, and none in the other direction."
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Exam",
+     "problem": "Which statement describes a situation in which disruptive selection would most likely take place?\n\na. Finch beak size corresponds to the size of the seeds they eat; after an environmental catastrophe, plants that produce smaller seeds disappear, leaving only large seeds.\n\nb. Female frogs prefer to mate with males that produce low-frequency croaks.\n\nc. A particular species of mouse has widely varying fur colour and can be found in both fields and beaches; mice with dark fur are better able to hide from predators in thick grass, while mice with light fur are better camouflaged in white sand.\n\nd. Fishermen preferentially target the largest fishes, while the smallest fishes are at higher risk of predation by other fishes.\n\ne. Skin tone in humans varies greatly; but due to sunscreen, vitamin supplements, and modern medicine, there is no difference in fitness between people of different skin tones, regardless of climate."
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Exam",
+     "problem": "Which epigenetic changes can increase gene expression?\n\na. Histone acetylation and DNA acetylation\n\nb. Histone methylation and DNA methylation\n\nc. Histone demethylation and DNA methylation\n\nd. Histone deacetylation and DNA demethylation\n\ne. Histone acetylation and DNA demethylation"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Exam",
+     "problem": "One unripe peach is placed in a bag with a banana. A second unripe peach is placed in a bag on its own. The peach in the bag with the banana ripens much faster. What compound is the banana releasing that speeds ripening of the peach?\n\na. Nitric oxide\n\nb. Ethylene\n\nc. Oxygen\n\nd. Auxin\n\ne. Carbon dioxide"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Exam",
+     "problem": "What is the functional significance of the absence of the blood-brain barrier near the posterior pituitary gland?\n\na. Red blood cells from the circulatory system can leak into the grey matter of the brain.\n\nb. There is lower density of capillaries near the posterior pituitary.\n\nc. Hormones produced by the posterior pituitary can directly enter the bloodstream.\n\nd. Protons and proteins must be actively transported between the blood stream and interstitial fluid in this area.\n\ne. There is an increased number of tight junctions between capillary cells near the posterior pituitary gland."
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Exam",
+     "problem": "Which is the correct order of the trophic levels in the food pyramid for the four species below, from bottom (left) to top (right)?\n\na. hawk → grass → jackrabbit → long-tailed weasel\n\nb. grass → long-tailed weasel → jackrabbit → hawk\n\nc. grass → jackrabbit → long-tailed weasel → hawk\n\nd. grass → jackrabbit → hawk → long-tailed weasel\n\ne. long-tailed weasel → hawk → jackrabbit → grass"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Exam",
+     "problem": "Which statement about restriction enzymes is CORRECT?\n\na. Not all restriction enzymes cut DNA to create a 5´ or 3´ overhang.\n\nb. Restriction enzymes recognize a specific DNA sequence of two to four base pairs.\n\nc. Restriction enzymes cut a single strand of DNA.\n\nd. Most restriction enzymes can cut RNA.\n\ne. Most restriction enzymes recognize palindromic restriction sites."
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Exam",
+     "problem": "Which statement has the cellular components arranged in order of increasing size, from smallest (left) to largest (right)?\n\na. Amino acid < protein < mitochondrion < ribosome\n\nb. Amino acid < protein < ribosome < mitochondrion\n\nc. Amino acid < ribosome < protein < mitochondrion\n\nd. Protein < amino acid < mitochondrion < ribosome\n\ne. Protein < ribosome < mitochondrion < amino acid"
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "Exam",
+     "problem": "Marine fishes ingest salt water. How do marine fishes osmoregulate?\n\na. The kidneys excrete dilute urine; excess sodium and chloride ions diffuse out of the body through the gills.\n\nb. The kidneys excrete dilute urine; excess sodium and chloride ions are actively transported into the body through the gills.\n\nc. The kidneys excrete concentrated urine; excess sodium and chloride ions diffuse into the body through the skin.\n\nd. The kidneys excrete concentrated urine; excess sodium and chloride ions diffuse out of the body through the gills.\n\ne. The kidneys excrete concentrated urine; excess sodium and chloride ions are actively transported out of the body through the gills."
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "Exam",
+     "problem": "The protein PETAL1 promotes petal development. The protein FALL1 is a transcription factor that represses expression of PETAL1. A plant biologist wants to see if she can engineer the plant’s genome so the flowers produce more petals. What approach would be most likely to be successful?\n\na. Mutate FALL1 so that it no longer functions.\n\nb. Mutate the promoter of PETAL1 so that FALL1 will always bind to it.\n\nc. Mutate PETAL1 so that it no longer functions.\n\nd. Mutate FALL1 so that it binds DNA more tightly.\n\ne. Mutate an intron in PETAL1."
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "Exam",
+     "problem": "Gene therapy treatments are becoming available to cure genetic diseases in embryos. One type of gene therapy involves the replacement of mutated genes with functional copies in embryos. What is a benefit of this therapy?\n\na. Most genetic diseases can be cured by replacement of a single gene.\n\nb. The individuals would not pass the disease on to their children.\n\nc. The mutated gene will only be replaced in cells where its expression is required.\n\nd. Gene therapy is easily adapted for all genetic disorders.\n\ne. There are no risks of additional mutations being generated."
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "Exam",
+     "problem": "In mitochondria, $\\mathrm{H^+}$ ions are moved by the electron transport chain. What is this an example of?\n\na. Active transport\n\nb. Facilitated diffusion\n\nc. Passive transport\n\nd. Electron transport\n\ne. Electrochemical gradient transport"
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "Exam",
+     "problem": "Of the 20 standard amino acids, only ____ is not optically active (chiral). The reason is that its side chain ____.\n\na. alanine; is a simple methyl group\n\nb. glycine; is a hydrogen atom\n\nc. glycine; is unbranched\n\nd. lysine; contains only nitrogen\n\ne. proline; forms a covalent bond with the amino group"
+    },
+    {
+     "day": 1,
+     "number": 36,
+     "paper_label": "Exam",
+     "problem": "Vertebrates that have evolved to live at high altitudes often possess adaptations to survive at low levels of atmospheric oxygen. What is most likely to be the difference between vertebrates that live at sea level and those that live at high altitude?\n\na. Animals adapted to low altitudes have larger hearts and higher cardiac output than animals adapted to high altitudes.\n\nb. Animals adapted to high altitudes have smaller lung volumes and lower ventilation rates than animals adapted to low altitudes.\n\nc. Animals adapted to high altitudes have lower heart rates and lower stroke volumes than animals adapted to low altitudes.\n\nd. Animals adapted to low altitudes take faster, deeper breaths than animals adapted to high altitudes.\n\ne. Animals adapted to high altitudes have higher cardiac output and higher ventilation rates than animals adapted to low altitudes."
+    },
+    {
+     "day": 1,
+     "number": 37,
+     "paper_label": "Exam",
+     "problem": "Some phytoplankton undergo either asexual or sexual reproduction at different stages of their life cycle. Which statement best explains why more individuals reproduce sexually when environmental conditions are poor?\n\na. Sexual reproduction increases genetic diversity; thus, some offspring have a better chance of survival when conditions are poor.\n\nb. Sexual reproduction requires fewer resources; thus, organisms switch when conditions deteriorate.\n\nc. Asexual reproduction increases genetic diversity; thus, more offspring can take advantage of favourable growing conditions.\n\nd. Sexual reproduction decreases genetic diversity; thus, only superior genotypes survive in unfavourable conditions.\n\ne. Asexual reproduction increases offspring size; thus, offspring have more resources and are better able to survive in favourable conditions."
+    },
+    {
+     "day": 1,
+     "number": 38,
+     "paper_label": "Exam",
+     "problem": "A researcher discovered an organism with cells that contain a previously undescribed organelle. He performed tests on the isolated organelle to see if it is involved in any major metabolic reactions. He incubated these organelles for a period of time in a solution containing a known amount of the molecules listed in the table below and measured changes in their amounts in the suspending solution. Based on these results, which metabolic process is most likely to be taking place in this organelle?\n\n$$\\begin{array}{|l|l|} \\hline \\text{Glucose} & \\text{No change} \\\\ \\hline \\mathrm{O_2} & \\text{Increase} \\\\ \\hline \\mathrm{CO_2} & \\text{No change} \\\\ \\hline \\text{ATP} & \\text{Increase} \\\\ \\hline \\text{NADPH} & \\text{Increase} \\\\ \\hline \\end{array}$$\n\na. Glycolysis\n\nb. Citric acid (Krebs) cycle\n\nc. Electron transport chain and oxidative phosphorylation\n\nd. Light-dependent reaction of photosynthesis\n\ne. Calvin cycle"
+    },
+    {
+     "day": 1,
+     "number": 39,
+     "paper_label": "Exam",
+     "problem": "The protein cytochrome b562 in bacteria (shown below) consists of a single folded polypeptide chain. What is the highest level of structure found in this protein?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2017-1-39-fig1.png\n\na. Primary\n\nb. Secondary\n\nc. Tertiary\n\nd. Quaternary\n\ne. Alpha helix"
+    },
+    {
+     "day": 1,
+     "number": 40,
+     "paper_label": "Exam",
+     "problem": "Which statement about membrane proteins is CORRECT?\n\na. They consist of hydrophobic amino acids, but not polar or charged amino acids.\n\nb. They are sometimes covalently attached to carbohydrates.\n\nc. They often flip across the membrane unless they are anchored.\n\nd. They have polar amino acids all around their exterior surface, similar to soluble proteins.\n\ne. They cannot be enzymes, because they are located in a hydrophobic bilayer."
+    },
+    {
+     "day": 1,
+     "number": 41,
+     "paper_label": "Exam",
+     "problem": "A breeder wants to create a variety of conifer tree that does not shed a lot of needles (so that when they are used during the holiday season they do not create a mess in people’s homes). Which attribute should be selected for?\n\na. Trees with a thinner cuticle that protects the leaves.\n\nb. Trees that produce a large quantity of sap to halt water transport.\n\nc. Trees that produce more aromatic compounds so people will be reminded to water them.\n\nd. Trees with fewer stomata in their leaves.\n\ne. Trees that utilize more carbon dioxide."
+    },
+    {
+     "day": 1,
+     "number": 42,
+     "paper_label": "Exam",
+     "problem": "During pulmonary respiration in terrestrial vertebrates, carbon dioxide diffuses from the blood across the alveolus and into the lungs. Which factor increases the diffusion rate of carbon dioxide?\n\na. Increasing the thickness of the alveolar walls.\n\nb. If the partial pressure of oxygen is higher in the lungs than in the blood.\n\nc. If the partial pressure of oxygen is higher in the blood than in the lungs.\n\nd. If the partial pressure of carbon dioxide is higher in the lungs than in the blood\n\ne. If the partial pressure of carbon dioxide is higher in blood than in the lungs."
+    },
+    {
+     "day": 1,
+     "number": 43,
+     "paper_label": "Exam",
+     "problem": "What would be the consequence of severe DNA damage detected during the G2 checkpoint of the cell cycle?\n\na. The cell will not enter mitosis.\n\nb. The cell will not replicate its DNA.\n\nc. The cell will activate mitosis-promoting factor to arrest the cell cycle in the $\\mathrm{G_0}$ phase.\n\nd. The cell will enter prophase with damaged DNA.\n\ne. The cell cycle will stop after DNA replication occurs."
+    },
+    {
+     "day": 1,
+     "number": 44,
+     "paper_label": "Exam",
+     "problem": "Which of the following is a major change to the way of thinking about species that arose as a result of Darwin and Wallace’s theory of evolution by natural selection?\n\na. Species can be grouped together and groups can be classified as taxa.\n\nb. Species can be arranged into a hierarchy with simple organisms on the bottom and complex organisms on the top.\n\nc. Physical changes occur as a result of an individual’s environment, and these changes are passed on to the individual’s offspring.\n\nd. Species are related by common ancestry.\n\ne. Life can arise from non-life."
+    },
+    {
+     "day": 1,
+     "number": 45,
+     "paper_label": "Exam",
+     "problem": "When a mammal consumes large amounts of salt (NaCl), vasopressin (also called anti-diuretic hormone, ADH) is released into the bloodstream. How does this lead to an increase in blood pressure?\n\na. Blood osmolarity decreases and vasopressin causes the kidneys to reabsorb more water.\n\nb. Blood osmolarity decreases and vasopressin causes the kidneys to reabsorb less water.\n\nc. Blood osmolarity increases and vasopressin causes a decrease in peripheral vascular resistance.\n\nd. Blood osmolarity increases and vasopressin causes the kidneys to reabsorb more water.\n\ne. Blood osmolarity increases and vasopressin causes the kidneys to reabsorb less water."
+    },
+    {
+     "day": 1,
+     "number": 46,
+     "paper_label": "Exam",
+     "problem": "Licorice Ferns grow along the trunks of Bigleaf Maple trees. The ferns provide nutrients to their host (the Bigleaf Maple). What term best describes this relationship?\n\na. Commensalism\n\nb. Parasitism\n\nc. Competition\n\nd. Mutualism\n\ne. Predation"
+    },
+    {
+     "day": 1,
+     "number": 47,
+     "paper_label": "Exam",
+     "problem": "The enzyme fumarase catalyzes the reversible hydration of fumaric acid to l-malate, but it will not catalyze the hydration of maleic acid (the cis isomer of fumaric acid). What is this difference an example of?\n\na. Biological activity\n\nb. Chiral activity\n\nc. Biological substrates\n\nd. Enzymatic isomerization\n\ne. Substrate specificity"
+    },
+    {
+     "day": 1,
+     "number": 48,
+     "paper_label": "Exam",
+     "problem": "A scientist who is studying meiosis in tissue culture uses a cell line with a mutation disrupting meiosis. She allows the cells to grow for the amount of time that meiosis takes to occur. She then observes that the number of cells in the culture has doubled, and each cell also has twice as much DNA as it should. Also, the sister chromatids have separated. Based on these observations, what stage of meiosis is disrupted in this cell line?\n\na. Anaphase I\n\nb. Metaphase I\n\nc. Anaphase II\n\nd. Prophase II\n\ne. Metaphase II"
+    },
+    {
+     "day": 1,
+     "number": 49,
+     "paper_label": "Exam",
+     "problem": "Public health officials recommend that individuals get the influenza (flu) vaccine. Which of the following is a medically justifiable reason to NOT get the influenza vaccine?\n\na. Receiving the flu vaccine can give you the flu.\n\nb. Your immune system is weakened.\n\nc. The flu vaccine never works.\n\nd. You had the flu last year.\n\ne. The flu is not a serious illness."
+    },
+    {
+     "day": 1,
+     "number": 50,
+     "paper_label": "Exam",
+     "problem": "A scientist is studying the function of a novel gene. She has identified five alleles of this gene, and each allele is associated with a different mutation. She can only choose one allele to study, so she wants to choose the one that is most likely to result in an extreme phenotype. A map for the normal gene is below. Based on the information below about each mutation, which allele should she choose?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/nbc-2017-1-50-fig1.png\n\na. An allele with a 1 bp (base pair) insertion at Exon 1.\n\nb. An allele with a 50 bp deletion at Promoter.\n\nc. An allele with a missense mutation at Exon 1.\n\nd. An allele with a 2 bp deletion at Intron 1.\n\ne. An allele with a premature stop codon at Exon 2."
+    }
+   ]
+  },
+  {
    "year": 2018,
    "problems": [
     {
