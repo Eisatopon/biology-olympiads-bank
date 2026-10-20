@@ -2,6 +2,1149 @@
  "competition": "Australian Science Olympiad Exam — Biology",
  "years": [
   {
+   "year": 2015,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Of the following biological levels of organisation, which one represents the smallest or lowest level?\n\na. organs\n\nb. organelles\n\nc. cells\n\nd. organisms"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "You are conducting an experiment to test the hypothesis that dairy cows will give more milk if they listen to classical music while being milked. Your 20 experimental cows listen to classical music during milking; you collect all their milk and measure how much there is. Your 20 control cows should have all experimental conditions identical to the experimental cows except\n\na. they should listen to classical music at a louder volume\n\nb. they should listen to classical music all the time, not just during milking\n\nc. they should listen to a different type of music, like heavy metal\n\nd. they should not listen to any music"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A successful scientific experiment will result only in\n\na. rejection of one or more hypotheses\n\nb. proving a hypothesis\n\nc. accepting many hypotheses\n\nd. confirming predictions"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Homologous structures among animals provide evidence for evolution in that these structures are\n\na. different in different animals, but are modifications of the same basic structure\n\nb. similar in function, but of different basic structure\n\nc. all shown in the fossil record\n\nd. all produced by the same gene"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The study of the way individual traits are transmitted from one generation to the next is called\n\na. ecology\n\nb. genetics\n\nc. cell biology\n\nd. homology"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which of the following is not a property of life?\n\na. moulding or adapting to one’s environment\n\nb. regulating materials that enter and leave the system\n\nc. responding to stimuli\n\nd. reproducing, passing hereditary material to the next generation"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Plant cells differ from animal cells in that plant cells have\n\na. an endoplasmic reticulum\n\nb. a central vacuole\n\nc. Golgi apparatus\n\nd. Vesicles"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "When separated by a selectively permeable membrane a net gain of water tends to occur in\n\na. a hypoosmotic solution from an isosmotic solution\n\nb. an isosmotic solution from a hyperosmotic solution\n\nc. a hyperosmotic solution from a hypoosmotic solution\n\nd. a hypoosmotic solution from a hyperosmotic solution"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "In a lipid bilayer the lipids have their.\n\na. water repelling heads facing inward\n\nb. water repelling tails facing inward\n\nc. hydrogen bond forming heads facing inward\n\nd. hydrogen bond forming tails facing inward"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The universal energy currency of all cells is\n\na. ATP\n\nb. $\\mathrm{NAD^+}$\n\nc. ADP\n\nd. $\\mathrm{O_2}$"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Enzymes\n\na. make endergonic reactions proceed spontaneously\n\nb. lower the activation energy of a reaction\n\nc. are not very specific in their choice of substrates\n\nd. are needed in large quantities because they are used up during catalysis"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "To what category of macromolecules do most enzymes belong?\n\na. carbohydrates\n\nb. lipids\n\nc. proteins\n\nd. nucleic acids"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The usefulness of fermentation as a means of deriving energy is limited because\n\na. it cannot generate enough ATP\n\nb. it produces too much $\\mathrm{NH_2}$\n\nc. the end products are toxic to the producer\n\nd. it uses more energy than it produces"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Organisms that do not have the ability to produce or synthesise their own food are called\n\na. anaerobic\n\nb. autotrophs\n\nc. exergonic\n\nd. heterotrophs"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Water vapour exits and $\\mathrm{CO_2}$ enters a leaf through the\n\na. stomata\n\nb. grana\n\nc. stroma\n\nd. photons"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Sexual reproduction favours\n\na. genetic stability\n\nb. highly successful species\n\nc. stable populations\n\nd. genetic diversity"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which of the following are mismatched?\n\na. haploid-n\n\nb. somatic cells-2n\n\nc. zygote-n\n\nd. sperm cell-n"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The ratio often referred to the Mendelian ratio is\n\na. 1:3:3:1\n\nb. 3:1\n\nc. 1:3:1\n\nd. 1:1"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which of the following represents a testcross?\n\na. Ww x WW\n\nb. ww x WW\n\nc. Ww x Ww\n\nd. WW x WW"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "An actively dividing bacterial culture is grown in a medium containing radioactive adenine (A*). After all the adenine is labelled, the bacteria are transferred to a medium containing nonradioactive adenine (A). Following one round of DNA replication in the nonradioactive medium, the DNA is analysed. Which of the following sequences could represent this DNA?\n\na. $\\begin{array}{l} \\text{A*A*TTGA*TC} \\\\ \\text{TTAACTAG} \\end{array}$\n\nb. $\\begin{array}{l} \\text{A*ATTGA*TC} \\\\ \\text{TTA*A*CTAG} \\end{array}$\n\nc. $\\begin{array}{l} \\text{AATTGATC} \\\\ \\text{TTAACTAG} \\end{array}$\n\nd. $\\begin{array}{l} \\text{A*A*TTGA*TC} \\\\ \\text{TTA*A*CTA*G} \\end{array}$"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Mutations that impact evolution must occur in\n\na. the fossil record\n\nb. somatic cells\n\nc. sperm cells\n\nd. germ-line cells"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which of the following populations is most likely to go extinct?\n\na. A very small population in an unstable environment.\n\nb. A large population with abundant resources.\n\nc. A large population with lots of genetic variability.\n\nd. All would likely go extinct. Or as sentence fragments without capitals"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The formation of seeds greatly improved plants’ adaptation to land by:\n\na. enabling offspring to disperse further away from the parent plant\n\nb. allowing survival during adverse conditions\n\nc. providing nourishment following germination\n\nd. all of the above"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "How many principal organ systems does the human body contain?\n\na. 11\n\nb. 4\n\nc. 23\n\nd. it varies from individual to individual"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Materials are exchanged between the blood and the surrounding tissues in the\n\na. arteries\n\nb. veins\n\nc. capillaries\n\nd. lymphatic system"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which types of feedback systems are more common in vertebrates to maintain homeostasis?\n\na. positive\n\nb. negative\n\nc. a and b, are both common\n\nd. a and b are both extremely rare"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The cell cycle is made up of four main phases. The genetic material of a cell is replicated in S phase while cell division occurs in M phase. Cells from different tissues will cycle at different rates, some continuous while others are capable of entering a resting state. Cells from which tissue are likely to cycle continuously?\n\na. skin\n\nb. liver\n\nc. brain\n\nd. kidney"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A human cell has 46 chromosomes. This cell replicates its DNA and undergoes cell division into two identical daughter cells. What is this process called and how many chromosomes are found in each daughter cell?\n\na. Mitosis, 23\n\nb. Meiosis, 23\n\nc. Mitosis, 46\n\nd. Meiosis, 46"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The kidneys function to filter the blood to produce urine for excretion. This process occurs in millions of tiny structures called nephrons within the kidney. The substance exiting the blood and entering the nephron is called filtrate (F). This filtrate is modified by the nephron via two mechanisms; secretion (S) of substances into and reabsorption (R) of substances out of the filtrate. The final product is excreted (E). Which equation correctly summarises this process?\n\na. F – (R x S) = E\n\nb. F – (R + S) = E\n\nc. F + R + S = E\n\nd. F – R + S = E"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Certain vaccines function by introducing a weakened variant of a pathogen into the human body. Which of the following statements is incorrect?\n\na. Vaccines can be made from a particular segment of a pathogen\n\nb. The immune response to the vaccine will be ‘remembered’ if the active pathogen is ever encountered\n\nc. The vaccine lacks virulence factors that cause disease\n\nd. Protection similar to vaccination cannot be attained from previous infection"
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Haemoglobin is a protein in human blood that collects oxygen from the lungs and delivers it to tissues. Myoglobin is similar to haemoglobin in structure and functions to store oxygen in muscle tissue. Which of the following concerning protein affinity for oxygen is correct?\n\na. Foetal haemoglobin > maternal haemoglobin\n\nb. Maternal haemoglobin > paternal haemoglobin\n\nc. Adult haemoglobin > adult myoglobin\n\nd. Maternal haemoglobin > foetal haemoglobin"
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The following information refers to questions 32 - 34\n\nChromosomal abnormalities occur during meiosis, a process that produces gametes (eggs and sperm) within human bodies. Abnormalities occur when there is an uneven split of chromosomes into each gamete. The following table shows 6 of the most common syndromes associated with chromosomal abnormalities.\n\n$$\\begin{array}{l|l|l|l} \\text{Syndrome name} & \\text{Chromosome Affected} & \\text{Incidence per 10, 000 births} & \\text{Type of mutation} \\\\ \\hline \\text{Polyploidy} & \\text{Extra complete set of chromosomes} & \\text{Fatal, doesn’t reach full term} & \\text{Addition} \\\\ \\text{Patau syndrome} & 13 & 2 & \\text{Addition} \\\\ \\text{Edwards syndrome} & 18 & 3 & \\text{Addition} \\\\ \\text{Down syndrome} & 21 & 15 & \\text{Addition} \\\\ \\text{Klinefelter syndrome} & 23 & \\text{10 (affects only males)} & \\text{Addition} \\\\ \\text{Turner syndrome} & 23 & \\text{2 (affects only females)} & \\text{Deletion} \\end{array}$$\n\nFollowing 30,000 of all births, how many children would be predicted to have Turner syndrome?\n\na. 0\n\nb. 3\n\nc. 4\n\nd. 6"
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The following information refers to questions 32 - 34\n\nChromosomal abnormalities occur during meiosis, a process that produces gametes (eggs and sperm) within human bodies. Abnormalities occur when there is an uneven split of chromosomes into each gamete. The following table shows 6 of the most common syndromes associated with chromosomal abnormalities.\n\n$$\\begin{array}{l|l|l|l} \\text{Syndrome name} & \\text{Chromosome Affected} & \\text{Incidence per 10, 000 births} & \\text{Type of mutation} \\\\ \\hline \\text{Polyploidy} & \\text{Extra complete set of chromosomes} & \\text{Fatal, doesn’t reach full term} & \\text{Addition} \\\\ \\text{Patau syndrome} & 13 & 2 & \\text{Addition} \\\\ \\text{Edwards syndrome} & 18 & 3 & \\text{Addition} \\\\ \\text{Down syndrome} & 21 & 15 & \\text{Addition} \\\\ \\text{Klinefelter syndrome} & 23 & \\text{10 (affects only males)} & \\text{Addition} \\\\ \\text{Turner syndrome} & 23 & \\text{2 (affects only females)} & \\text{Deletion} \\end{array}$$\n\nWhat is the sex chromosome makeup of a child with Klinefelter syndrome?\n\na. XO\n\nb. XY\n\nc. XXY\n\nd. XX"
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The following information refers to questions 32 - 34\n\nChromosomal abnormalities occur during meiosis, a process that produces gametes (eggs and sperm) within human bodies. Abnormalities occur when there is an uneven split of chromosomes into each gamete. The following table shows 6 of the most common syndromes associated with chromosomal abnormalities.\n\n$$\\begin{array}{l|l|l|l} \\text{Syndrome name} & \\text{Chromosome Affected} & \\text{Incidence per 10, 000 births} & \\text{Type of mutation} \\\\ \\hline \\text{Polyploidy} & \\text{Extra complete set of chromosomes} & \\text{Fatal, doesn’t reach full term} & \\text{Addition} \\\\ \\text{Patau syndrome} & 13 & 2 & \\text{Addition} \\\\ \\text{Edwards syndrome} & 18 & 3 & \\text{Addition} \\\\ \\text{Down syndrome} & 21 & 15 & \\text{Addition} \\\\ \\text{Klinefelter syndrome} & 23 & \\text{10 (affects only males)} & \\text{Addition} \\\\ \\text{Turner syndrome} & 23 & \\text{2 (affects only females)} & \\text{Deletion} \\end{array}$$\n\nThe incidence of Down’s syndrome increases with maternal age, and not significantly with paternal age. What may reasonably explain this trend?\n\na. failure of muscular contractions to correctly fuse the two gametes.\n\nb. gradual accumulation in germ-line chromosomal mutations throughout reproductive age.\n\nc. maternal oocytes have a longer period of meiosis than paternal spermatozoa, and thus there are more opportunities for mutations to develop.\n\nd. maternal mitochondrial DNA is mutated in Down’s syndrome."
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Sports exert a heavy physiological toll on the body, particularly martial arts. When exposed to a dangerous situation the body releases adrenaline, triggering a fight or flight response. Which of the following would you NOT expect to observe in the pair of fighters below?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2015-1-35-fig1.png\n\na. Increased pulse\n\nb. Decreased blood flow to the muscles\n\nc. Altered release of typical body hormones such as testosterone and oestrogen\n\nd. Increased blood pressure"
+    },
+    {
+     "day": 1,
+     "number": 36,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Another sport that puts a high degree of strain on the body is artistic gymnastics. Due to the high number of hours these athletes spend training they are at increased risk of a variety of detrimental conditions. Which of the following does NOT explain this relationship?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2015-1-36-fig1.png\n\na. Excessive stretching of muscles can also stretch ligaments, leading to joint instability.\n\nb. Overtraining may lead to micro-tears in muscles which if left untreated can cause larger tears to occur.\n\nc. Having a higher than average level of muscle tone puts athletes at increased risk of malnutrition and broken bones.\n\nd. Increased exercise can lead to compression of the discs between vertebrae in the back leading to pain and inflammation."
+    },
+    {
+     "day": 1,
+     "number": 37,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The following information refers to Questions 37 and 38\n\nDr Vitali is growing bacteria in a liquid broth in his lab. He measures the growth of bacteria over time and graphs it, showing the trend below:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2015-1-37-fig1.png\n\nPast about 12 hours the growth of the bacteria seems to change. What is a plausible reason for this occurring?\n\na. Antibiotics in the nutrient broth begin to take effect around this time and inhibit growth.\n\nb. Waste products toxic to the bacteria have accumulated and inhibit growth.\n\nc. The bacteria ran out of space.\n\nd. The temperature for growth was now optimal and the bacteria grew faster."
+    },
+    {
+     "day": 1,
+     "number": 38,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The following information refers to Questions 37 and 38\n\nDr Vitali is growing bacteria in a liquid broth in his lab. He measures the growth of bacteria over time and graphs it, showing the trend below:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2015-1-37-fig1.png\n\nDr Vitali would like to repeat the experiment by taking a sample of bacteria out of the culture when they are in large numbers AND still growing quickly. At what time would it be best for him to take his sample?\n\na. 4 hours\n\nb. 8 hours\n\nc. 10 hours\n\nd. 12 hours"
+    },
+    {
+     "day": 1,
+     "number": 39,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The following information refers to Questions 39 – 40\n\nThe disease Malaria is caused by parasitic protozoa of the genus Plasmodium. Different species of Plasmodium are found in different regions of the world.\n\nDr Plos sees a patient (Patient 1) who shows the symptoms of malaria, however this patient has been on a round the world tour and so Dr Plos is not sure which Malaria stain the patient has. To find out Dr Plos takes the Plasmodium DNA and cuts it up with a restriction endonuclease enzyme. This produces a characteristic “DNA fingerprint” which can be matched to standards from different Malaria species.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2015-1-39-fig1.png\n\nFrom the DNA gel above, what malaria stain is Patient 1 infected with?\n\na. Plasmodium falciparum\n\nb. Plasmodium Vivax\n\nc. Plasmodium Ovale\n\nd. Plasmodium Malariae"
+    },
+    {
+     "day": 1,
+     "number": 40,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The following information refers to Questions 39 – 40\n\nThe disease Malaria is caused by parasitic protozoa of the genus Plasmodium. Different species of Plasmodium are found in different regions of the world.\n\nDr Plos sees a patient (Patient 1) who shows the symptoms of malaria, however this patient has been on a round the world tour and so Dr Plos is not sure which Malaria stain the patient has. To find out Dr Plos takes the Plasmodium DNA and cuts it up with a restriction endonuclease enzyme. This produces a characteristic “DNA fingerprint” which can be matched to standards from different Malaria species.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2015-1-39-fig1.png\n\nA week later a friend of patient 1 (patient 2) presents to the doctor because they are also feeling ill. To figure out where they both contracted the disease Dr Plos looks at the mosquitos which carry each of the Plasmodium species.\n\nThe main vectors for each Plasmodium species are:\n\n$$\\begin{array}{l|l|l} \\text{Malaria Species} & \\text{Mosquito vector} & \\text{Distribution in Asia} \\\\ \\hline \\text{P. falciparum} & \\text{An. dirus} & \\text{East and West China, Vietnam, Laos, Thailand and Japan} \\\\ \\text{P. Vivax} & \\text{An. farauti} & \\text{India, Pakistan, South Afghanistan, New Guinea and Northern Australia} \\\\ \\text{P. Ovale} & \\text{An. minimus} & \\text{Vietnam, Cambodia, Laos, Thailand and Malaysia} \\\\ \\text{P. Malariae} & \\text{An. stephensi} & \\text{Philippines, Malaysia, Indonesia and New Guinea} \\end{array}$$\n\nAssuming the two friends were infected in the same location while they travelled together, and given the above distribution of malaria vectors, where were they infected?\n\na. West China\n\nb. East China\n\nc. India\n\nd. Laos"
+    },
+    {
+     "day": 2,
+     "number": 41,
+     "paper_label": "Section B: True/false",
+     "problem": "Australia has the world’s highest incidence of melanoma, a form of skin cancer characterised by abnormal cell growth. As with many diseases, it is affected by several environmental and genetic factors. Determine whether the following statements are true (T) or false (F).\n\na. If the DNA of a cell is damaged then it is more likely to grow irregularly which may increase the risk of developing melanoma.\n\nb. It is easier to cure damage to DNA once it has occurred than to prevent the damage initially.\n\nc. Individuals born with a genetic predisposition to melanoma will develop the condition at some point in their lives.\n\nd. The incidence of melanoma is correlated with lifestyle factors such as sun exposure, diet, and exercise."
+    },
+    {
+     "day": 2,
+     "number": 42,
+     "paper_label": "Section B: True/false",
+     "problem": "Determine whether the following statements are true (T) or false (F).\n\na. Plants display no response to environmental stimuli.\n\nb. The reaction describing photosynthesis is: $\\mathrm{CO_2 + H_2O \\rightarrow C_6H_{12}O_6 + O_2}$\n\nc. The visible portion of a fungi or mushroom represents only a small percentage of the entire organism.\n\nd. Since plants cannot carry out photosynthesis without sunlight, at night they are metabolically inactive."
+    },
+    {
+     "day": 2,
+     "number": 43,
+     "paper_label": "Section B: True/false",
+     "problem": "The following figure displays the relationships between time and antibody levels for a specific phage (P) over a month. With reference to the information below, determine whether the following statements are true (T) or false (F).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2015-2-43-fig1.png\n\na. Person 1 is likely to have been exposed to the phage before since they have higher levels of antibodies overall.\n\nb. Person 2 is likely to have been exposed to the phage before since they have lower levels of antibodies overall.\n\nc. Both graphs display similar trends in antibody levels\n\nd. Since every individual is different the timing of the immune response is different for every individual."
+    },
+    {
+     "day": 2,
+     "number": 44,
+     "paper_label": "Section B: True/false",
+     "problem": "In regards to genetics, determine whether the following statements are true (T) or false (F).\n\na. Hybridisation is the mating/crossing of two true-breeding varieties.\n\nb. All genetic crosses follow Mendelian ratios.\n\nc. For each character, an offspring will receive only one copy of a gene.\n\nd. Traits segregate independently of each other."
+    },
+    {
+     "day": 2,
+     "number": 45,
+     "paper_label": "Section B: True/false",
+     "problem": "Determine whether the following statements are true (T) or false (F).\n\na. Vacuoles are membrane-bound organelles which are only found in plant cells.\n\nb. Plant cells and fungal cells both possess cell walls.\n\nc. Chloroplasts are essential to the synthesis of sugars in cells, and so are found in all living cells.\n\nd. The Golgi complex is only found in secretory cells."
+    },
+    {
+     "day": 2,
+     "number": 46,
+     "paper_label": "Section B: True/false",
+     "problem": "Determine whether the following statements are true (T) or false (F).\n\na. The genomes of viruses can be composed of DNA or RNA.\n\nb. All viruses have a protein coat surrounding their genetic information.\n\nc. Phages are viruses that specifically infect bacteria only.\n\nd. Bacteriophages are only able to attach to their hosts if the bacteria possess features or receptors on its surface to which the virus can bind."
+    },
+    {
+     "day": 2,
+     "number": 47,
+     "paper_label": "Section B: True/false",
+     "problem": "You plan to insert the gene PhoQ from Tobibacterium sp. into a plasmid vector containing an artificial promotor followed by a restriction site for NcoI (CCATGG) and a restriction site for EcoRI (GAATTC).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2015-2-47-fig1.png\n\nTo conduct this procedure you are required to design forward (the sense strand) and reverse (antisense strand) primers. Part of the 561 nucleotide long coding sequence is shown below.\n\n5’-ATGCGACAGTTCATCACCGA... ______....GCGGGACCGGACTGGGGTAA-3’\n\nDetermine whether the following statements are true (T) or false (F).\n\na. The use of two different restriction sites avoids wrong orientation of the inserted fragment.\n\nb. A possible forward primer for amplification and insertion of PhoQ gene will have the following sequence: 5’ – GATCCCATGGATGCGACAGTTC – 3’\n\nc. A possible reverse primer for amplification and insertion of PhoQ gene will have the following sequence: 5’ – GATCGAATTCAATGGGGTCAGGCC – 3’\n\nd. The final gene product will consist of at least 189 amino acids"
+    },
+    {
+     "day": 2,
+     "number": 48,
+     "paper_label": "Section B: True/false",
+     "problem": "Plant xylem transport can be understood only by invoking biomechanics. Conduit diameter and length have major consequences for conducting efficiency, which agree with the Hagen–Poiseuille formula as follows:\n\n$$\\mathit{volumetric\\ flow\\ rate} = \\frac{\\pi r^4}{8 \\times \\mathit{viscosity}} \\times \\frac{\\Delta\\Psi p}{L}$$\n\nwhereas:\n\nr = radius\n\nΨp = pressure potential\n\nL = length\n\nThe figure below shows the range of conduit diameter and length of tracheid in gymnosperms and vessels in angiosperms.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2015-2-48-fig1.png\n\nDetermine whether the following statements are true (T) or false (F).\n\na. The largest difference between vessels and tracheids is in the length, rather than the diameter.\n\nb. Movement rate in vessels is approximately equal to that in stem tracheids.\n\nc. Root tracheids can be wider than stem tracheids because they do not need as much reinforcement to hold up the foliage and to resist bending of the axis.\n\nd. The bigger the diameter of vessels, the smaller its frictional resistance."
+    },
+    {
+     "day": 2,
+     "number": 49,
+     "paper_label": "Section B: True/false",
+     "problem": "Growth hormone (GH) is important for humans that raises the concentration of glucose and free fatty acid and promotes postnatal growth through direct and indirect effects on many tissues.\n\nDetermine whether the following statements are true (T) or false (F).\n\na. Hyperglycaemia can stimulate the release of GH secretion.\n\nb. Exercising will increase GH production which in turn increases lipolysis.\n\nc. The effects of GH are enhanced by circulating androgens (e.g. testosterone) at puberty.\n\nd. Administration of GH will stimulate bone mass and muscle growth."
+    },
+    {
+     "day": 2,
+     "number": 50,
+     "paper_label": "Section B: True/false",
+     "problem": "The pedigree of a family is shown below in which some members (shown in black) are affected by a genetic disease with a prevalence of 9% in the population. The phenotype of the individual marked with ? is unknown.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2015-2-50-fig1.png\n\nDetermine whether the following statements are true (T) or false (F).\n\na. The disease is most likely caused by autosomal recessive allele.\n\nb. Individual 5 is heterozygous with a probability of 50%.\n\nc. Under the assumption that the disease-causing allele is in Hardy-Weinberg equilibrium, individual 3 is heterozygous with a probability of 46%.\n\nd. If affected individuals had a reduced fertility, the disease-causing allele would be eliminated from the population."
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "paper_label": "Section C: Written answers",
+     "problem": "The activity of trypsin can be determined experimentally by measuring the rate at which amino acids are formed by the hydrolysis of a protein such as albumin.\n\nAn experiment was carried out to investigate the effect of trypsin concentration on the activity of albumin. Two solutions of trypsin, A and B, of differing concentrations, were incubated with a dilute albumin solution. The concentration of amino acids produced was measured every two minutes for fourteen minutes. The results are shown in the table below.\n\n$$\\begin{array}{c|c|c} & \\rlap{\\text{Concentration of amino acids produced / micromoles dm}^{-3}} & \\\\ \\text{Time/min} & \\text{Trypsin solution A} & \\text{Trypsin solution B} \\\\ \\hline 0 & 0.2 & 0.2 \\\\ 2 & 1.2 & 0.4 \\\\ 4 & 2.3 & 0.7 \\\\ 6 & 3.4 & 1.0 \\\\ 8 & 4.4 & 1.2 \\\\ 10 & 5.3 & 1.3 \\\\ 12 & 6.2 & 1.4 \\\\ 14 & 7.1 & 1.5 \\end{array}$$\n\nA. Plot the results on graph paper below. [5 marks]\n\nB. From your graph find the mean rate of amino acid production in A between 3 and 11 minutes. Show your working. [2 marks]\n\nC. Which of the two solutions contained the highest concentration of trypsin? Explain your answer. [2 marks]\n\nD. State two conditions that should be kept constant in this experiment and in each case state how. [i) 2 marks; ii) 2 marks]\n\nE. State two commercial applications of the use of protease enzymes. [i) 1 mark; ii) 1 mark]"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "paper_label": "Section C: Written answers",
+     "problem": "DNA replication is semi conservative. This means that each replicated strand of DNA is made of half original DNA and half new DNA from free nucleotides.\n\nA. Draw a diagram to explain this concept. [2 marks]\n\nDNA is a polymer made of nucleotide monomers. Each nucleotide is composed of phosphate, a deoxyribose sugar and a nitrogenous base.\n\nB. If a bacterium composed of nitrogen 14 was grown in culture that contained nitrogen 16, would newly synthesised DNA weigh more, less or the same as original bacterium DNA? Explain [2 marks]\n\nThere are four different nitrogenous bases in DNA, guanine, cytosine, adenine and thymine. Within the double helix of DNA, guanine from one strand binds to cytosine while adenine binds to thymine.\n\nC. A sequence of fifty base pairs of nucleotides contains 33 cytosine bases. How many adenine bases are there in the sequence? Show your working. [2 marks]"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "paper_label": "Section C: Written answers",
+     "problem": "A single nucleotide polymorphism (SNP) is a DNA sequence variation occurring within a group of the same species in which a single nucleotide differs between individual members. SNPs can be in coding or non-coding regions of DNA. There are many studies that look at how SNPs correlate with a person’s phenotype. ACTN3 is a gene coding for muscle specific protein alpha-actinin-3. Three genotypes exist for this gene: RR, RX and XX. Lack of this protein (XX) is not associated with disease.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2015-3-3-fig1.png\n\nSource: Stephen M. Roth, Ph.D., University of Maryland; American Journal of Human Genetics\n\nA. Does the alpha-actinin-3 protein give an advantage in becoming an endurance athlete? Justify your answer [1.5 marks]\n\nB. Does lack of the R allele prevent someone from becoming a power athlete? Justify your answer [1.5 marks]\n\nC. Do you think this protein would be more likely to be involved in aerobic or anaerobic respiration and why? [2 marks]"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "paper_label": "Section C: Written answers",
+     "problem": "Atenolol is a drug that acts selectively at the heart. The following table shows the effect of increasing daily dose of atenolol on the heart rate of resting and exercising patients.\n\n$$\\begin{array}{l|c|c|c|c} & \\text{25mg} & \\text{50mg} & \\text{100mg} & \\text{200mg} \\\\ \\hline \\text{Resting heart rate (beats/min)} & 62.1 \\pm 2.1 & 61.8 \\pm 1.0 & 59.1 \\pm 1.3 & 57.3 \\pm 2.2 \\\\ \\text{Exercising heart rate (beats/min)} & 100.1 \\pm 3.6 & 96.7 \\pm 3.1 & 89.5 \\pm 2.1 & 87.1 \\pm 2.3 \\end{array}$$\n\nA. Describe the relationship between atenolol and heart rate. [1 mark]\n\nB. What would you expect the effect of atenolol on blood pressure is? [2 marks]"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "paper_label": "Section C: Written answers",
+     "problem": "One of the questions in biology that constantly needs to be answered is: Are the results of an experiment significant? To answer this question scientists use statistical calculations.\n\nIn one experiment biologists were trying to increase the success rate for infection with a certain virus. They set up several bacterial cell cultures and then infected them with a modified virus, which they hoped would infect a higher percentage of the bacteria.\n\nThe scientists know that the wild type virus infects 70% of the bacterial cells.\n\n$$\\begin{array}{c|c} \\text{Cell Culture} & \\text{\\% of Cells infected} \\\\ \\hline 1 & 75 \\\\ 2 & 68 \\\\ 3 & 85 \\\\ 4 & 72 \\\\ 5 & 63 \\\\ 6 & 70 \\\\ 7 & 79 \\\\ 8 & 81 \\end{array}$$\n\nThe scientists are going to do a significance test to see if their results show a difference in the infection rate of the modified virus.\n\nA. What can the scientists use from their experiments to compare to the known infection rate? [1 mark]\n\nB. Calculate this value. [1 mark]\n\nThe scientists have calculated a critical value for their significance test to be 74.89. The critical value is the value where the probability that the value from the experiment is the same as the known value starts to get small enough that we can say that they are not the same.\n\nIf the value from our experiment does not reach the critical value we have not attained significant results and cannot infer anything based on the experiment.\n\nC. What can you say about the experiment and the infection rate based on the critical value? [2 marks]"
+    },
+    {
+     "day": 3,
+     "number": 6,
+     "paper_label": "Section C: Written answers",
+     "problem": "The disease cholera is caused by the bacteria Vibrio chloerae which infects the gut of humans after they drink contaminated water. The bacteria caused large amounts of watery diarrhea to be produced due to its production of a toxin, cholera toxin. The bacteria are commonly found in sewerage contaminated water, particularly in the developing world. After a hurricane in Haiti a team of scientists are monitoring water for Cholera bacteria and get the following data:\n\n$$\\begin{array}{c|c|c|c} \\text{Days after Hurricane} & \\text{Water sample volume (mL)} & \\text{Number of Vibrio cholera bacteria seen} & \\text{Bacteria Per Litre of Water} \\\\ \\hline 3 & & 5 & 20 \\\\ 6 & 50 & 25 & \\\\ 10 & 200 & & 1000 \\\\ 12 & 320 & 384 & \\\\ 15 & 150 & 60 & \\end{array}$$\n\nA. Complete the empty cells of the table [1 mark per cell 5 marks total]\n\nB. Graph the number of bacteria per Litre against time after the hurricane (connect all points with straight lines) [5 marks]\n\nC. The scientists were told to inform the World Health Organisation if the number of Vibrio cholera bacteria goes above 600 bacteria per Litre, as this indicates sewerage leakage into drinking water. If they had been monitoring drinking water daily what day would they have reached this notification threshold? [1 mark]\n\nD. Only certain strains of Vibrio cholera express the toxin required to cause severe disease, named cholera toxin. Name a technique that could be used to screen strains of Vibrio cholera for the presence of the gene for cholera toxin. [1 mark]"
+    }
+   ]
+  },
+  {
+   "year": 2016,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "In Science, an educated guess is called a/an\n\na. observation\n\nb. conclusion\n\nc. question\n\nd. hypothesis"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "In an experiment, the factor whose value depends on that of another is called the\n\na. independent variable\n\nb. controlled variable\n\nc. conclusion\n\nd. dependent variable"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Genetic material is contained within the ________ of the cell.\n\na. ribosomes\n\nb. cytoplasm\n\nc. nucleus\n\nd. nucleolus"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The main structural component of plant cells is:\n\na. sodium chloride\n\nb. glycogen\n\nc. cellulose\n\nd. glucose"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A solution that has a higher concentration of solute than another solution is called:\n\na. hypertonic\n\nb. hypotonic\n\nc. isotonic\n\nd. concentration"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Equilibrium is reached in an aqueous solution when\n\na. Random motion stops\n\nb. Water molecules and dissolved molecules are moving at the same rate\n\nc. The dissolved molecules or ions are equally distributed throughout the solution\n\nd. There are the same number of water molecules as dissolved molecules"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A contractile vacuole is an organelle that pumps excess water out of many freshwater protozoan cells. A freshwater protozoan was placed in solution A and observed to form contractile vacuoles at a rate of 11 per minute. The same protozoan was then placed in solution B and observed to form contractile vacuoles at a rate of 4 per minute. Based on this information, which of the following statements is correct?\n\na. Solution A is hyperosmotic to solution B\n\nb. Solutions A and B are isosmotic\n\nc. Solution B is hyperosmotic to solution A\n\nd. Solutions A and B are isosmotic to the protozoan cell"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which of the following is a unicellular organism?\n\na. earthworm\n\nb. hydra\n\nc. yeast\n\nd. mushroom"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A disc X is punched out of a leaf from a growing plant, then dried at 110 °C and weighed. A week later another disc Y is punched out of the leaf of the same growing plant using the same punch, dried at 110 °C and weighed. Leaf disc Y is found to have a greater dry weight than leaf disc X; this is because leaf Y has:\n\na. increased in area\n\nb. more water in it\n\nc. produced more carbohydrate\n\nd. transpired at a greater rate"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Enzymes\n\na. are not very specific in their choice of substrates\n\nb. are needed in large quantities because they are used up during a reaction\n\nc. lower the activation energy of a reaction\n\nd. none of the above"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The organelle responsible for producing ATP in the human body is the:\n\na. nucleus\n\nb. mitochondria\n\nc. endoplasmic reticulum\n\nd. golgi apparatus"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which of these is not used by the body for energy?\n\na. fat\n\nb. carbohydrate\n\nc. protein\n\nd. water"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Just prior to cell division, the diploid human body cell contains ____ chromatids.\n\na. 23\n\nb. 46\n\nc. 69\n\nd. 92"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "An individual who has two of the same allele is said to be\n\na. homozygous\n\nb. heteromologous\n\nc. heterozygous\n\nd. diplozygous"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which of the following represents a dihybrid?\n\na. WWSs\n\nb. WwSS\n\nc. WwSs\n\nd. WWss"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "DNA replication is called semiconservative because _______ of the original double helix is conserved in each new DNA molecule.\n\na. none\n\nb. a quarter\n\nc. a half\n\nd. most"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The subunits of nucleic acids which consist of a sugar, phosphate group, and nitrogenous base are referred to as a\n\na. Nucleolus\n\nb. Histone\n\nc. Nucleotide\n\nd. Phospho-carbohydrate"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "In a population of wildflowers, the frequency of the allele for red flowers was 0.8. What was the frequency of the white allele, the only other allele for flower colour?\n\na. 0.8\n\nb. 0.4\n\nc. 0.2\n\nd. 0.1"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A previously unknown virus has been isolated from the Brazilian rainforest. Analysis of its genome reveals that it is composed of a double stranded DNA molecule containing 14% T (thymine). Based on this information, what would you predict the %C (cytosine) to be?\n\na. 14%\n\nb. 28%\n\nc. 36%\n\nd. 72%"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A scientist measures the circumference of gum nuts in a population of eucalypts and discovers that the most common circumference is 2 cm. What would you expect the most common circumference(s) to be after 10 generations of stabilising selection?\n\na. 2 cm\n\nb. Greater than 2 cm or less than 2 cm\n\nc. Greater than 2 cm and less than 2cm\n\nd. Can’t tell from the information given"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "During their early stages of development, the embryos of reptiles, birds, and mammals look very similar. This suggests that reptiles, birds, and mammals\n\na. have a common ancestor\n\nb. live in the same types of environments\n\nc. have undergone parallel evolution\n\nd. are no longer undergoing evolution"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "What types of events are typically seen in the fossil record?\n\na. speciation\n\nb. successive change in structures\n\nc. extinction\n\nd. all of these are typical of the fossil record"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which of the following chemicals enter living organisms primarily from the atmosphere rather than from rocks or soil?\n\na. calcium\n\nb. sulphur\n\nc. sodium\n\nd. carbon"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which trophic level is incorrectly identified?\n\na. Carnivores – secondary or tertiary consumer\n\nb. Decomposers – microbial heterotrophs\n\nc. Herbivores – primary consumer\n\nd. Omnivores – moulds, yeasts and mushrooms"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Questions 25, 26 and 27 are based on the following food chain (Figure 1)\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2016-1-25-fig1.png\n\nFigure 1\n\nOf the organisms depicted above, the one that would likely be found in the smallest number within the ecosystem is the\n\na. freshwater shrimp\n\nb. osprey\n\nc. perch\n\nd. northern pike"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Questions 25, 26 and 27 are based on the following food chain (Figure 1)\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2016-1-25-fig1.png\n\nFigure 1\n\nMissing from the food chain above are\n\na. consumers\n\nb. heterotrophs\n\nc. carnivores\n\nd. producers"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Questions 25, 26 and 27 are based on the following food chain (Figure 1)\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2016-1-25-fig1.png\n\nFigure 1\n\nWastes and dead organisms from this food chain will be fed upon by\n\na. autotrophs\n\nb. herbivores\n\nc. tertiary consumers\n\nd. detritivores"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Questions 28 and 29 relate to the following figure (Figure 2)\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2016-1-28-fig1.png\n\nFigure 2\n\nEach tube in Figure 2 contains an iris leaf in a small cup of nutrient solution. Tubes 2 and 4 are blacked out with metal foil. Tubes 1 and 2 contain sodium hydrogencarbonate, whilst tube 3 has soda lime pellets, and tube 4 has potassium hydroxide solution.\n\nAfter one hour the leaves are tested for glucose which is found to be present in one of the following.\n\na. Tube 1\n\nb. Tube 2\n\nc. Tube 3\n\nd. Tube 4"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Questions 28 and 29 relate to the following figure (Figure 2)\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2016-1-28-fig1.png\n\nFigure 2\n\nWhich tube in Figure 2 was deprived of more than one essential requirement for photosynthesis to occur?\n\na. Tube 1\n\nb. Tube 2\n\nc. Tube 3\n\nd. Tube 4"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Assuming independent assortment, the probability of obtaining an offspring with genotype AABbCcdd from two parents with genotypes AabbCCDd and AaBbCcDd respectively is:\n\na. 0\n\nb. 3/4\n\nc. 3/16\n\nd. 1/64\n\ne. 3/128"
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A red pigment is extracted from a marine alga. Which best supports the hypothesis that the pigment is involved in photosynthesis? The red pigment\n\na. has an absorption spectrum similar to that of chlorophyll\n\nb. is also found in land plants\n\nc. has a molecular structure similar to that of chlorophyll\n\nd. has an absorption spectrum similar to the photosynthetic action spectrum for that same marine alga."
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Prior to the Rio Olympics there were concerns about the quality of water at the outdoor sailing, rowing, and open-water swimming venues. Independent tests were conducted that detected the presence of contaminants at harmful levels, whereas those conducted by the Rio authorities and the International Olympic Committee detected no such harmful organisms. The tests conducted by the IOC and Rio organisers featured a mesh sieve calibrated for organisms the size of bacteria. Which organisms are most likely to be responsible for the difference in results observed between the independent and sanctioned tests?\n\na. Protozoans\n\nb. Viruses\n\nc. Bacteria\n\nd. Prions"
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Olympic medallists tend to be highly specialised athletes, often neglecting certain aspects of fitness and athletics in order to better develop those relating to their individual disciplines. Over time there has been a trend of “the weird getting weirder,” for instance gymnasts have become smaller and lighter whereas weightlifters are heavier and stockier of build. This is a modern example of:\n\na. Artificial selection\n\nb. Natural selection\n\nc. Genetic drift\n\nd. None of the above"
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which of the following is also a common aquatic environmental pollutant?\n\na. Carbon monoxide\n\nb. Methane\n\nc. Sulphur dioxide\n\nd. Nitrate fertilisers"
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A vet was called to a large cattle property due to an unknown disease outbreak. He was able to obtain bacteria in samples from the infected cattle. Which of the following would allow him to most confidently say that this bacterium is causing the disease?\n\na. The same bacteria are not found in healthy cattle\n\nb. Inoculation of healthy cattle with the bacteria caused those cattle to get the disease\n\nc. The same bacteria cause a similar disease in humans\n\nd. The same bacteria are found in healthy cattle."
+    },
+    {
+     "day": 1,
+     "number": 36,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which of the following would most easily cross a cells phospholipid membrane?\n\na. H2O\n\nb. H+\n\nc. K+\n\nd. Na+"
+    },
+    {
+     "day": 1,
+     "number": 37,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "In the diagram below, the red hexagons indicate sugar dissolved in water. Indicate which way net water would move over the semi-permeable membrane between the two solutions:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2016-1-37-fig1.png\n\na. A to B\n\nb. B to A\n\nc. Water would move both ways\n\nd. Water would not move between these two solutions"
+    },
+    {
+     "day": 1,
+     "number": 38,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The effects of natural selection may be countered by\n\na. Gene flow\n\nb. Genetic drift\n\nc. Mutation\n\nd. Inbreeding"
+    },
+    {
+     "day": 1,
+     "number": 39,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The following cladogram refers to Question 39\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2016-1-39-fig1.png\n\nA valid taxonomic group for this cladogram would include:\n\na. Tamarin + Squirrel\n\nb. Tamarin + Squirrel + Howler\n\nc. Squirrel + Howler + Wooly\n\nd. Wooly + Spider"
+    },
+    {
+     "day": 1,
+     "number": 40,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "In relation to natural selection, evolution is the\n\na. Process\n\nb. Outcome\n\nc. Mechanism\n\nd. Purpose"
+    },
+    {
+     "day": 1,
+     "number": 41,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "What is the ultimate source of genetic variability?\n\na. Mutation\n\nb. Migration\n\nc. Genetic drift\n\nd. Non-random mating"
+    },
+    {
+     "day": 1,
+     "number": 42,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Habitat fragmentation through deforestation and excessive hunting have impacted severely on endangered maned three-toed sloth in Eastern Brazil (e.g., estimated drop in population from 80000 to 800). In an effort to help preserve the species, scientists caught 20 sloths and used them to start a new population in the northwest Brazil. Which of the following factors would most likely have the least impact in this new population?\n\na. Habitat deterioration\n\nb. Random mating\n\nc. Reduced genetic variability within the population\n\nd. Exposure to a range of diseases"
+    },
+    {
+     "day": 1,
+     "number": 43,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "The theory of population genetics and how evolution occurs includes all but which one of the following\n\na. Mating must be random\n\nb. The size of the population is small\n\nc. There is no influx of genes from other populations\n\nd. No genotype has selective advantage over another"
+    },
+    {
+     "day": 1,
+     "number": 44,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which statement most accurately reflects what population geneticists refer to as \"fitness\"?\n\na. Fitness is the measure of an organism's adaptability to various habitats.\n\nb. Fitness reflects the number of mates each individual of the population selects.\n\nc. Fitness refers to the relative health of each individual in the population.\n\nd. Fitness is a measure of the contribution of a genotype to the gene pool of the next generation."
+    },
+    {
+     "day": 1,
+     "number": 45,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A strain of bacteria living in a hospital is found to have a plasmid containing two genes: one for sex pilus construction, and one for tetracycline resistance. If these bacteria were to undergo conjugation with bacteria lacking this plasmid, and thus transferred the plasmid to the other bacteria, the most likely result would be:\n\na. A genetically identical clone of bacteria containing the same plasmid\n\nb. Rapid spread of tetracycline resistance to other bacteria in the hospital\n\nc. The subsequent loss of tetracycline resistance in the initially resistant strain\n\nd. The bacteria will no longer be found in the hospital"
+    },
+    {
+     "day": 1,
+     "number": 46,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Given the following pedigree:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2016-1-46-fig1.png\n\nWhat is (are) the possible mode (s) of inheritance?\n\nI. Autosomal dominant\n\nII. Autosomal recessive\n\nIII. X-linked dominant\n\nIV. X-linked recessive\n\na. II only\n\nb. I or III only\n\nc. II or IV only\n\nd. All four modes of inheritance (I, II, III and IV)"
+    },
+    {
+     "day": 1,
+     "number": 47,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Which of the following is not a function of the urinary system?\n\na. Removal of waste products from the bloodstream.\n\nb. Storage and excretion of urine.\n\nc. Regulation of leukocyte and platelet production.\n\nd. Regulation of blood volume and, indirectly, blood pressure."
+    },
+    {
+     "day": 1,
+     "number": 48,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "A physiologist wants to find out the rate of filtration in the glomeruli of the kidneys. The best experimental design would be to inject a substance which:\n\na. cannot pass through the glomerular capillaries\n\nb. can pass through the glomerular capillaries but is totally reabsorbed in the renal tubules\n\nc. can pass through the glomerular capillaries and is partially reabsorbed in the renal tubules\n\nd. can pass through the glomerular capillaries and is not reabsorbed in the renal tubules."
+    },
+    {
+     "day": 1,
+     "number": 49,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "After a period of intense physical exercise the concentration of solutes in the blood rises above a certain level causing\n\na. more water to be reabsorbed in the kidney tubules\n\nb. less water to be reabsorbed in the kidney tubules\n\nc. more salt to be reabsorbed in the kidney tubules\n\nd. less glucose to be reabsorbed in the kidney tubules"
+    },
+    {
+     "day": 1,
+     "number": 50,
+     "paper_label": "Section A: Multiple choice",
+     "problem": "Colour-blindness is a recessive, X-linked trait. A couple, who are both blood type A and who both have normal vision, have a son who is blood type O and colour-blind. What is the probability that their next child will be a daughter who is blood type O and has normal vision?\n\na. 1/2\n\nb. 1/4\n\nc. 1/8\n\nd. 1/16"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "paper_label": "Section B: Written answers",
+     "problem": "There is debate over to what degree genetic traits impact athletic performance. At the 2016 Rio Olympics, all entered male marathon runners were screened for abnormalities in the genes responsible for determining lung capacity. The lung capacity of each athlete was then measured and an average running time calculated for each capacity. This gave rise to the following data:\n\n$$\\begin{array}{c|c} \\textbf{Lung capacity (litres)} & \\textbf{Average marathon time (mins)} \\\\ \\hline 5 & 2{:}45 \\\\ 5.5 & 2{:}30 \\\\ 6\\ \\text{(average)} & 2{:}25 \\\\ 6.5 & 2{:}15 \\\\ 7 & 2{:}10 \\end{array}$$\n\na) Graph the data on the grid provided using appropriate axis and titles.\n\nb) If an athlete was measured to have a lung capacity of 6.25L what would be the expected average marathon time for this individual? (2 marks)\n\nc) It was found that 40% of athletes had a mutation that resulted in increased lung capacity. These athletes ran times ranging from 2:10 to 2:30 with roughly equal numbers of individuals in each group. Comment on this finding (2 marks)."
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "paper_label": "Section B: Written answers",
+     "problem": "PART A:\n\nThe flow of ideal fluids in a closed system of tubes abides by the continuity equation:\n\n$$Av = \\text{constant}$$\n\nWhere:\n\nA = cross-sectional area of the tube at a point ($\\mathrm{m^2}$)\n\nv = fluid velocity past that point (m/s)\n\nThe following graph represents the total blood vessel cross-sectional area of an Olympic athlete’s circulatory system, at various points.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2016-2-2-fig1.png\n\na) Given this graph and the above information regarding the relationship between cross-sectional area and fluid velocity, represent on the following set of axes the relative blood velocity at different points in the athlete’s circulatory system (this should be a line graph as above). (Ignore any effects of blood pressure and viscosity.) (2 marks)\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2016-2-2-fig2.png\n\nPART B: Capillaries form the meshwork of tiny blood vessels that infiltrate the various tissues of the body. The cross sectional area of each individual capillary is very low, often with room for only a single file of red blood cells. (The total cross sectional area shown in part (a) is very high only because capillaries are so numerous.)\n\nFluid movement across the very thin capillary wall is governed by Starling’s forces – the balance of hydrostatic and osmotic pressures, as depicted in the graph below. This movement of fluid across capillary walls is essential for maintaining a continuous exchange of oxygen and carbon dioxide between the body's cells and the blood supply.\n\nHydrostatic pressure derives from the pumping action of the heart and serves to push fluid out of the capillaries, while osmotic pressure derives from the higher protein concentration of the blood plasma relative to the interstitial fluid, and serves to draw fluid back into the capillary.\n\nAt the arteriole end of the capillary, the hydrostatic pressure exceeds the osmotic pressure and so there is a net movement of fluid out of the capillary; the converse occurs at the venule end to balance this, and so there is no net increase in interstitial fluid.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2016-2-2-fig3.png\n\nb) When tissues are damaged, mast cells release inflammatory molecules such as histamine that increase the permeability of capillary walls to cells and proteins. Indicate on the graph above how this would affect the balance of forces. (How would A and/or B change, if at all?) (4 marks)\n\nc) How would the changes affect the fluid balance in the surrounding tissue? (1 mark)\n\nd) Briefly suggest how this process (inflammation) could be of benefit to the damaged tissue. (2 marks)"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "paper_label": "Section B: Written answers",
+     "problem": "Feijoada is popularly considered to be the national dish of Brazil, especially in the Olympic host city Rio de Janeiro and its surrounds. It is, in essence, a bean stew with pork and beef, and is derived from the traditional cuisine of Brazil’s Portuguese settlers.\n\nCallum the Chef works at the Olympic athletes’ village and thus has a vested interest in food safety. He wishes to test the bacterial load of a sample of raw pork mince.\n\nCallum suspends 0.84g of the meat in sterile diluent (fluid used to dilute) to make an 8.4mL suspension. He takes 0.1mL of the suspension and adds it to 9.9mL of fresh diluent, then further dilutes 0.1mL of this new suspension into 9.9ml of diluent. A 0.5mL sample of the final suspension is plated on nutrient agar. After a period of incubation, 389 colonies are counted on the agar plate.\n\na) Each colony on the plate arises from a single viable bacterium from the original meat sample, referred to as a colony-forming unit (CFU). Calculate the number of CFUs per gram in the sample. (4 marks)\n\nb) Callum considers the mince to be safe for consumption if there are less than $10^6$ CFU/gram. Would the sample meet his standard? (Is the meat safe?) (1 mark)\n\nc) What is the practical advantage obtained by diluting the suspension, as opposed to plating up the initial undiluted suspension? (1 mark)"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "paper_label": "Section B: Written answers",
+     "problem": "Genetic engineering is made possible by a class of bacterial enzymes called restriction endonucleases. These enzymes recognise and cleave the DNA at specific sites called restriction sites, and are naturally produced by bacteria to resist invasion by foreign DNA. Scientists may extract and use specific restriction enzymes to process DNA in the lab.\n\npGEN101 is a 20 kb DNA plasmid (loop). Digestion with the restriction enzyme EcoR1 results in one fragment. Digestion with BamH1 results in three fragments of the following sizes: 12 kb, 2 kb and 6 kb. A combination digest with EcoR1 and BamH1 results in 4 fragments: 8 kb, 4 kb, 2 kb and 6 kb.\n\na) Develop a map of the plasmid with the restriction digests given. (In other words, mark the cutting sites and label the distances between them.)\n\nThe restriction map for a different plasmid pBR607 is shown below. Draw and label the locations of the proper bands on the gel below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2016-2-4-fig1.png\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2016-2-4-fig2.png"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "paper_label": "Section B: Written answers",
+     "problem": "The total blood volume of a human averages $60\\ \\mathrm{cm^3}$ per kilogram of body weight, and the average glomerular filtration rate is $125\\ \\mathrm{cm^3\\ minute^{-1}}$. (6 marks total)\n\na) Calculate the total blood volume of a person who weighs 120kg. Show your working. (2 marks)\n\nb) Calculate the volume of glomerular filtrate produced per day by this person. Show your working. (2 marks)\n\nc) How many times each day will the person’s blood be filtered by the kidneys? Show your working. (2 marks)"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "paper_label": "Section B: Written answers",
+     "problem": "Diagram A below shows the different phases during the cell cycle of a eukaryotic cell. Diagram B shows the amount of DNA present during the different phases. G1 and G2 represent the gap phases during which cell growth may occur. S is an intermediate phase.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2016-2-6-fig1.png\n\na) List any four general characteristics that distinguish prokaryotic cells from eukaryotes. (2 marks)\n\nb) Describe how the quantity of DNA in cells is increased during phase S. (2 marks)\n\nc) What will be the quantity of DNA in arbitrary units at the end of mitotic cell division? (1 mark)\n\nd) How is the quantity of DNA returned to this level? (3 marks)\n\ne) What would be the quantity of DNA in arbitrary units at the end of a meiotic division? (1 mark)"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "paper_label": "Section B: Written answers",
+     "problem": "A student noticed that large numbers of daisies and common sedge grew on a pasture. The student used random quadrats to determine whether the two species of plant tended to grow together (in association) or tended to grow separately (not in association). The student obtained the following results:\n\n$$\\begin{array}{l|c} \\text{Plants present} & \\text{No. of quadrats} \\\\ \\hline \\text{Daisies and common sedge} & 78 \\\\ \\text{Common sedge only} & 6 \\\\ \\text{Daisies only} & 7 \\\\ \\text{Neither daisies or common sedge} & 9 \\\\ \\hline & \\text{Total} = 100 \\end{array}$$\n\nThe student proposed the null hypothesis that ‘there was no association between daisies and sedge’. A Chi squared test was carried out to test the null hypothesis statistically.\n\nThe results were arranged into the following contingency table:\n\n$$\\begin{array}{l|c|c|c} & \\text{Daisies} & \\text{No daisies} & \\text{Row total} \\\\ \\hline \\text{Common sedge} & \\text{(O)} = 78 & \\text{(O)} = 6 & 84 \\\\ & \\text{(E)} = 71.4 & \\text{(E)} = & \\\\ \\hline \\text{No common sedge} & \\text{(O)} = 7 & \\text{(O)} = 9 & \\\\ & \\text{(E)} = 13.6 & \\text{(E)} = & 16 \\\\ \\hline \\text{Column total} & 85 & 15 & 100 \\end{array}$$\n\nThe formula for calculating Chi squared is:\n\n$$\\chi^2 = \\sum \\frac{(O - E)^2}{E}$$\n\nO = observed results. E = expected results\n\nThe expected numbers may be calculated by the formula:\n\n$$E = \\frac{\\text{Row total}}{\\text{Total}} \\times \\frac{\\text{Column total}}{\\text{Total}} \\times \\text{Total}$$\n\na) Calculate the missing E numbers on the table and insert them in the table. Show your working. (2 marks)\n\nb) Calculate the value of $\\chi^2$. Show your working. (2 marks)\n\nThe number of degrees of freedom (n) is given by the equation:\n\nn = (no. of rows – 1) (no of columns – 1)\n\nc) How many degrees of freedom are there? (1 mark)\n\nd) The critical value for $\\chi^2$ with these degrees of freedom is 3.84 at a 5% significance level. Does your value enable you to accept or reject the null hypothesis? Explain your answer. (2 marks)"
+    }
+   ]
+  },
+  {
+   "year": 2018,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Exam",
+     "problem": "The ability of organisms and cells to maintain a stable internal environment is:\n\na. Protein synthesis\n\nb. Digestion\n\nc. Positive feedback\n\nd. Homeostasis"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Exam",
+     "problem": "The structure in plant cells that carries out photosynthesis is the:\n\na. Cell membrane\n\nb. Chloroplast\n\nc. Ribosome\n\nd. Nucleus"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Exam",
+     "problem": "Cells must be small in size in order to function. If a cell were too large:\n\na. The cell would decay\n\nb. Diffusion could not take place efficiently\n\nc. The cell would lyse\n\nd. Diffusion would occur at a faster rate"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Exam",
+     "problem": "The diameter of most animal cells ranges from:\n\na. 1.0 to 10 µm\n\nb. 0.01 to 0.1 µm\n\nc. 10 to 100 µm\n\nd. 100 to 1000 µm"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Exam",
+     "problem": "Which of the pH values listed below represents the strongest base?\n\na. 7\n\nb. 10\n\nc. 13\n\nd. 15"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Exam",
+     "problem": "Evolutionary changes involve the production of new:\n\na. individuals\n\nb. communities\n\nc. species\n\nd. trophic levels"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Exam",
+     "problem": "When an early embryo divides into two separate embryos, these give rise to:\n\na. Non identical, dizygotic twins\n\nb. Identical, monozygotic twins\n\nc. Non identical, monozygotic twins\n\nd. Identical, dizygotic twins"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Exam",
+     "problem": "The virus which is responsible for AIDS is known as:\n\na. HBV\n\nb. HIV\n\nc. HCV\n\nd. HPV"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Exam",
+     "problem": "The removal of pollutants or toxic wastes from the environment with the help of living organisms is best described as:\n\na. defenestration\n\nb. bioremediation\n\nc. detoxification\n\nd. disease control"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Exam",
+     "problem": "What is the predominant protein in the human body, by mass?\n\na. Actin\n\nb. Tubulin\n\nc. Collagen\n\nd. Elastin"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Exam",
+     "problem": "After vigorous exercise, changes occur in muscle tissue. Compared with ‘at rest’ conditions what will the change be?\n\n$$\\begin{array}{c|c|c|c|c} & \\text{Glycogen} & \\text{ATP} & \\text{Lactate} & \\text{pH} \\\\ \\hline \\text{a} & \\text{decreased} & \\text{decreased} & \\text{increased} & \\text{decreased} \\\\ \\hline \\text{b} & \\text{decreased} & \\text{increased} & \\text{increased} & \\text{increased} \\\\ \\hline \\text{c} & \\text{decreased} & \\text{decreased} & \\text{decreased} & \\text{decreased} \\\\ \\hline \\text{d} & \\text{decreased} & \\text{increased} & \\text{increased} & \\text{decreased} \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Exam",
+     "problem": "The proportion of adenine bases in a sample of DNA was found to be 12%. Which of the following statements is true? The proportion of:\n\na. guanine bases in the sample is 12%\n\nb. uracil bases in the sample is 88%\n\nc. thymine bases in the sample is 12%\n\nd. cytosine bases in the sample is 12%"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Exam",
+     "problem": "Genetic adaptation is most accurately described as\n\na. a process by which an individual organism gradually changes itself to suit its environment.\n\nb. a change in allele frequencies in a population as a result of changing environmental conditions\n\nc. the emergence of new forms as a result of mutations in the genetic material\n\nd. a change in the genotype of an individual organism as a result of selection pressures"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Exam",
+     "problem": "The release of water vapour from the leaves of trees is called\n\na. Evaporation\n\nb. Precipitation\n\nc. Condensation\n\nd. Transpiration"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Exam",
+     "problem": "Sea anemones contain a venom that is used to sting and paralyse prey. The clownfish contains an enzyme in its scales that makes it immune to the venom. This allows the clownfish to freely live amongst the fronds of the sea anemone without being harmed, protected from their natural predators. In return, clownfish protect anemones from predation by butterfly fish, which can eat anemones. What type of relationship is this an example of?\n\na. Predator-prey\n\nb. Mutualism\n\nc. Commensalism\n\nd. Parasitism"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Exam",
+     "problem": "Which of the following is an abiotic factor in an ecosystem?\n\na. Bird\n\nb. Tree\n\nc. Rock\n\nd. Deer"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "Exam",
+     "problem": "The amount of energy that passes from one trophic level to the next in a food chain is approximately:\n\na. 5%\n\nb. 10%\n\nc. 15%\n\nd. 20%"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "Exam",
+     "problem": "In the terrestrial food web below, what would be the effect of a farmer introducing a rat poison into the ecosystem that is toxic to rats and mice?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-18-fig1.png\n\na. The population of foxes would decrease\n\nb. The population of grasshoppers would decrease\n\nc. The population of hawks would increase\n\nd. The population of rabbits would decrease"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "Exam",
+     "problem": "Which of the following statements is true about matter and energy in biological systems?\n\na. Matter is not recycled; energy is recycled\n\nb. Matter is recycled; energy is not recycled\n\nc. Both matter and energy are recycled\n\nd. Neither matter nor energy are recycled"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "Exam",
+     "problem": "The intertidal zone is the area:\n\na. between low and high tide\n\nb. beyond the continental shelf\n\nc. between the subtidal zone and the continental shelf\n\nd. above the high tide line"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Exam",
+     "problem": "When subunits called monomers are bonded together, they form larger molecules called polymers. Proteins are polymers. What is the monomer that makes up proteins?\n\na. Amino acid\n\nb. Peptide\n\nc. Nucleotide\n\nd. DNA"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Exam",
+     "problem": "During photosynthesis, plants convert carbon dioxide and water to sugar and oxygen. In this reaction, sugar and oxygen are the:\n\na. Enzymes\n\nb. Products\n\nc. Reactants\n\nd. Byproducts"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Exam",
+     "problem": "The molecule below is a:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-23-fig1.png\n\na. Lipid\n\nb. Carbohydrate\n\nc. Protein\n\nd. Nucleic acid"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Exam",
+     "problem": "If a man of 70 kg weight ingests 40 g alcohol, the alcohol level in his blood will rise one part per thousand. About 1 g alcohol is eliminated per hour and 10 kg of body weight. A 70 kg man was involved in a traffic accident and ran from the scene. He was found 2.5 hours after the accident and a blood sample was taken. It contained 0.5 parts per thousand of alcohol. Assuming he did not ingest any alcohol during the intervening period, how much alcohol did his blood contain at the time of the accident?\n\na. 1.10 parts per thousand\n\nb. 0.95 parts per thousand\n\nc. 0.80 parts per thousand\n\nd. 0.65 parts per thousand"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Exam",
+     "problem": "The graph below shows a catalysed reaction vs an uncatalysed reaction. Which of the following statements is true of catalysts?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-25-fig1.png\n\na. The catalyst lowers the energy needed for the reaction to proceed\n\nb. The catalyst is consumed by the reaction, lowering the activation energy\n\nc. The catalyst reduces the total energy produced by the reaction\n\nd. Reactions never proceed without a catalyst"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Exam",
+     "problem": "The diagram below shows a water molecule. What do the charges on either end of the molecule indicate about the molecule?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-26-fig1.png\n\na. Water is a nonpolar molecule\n\nb. Water is a polar molecule\n\nc. Water is an ionic compound\n\nd. Water is an ion"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Exam",
+     "problem": "What structure is found in plant cells but not in animal cells?\n\na. Nucleus\n\nb. Vesicle\n\nc. Vacuole\n\nd. Cellulose"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Exam",
+     "problem": "What term describes the diffusion of water through a semipermeable membrane down a concentration gradient?\n\na. Osmotic pressure\n\nb. Diffusion\n\nc. Osmosis\n\nd. Fluid diffusion"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Exam",
+     "problem": "Which type of population growth is exhibited by the Daphnia population shown in the graph?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-29-fig1.png\n\na. Arithmetic growth\n\nb. Exponential growth\n\nc. Density-dependent growth\n\nd. Limited growth"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Exam",
+     "problem": "How is a saturated fatty acid different from an unsaturated fatty acid?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-30-fig1.png\n\na. Saturated fatty acids contain at least one carbon-carbon double bond\n\nb. Saturated fatty acids are found only in oils\n\nc. Carbons in saturated fatty acids are bonded together only with covalent bonds\n\nd. Saturated fatty acids contain only single bonds between carbons"
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "Exam",
+     "problem": "The diagram below shows the seasonal changes in the pyramid of biomass in the English Channel.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-31-fig1.png\n\nIn winter the pyramid of biomass is inverted because:\n\na. The primary production decreases dramatically and results in a die-off of zooplankton.\n\nb. The primary production decreases and as the producers are rapidly consumed by the zooplankton they never develop a large population size.\n\nc. The primary production remains the same all year but the cold means that the zooplankton and secondary consumers migrate elsewhere.\n\nd. The primary production is increased but the phytoplankton have a shorter turnover time in winter."
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "Exam",
+     "problem": "In a stable ecosystem, which of the following limits the number of trophic levels?\n\na. biomass.\n\nb. the number of primary producers.\n\nc. availability of nutrients.\n\nd. energy."
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "Exam",
+     "problem": "The graphs below show the effects of temperature and pH on enzyme activity. Which statement about the enzyme activity is correct?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-33-fig1.png\n\na. at P, hydrogen bonds are formed between enzyme and substrate.\n\nb. at Q, the kinetic energy of enzyme and substrate is highest.\n\nc. at R, peptide bonds in the enzyme begin to break.\n\nd. at S, the substrate is completely denatured."
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "Exam",
+     "problem": "During which of the following stages of the cell cycle does DNA replication occur?\n\na. interphase.\n\nb. prophase.\n\nc. metaphase.\n\nd. mitosis."
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "Exam",
+     "problem": "Skin colour is determined by the expression of pigments. Pigment expression is encoded by three gene loci, each with two alleles, which are inherited from an individual’s parents. ‘A’, ‘B’, and ‘C’, represent equivalent alleles that code for a darker pigment at each loci respectively, and ‘a’, ‘b’, and ‘c’, are the corresponding alleles for a lighter pigment.\n\nConsequently, every individual has a skin colour genotype consisting of a string of six letters, e.g., AaBBCc, AABbCc, aabbCC and skin colour can be determined by looking at the individual’s combination of dark and light pigment alleles. In this way, an individual with genotype AaBBcc will have the same skin colour as an individual with AaBbCc.\n\nIdentify the genotypes for the following: lightest and darkest skin tones (in that order).\n\n$$\\begin{array}{c|c|c} & \\text{Lightest tone} & \\text{Darkest tone} \\\\ \\hline \\text{a} & \\text{AABBCC} & \\text{aabbcc} \\\\ \\text{b} & \\text{AaBBcc} & \\text{AabbCC} \\\\ \\text{c} & \\text{aabbcc} & \\text{AABBCC} \\\\ \\text{d} & \\text{AAbbcc} & \\text{aabbCC} \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 36,
+     "paper_label": "Exam",
+     "problem": "Skin colour is determined by the expression of pigments. Pigment expression is encoded by three gene loci, each with two alleles, which are inherited from an individual’s parents. ‘A’, ‘B’, and ‘C’, represent equivalent alleles that code for a darker pigment at each loci respectively, and ‘a’, ‘b’, and ‘c’, are the corresponding alleles for a lighter pigment.\n\nConsequently, every individual has a skin colour genotype consisting of a string of six letters, e.g., AaBBCc, AABbCc, aabbCC and skin colour can be determined by looking at the individual’s combination of dark and light pigment alleles. In this way, an individual with genotype AaBBcc will have the same skin colour as an individual with AaBbCc.\n\nA pedigree for skin tone has been constructed below with some genotypes identified.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-36-fig1.png\n\nIt is known that individuals 3 and 4 have the same skin tone but different genotypes. Which of the following options identifies the two genotypes of individuals 3 and 4?\n\na. AabbCc and aaBbCc\n\nb. AabbCc and AabbCc\n\nc. Aabbcc and aaBbCc\n\nd. AabbCc and aaBbCc"
+    },
+    {
+     "day": 1,
+     "number": 37,
+     "paper_label": "Exam",
+     "problem": "Skin colour is determined by the expression of pigments. Pigment expression is encoded by three gene loci, each with two alleles, which are inherited from an individual’s parents. ‘A’, ‘B’, and ‘C’, represent equivalent alleles that code for a darker pigment at each loci respectively, and ‘a’, ‘b’, and ‘c’, are the corresponding alleles for a lighter pigment.\n\nConsequently, every individual has a skin colour genotype consisting of a string of six letters, e.g., AaBBCc, AABbCc, aabbCC and skin colour can be determined by looking at the individual’s combination of dark and light pigment alleles. In this way, an individual with genotype AaBBcc will have the same skin colour as an individual with AaBbCc.\n\nA pedigree for skin tone has been constructed below with some genotypes identified.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-36-fig1.png\n\nIf individual 1 and individual 2 have offspring, how many different genotypes are possible?\n\na. Four genotypes\n\nb. Three genotypes\n\nc. Six genotypes\n\nd. Eight genotypes"
+    },
+    {
+     "day": 1,
+     "number": 38,
+     "paper_label": "Exam",
+     "problem": "Skin colour is determined by the expression of pigments. Pigment expression is encoded by three gene loci, each with two alleles, which are inherited from an individual’s parents. ‘A’, ‘B’, and ‘C’, represent equivalent alleles that code for a darker pigment at each loci respectively, and ‘a’, ‘b’, and ‘c’, are the corresponding alleles for a lighter pigment.\n\nConsequently, every individual has a skin colour genotype consisting of a string of six letters, e.g., AaBBCc, AABbCc, aabbCC and skin colour can be determined by looking at the individual’s combination of dark and light pigment alleles. In this way, an individual with genotype AaBBcc will have the same skin colour as an individual with AaBbCc.\n\nA pedigree for skin tone has been constructed below with some genotypes identified.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-36-fig1.png\n\nIt is known that individual 5 has genotype AabbCc and individual 6 has genotype aabbcc. What is the probability that the offspring of individual 5 and individual 6 will have the same skin tone as their father?\n\na. 0% chance\n\nb. 25% chance\n\nc. 50% chance\n\nd. 66% chance"
+    },
+    {
+     "day": 1,
+     "number": 39,
+     "paper_label": "Exam",
+     "problem": "Graves’ disease is an autoimmune disease that results in the overproduction of thyroid hormones T3 (tri-iodothyronine) and T4 (thyroxine). This results in a form of hyperthyroidism.\n\nThe pathway controlling production of thyroid hormones involves the release of Thyrotropin-Releasing Hormone (TRH) from the hypothalamus, which in turn stimulates the release of Thyroid Stimulating Hormone (TSH) from the anterior pituitary gland. TSH acts on the thyroid to release T3 and T4. The pathway is regulated by negative feedback from thyroid hormones.\n\nNegative feedback is a key regulatory mechanism for physiological function in living organisms, wherein the response or output of a system to a stimulus results in an action that decreases the strength of that stimulus.\n\nAn example of negative feedback is the release of insulin in response to high blood glucose levels. Insulin acts on muscle and liver cells and induces them to increase uptake of glucose, thereby decreasing blood glucose levels back to normal.\n\nAlthough a number of disorders may result in hyperthyroidism, Graves' disease is a common cause. Major symptoms include hand tremors, weight loss, and an enlarged thyroid.\n\nWhat is the function of the thyroid hormones T3 and T4?\n\na. Act to regulate the body’s metabolic rate\n\nb. Act to maintain blood pressure by causing the kidney to retain fluid and by constricting blood vessels\n\nc. Stimulates release of thyroxine and tri-iodothyronine from the thyroid gland\n\nd. Act as inhibitory hormones that prevent release of other hormones such as Growth hormone"
+    },
+    {
+     "day": 1,
+     "number": 40,
+     "paper_label": "Exam",
+     "problem": "Graves’ disease is an autoimmune disease that results in the overproduction of thyroid hormones T3 (tri-iodothyronine) and T4 (thyroxine). This results in a form of hyperthyroidism.\n\nThe pathway controlling production of thyroid hormones involves the release of Thyrotropin-Releasing Hormone (TRH) from the hypothalamus, which in turn stimulates the release of Thyroid Stimulating Hormone (TSH) from the anterior pituitary gland. TSH acts on the thyroid to release T3 and T4. The pathway is regulated by negative feedback from thyroid hormones.\n\nNegative feedback is a key regulatory mechanism for physiological function in living organisms, wherein the response or output of a system to a stimulus results in an action that decreases the strength of that stimulus.\n\nAn example of negative feedback is the release of insulin in response to high blood glucose levels. Insulin acts on muscle and liver cells and induces them to increase uptake of glucose, thereby decreasing blood glucose levels back to normal.\n\nAlthough a number of disorders may result in hyperthyroidism, Graves' disease is a common cause. Major symptoms include hand tremors, weight loss, and an enlarged thyroid.\n\nIn Graves’ disease, the body produces an antibody called TSI that mimics the action of TSH. Which of the below statements is correct?\n\na. TSI binds to many TSH at once, causing them to accumulate and prevent movement around the body\n\nb. TSI binds to the TSH receptor and mimics the action of TSH on the thyroid gland\n\nc. TSI binds with thyroxine and tri-iodothyronine to prevent them from entering the bloodstream, hence inducing hormone re-uptake and breakdown by the thyroid gland\n\nd. TSI binds to TRH receptors, preventing TSH from being released"
+    },
+    {
+     "day": 1,
+     "number": 41,
+     "paper_label": "Exam",
+     "problem": "Graves’ disease is an autoimmune disease that results in the overproduction of thyroid hormones T3 (tri-iodothyronine) and T4 (thyroxine). This results in a form of hyperthyroidism.\n\nThe pathway controlling production of thyroid hormones involves the release of Thyrotropin-Releasing Hormone (TRH) from the hypothalamus, which in turn stimulates the release of Thyroid Stimulating Hormone (TSH) from the anterior pituitary gland. TSH acts on the thyroid to release T3 and T4. The pathway is regulated by negative feedback from thyroid hormones.\n\nNegative feedback is a key regulatory mechanism for physiological function in living organisms, wherein the response or output of a system to a stimulus results in an action that decreases the strength of that stimulus.\n\nAn example of negative feedback is the release of insulin in response to high blood glucose levels. Insulin acts on muscle and liver cells and induces them to increase uptake of glucose, thereby decreasing blood glucose levels back to normal.\n\nAlthough a number of disorders may result in hyperthyroidism, Graves' disease is a common cause. Major symptoms include hand tremors, weight loss, and an enlarged thyroid.\n\nWhat would the level of TSH in the body be compared to that of an individual without Graves’ disease?\n\na. Lower, as a result of lowered TRH levels\n\nb. The same, as TSH is not involved\n\nc. Higher, as a result of lowered TRH levels\n\nd. Higher, as a result of a desensitized thyroid gland"
+    },
+    {
+     "day": 1,
+     "number": 42,
+     "paper_label": "Exam",
+     "problem": "The diagram below shows several different embryos at different stages of development.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-42-fig1.png\n\nHow do the embryos provide evidence for evolution?\n\na. The embryos have different tail lengths\n\nb. Different adults evolve from the embryos\n\nc. The embryos have similar looking structures\n\nd. Divergent evolution results in common embryo characteristics"
+    },
+    {
+     "day": 1,
+     "number": 43,
+     "paper_label": "Exam",
+     "problem": "Animal behaviour is shaped by 3 main influences: acquisition of food, predator avoidance, and mate choice. In theory, forming social groups allows individuals to balance the need for predator detection with the ability to find food.\n\nYou develop a set-up (shown below) to test this hypothesis. A subject fish is given the choice to swim towards two other fish. The fish are of the same species and are healthy. A camera records their speed of movement.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-43-fig1.png\n\nFigure 1: Experimental set-up. The experimental fish was placed in a plastic cylinder (r = 4 cm) an equal distance away from 2 test fish enclosed in individual glass tanks (12x10x4 cm). The cylinder surrounding the experimental fish was raised after an accommodation interval (5 min) allowing the experimental fish to move freely within the inner portion of the maze.\n\nIf the fish are trying to find individuals to group with and together balance their needs of predator avoidance and foraging ability, which result would you expect?\n\na. The experimental fish will move towards the less active test fish\n\nb. The experimental fish will move towards the more active test fish\n\nc. The experimental fish will show no preference for either test fish\n\nd. None of the above"
+    },
+    {
+     "day": 1,
+     "number": 44,
+     "paper_label": "Exam",
+     "problem": "Animal behaviour is shaped by 3 main influences: acquisition of food, predator avoidance, and mate choice. In theory, forming social groups allows individuals to balance the need for predator detection with the ability to find food.\n\nYou develop a set-up (shown below) to test this hypothesis. A subject fish is given the choice to swim towards two other fish. The fish are of the same species and are healthy. A camera records their speed of movement.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-43-fig1.png\n\nFigure 1: Experimental set-up. The experimental fish was placed in a plastic cylinder (r = 4 cm) an equal distance away from 2 test fish enclosed in individual glass tanks (12x10x4 cm). The cylinder surrounding the experimental fish was raised after an accommodation interval (5 min) allowing the experimental fish to move freely within the inner portion of the maze.\n\nWhich is the independent variable in your experimental set-up?\n\na. The accommodation interval\n\nb. The activity of the experimental fish\n\nc. The experimental fish choice of swim direction\n\nd. The activity of the experimental fish"
+    },
+    {
+     "day": 1,
+     "number": 45,
+     "paper_label": "Exam",
+     "problem": "Animal behaviour is shaped by 3 main influences: acquisition of food, predator avoidance, and mate choice. In theory, forming social groups allows individuals to balance the need for predator detection with the ability to find food.\n\nYou develop a set-up (shown below) to test this hypothesis. A subject fish is given the choice to swim towards two other fish. The fish are of the same species and are healthy. A camera records their speed of movement.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-43-fig1.png\n\nFigure 1: Experimental set-up. The experimental fish was placed in a plastic cylinder (r = 4 cm) an equal distance away from 2 test fish enclosed in individual glass tanks (12x10x4 cm). The cylinder surrounding the experimental fish was raised after an accommodation interval (5 min) allowing the experimental fish to move freely within the inner portion of the maze.\n\nWhich aspect of your procedure would NOT increase validity and reliability?\n\na. Monitoring tank pH\n\nb. Conducting all trials in a single session\n\nc. Using different experimental fish after 6 trials\n\nd. Selecting a sufficient separation distance to clearly demonstrate that the experimental fish has made a choice"
+    },
+    {
+     "day": 1,
+     "number": 46,
+     "paper_label": "Exam",
+     "problem": "Animal behaviour is shaped by 3 main influences: acquisition of food, predator avoidance, and mate choice. In theory, forming social groups allows individuals to balance the need for predator detection with the ability to find food.\n\nYou develop a set-up (shown below) to test this hypothesis. A subject fish is given the choice to swim towards two other fish. The fish are of the same species and are healthy. A camera records their speed of movement.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-43-fig1.png\n\nFigure 1: Experimental set-up. The experimental fish was placed in a plastic cylinder (r = 4 cm) an equal distance away from 2 test fish enclosed in individual glass tanks (12x10x4 cm). The cylinder surrounding the experimental fish was raised after an accommodation interval (5 min) allowing the experimental fish to move freely within the inner portion of the maze.\n\nAfter conducting your experiment and collecting the data, you produce the following figure:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-46-fig1.png\n\nFigure 2: Average velocity of chosen and ignored individuals, with error bars calculated from the standard deviation of each sample; p-value= 0.36\n\nWhat is the biggest problem with this figure?\n\na. No x-axis label\n\nb. Overlapping error bars\n\nc. It is a bar graph, and scientific standard is always a line graph\n\nd. The y-axis does not represent the dependent variable"
+    },
+    {
+     "day": 1,
+     "number": 47,
+     "paper_label": "Exam",
+     "problem": "Animal behaviour is shaped by 3 main influences: acquisition of food, predator avoidance, and mate choice. In theory, forming social groups allows individuals to balance the need for predator detection with the ability to find food.\n\nYou develop a set-up (shown below) to test this hypothesis. A subject fish is given the choice to swim towards two other fish. The fish are of the same species and are healthy. A camera records their speed of movement.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-43-fig1.png\n\nFigure 1: Experimental set-up. The experimental fish was placed in a plastic cylinder (r = 4 cm) an equal distance away from 2 test fish enclosed in individual glass tanks (12x10x4 cm). The cylinder surrounding the experimental fish was raised after an accommodation interval (5 min) allowing the experimental fish to move freely within the inner portion of the maze.\n\nAfter conducting your experiment and collecting the data, you produce the following figure:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-46-fig1.png\n\nFigure 2: Average velocity of chosen and ignored individuals, with error bars calculated from the standard deviation of each sample; p-value= 0.36\n\nWhat conclusion can be drawn from this experiment?\n\na. The experimental fish showed a slight preference for more active test fish\n\nb. The experimental fish showed a preference for less active test fish\n\nc. The experimental fish showed no preference between test fish\n\nd. The experimental fish did not move significantly from where it was placed during the 5 minute accommodation interval"
+    },
+    {
+     "day": 1,
+     "number": 48,
+     "paper_label": "Exam",
+     "problem": "On an expedition around the world, scientists collected venom from a number of snake species. They also gathered data on mortality from snake bites of each species.\n\nThe snakes observed were the southern United States copperhead with a mortality percentage of less than 1%, the western diamondback rattlesnake with 5-15% mortality, the eastern coral snake with 5-20% mortality, the king cobra with greater than 40% mortality, the Indian krait with 77% mortality, the European viper with 1-5% mortality, the bushmaster with usually 100% mortality, the fer-de-lance with 10-20% mortality, the black-necked cobra with 11-40% mortality, and the puff adder with 11-40% mortality.\n\nWhat does the term mortality relate to?\n\na. Death of the prey or victim\n\nb. Illness of the prey or victim\n\nc. Disease of the prey or victim\n\nd. Health of the prey, victim and snake"
+    },
+    {
+     "day": 1,
+     "number": 49,
+     "paper_label": "Exam",
+     "problem": "On an expedition around the world, scientists collected venom from a number of snake species. They also gathered data on mortality from snake bites of each species.\n\nThe snakes observed were the southern United States copperhead with a mortality percentage of less than 1%, the western diamondback rattlesnake with 5-15% mortality, the eastern coral snake with 5-20% mortality, the king cobra with greater than 40% mortality, the Indian krait with 77% mortality, the European viper with 1-5% mortality, the bushmaster with usually 100% mortality, the fer-de-lance with 10-20% mortality, the black-necked cobra with 11-40% mortality, and the puff adder with 11-40% mortality.\n\nHow many snakes were observed?\n\na. 5\n\nb. 7\n\nc. 10\n\nd. 12"
+    },
+    {
+     "day": 1,
+     "number": 50,
+     "paper_label": "Exam",
+     "problem": "On an expedition around the world, scientists collected venom from a number of snake species. They also gathered data on mortality from snake bites of each species.\n\nThe snakes observed were the southern United States copperhead with a mortality percentage of less than 1%, the western diamondback rattlesnake with 5-15% mortality, the eastern coral snake with 5-20% mortality, the king cobra with greater than 40% mortality, the Indian krait with 77% mortality, the European viper with 1-5% mortality, the bushmaster with usually 100% mortality, the fer-de-lance with 10-20% mortality, the black-necked cobra with 11-40% mortality, and the puff adder with 11-40% mortality.\n\nWhich snake venom has the highest mortality rate?\n\na. king cobra\n\nb. indian krait\n\nc. european viper\n\nd. bushmaster"
+    },
+    {
+     "day": 1,
+     "number": 51,
+     "paper_label": "Exam",
+     "problem": "On an expedition around the world, scientists collected venom from a number of snake species. They also gathered data on mortality from snake bites of each species.\n\nThe snakes observed were the southern United States copperhead with a mortality percentage of less than 1%, the western diamondback rattlesnake with 5-15% mortality, the eastern coral snake with 5-20% mortality, the king cobra with greater than 40% mortality, the Indian krait with 77% mortality, the European viper with 1-5% mortality, the bushmaster with usually 100% mortality, the fer-de-lance with 10-20% mortality, the black-necked cobra with 11-40% mortality, and the puff adder with 11-40% mortality.\n\nWhich two snakes have the same mortality percentage?\n\na. copperhead and european viper\n\nb. black-necked cobra and puff adder\n\nc. western diamondback rattlesnake and eastern coral snake\n\nd. fer-de-lance and eastern coral snake"
+    },
+    {
+     "day": 1,
+     "number": 52,
+     "paper_label": "Exam",
+     "problem": "On an expedition around the world, scientists collected venom from a number of snake species. They also gathered data on mortality from snake bites of each species.\n\nThe snakes observed were the southern United States copperhead with a mortality percentage of less than 1%, the western diamondback rattlesnake with 5-15% mortality, the eastern coral snake with 5-20% mortality, the king cobra with greater than 40% mortality, the Indian krait with 77% mortality, the European viper with 1-5% mortality, the bushmaster with usually 100% mortality, the fer-de-lance with 10-20% mortality, the black-necked cobra with 11-40% mortality, and the puff adder with 11-40% mortality.\n\nFrom the information recorded, which snake venom is most quick to take effect?\n\na. bushmaster\n\nb. copperhead\n\nc. western diamondback rattlesnake\n\nd. this cannot be determined"
+    },
+    {
+     "day": 1,
+     "number": 53,
+     "paper_label": "Exam",
+     "problem": "Table 1: Growth of eight plants in a three week period\n\n$$\\begin{array}{l|c|c|c|c|c} & \\text{Amount of Light} & \\text{Amount of Water} & \\text{Height} & \\text{Height} & \\text{Height} \\\\ & \\text{per day (hours)} & \\text{per day} & \\text{Week 1 (cm)} & \\text{Week 2 (cm)} & \\text{Week 3 (cm)} \\\\ \\hline \\text{Plant 1} & 0 & \\text{¼ cup} & 0 & 0 & 0 \\\\ \\text{Plant 2} & 0 & \\text{1 cup} & 0 & 0 & 0 \\\\ \\text{Plant 3} & 4 & \\text{¼ cup} & 1 & 3 & 6 \\\\ \\text{Plant 4} & 4 & \\text{1 cup} & 0.5 & 1 & 1.5 \\\\ \\text{Plant 5} & 8 & \\text{¼ cup} & 1.5 & 4 & 8 \\\\ \\text{Plant 6} & 8 & \\text{1 cup} & 1 & 3 & 6 \\\\ \\text{Plant 7} & 16 & \\text{¼ cup} & 1 & 2 & 3 \\\\ \\text{Plant 8} & 16 & \\text{1 cup} & 1.5 & 5 & 10 \\end{array}$$\n\nIn this plant growth experiment, what were the two variables tested?\n\na. Amount of light per day and height\n\nb. Amount of water per day and plant number\n\nc. Plant number and height\n\nd. Amount of light per day and amount of water per day"
+    },
+    {
+     "day": 1,
+     "number": 54,
+     "paper_label": "Exam",
+     "problem": "Table 1: Growth of eight plants in a three week period\n\n$$\\begin{array}{l|c|c|c|c|c} & \\text{Amount of Light} & \\text{Amount of Water} & \\text{Height} & \\text{Height} & \\text{Height} \\\\ & \\text{per day (hours)} & \\text{per day} & \\text{Week 1 (cm)} & \\text{Week 2 (cm)} & \\text{Week 3 (cm)} \\\\ \\hline \\text{Plant 1} & 0 & \\text{¼ cup} & 0 & 0 & 0 \\\\ \\text{Plant 2} & 0 & \\text{1 cup} & 0 & 0 & 0 \\\\ \\text{Plant 3} & 4 & \\text{¼ cup} & 1 & 3 & 6 \\\\ \\text{Plant 4} & 4 & \\text{1 cup} & 0.5 & 1 & 1.5 \\\\ \\text{Plant 5} & 8 & \\text{¼ cup} & 1.5 & 4 & 8 \\\\ \\text{Plant 6} & 8 & \\text{1 cup} & 1 & 3 & 6 \\\\ \\text{Plant 7} & 16 & \\text{¼ cup} & 1 & 2 & 3 \\\\ \\text{Plant 8} & 16 & \\text{1 cup} & 1.5 & 5 & 10 \\end{array}$$\n\nWhich plant had the greatest growth when measured in Week 2?\n\na. Plant 3\n\nb. Plant 5\n\nc. Plant 6\n\nd. Plant 8"
+    },
+    {
+     "day": 1,
+     "number": 55,
+     "paper_label": "Exam",
+     "problem": "Table 1: Growth of eight plants in a three week period\n\n$$\\begin{array}{l|c|c|c|c|c} & \\text{Amount of Light} & \\text{Amount of Water} & \\text{Height} & \\text{Height} & \\text{Height} \\\\ & \\text{per day (hours)} & \\text{per day} & \\text{Week 1 (cm)} & \\text{Week 2 (cm)} & \\text{Week 3 (cm)} \\\\ \\hline \\text{Plant 1} & 0 & \\text{¼ cup} & 0 & 0 & 0 \\\\ \\text{Plant 2} & 0 & \\text{1 cup} & 0 & 0 & 0 \\\\ \\text{Plant 3} & 4 & \\text{¼ cup} & 1 & 3 & 6 \\\\ \\text{Plant 4} & 4 & \\text{1 cup} & 0.5 & 1 & 1.5 \\\\ \\text{Plant 5} & 8 & \\text{¼ cup} & 1.5 & 4 & 8 \\\\ \\text{Plant 6} & 8 & \\text{1 cup} & 1 & 3 & 6 \\\\ \\text{Plant 7} & 16 & \\text{¼ cup} & 1 & 2 & 3 \\\\ \\text{Plant 8} & 16 & \\text{1 cup} & 1.5 & 5 & 10 \\end{array}$$\n\nWhich protocol provided the best growth conditions?\n\na. 8 hours of light per day and 1 cup of water\n\nb. 4 hours of light per day and ¼ cup of water\n\nc. 8 hours of light per day and ¼ cup of water\n\nd. 16 hours of light per day and 1 cup of water"
+    },
+    {
+     "day": 1,
+     "number": 56,
+     "paper_label": "Exam",
+     "problem": "The glycaemic index (GI) measures the rise in blood sugar levels caused by a measured quantity of a particular food. The GI is a useful nutritional concept because it measures how rapidly carbohydrates are absorbed in the human body by measuring the increase in blood glucose concentration, thereby also giving an indication of expected insulin elevations.\n\nA rapid increase in blood sugar levels indicates that a food has a high glycaemic index. Blood glucose levels are measured by sampling a tiny pin-prick of blood using a device especially calibrated to detect glucose levels.\n\nThe following graphs show the body’s typical responses to ingestion of equal amounts of two different foods.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-56-fig1.png\n\nSource: Baishideng Publishing Group Co\n\nCarbohydrates are not:\n\na. one of the four basic macromolecules of life\n\nb. polymers made up of monomers called monosaccharides\n\nc. polymers made up of simple sugars such as glucose and fructose\n\nd. polymers that include glycogen, starch and insulin"
+    },
+    {
+     "day": 1,
+     "number": 57,
+     "paper_label": "Exam",
+     "problem": "The glycaemic index (GI) measures the rise in blood sugar levels caused by a measured quantity of a particular food. The GI is a useful nutritional concept because it measures how rapidly carbohydrates are absorbed in the human body by measuring the increase in blood glucose concentration, thereby also giving an indication of expected insulin elevations.\n\nA rapid increase in blood sugar levels indicates that a food has a high glycaemic index. Blood glucose levels are measured by sampling a tiny pin-prick of blood using a device especially calibrated to detect glucose levels.\n\nThe following graphs show the body’s typical responses to ingestion of equal amounts of two different foods.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-56-fig1.png\n\nSource: Baishideng Publishing Group Co\n\nThe graph shows that mung bean noodles have a:\n\na. lower GI than white bread\n\nb. higher GI than white bread\n\nc. lighter weight than white bread\n\nd. quicker digestion rate than white bread"
+    },
+    {
+     "day": 1,
+     "number": 58,
+     "paper_label": "Exam",
+     "problem": "The glycaemic index (GI) measures the rise in blood sugar levels caused by a measured quantity of a particular food. The GI is a useful nutritional concept because it measures how rapidly carbohydrates are absorbed in the human body by measuring the increase in blood glucose concentration, thereby also giving an indication of expected insulin elevations.\n\nA rapid increase in blood sugar levels indicates that a food has a high glycaemic index. Blood glucose levels are measured by sampling a tiny pin-prick of blood using a device especially calibrated to detect glucose levels.\n\nThe following graphs show the body’s typical responses to ingestion of equal amounts of two different foods.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-56-fig1.png\n\nSource: Baishideng Publishing Group Co\n\nWhich of the following foods would have the highest GI per gram?\n\na. steak\n\nb. mung bean noodles\n\nc. olive oil\n\nd. egg white"
+    },
+    {
+     "day": 1,
+     "number": 59,
+     "paper_label": "Exam",
+     "problem": "The glycaemic index (GI) measures the rise in blood sugar levels caused by a measured quantity of a particular food. The GI is a useful nutritional concept because it measures how rapidly carbohydrates are absorbed in the human body by measuring the increase in blood glucose concentration, thereby also giving an indication of expected insulin elevations.\n\nA rapid increase in blood sugar levels indicates that a food has a high glycaemic index. Blood glucose levels are measured by sampling a tiny pin-prick of blood using a device especially calibrated to detect glucose levels.\n\nThe following graphs show the body’s typical responses to ingestion of equal amounts of two different foods.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-56-fig1.png\n\nSource: Baishideng Publishing Group Co\n\nThe insulin response curve shown above demonstrates that:\n\na. insulin responses are not affected by the GI of food types\n\nb. insulin levels are higher in white bread than in mung bean noodles\n\nc. insulin is released in response to blood glucose levels\n\nd. insulin is less effective when foods have low GI"
+    },
+    {
+     "day": 1,
+     "number": 60,
+     "paper_label": "Exam",
+     "problem": "The glycaemic index (GI) measures the rise in blood sugar levels caused by a measured quantity of a particular food. The GI is a useful nutritional concept because it measures how rapidly carbohydrates are absorbed in the human body by measuring the increase in blood glucose concentration, thereby also giving an indication of expected insulin elevations.\n\nA rapid increase in blood sugar levels indicates that a food has a high glycaemic index. Blood glucose levels are measured by sampling a tiny pin-prick of blood using a device especially calibrated to detect glucose levels.\n\nThe following graphs show the body’s typical responses to ingestion of equal amounts of two different foods.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-56-fig1.png\n\nSource: Baishideng Publishing Group Co\n\nResponse curves such as those shown above are useful for measuring all of the following except:\n\na. The uptake of fats into the blood stream\n\nb. The amount of glucose in each liver cell\n\nc. How quickly oral medicines are absorbed from the digestive system\n\nd. Rates of alcohol elimination"
+    },
+    {
+     "day": 1,
+     "number": 61,
+     "paper_label": "Exam",
+     "problem": "Which one of the following graphs shows the relative change in the amount of mitochondrial DNA of a cell undergoing mitosis?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-61-fig1.png"
+    },
+    {
+     "day": 1,
+     "number": 62,
+     "paper_label": "Exam",
+     "problem": "If a segment of an mRNA molecule has the sequence 5’ GUACCGAUCG 3’, which of the following could have been the template DNA molecule?\n\na. 5’ GCUAGCCAUG 3’\n\nb. 5’ GUACCGAUCG 3’\n\nc. 5’ CATGGCTAGC 3’\n\nd. 5’ CGATCGGTAC 3’"
+    },
+    {
+     "day": 1,
+     "number": 63,
+     "paper_label": "Exam",
+     "problem": "DNA helicase, a key enzyme in DNA replication, separates double-stranded DNA into single-stranded DNA (ssDNA). The following describes an experiment exploring the characteristics of this enzyme.\n\nA linear 6 kb ssDNA was annealed with a short (300 bp) complementary ssDNA that is labeled with radioactive nucleotides (a). The annealed DNA was then treated in one of three ways: with DNA helicase, boiling without helicase, or boiled helicase. Treated DNA samples were electrophoresed on agarose gel. The gel in b shows the DNA bands that could be detected in the gel by autoradiography. (It is assumed that adequate ATP was provided during the treatment of DNA helicase).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-63-fig1.png\n\nWhich of the following explanations is correct?\n\na. The band appearing in the top part of the gel is the 6.3 kb ssDNA only.\n\nb. The band appearing in the lower part of the gel is the labelled 300 bp DNA.\n\nc. If the annealed DNA is treated only with DNA helicase and the reaction is complete, the band pattern looks like the lane 3 in b.\n\nd. If the annealed DNA is treated only with boiled helicase, the band pattern will look like lane 1 in b."
+    },
+    {
+     "day": 1,
+     "number": 64,
+     "paper_label": "Exam",
+     "problem": "Self-incompatibility (SI) in flowering plants is the most common mechanism of preventing self-pollination and is mediated by a single S locus with multiple alleles. In gametophytic self-incompatibility (GSI), incompatibility of pollen is determined by the haploid pollen genotype at the S locus. In sporophytic self-incompatibility (SSI), incompatibility is determined by the diploid S genotype of the pollen-receiving plant.\n\nThe table below shows the SI type and pollen/style S-gene genotypes of two plants crossed for fertilization. (The style of a flowering plant receives pollen grains for fertilization.)\n\nWhich of these crosses (I, II, III, and IV) will result in successful fertilizations?\n\n$$\\begin{array}{c|c|c|c} & \\text{SI type} & \\rlap{\\text{Expressed genotype}} & \\\\ & & \\text{Pollen of plant 1} & \\text{Style of plant 2} \\\\ \\hline \\text{I} & \\text{GSI} & \\text{S}_1 \\text{ or } \\text{S}_2 & \\text{S}_2\\,\\text{S}_3 \\\\ \\text{II} & \\text{GSI} & \\text{S}_2 \\text{ or } \\text{S}_3 & \\text{S}_2\\,\\text{S}_3 \\\\ \\text{III} & \\text{SSI} & \\text{S}_1 \\text{ or } \\text{S}_2 & \\text{S}_1\\,\\text{S}_3 \\\\ \\text{IV} & \\text{SSI} & \\text{S}_1 \\text{ or } \\text{S}_2 & \\text{S}_3\\,\\text{S}_4 \\end{array}$$\n\na. I and III\n\nb. I and IV\n\nc. II and III\n\nd. II and IV"
+    },
+    {
+     "day": 1,
+     "number": 65,
+     "paper_label": "Exam",
+     "problem": "Rubisco is an enzyme crucial for carbon fixation in plants. In addition to a predominant carboxylation reaction, the enzyme also catalyses an oxidation reaction.\n\nFor an aquatic plant, the frequency of the oxidation reaction depends on the relative concentrations of the reagents CO$_2$ and O$_2$ in the aquatic solution, which in turn are coupled to temperature. The figures show the absolute (a) and relative (b) concentrations of CO$_2$ and O$_2$ dissolved in water that is at equilibrium with the atmosphere.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-65-fig1.png\n\nChoose the most correct statement.\n\na. The frequency of the oxidation reaction decreases with increasing temperature.\n\nb. In water at equilibrium with the atmosphere, the relative concentration change with temperature of CO$_2$ is larger than that of O$_2$.\n\nc. Rubisco has a higher affinity for O$_2$ than for CO$_2$.\n\nd. At a temperature of 90°C, Rubisco catalyzes only one of the above two reactions in vascular plants."
+    },
+    {
+     "day": 1,
+     "number": 66,
+     "paper_label": "Exam",
+     "problem": "As shown in the left-hand picture below, neuron (N) receives signals directly from two separate nerve terminals (a and c). Nerve terminal (b) is synaptically connected to nerve terminal (a). The right-hand graph shows various postsynaptic potentials recorded in neuron (N) caused by input signals from the three presynaptic terminals.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-66-fig1.png\n\nWhich of the following statements about the signal transmissions at these synapses are correct?\n\nI. Action potentials would be generated in neuron (N) if nerve terminals (a) and (c) were stimulated simultaneously.\n\nII. The neurotransmitter released from nerve terminal (b) is inhibitory.\n\nIII. When nerve terminal (b) is stimulated alone, an inhibitory postsynaptic potential (IPSP) would be recorded in neuron (N).\n\nIV. When nerve terminals (b) and (c) are stimulated simultaneously, the excitatory postsynaptic potential (EPSP) recorded in neuron (N) is smaller compared to when only nerve terminal (c) is stimulated.\n\na. Only I and II\n\nb. Only I and IV\n\nc. Only I, II and III\n\nd. Only III and IV"
+    },
+    {
+     "day": 1,
+     "number": 67,
+     "paper_label": "Exam",
+     "problem": "The table below shows the results of experimental tests on skin graft rejection between two different mouse strains. (Assume strains [A] and [B] are genetically identical except for the MHC loci.)\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-67-fig1.png\n\nWhich of the following statements is not correct?\n\na. Graft rejection is considered to be the result of immune responses.\n\nb. MHC genes are mainly responsible for the graft rejection.\n\nc. If strain [B] skin is grafted onto mouse [A], the result would be the same as the result of Exp. II.\n\nd. If strain [A] skin is grafted onto an offspring from a mating between [A] and [B] mice (e.g. F1, [A] x [B], the result would be the same as that of Exp. III."
+    },
+    {
+     "day": 1,
+     "number": 68,
+     "paper_label": "Exam",
+     "problem": "Eusocial honeybees have a specific system of sex determination. Females are diploid (2n) and develop from fertilized eggs; males are haploid (n) and develop from unfertilized eggs. Assuming that the queen copulated with a single male, which of the following is/are most likely true for this social group?\n\nI. The males have mothers but not fathers.\n\nII. A female should foster her brothers to increase her inclusive fitness rather than trying to increase her direct reproduction.\n\nIII. It is advantageous to females' (workers’) fitness if the queen produces sons and daughters in equal proportions.\n\nIV. A female should remove the eggs of other females (workers) from the nest to increase her fitness.\n\na. Only I and II\n\nb. Only I and III\n\nc. Only I and IV\n\nd. Only III and IV"
+    },
+    {
+     "day": 1,
+     "number": 69,
+     "paper_label": "Exam",
+     "problem": "Four mutant strains of bacteria (1 to 4) all require substance S to grow. Each strain is blocked at one step in the S-biosynthesis pathway. Four plates were prepared with minimal medium and a trace of substance S, to allow a small amount of growth of mutant cells.\n\nOn plate a, mutant cells of strain 1 were spread over entire surface of the agar to form a thin lawn of bacteria. On plate b, the lawn was composed of mutant cells of strain 2, and so on. On each plate, cells of each of the four mutant types were inoculated over the lawn, as indicated in the figure by the circles.\n\nDark circles indicate excellent growth. A strain blocked at a later step in the S substance metabolic pathway accumulates intermediates that can ‘feed’ a strain blocked at an earlier step.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-69-fig1.png\n\nWhat is the order of genes (1~4) in the metabolic pathway for synthesis of substance S?\n\na. 1 → 3 → 4 → 2\n\nb. 2 → 4 → 3 → 1\n\nc. 1 → 2 → 4 → 3\n\nd. 3 → 4 → 2 → 1"
+    },
+    {
+     "day": 1,
+     "number": 70,
+     "paper_label": "Exam",
+     "problem": "Aneuploidy is the presence of an abnormal number of chromosomes in a cell, for example humans having 45 or 47 chromosomes instead of the usual 46. This is caused by non-disjunction, where sister chromatids fail to separate at the centromere in anaphase of either meiosis I or II. Below is a simplified flowchart of meiosis and an incomplete diagram of non-disjunction.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-70-fig1.png\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-70-fig2.png\n\nSource: Campbell Biology\n\nIdentify the TRUE statement:\n\na. Non-disjunction in meiosis I leads to four abnormal gametes.\n\nb. Non-disjunction in meiosis II leads to three abnormal, and one normal gamete.\n\nc. Down syndrome (having an extra chromosome 21) is not caused by aneuploidy.\n\nd. Non-disjunction in meiosis II leads to two gametes each with one extra chromosome, and two gametes each with one fewer chromosome than usual."
+    },
+    {
+     "day": 1,
+     "number": 71,
+     "paper_label": "Exam",
+     "problem": "The surface area and average depth of a certain body of water are 45457625 km$^2$ and 2682m respectively. The volume of water is closest to:\n\na. $2 \\times 10^{-11}$ GL\n\nb. $1 \\times 10^{16}$ GL\n\nc. $4 \\times 10^{9}$ GL\n\nd. $1 \\times 10^{11}$ GL"
+    },
+    {
+     "day": 1,
+     "number": 72,
+     "paper_label": "Exam",
+     "problem": "Identify the TRUE statement:\n\na. There is a selective disadvantage to retaining vestigial structures.\n\nb. Prolific use of antibiotics directly causes bacteria to mutate and become antibiotic resistant.\n\nc. Unrelated species may evolve similar adaptations.\n\nd. Crossing over and recombination in meiosis creates new genes."
+    },
+    {
+     "day": 1,
+     "number": 73,
+     "paper_label": "Exam",
+     "problem": "Osmotic pressure is the pressure that must be applied to a pure solvent to prevent osmosis into a given solution, when the solution is separated from the pure solvent by a semipermeable membrane. Water moves from a region of low osmotic pressure to high osmotic pressure. The osmotic pressure (π) generated by a dissolved solute is proportional to the concentration of that solute, and may be approximated by the Van’t Hoff formula:\n\n$$\\pi = i\\, M_{solute}\\, R\\, T$$\n\nwhere:\n\nπ is the osmotic pressure in mmHg\n\n$M_{solute}$ is the molar concentration of the solute (mol/L or M)\n\n$R$ = 62.36 L mmHg K$^{-1}$ mol$^{-1}$ (a constant)\n\n$T$ is the absolute temperature in Kelvin (equivalent to 273 + $T$ °C)\n\n$i$ is the dimensionless Van’t Hoff index, the ratio between the concentration of particles produced when the substance is dissolved, and the concentration of a substance as calculated from its molar mass. The Van’t Hoff index for CaCl$_2$, assuming full dissociation in water, would be 3.\n\nAn experiment is set up as shown below. The two compartments are separated by a semipermeable membrane, and the temperature is 23 °C.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-73-fig1.png\n\nCalculate the minimum pressure that would need to be externally applied in order to prevent osmosis in either direction. Furthermore, identify the compartment to which this pressure should be applied. Assume complete dissociation of NaCl.\n\na. $7.38 \\times 10^{4}$ mmHg to compartment A\n\nb. $7.38 \\times 10^{4}$ mmHg to compartment B\n\nc. $3.69 \\times 10^{4}$ mmHg to compartment A\n\nd. $3.69 \\times 10^{4}$ mmHg to compartment B"
+    },
+    {
+     "day": 1,
+     "number": 74,
+     "paper_label": "Exam",
+     "problem": "Osmotic pressure is the pressure that must be applied to a pure solvent to prevent osmosis into a given solution, when the solution is separated from the pure solvent by a semipermeable membrane. Water moves from a region of low osmotic pressure to high osmotic pressure. The osmotic pressure (π) generated by a dissolved solute is proportional to the concentration of that solute, and may be approximated by the Van’t Hoff formula:\n\n$$\\pi = i\\, M_{solute}\\, R\\, T$$\n\nwhere:\n\nπ is the osmotic pressure in mmHg\n\n$M_{solute}$ is the molar concentration of the solute (mol/L or M)\n\n$R$ = 62.36 L mmHg K$^{-1}$ mol$^{-1}$ (a constant)\n\n$T$ is the absolute temperature in Kelvin (equivalent to 273 + $T$ °C)\n\n$i$ is the dimensionless Van’t Hoff index, the ratio between the concentration of particles produced when the substance is dissolved, and the concentration of a substance as calculated from its molar mass. The Van’t Hoff index for CaCl$_2$, assuming full dissociation in water, would be 3.\n\nAn experiment is set up as shown below. The two compartments are separated by a semipermeable membrane, and the temperature is 23 °C.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-73-fig1.png\n\nSomeone replaced the pure water originally in compartment A with 2.7M glucose (C$_6$H$_{12}$O$_6$) solution. The solution in compartment B and the temperature remain unchanged. In which direction will osmosis occur?\n\na. From compartment B to A\n\nb. From compartment A to B\n\nc. There will be no osmosis\n\nd. Unable to be determined"
+    },
+    {
+     "day": 1,
+     "number": 75,
+     "paper_label": "Exam",
+     "problem": "Osmotic pressure is the pressure that must be applied to a pure solvent to prevent osmosis into a given solution, when the solution is separated from the pure solvent by a semipermeable membrane. Water moves from a region of low osmotic pressure to high osmotic pressure. The osmotic pressure (π) generated by a dissolved solute is proportional to the concentration of that solute, and may be approximated by the Van’t Hoff formula:\n\n$$\\pi = i\\, M_{solute}\\, R\\, T$$\n\nwhere:\n\nπ is the osmotic pressure in mmHg\n\n$M_{solute}$ is the molar concentration of the solute (mol/L or M)\n\n$R$ = 62.36 L mmHg K$^{-1}$ mol$^{-1}$ (a constant)\n\n$T$ is the absolute temperature in Kelvin (equivalent to 273 + $T$ °C)\n\n$i$ is the dimensionless Van’t Hoff index, the ratio between the concentration of particles produced when the substance is dissolved, and the concentration of a substance as calculated from its molar mass. The Van’t Hoff index for CaCl$_2$, assuming full dissociation in water, would be 3.\n\nAn experiment is set up as shown below. The two compartments are separated by a semipermeable membrane, and the temperature is 23 °C.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/aso-2018-1-73-fig1.png\n\nSomeone replaced the pure water originally in compartment A with 2.7M glucose (C$_6$H$_{12}$O$_6$) solution. The solution in compartment B and the temperature remain unchanged. In which direction will osmosis occur?\n\nAssume all the information in question 74 still holds true. Now calculate the minimum pressure that would need to be externally applied in order to prevent osmosis in either direction. Furthermore, identify the compartment to which this pressure should be applied.\n\na. $4.98 \\times 10^{4}$ mmHg to compartment A\n\nb. $2.40 \\times 10^{4}$ mmHg to compartment B\n\nc. $1.12 \\times 10^{6}$ mmHg to compartment B\n\nd. $1.20 \\times 10^{6}$ mmHg to compartment A"
+    }
+   ]
+  },
+  {
    "year": 2019,
    "problems": [
     {
