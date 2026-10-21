@@ -66,6 +66,7 @@
     /* Country -> colour */
     --aso: #0369a1; --aso-ink: #0c4a6e; --aso-tint: #e0f2fe;
     --nbc: #b91c1c; --nbc-ink: #7f1d1d; --nbc-tint: #fee2e2;
+    --nseb: #c2410c; --nseb-ink: #7c2d12; --nseb-tint: #ffedd5;
     --nzibo: #0f766e; --nzibo-ink: #134e4a; --nzibo-tint: #ccfbf1;
     --inbo: #c2410c; --inbo-ink: #7c2d12; --inbo-tint: #fde8dc;
     --ibop: #9d174d; --ibop-ink: #6b0f34; --ibop-tint: #fbe3ee;
@@ -293,6 +294,7 @@
 }
 .f-aso { --f: var(--aso); --f-ink: var(--aso-ink); --f-tint: var(--aso-tint); }
 .f-nbc { --f: var(--nbc); --f-ink: var(--nbc-ink); --f-tint: var(--nbc-tint); }
+.f-nseb { --f: var(--nseb); --f-ink: var(--nseb-ink); --f-tint: var(--nseb-tint); }
 .f-nzibo { --f: var(--nzibo); --f-ink: var(--nzibo-ink); --f-tint: var(--nzibo-tint); }
 .f-inbo { --f: var(--inbo); --f-ink: var(--inbo-ink); --f-tint: var(--inbo-tint); }
 .f-ibop { --f: var(--ibop); --f-ink: var(--ibop-ink); --f-tint: var(--ibop-tint); }
@@ -1052,10 +1054,10 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261021-astro-link';
+const DATA_VERSION = '20261021-nseb';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
-const REGION_OF = { ibo: 'world', ibop: 'world', inbo: 'asia', aso: 'oceania', nbc: 'americas', nzibo: 'oceania' };
+const REGION_OF = { ibo: 'world', ibop: 'world', inbo: 'asia', aso: 'oceania', nbc: 'americas', nzibo: 'oceania', nseb: 'asia' };
 const regionOf = key => REGION_OF[key] || 'other';
 const PAGE = 20;
 const STORAGE_KEY = 'eisatopon-biology:set:v1';  // same origin as the math bank: keep the keys apart
@@ -1064,6 +1066,7 @@ const COUNTRIES = [
     { key: 'nzibo', name: 'New Zealand NZIBO', flag: '🇳🇿', file: 'NewZealand-NZIBO-problems.json', kind: 'years', scope: 'national', full: 'New Zealand International Biology Olympiad, national entrance and selection exams' },
     { key: 'nbc', name: 'Canada NBC', flag: '🇨🇦', file: 'Canada-NBC-problems.json', kind: 'years', scope: 'national', full: 'University of Toronto National Biology Competition' },
     { key: 'aso', name: 'Australia ASO', flag: '🇦🇺', file: 'Australia-ASO-problems.json', kind: 'years', scope: 'national', full: 'Australian Science Olympiad Exam, Biology' },
+    { key: 'nseb', name: 'India NSEB', flag: '🇮🇳', file: 'India-NSEB-problems.json', kind: 'years', scope: 'national', full: 'National Standard Examination in Biology (India, IAPT / ATBS), first stage of the Indian biology olympiad' },
     { key: 'inbo', name: 'India INBO', flag: '🇮🇳', file: 'India-INBO-problems.json', kind: 'years', scope: 'national', full: 'Indian National Biology Olympiad' },
     { key: 'ibop', name: 'IBO practical', flag: '🌐', file: 'IBO-practical-problems.json', kind: 'years', scope: 'international', full: 'International Biology Olympiad, practical exams' },
     { key: 'ibo', name: 'IBO', flag: '🌐', file: 'IBO-theory-problems.json', kind: 'years', scope: 'international', full: 'International Biology Olympiad, theoretical papers' },
