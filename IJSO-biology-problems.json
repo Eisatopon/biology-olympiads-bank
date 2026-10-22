@@ -1,0 +1,200 @@
+{
+ "competition": "International Junior Science Olympiad (IJSO) — biology questions",
+ "years": [
+  {
+   "year": 2021,
+   "problems": [
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Multiple choice",
+     "problem": "An ecologist found a small water body on an isolated island and observed the various organisms present in it. He classified the organisms based on different trophic levels as shown in the table:\n\n$$\\begin{array}{l|l|l|l} \\text{Trophic level} & \\text{Name of Trophic level} & \\text{Organisms found} & \\text{Description} \\\\ \\hline \\text{Trophic level 1} & \\text{Producers} & \\text{Phytoplankton} & \\text{Phytoplankton are autotrophs which produce their own organic nutrients.} \\\\ \\hline \\text{Trophic level 2} & \\text{Primary consumers} & \\text{Zooplankton} & \\text{Zooplankton are herbivores. They feed on the phytoplankton for their energy source.} \\\\ \\hline \\text{Trophic level 3} & \\text{Secondary consumers} & \\text{Small Planktivorous fish} & \\text{These small fish are the primary carnivores. They feed on the zooplankton and derive their energy from it.} \\end{array}$$\n\nFor studying the interactions between the organisms, the ecologist introduced a population of a carnivorous fish (which feed only on other small fish) in the waterbody.\n\nWhich of the following statements is correct regarding the long-term consequence of this introduction?\n\na. There will be an increase in the biomass of autotrophs.\n\nb. There will be a decrease in the biomass of both autotrophs and herbivores.\n\nc. There will be an increase in the biomass of herbivores.\n\nd. There will be a decrease in the biomass of herbivores and an increase in the biomass of autotrophs."
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Multiple choice",
+     "problem": "Paramecium lives in pond water that is hypotonic to its cellular contents. However, paramecium does not burst due to excess water uptake because of its contractile vacuole.\n\nThe vacuole collects fluids from a system of canals present in the cytoplasm. When full the vacuole and canals contract, expelling fluid from the paramecium.\n\nIn an experiment, the activity of the contractile vacuole was monitored over time after placing paramecium in a growth medium with an osmotic concentration (osmolarity) of 4 mOsmol $L^{-1}$ (similar to that of the pond water) for 30 minutes and then shifted to a growth medium having an osmolarity of 24 mOsmol $L^{-1}$.\n\nOsmole refers to the number of moles of solutes that contribute to the osmotic pressure of a solution. Osmolarity is osmole per liter.\n\nWhich of the following graphs is a correct representation of the activity of the contractile vacuole in these two media?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2021-1-22-fig1.png\n\nX = Time (min); Y = Activity (arbitrary units)"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Multiple choice",
+     "problem": "The pedigree below represents the inheritance of a genetic disorder.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2021-1-23-fig1.png\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2021-1-23-fig2.png\n\nIf the individuals marked 1 and 2 had a daughter, what is the probability that the daughter would show the disorder?\n\na. 1\n\nb. 1/2\n\nc. 2/3\n\nd. 1/4"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Multiple choice",
+     "problem": "Given below are schematic representations of chromosomes at Metaphase I of meiosis.\n\nThe figures below depict the arrangement of alleles on the chromosomes and the alignment of chromosomes at the equatorial plane. The dotted line indicates spindle fibres.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2021-1-24-fig1.png\n\nFigure 1\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2021-1-24-fig2.png\n\nFigure 2\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2021-1-24-fig3.png\n\nFigure 3\n\nWhich of the following will definitely ensure independent assortment of the genes ‘A’ and ‘B’ under normal meiotic division?\n\na. When chromosomes are arranged as shown in figure 1 and there is crossing over between genes A and B.\n\nb. When 50% of the cells in meiosis have chromosomes in orientation I and 50% have chromosomes in orientation II as shown in figure 2.\n\nc. When 50% of the cells in meiosis have chromosomes in orientation I and 50% have chromosomes in orientation II as shown in figure 3\n\nd. When chromosomes are arranged as shown in figure 1 and there is no crossing over between genes A and B."
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Multiple choice",
+     "problem": "The figure below represents two types of nephrons (labeled as A and B) observed in mammals.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2021-1-25-fig1.png\n\nA- Type A nephron; B- Type B nephron; P- Glomerulus; Q- Bowman’s capsule; R- Proximal convoluted tubule; S- Loop of Henle; T- Distal convoluted tubule; U- Collecting duct; X- Cortex; Y- Outer medulla; Z- Inner medulla\n\nWhich of the following statements regarding the nephrons is correct?\n\na. In comparison to type A nephron, the urine produced by a type B nephron is likely to be more concentrated\n\nb. Type B nephron is likely to absorb more potassium ions as compared to type A nephron.\n\nc. In comparison to type B nephron, in type A nephron, reabsorption of NaCl leads to subsequent osmosis of water from loop of Henle into the blood.\n\nd. In comparison to type B nephron, type A nephron is likely to remove poisonous substances from the blood more efficiently."
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Multiple choice",
+     "problem": "A small population of monkeys from Africa (Old World) are thought to have drifted to South America (New World) on natural rafts about 40 million years ago\n\nThere were no monkeys in the New World. On reaching South America, these monkeys bred and over time looked very different from the monkeys in Africa. They formed new species.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2021-1-26-fig1.png\n\n1. Old world monkeys 2. New world monkeys\n\nArrange the evolutionary processes that would lead to the formation of the new species.\n\na. Migration $\\longrightarrow$ Adaptation $\\longrightarrow$ Natural Selection\n\nb. Genetic drift $\\longrightarrow$ Natural Selection $\\longrightarrow$ Adaptation\n\nc. Natural Selection $\\longrightarrow$ Adaptation $\\longrightarrow$ Genetic drift\n\nd. Adaptation $\\longrightarrow$ Genetic drift $\\longrightarrow$ Natural Selection"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Multiple choice",
+     "problem": "In 1881, a scientist named Engelmann mounted a filamentous green alga, Spirogyra, on a slide and placed some motile bacteria in a nutrient medium around the algal filament.\n\nHe illuminated the algal filament with a light spectrum (400-700nm) obtained using a prism and viewed the slide under a microscope.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2021-1-27-fig1.png\n\n1 – Bacteria 2- Algal filament A- Wavelength (nm)\n\nBased on the above information, which of the following statements is correct?\n\na. The experiment was carried out to study respiration in algae.\n\nb. The bacteria used in this experiment are aerobic in nature.\n\nc. The bacteria are naturally attracted to red and blue light and not dependent on the algal filament.\n\nd. The distribution of bacteria is dependent on the specific structures present in the algal filament."
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Multiple choice",
+     "problem": "Filamentous cyanobacteria have special thick-walled structures called heterocysts, that help in nitrogen fixation.\n\nNitrogen from the atmosphere is fixed by the enzyme nitrogenase present in the heterocysts and converted to ammonia, using ATP as a source of energy.\n\nNitrogenase is very sensitive to inactivation by oxygen.\n\nWhich of the following modifications will allow heterocysts to effectively carry out nitrogen fixation?\n\na. High chlorophyll content\n\nb. Reduced light-dependent activity\n\nc. Enhanced $CO_2$ fixation\n\nd. Low respiratory rate"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Multiple choice",
+     "problem": "A phylogenetic tree is a diagram that depicts the lines of evolutionary descent of different species from a common ancestor.\n\nIn the phylogenetic trees shown below, the evolutionary descent of three organisms –Humans (1), Whale (2) and Sharks (3) is depicted.\n\nWhich of the following phylogenetic trees correctly represents the relationship between these three organisms?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2021-1-29-fig1.png"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Multiple choice",
+     "problem": "The figure illustrates a forest area depicting fauna living in deep forest (interior species) or the boundary zone (edge species).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2021-1-30-fig1.png\n\n1- Interior species; 2- Edge species; 3- Sp-Y (bird); 4- Sp-X (reptile) 5- boundary zone; 6- deep forest.\n\nAn ecological niche is defined as the sum of its use of the biotic and abiotic resources in its environment.\n\nCompare A and B and analyse the inferences given below:\n\ni. A and B are examples of ecological succession.\n\nii. A and B are examples of habitat fragmentation.\n\niii. In B, the interior habitat has shrunk while the number of individuals of edge species has increased.\n\niv. In B, there is an increase in both the inner habitat and the interior species.\n\nv. In A and B, sp-X and sp-Y occupy different niches.\n\nChoose the option with correct combination of inferences cited above:\n\na. i and iii only\n\nb. ii and iv only\n\nc. ii, iii and v\n\nd. i, iv and v"
+    }
+   ]
+  },
+  {
+   "year": 2022,
+   "problems": [
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Multiple choice",
+     "problem": "Many of the miners working in Colombia have a diet high in maize which when combined with higher levels of sugar in their diets has lead to an increase in the incidence of Diabetes mellitus among these adult people. Which are the changes in the body in this group of people, that are associated with this disease?\n\nA. The beta cells in the pancreas secrete insulin when higher levels of glucose are detected in the blood, which causes the person to increase the absorption of glucose into cells in their body.\n\nB. The person generally becomes thinner, dehydrated and has urine with higher levels of ketones\n\nC. The beta cells in the pancreas secrete insulin when higher levels of glucose are detected in the blood, however cells in the body have become insensitive to insulin and so do not increase their absorption of glucose from the blood.\n\nD. The person is often overweight with a high BMI and produces sufficient insulin into the blood to cause the absorption of glucose."
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Multiple choice",
+     "problem": "Acidothiobacillus species (thiooxidans and ferrooxidans) are used to extract minerals from the crushed rock in mine dumps. These bacteria oxidise iron(II) and sulphide ores as a source of electrons to fuel their electron transport chains and produce energy. In this process they release metal and hydrogen ions into the surrounding water. Genetic analysis of these bacteria indicates they contain genes for the enzymes of the Calvin cycle and the fixation of nitrogen. Which terms best define these bacteria?\n\n$$\\begin{array}{c|c|c|c|c} \\text{A} & \\text{Chemotroph} & \\text{Lithotroph} & \\text{Acidophile} & \\text{Producer} \\\\ \\hline \\text{B} & \\text{Autotroph} & \\text{Lithotroph} & \\text{extremophile} & \\text{Primary consumer} \\\\ \\hline \\text{C} & \\text{Phototroph} & \\text{Autotroph} & \\text{Acidophile} & \\text{Decomposer} \\\\ \\hline \\text{D} & \\text{heterotroph} & \\text{Autotroph} & \\text{extremophile} & \\text{Secondary consumer} \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Multiple choice",
+     "problem": "Identify the likely seed characteristics for the two seeds that depend on different dispersal mechanisms. The first seed depends on wind dispersal and the second on dispersal via ruminants.\n\n$$\\begin{array}{c|l|l}  & \\text{Wind dispersed seed} & \\text{Seed dispersed via ruminant} \\\\ \\hline \\text{A} & \\text{Dense nut with woody pericarp} & \\text{Very light, spiral feathers} \\\\ \\hline \\text{B} & \\text{Small dense pip in ballistic pod under tension} & \\text{Multiple fine hairs coat the outside with hooks} \\\\ \\hline \\text{C} & \\text{Dense fire-resistant seed coat} & \\text{Fleshy fruit coated in small seeds} \\\\ \\hline \\text{D} & \\text{Rotary wing, small} & \\text{Drupe fruit, coloured, hard inner seed coat} \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Multiple choice",
+     "problem": "The tall wax palms (Ceroxylon quindiuense) are indigenous trees of Colombia. In these growing trees some cells are sampled and analyzed, the number of chromosomes and the number of DNA molecules in the cells are compared to cells of this tree in the G1 phase of the cell cycle (C: reference cells). Identify the phase of the cell cycle that groups x, y and z come from. (note sister chromatids bound by a centromere are considered as one chromosome but two DNA molecules).\n\nA axis: relative number of chromosomes\n\nB axis: relative number of DNA molecules\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2022-1-24-fig1.png\n\n$$\\begin{array}{c|l|l|l}  & \\text{X cells} & \\text{Y cells} & \\text{Z cells} \\\\ \\hline \\text{A} & \\text{Prophase of mitosis} & \\text{Prophase of meiosis II} & \\text{Anaphase of Meiosis II} \\\\ \\hline \\text{B} & \\text{G2 phase} & \\text{Anaphase of mitosis} & \\text{Cytokinesis of Meiosis I} \\\\ \\hline \\text{C} & \\text{Metaphase of mitosis} & \\text{Cytokinesis of mitosis} & \\text{Prophase of Mitosis} \\\\ \\hline \\text{D} & \\text{Anaphase of meiosis I} & \\text{Metaphase of meiosis I} & \\text{Prophase of Meiosis 1} \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Multiple choice",
+     "problem": "The mine stores have several cats to control rodent pests. Cat coat colour and hair length are controlled by several genes: the gene for the black or orange coat is located on the X chromosome, cats can be orange, black, or black and orange (known as tortoiseshell). The Agouti gene codes for bands of colour within individual hairs with the dominant allele producing bands of colour and the recessive allele coding for hairs of a single solid colour. There are three phenotypes for hair length: medium, short, or long. Hair length is controlled by a single gene and the heterozygous animal has medium length hair.\n\nIf a medium length hair, solid black male cat mates with a long-haired tortoiseshell agouti female which of the following statements about the kittens are correct?\n\ni. One quarter of the male kittens will be orange.\n\nii. All the female kittens will be able to have black babies.\n\niii. All the kittens will have agouti banded fur.\n\niv. At least 50% of the kittens will have agouti banded fur.\n\nv. No kittens will have short hair.\n\nvi. 25% of the kittens may have medium length hair.\n\nA. i, iii, and v\n\nB. i, ii and iv\n\nC. ii, iv and v\n\nD. ii, iii, v"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Multiple choice",
+     "problem": "In the tall Wax palms of Colombia water is drawn up from the roots to the top of these 45 -60m trees. Assuming that water only moves by transpiration, identify the conditions in the vascular tissues that result in the movement of water to the top of these trees. (Water potential difference)\n\n$$\\begin{array}{c|l|l|l}  & \\text{\\% of xylem water flow used in photosynthesis} & \\text{Water potential in xylem tissue at palm leaves} & \\text{Water potential in xylem tissue at palm roots} \\\\ \\hline \\text{A} & \\text{More than 30\\%} & \\text{Slightly positive} & \\text{Highly positive} \\\\ \\hline \\text{B} & \\text{Less than 10\\%} & \\text{Slightly positive} & \\text{Highly positive} \\\\ \\hline \\text{C} & \\text{More than 30\\%} & \\text{Very negative} & \\text{Slightly negative} \\\\ \\hline \\text{D} & \\text{Less than 10\\%} & \\text{Very negative} & \\text{Slightly negative} \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Multiple choice",
+     "problem": "Many of the miners working at Las Cunas emerald mine are native Andean men. In general Andean highlanders (Aymara people) have been found to have an enhanced total lung volume when compared to sea level dwelling Americans.There are two principal hypotheses attempting to explain the relative increase in total lung volume:\n\nThe first hypothesis is, a genetic mutation favoured by the altitude of the Andean mountains;\n\nThe second hypothesis is, this is a physiological adaptation developed when living at high altitudes. Further research has demonstrated that an increasing proportion of Aymara ancestry correlates with increased lung capacity, and that the total lung volume of Aymara men raised at sea level is not as large as that of Aymara males raised at high altitude. Which hypothesis do these observations support?\n\nA. the hypothesis that the greater lung volume is based on genetic inheritance\n\nB. The hypothesis that altitude hypoxia causes the men to adapt and increase total lung volume\n\nC. The observations support neither hypothesis\n\nD. The Observations support both hypotheses"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Multiple choice",
+     "problem": "Several major rivers flow from inside Colombia to the ocean, and the fish that inhabit these waters need to manage the concentrations of salts in their bodies. Species such as Tilapia oreochromis a freshwater fish, Lutjanus colorado a marine fish, Chaetaster nodosus starfish (an invertebrate) and Centropomas armatus an euryhaline fish ( live in marine and freshwater) show many adaptations. Identify how these species manage these concentrations of salts by selecting the letter corresponding to appropriate management strategy for that species.\n\nManagement strategies:\n\ni. Larger volume of glomeruli / Bowman's capsules\n\nii. Fewer nephrons\n\niii. Enhanced salt recovery via chloride cells\n\niv. Enhanced salt excretion via chloride cells\n\nv. Increased drinking of water\n\nvi. Little or no drinking of water\n\nvii. All of the above\n\nviii. No management strategies (none of the above)\n\n$$\\begin{array}{c|c|c|c|c}  & \\text{Starfish} & \\text{Marine fish} & \\text{Tilapia} & \\text{Euryhaline} \\\\ \\hline \\text{A} & \\text{i, ii, iii,} & \\text{i, ii, iii,} & \\text{iv, v} & \\text{vii} \\\\ \\hline \\text{B} & \\text{vii} & \\text{iv, v} & \\text{i, ii, iii,} & \\text{i, ii, v, iv} \\\\ \\hline \\text{C} & \\text{iii} & \\text{i, ii, iii} & \\text{iv, v} & \\text{iii, iv} \\\\ \\hline \\text{D} & \\text{viii} & \\text{iv, v} & \\text{i, ii, iii,} & \\text{vii} \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Multiple choice",
+     "problem": "The Amazonian rainforest is one of the most complex and diverse ecosystems in the world. Identify the correct trophic level (or levels for those that fit in several for the following species from this rainforest:\n\nNote endophytic fungi live inside the roots of plants forming a symbiotic mutualism with the plant.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2022-1-29-fig1.png\n\n$$\\begin{array}{c|c|c|c|c|c|c}  & \\text{Harpy Eagle} & \\text{Saprophytic fungi} & \\text{Leaf cutter ant} & \\text{Mahogany tree} & \\text{Orb spider} & \\text{Endophytic fungi} \\\\ \\hline \\text{A} & \\text{3} & \\text{5} & \\text{2} & \\text{1} & \\text{3 \\& 4} & \\text{5} \\\\ \\hline \\text{B} & \\text{4} & \\text{5} & \\text{2 \\& 3} & \\text{2} & \\text{3} & \\text{3} \\\\ \\hline \\text{C} & \\text{3} & \\text{1} & \\text{4} & \\text{3} & \\text{2} & \\text{5} \\\\ \\hline \\text{D} & \\text{4} & \\text{5} & \\text{2 \\& 3} & \\text{1} & \\text{3 \\& 4} & \\text{2} \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Multiple choice",
+     "problem": "Ecological succession of the mine waste dump – hypothesis formed from data The Cerro Matoso mine is deep and one of the largest in the world and has generated very large mine dumps of the crushed rock without any organic matter, after mineral extraction. A species survey of this mine dump is shown below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2022-1-30-fig1.png\n\ni. This mine dump demonstrates a secondary ecological succession\n\nii. Lichens and mosses are pioneer species\n\niii. The age of the dump increases from left to right\n\niv. Zone S has reached ecological climax\n\nv. Zone T could be a zone of crushed rock that has a composition that makes it much more difficult to colonize.\n\nSelect the option that best explains this survey.\n\nA. ii and v\n\nB. i,ii, iii and iv\n\nC. ii, iii, iv and v\n\nD. i,iii, iv and v"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "problems": [
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Multiple choice",
+     "problem": "Scientists labeled membrane proteins (proteins that exist in the plasma membrane) of a mouse cell and a human cell with two different markers. Two cells were fused forming a hybrid cell. Initially, proteins on the hybrid cell’s surface were observed as state A. Normally, after incubating the cell at 37 °C for 1 hour, proteins from different sources would disperse throughout the surface of the cell as in state B.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2023-1-21-fig1.png\n\nHowever, if the cell took 2 hours to transform from state A to state B, which of the following could be the reason(s)?\n\nI. Cell membrane possessed a greater unsaturated-to-saturated phospholipids ratio.\n\nII. Incubation was carried out at 18 °C.\n\nA. I only\n\nB. II only\n\nC. I and II\n\nD. neither I nor II"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Multiple choice",
+     "problem": "The pedigree below illustrates the ABO blood type inheritance of two lineages.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2023-1-22-fig1.png\n\nWhich statements are true according to the pedigree?\n\nI. The baby IV-1 cannot be heterozygote.\n\nII. The probability of III-5 to be a B-type is 0.5.\n\nIII. The genotype of II-1 can either be homozygous or heterozygous.\n\nIV. If III-1 is married to an AB-type woman, there is a chance for a child to be B-type.\n\nA. I and II\n\nB. II and III\n\nC. III and IV\n\nD. II and IV"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Multiple choice",
+     "problem": "The following figure shows the structure of a coronavirus. The virus is an RNA virus that has a lipid-rich envelope derived from the membrane of the host cell.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2023-1-23-fig1.png\n\nWhich of the following statements is incorrect?\n\nA. Chemical analysis should reveal carbohydrate as a component of the coronavirus.\n\nB. Treatment of the coronavirus with ethanol should denature the viral proteins, rendering the virus non-infectious.\n\nC. The N protein is expected to have a net negative charge.\n\nD. The E and M proteins are expected to have hydrophobic amino acids on the surfaces that face the envelope."
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Multiple choice",
+     "problem": "A person is sick from the COVID-19 virus. What kind of immunity does this person gain due to the infection and then retain after recovery?\n\nA. Active immunity, innate immunity\n\nB. Active immunity, acquired immunity\n\nC. Passive immunity, innate immunity\n\nD. Passive immunity, acquired immunity"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Multiple choice",
+     "problem": "The figure below shows the biceps brachii, which is a muscle that flexes the lower arm. The arrows indicate the tension force acting on the lower arm bone.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2023-1-25-fig1.png\n\nConsider the following statements:\n\nI. Biceps brachii can be voluntarily controlled.\n\nII. The muscle cell of the biceps brachii must have a striated appearance with multiple nuclei.\n\nIII. The neurotransmitter released by the motor neurons involved in contraction of biceps brachii is glutamate.\n\nWhich statement(s) (I–III) is/are correct?\n\nA. I only\n\nB. II only\n\nC. I and II\n\nD. I and III"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Multiple choice",
+     "problem": "The diagram shows blood circulation in a fish. (1: gill circulation, 2: gill capillaries, 3: body capillaries, 4: systemic circulation)\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2023-1-26-fig1.png\n\nWhich of the following statements are correct?\n\nI. P is a ventricle of the heart.\n\nII. Blood in Q is oxygenated.\n\nIII. R is a vein.\n\nIV. Blood pressure in S is higher than in R.\n\nA. I and II\n\nB. I and IV\n\nC. II and III\n\nD. III and IV"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Multiple choice",
+     "problem": "Water thyme (Hydrilla sp.) plants (1) are placed inside an upturned funnel (2) in a beaker (3) containing pond water (4) with a small amount of $\\text{NaHCO}_3$ added. The end of the funnel is covered with a measuring cylinder (5) in which air (6) was trapped. A light bulb (7) is used as a light source.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2023-1-27-fig1.png\n\nConsider the following statements:\n\nI. If more $\\text{NaHCO}_3$ is added to the water, more bubbles could be observed.\n\nII. If the light is changed from white to blue light at the same intensity, more bubbles could be observed.\n\nIII. If the light is changed from white to green light at the same intensity, more bubbles could be observed.\n\nIV. After three hours of the experiment, the air inside the cylinder is mostly carbon dioxide.\n\nWhich statements (I–IV) are correct?\n\nA. I only\n\nB. I and II\n\nC. II and III\n\nD. II and IV"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Multiple choice",
+     "problem": "According to their development, type of flower, and the number of ovaries, fruits are classified into 3 types: 1. simple fruit, which develops from a solitary flower with a single carpel or serveral fused carpels; 2. aggregate fruit, which develops from a solitary flower with more than one separate carpel, each forming a fruit; and 3. multiple fruit, which develops from an inflorescence with many dense florets, and the ovary walls are fused together into one fruit. If the flower shown in the diagram is fertilized, which type of fruit will be developed? (1: stamen, 2: carpel, 3: pistil, 4: receptacle)\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2023-1-28-fig1.png\n\nA. A simple fruit\n\nB. An aggregate fruit\n\nC. A multiple fruit\n\nD. A fruit with many seeds"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Multiple choice",
+     "problem": "Most of the dinosaurs are members of two lineages, namely Ornithischia and Saurischia. Ornithischia includes the bird-hipped dinosaurs, while Saurischia includes the lizard-hipped dinosaurs. The cladogram illustrates the relationships of these lineages. Modern birds were apparently descended from the saurischians; however, they possess hips similar to those of the relatively unrelated ornithischians.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2023-1-29-fig1.png\n\nWhich of the following correctly explains the hip similarity in birds and ornithischians?\n\nA. Adaptive radiation of the modern birds\n\nB. Convergent evolution with the ornithischians\n\nC. Divergent evolution with the ornithischians\n\nD. Descent with modification from a common ancestor of the saurischians"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Multiple choice",
+     "problem": "One of the suggested solutions to reduce greenhouse gas (GHG) emissions and climate change for a more sustainable future is to find alternatives in our diets, such as switching to plant-based milk instead of cow’s milk. But are they really more environmentally friendly? Growing the crops and the production processes of these goods are not without their impacts. The environmental resources that are required for, and the GHG emissions that result from, production are important considerations. The following graphs show the global average of GHG emissions (kg $\\text{CO}_2$), land use ($\\text{m}^2$) and water use (L) in the production of one liter of milk product.\n\nGraphs:\n\n• (1) GHG emissions and land use of all milk products\n• (2) Water use of all milk products\n• (3) GHG emissions and land use of plant-based milk products\n• (4) Water use of plant-based milk products\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2023-1-30-fig1.png\n\nThe width of the bars is not relevant in the analysis of the question.\n\nConsider the proposed plant-based milk products’ suitability as alternatives to cow’s milk. Which of the following statements are supported by the data?\n\nI. All of the proposed plant-based milk products are reasonable alternatives to cow’s milk.\n\nII. Considering all factors, soy milk is the best alternative to cow’s milk.\n\nIII. Based on the percentage difference, almond milk is the worst alternative to cow’s milk overall.\n\nIV. Compared to oat milk, cow’s milk is worse for the environment in terms of land use than it is in terms of water use.\n\nV. Almond milk’s water requirements make it unviable as an alternative to cow’s milk.\n\nVI. Oat milk is not the best alternative to cow’s milk for any given factor.\n\nA. I, II, and IV\n\nB. I, III, and VI\n\nC. II, III, and IV\n\nD. II, V, and VI"
+    }
+   ]
+  }
+ ]
+}
