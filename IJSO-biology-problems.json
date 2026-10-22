@@ -2,6 +2,201 @@
  "competition": "International Junior Science Olympiad (IJSO) — biology questions",
  "years": [
   {
+   "year": 2011,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Multiple choice",
+     "problem": "Why can a person not swallow food and talk at the same time?\n\nA. The brain cannot control two activities at the same time.\n\nB. In order to speak, air must come through the pharynx to form sounds.\n\nC. In order to swallow, the epiglottis must close off the larynx (trachea).\n\nD. Both B and C are correct."
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Multiple choice",
+     "problem": "Some micro-organisms are pathogenic because they cause diseases. Study the following table which shows a list of diseases in humans in Column X. In Column Y, the main causative agents of the diseases are listed in an incorrect sequence.\n\n$$\\begin{array}{|l|l|} \\hline \\textbf{Column X} & \\textbf{Column Y} \\\\ \\hline \\text{(a) Food poisoning (Botulism)} & \\text{I. Fungus} \\\\ \\hline \\text{(b) AIDS} & \\text{II. Protozoan} \\\\ \\hline \\text{(c) Mycosis} & \\text{III. Bacterium} \\\\ \\hline \\text{(d) Malaria} & \\text{IV. Virus} \\\\ \\hline \\end{array}$$\n\nThe correct sequence of the main causative agents, which match diseases (a), (b), (c) and (d) respectively, may be represented by …\n\nA. III; II; IV; I\n\nB. III; IV; I; II\n\nC. I; IV; II; III\n\nD. IV; III; I; II"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Multiple choice",
+     "problem": "The following ecological pyramids represent the number of organisms involved in feeding relationships.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2011-1-3-fig1.png\n\nFigure 1\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2011-1-3-fig2.png\n\nFigure 2\n\nPyramids of numbers in balanced ecosystems\n\nChoose the LETTER (A, B, C or D) which is most likely to represent the organisms in each of the figures.\n\n$$\\begin{array}{|l|l|l|} \\hline & \\textbf{Figure 1} & \\textbf{Figure 2} \\\\ \\hline \\textbf{A.} & \\text{grass} \\rightarrow \\text{locust} \\rightarrow \\text{snake} \\rightarrow \\text{frog} & \\text{grass} \\rightarrow \\text{locust} \\rightarrow \\text{frog} \\\\ \\hline \\textbf{B.} & \\text{tree} \\rightarrow \\text{ant} \\rightarrow \\text{spider} \\rightarrow \\text{lizard} & \\text{tree} \\rightarrow \\text{bird} \\rightarrow \\text{parasites} \\\\ \\hline \\textbf{C.} & \\text{grass} \\rightarrow \\text{locust} \\rightarrow \\text{frog} \\rightarrow \\text{snake} & \\text{tree} \\rightarrow \\text{bird} \\rightarrow \\text{parasites} \\\\ \\hline \\textbf{D.} & \\text{snake} \\rightarrow \\text{frog} \\rightarrow \\text{locust} \\rightarrow \\text{grass} & \\text{tree} \\rightarrow \\text{ant} \\rightarrow \\text{spider} \\\\ \\hline \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Multiple choice",
+     "problem": "According to Darwin’s theory, the more closely related two different organisms are:\n\nA. the more similar their habitats.\n\nB. the less similar their DNA sequence.\n\nC. the more recently they shared a common ancestor.\n\nD. the more similar they are in size."
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Multiple choice",
+     "problem": "Examine the two graphs (Figures 3 and 4) which were provided by the Department of Environmental Affairs in South Africa. The graphs show the average temperature increase during the period 1975 to 2010, and related species decline in South Africa.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2011-1-5-fig1.png\n\nFigure 3\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2011-1-5-fig2.png\n\nFigure 4\n\nIt can be deduced that, during the period 1995 to 2005:\n\nA. an average temperature increase of 10 °C resulted in extinction of 2000 species.\n\nB. an average temperature increase of 2 °C resulted in extinction of 3000 species.\n\nC. an average temperature increase of 5 °C resulted in extinction of 2000 species.\n\nD. an average temperature increase of 2 °C resulted in extinction of 1000 species."
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Multiple choice",
+     "problem": "Stem cells are self-renewing, undifferentiated cells that divide by mitosis to produce specific body cell types. There are two broad types of stem cells, namely, adult and embryonic.\n\nWhich of the following is correct?\n\nA. An injury to the nerves of the spinal cord can always be corrected by adult stem cells.\n\nB. Embryonic stem cells cannot differentiate into adult nerve cells.\n\nC. Embryonic stem cells can potentially replace damaged nerve cells of the spinal cord.\n\nD. All the above statements are correct."
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Multiple choice",
+     "problem": "Consider Figure 5, the graph comparing the effectiveness of different methods of contraception.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2011-1-7-fig1.png\n\nVertical axis: Failure rate (Pregnancies per 100 women per year). Horizontal axis: Method of contraception; bars from left to right: Unprotected, Coitus interruptus, Rhythm method, Douche, Condom, Sterilization, Hormone pills, I.U.D\n\nFigure 5\n\nWhich of the following statements is correct?\n\nA. The sterilization and douche methods can be considered good methods of avoiding pregnancy.\n\nB. The condom is completely effective in preventing pregnancy.\n\nC. Ninety eight percent of pregnancies can be prevented by using hormone pills.\n\nD. The contraceptive success rate of the rhythm method, where sex is avoided during ovulation is about 35%."
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Multiple choice",
+     "problem": "The diagram below (Figure 6) shows two slides numbered 1 and 2, prepared from different parts of the same plant, numbered 3. The slides were prepared from tissues that were undergoing cell division. On each slide, cells in various stages of cell division can be seen.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2011-1-8-fig1.png\n\nFigure 6\n\nThe slide that shows meiosis is ______________, and it was prepared from the ___________ of the plant:\n\nA. Slide 1, Growing point\n\nB. Slide 2, Growing point\n\nC. Slide 2, Flower\n\nD. Slide 1, Flower"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Multiple choice",
+     "problem": "Huntington's disorder is a rare defect caused by an autosomal dominant allele. The defect occurs on chromosome 4 and causes a part of DNA, called a CAG sequence repeat, to occur many more times than it is supposed to. Normally, this section of DNA is repeated 10 to 28 times. But in persons with Huntington's disease, it is repeated 36 to 120 times. As the gene is passed down through families, the number of repeats tends to get larger.\n\nIf a married couple has four children, and two of the children have the disorder, which of the following is correct about the genotypes of the parents?\n\nA. Both parents are heterozygous for the disorder.\n\nB. One parent is homozygous for the disorder, and the other parent does not have the disorder.\n\nC. One parent is heterozygous for the disorder, and the other parent does not have the disorder.\n\nD. Both A and C could be correct."
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Multiple choice",
+     "problem": "Two groups of tomatoes were grown under laboratory conditions, one with compost added to the soil and one a control without the compost. The leaves of the plants grown without compost were yellowish (less green) than those of the plants growing in compost-enriched soil. The best explanation for this difference is that:\n\nA. The compost made the soil more loosely packed, so the plants’ roots would grow with less resistance.\n\nB. The compost contained minerals such as magnesium and iron needed for the synthesis of chlorophyll.\n\nC. The heat released by the decomposing leaves of the compost caused more rapid growth and chlorophyll synthesis.\n\nD. The plants absorbed chlorophyll from the compost."
+    }
+   ]
+  },
+  {
+   "year": 2013,
+   "problems": [
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Multiple choice",
+     "problem": "Nucleic acids can be double stranded (ds) or single stranded (ss). The following table gives the composition of bases in four different nucleic acid samples.\n\nAmount of base (%)\n\n$$\\begin{array}{l|c|c|c|c|c} & \\text{A} & \\text{T} & \\text{G} & \\text{C} & \\text{U} \\\\ \\hline \\text{Sample 1} & 40 & 40 & 10 & 10 & 0 \\\\ \\hline \\text{Sample 2} & 10 & 40 & 40 & 10 & 0 \\\\ \\hline \\text{Sample 3} & 40 & 0 & 40 & 10 & 10 \\\\ \\hline \\text{Sample 4} & 40 & 0 & 20 & 10 & 30 \\end{array}$$\n\nUsing the information given above, it may be deduced that the samples 1, 2, 3, 4 are\n\n(A) 1 : dsDNA, 2 : ssDNA, 3 : ssRNA, 4 : ssRNA.\n\n(B) 1 : dsDNA, 2 : ssRNA, 3 : dsDNA, 4 : ssDNA.\n\n(C) 1 : ssDNA, 2 : dsDNA, 3 : ssRNA, 4 : dsRNA.\n\n(D) 1 : dsDNA, 2 : ssRNA, 3 : ssDNA, 4 : ssDNA."
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Multiple choice",
+     "problem": "The following is the pedigree of a family from a marriage between first cousins. Males are represented by squares and females by circles. The family has a very rare X-linked trait. Out of their progeny (individuals 1, 2, 3 in the figure), individual 3, who expressed this trait, married outside the family to individual 4, who is not a carrier of this trait.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2013-1-22-fig1.png\n\nConsider the following statements regarding the above trait:\n\n(i) The trait is recessive.\n\n(ii) The trait is dominant.\n\n(iii) The probability that the daughter (individual 2) is a carrier is 0.\n\n(iv) The probability that the daughter (individual 2) is a carrier is 1.\n\n(v) The probability that a son born to individuals 3 and 4 will express the trait is 0.\n\n(vi) The probability that a son born to individuals 3 and 4 will express the trait is 0.5.\n\nWhich of the above statements are correct?\n\n(A) (i), (iii) and (vi)\n\n(B) (i), (iv) and (v)\n\n(C) (ii), (iii) and (vi)\n\n(D) (ii), (iv) and (v)"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Multiple choice",
+     "problem": "The following flow chart represents the feedback loops that regulate secretion of thyroid hormones (T3 and T4). Such secretion essentially regulates the basic metabolism rate in mammals. The '+' and '―' signs represent positive and negative regulation, respectively.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2013-1-23-fig1.png\n\nThree disease conditions are being studied where (x) the anterior pituitary fails to produce TSH, (y) the thyroid fails to produce T3 and T4 and (z) the hypothalamus fails to secrete TRH. In the Table below, match the hormone levels in column A with the disease conditions in column B.\n\n$$\\begin{array}{l|l|l|l} & \\text{Column A} & & \\text{Column B} \\\\ \\hline \\text{(i)} & \\text{Low TRH, Low TSH and Low T3, T4} & \\text{(x)} & \\text{Anterior pituitary fails to produce TSH} \\\\ \\hline \\text{(ii)} & \\text{High TRH, High TSH and Low T3, T4} & \\text{(y)} & \\text{Thyroid fails to produce T3 and T4} \\\\ \\hline \\text{(iii)} & \\text{High TRH, Low TSH and Low T3, T4} & \\text{(z)} & \\text{Hypothalamus fails to secrete TRH} \\end{array}$$\n\nWhich of the following is the correct match for the above?\n\n(A) (i) – (x) ; (ii) – (y) ; (iii) – (z)\n\n(B) (i) – (z) ; (ii) – (y) ; (iii) – (x)\n\n(C) (i) – (y) ; (ii) – (x) ; (iii) – (z)\n\n(D) (i) – (z) ; (ii) – (x) ; (iii) – (y)"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Multiple choice",
+     "problem": "DNA replicates in a semi-conservative manner in which each individual strand is copied to form a new molecule of DNA. The two strands can be labelled with isotopes using substrates that contain either normal $^{14}\\text{N}$ or its heavy isotope $^{15}\\text{N}$. In an experiment, one strand of DNA was labelled with $^{14}\\text{N}$ and the other with $^{15}\\text{N}$ (hybrid DNA). The hybrid DNA was then allowed to replicate in the presence of the $^{14}\\text{N}$-labelled substrate. If one started with a single molecule of hybrid DNA and allowed it to replicate over 4 cycles, what would be the proportion of double-stranded DNA molecules labelled with $^{15}\\text{N}$?\n\n(A) 1/4\n\n(B) 1/8\n\n(C) 1/16\n\n(D) 1/32"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Multiple choice",
+     "problem": "Assimilation of $\\text{CO}_2$ by photosynthesis in cacti growing in arid regions occurs in two stages. In stage 1, $\\text{CO}_2$ uptake and fixation occurs at night and $\\text{CO}_2$ is stored in the form of malate in vacuoles. In stage 2, during the day the malate moves to the chloroplast where it is decarboxylated, and the released $\\text{CO}_2$ is re-fixed by RuBP carboxylase. The main reason for this is:\n\n(A) Cacti require light for RuBP carboxylase activity.\n\n(B) Cacti close their stomata during the day, so availability of $\\text{CO}_2$ for RuBP carboxylase activity is low during the day.\n\n(C) Cacti can fix $\\text{CO}_2$ only at an acidic pH that is provided by malate.\n\n(D) Cacti have chloroplasts that are impermeable to $\\text{CO}_2$ but are permeable to malate."
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Multiple choice",
+     "problem": "Charles Darwin observed that seedlings grow towards light. He called this response ‘phototropism.’ In an experiment two light sources are used to illuminate each seedling. Each source is indicated by a yellow circle in the diagrams below. The larger yellow circle represents a light source with twice the illumination than the light source represented by the smaller yellow circle.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2013-1-26-fig1.png\n\nWhich of the above responses would be observed?\n\n(A) only (iv)\n\n(B) only (ii)\n\n(C) (i) and (iii)\n\n(D) (i) and (iv)"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Multiple choice",
+     "problem": "In an eukaryotic cell, mitochondria and chloroplasts are thought to have originated through endosymbiosis, a process in which an organism engulfs another and the two continue to exist in a mutually beneficial arrangement. Which of the following observations best supports this theory?\n\n(A) These organelles exchange metabolites with other cellular compartments.\n\n(B) These organelles are capable of independent existence outside the cell.\n\n(C) These organelles have their own genetic material.\n\n(D) These organelles provide energy in the form of ATP to the cell."
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Multiple choice",
+     "problem": "The Human Immunodeficiency Virus (HIV) can cause the disease AIDS. The HIV infects lymphocytes, the T-cells, that help in the production of antibodies. The following graph shows how the concentrations of HIV, T-cells, and antibodies against HIV develop in time in an untreated AIDS patient.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2013-1-28-fig1.png\n\nIn the above graph, the lines marked (i), (ii) and (iii), respectively, represent\n\n(A) HIV, T-cells and antibodies.\n\n(B) T-cells, HIV and antibodies.\n\n(C) T-cells, antibodies and HIV.\n\n(D) Antibodies, T-cells and HIV."
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Multiple choice",
+     "problem": "Consider a hypothetical population, where all members have access to abundant food and they are free to reproduce at their physiological capacity. Which one of the following curves best represents the population growth expected under such conditions?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2013-1-29-fig1.png"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Multiple choice",
+     "problem": "Ammonia, urea and uric acids are toxic, nitrogenous waste products produced by break down of protein and nucleic acids. These waste products have to be excreted. Ammonia is highly toxic and has a high solubility in water. Urea is less soluble and less toxic than ammonia. Uric acid is least toxic and has low solubility. Excretion of nitrogenous waste from a frog and a tadpole would primarily be as\n\n(A) Urea in tadpole and ammonia in frog.\n\n(B) Ammonia in tadpole and urea in frog.\n\n(C) Urea in both tadpole and frog.\n\n(D) Uric acid in tadpole and urea in frog."
+    }
+   ]
+  },
+  {
+   "year": 2019,
+   "problems": [
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Multiple choice",
+     "problem": "A flask containing photosynthetic green algae and a control flask containing no algae are both placed under a light source, which are set to switch ON for 12 hours and then OFF for 12 hours. The dissolved oxygen concentrations in both flasks are monitored at the end of each 12 hours period. What will be the relative dissolved oxygen concentration in the flask with algae compared to the control flask?\n\nThe dissolved oxygen concentration in the flask with algae will…\n\nA. always be higher\n\nB. always be lower\n\nC. be higher in the light, but the same in the dark\n\nD. be higher in the light but lower in the dark"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Multiple choice",
+     "problem": "The results below show the effects that fragmentation of forests has on trees. In Study A, the percentage of dead and dying trees of different sizes was estimated in the interior and at the edges of the forest fragments. The percentage increase of dead and dying trees at the edge was compared to that at the interior for trees of varying sizes. In Study B, the number of new tree seedlings was measured in a continuous forest and in forest fragments of areas 100, 10 and 1 hectare (1 hectare = 10,000 square meters). The results are shown below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2019-1-6-fig1.png\n\nConsider the following statements regarding the above study.\n\ni. Conditions at the edge are more suitable for survival of trees.\n\nii. The wider trees have survived better in this study.\n\niii. Trees in the interior may survive better as they are less susceptible to wind damage.\n\niv. Trees at the edge may survive better as they are less susceptible to wind damage.\n\nv. The density of seedlings of the 100-hectare fragment is up to 25% more than that of the 1-hectare fragment.\n\nvi. Conditions at the edge are more suitable for seedlings.\n\nWhich of the above statements are likely to be correct?\n\nA. (ii), (iii) and (iv)\n\nB. (i), (iii) and (iv)\n\nC. (ii), (iii) and (vi)\n\nD. (ii), (iii) and (v)"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Multiple choice",
+     "problem": "Black fur in mice ($B$) is dominant to brown fur ($b$). Long tails ($T$) are dominant to short tails ($t$). What fraction of the progeny of crosses ($BbTt \\times BBtt$) will be expected to have black fur and short tails?\n\nA. 1/16.\n\nB. 3/16.\n\nC. 3/8.\n\nD. 1/2."
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Multiple choice",
+     "problem": "Your blood alternates between your body’s pulmonary circuit and systemic circuit through various vessels and chambers. Below is a list of vessels and structures that are associated with your heart. What is the correct order for the flow of blood entering from the systemic circulation?\n\n1. Right atrium\n\n2. Left atrium\n\n3. Right ventricle\n\n4. Left ventricle\n\n5. Venae cava\n\n6. Aorta\n\n7. Pulmonary trunk\n\n8. Pulmonary veins\n\nA. 1, 7, 3, 8, 2, 4, 6, 5\n\nB. 1, 2, 7, 8, 3, 4, 6, 5\n\nC. 5, 1, 3, 8, 7, 2, 4, 6\n\nD. 5, 1, 3, 7, 8, 2, 4, 6"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Multiple choice",
+     "problem": "In which direction does carbon dioxide move during internal respiration?\n\nA. From the tissue cells into the blood\n\nB. From the blood into the lungs\n\nC. From the lungs into the blood\n\nD. From the blood into the tissue cells"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Multiple choice",
+     "problem": "Consider the following pedigree charts to determine the type of inheritance in (I) and (II)?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2019-1-11-fig1.png\n\nA. The traits are X-linked dominant in (I) and X-linked recessive (II)\n\nB. The traits are X-linked recessive in (I) and X-linked dominant (II)\n\nC. Both traits are X-linked recessive\n\nD. Both traits are X-linked dominant."
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Multiple choice",
+     "problem": "Decomposition is an important process for nutrient recycling and ecosystem functionality. Nitrogen fixing bacteria form an important part of the process. Choose the correct statement from the following.\n\nNitrogen fixing bacteria:\n\nA. Decompose protein to ammonia.\n\nB. Use atmospheric nitrogen to form nitrates.\n\nC. Use atmospheric nitrogen to form ammonium.\n\nD. Change nitrates to $\\text{N}_2$ that is then released into the atmosphere."
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Multiple choice",
+     "problem": "A scientist is growing corn in a greenhouse, aiming to achieve mass production. She is concerned that her greenhouse is getting too hot from too much light. She seeks to shade the greenhouse with coloured translucent plastic sheets. What colour of sheets should she choose in order to reduce overall light energy while still maintaining maximum plant growth?\n\nA. Green.\n\nB. Blue.\n\nC. Orange.\n\nD. Any colour will do."
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Multiple choice",
+     "problem": "In an experiment to study catalase enzyme activity, a team of students conducted the following experiment:\n\nThey added 1 cm$^3$ of hydrogen peroxide to a test tube, followed by 1 cm$^3$ of catalase solution. Bubbles of oxygen were produced and caused the content in the test tube to rise up, forming a foam. The students measured the height of the foam. They recorded their data in Table 1, as shown below.\n\nThe equation for the reaction is:\n\n$$2\\,\\text{H}_2\\text{O}_2 \\xrightarrow{\\text{Catalase}} 2\\text{H}_2\\text{O} + \\text{O}_2$$\n\nTable-1. Height of foam versus temperature\n\n$$\\begin{array}{c|c|c|c|c} \\text{Temperature} & \\text{Height of foam (cm)} & & & \\\\ {}^\\circ\\text{C} & \\text{Test 1} & \\text{Test 2} & \\text{Test 3} & \\text{Mean} \\\\ \\hline 20 & 3.3 & 0.2 & 3.1 & 2.2 \\\\ \\hline 30 & 5.0 & 5.2 & 5.3 & 5.1 \\\\ \\hline 40 & 3.9 & 4.3 & 4.2 & 4.1 \\\\ \\hline 50 & 2.2 & 2.1 & 1.9 & 2.0 \\\\ \\hline 60 & 0.0 & 0.0 & 0.0 & 0.0 \\end{array}$$\n\nOn the basis of data shown in Table 1, the students deduced different conclusions, as below\n\ni. The rate of reaction decreases up to 40° C\n\nii. The rate of reaction increases up to 30° C\n\niii. The rate of reaction increases up to 40° C\n\niv. Catalase is a protein and is observed to be fully denatured at 60°C\n\nv. If the experiment is repeated, data at 35° C should be obtained to better investigate the temperature with optimum catalase activity.\n\nWhich of the choices given below is (are) considered correct by you?\n\nA. I, II, and III.\n\nB. V only.\n\nC. II, IV, and V.\n\nD. IV only."
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Multiple choice",
+     "problem": "The illustration below shows a respirometer, a device used to measure the rate of respiration in a living organism. It detects oxygen uptake by manometry. Soda lime is a chemical that absorbs carbon dioxide.\n\nRespirometers 1, 2, 3 and 4 are set up as shown below. The levels of the liquid in the 5cm$^3$ reservoir are noted after 30 minutes.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2019-1-29-fig1.png\n\npaper 4, 9700/4, core, May/June session 2002 of Cambridge International Examinations, GCE, Advanced level biology.\n\nUsing the information provided in the figure, predict what will happen to the level of liquid in the 5 cm$^3$ syringe reservoir.\n\nA. 1: falls, 2: rises, 3: falls, 4: rises\n\nB. 1: stays the same, 2: falls, 3: stays the same, 4: falls\n\nC. 1: stays the same, 2: falls, 3: stays the same, 4: rises\n\nD. 1: falls, 2: rises, 3: stays the same, 4: falls"
+    }
+   ]
+  },
+  {
    "year": 2021,
    "problems": [
     {
