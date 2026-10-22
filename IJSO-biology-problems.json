@@ -2,6 +2,183 @@
  "competition": "International Junior Science Olympiad (IJSO) — biology questions",
  "years": [
   {
+   "year": 2008,
+   "problems": [
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Multiple choice",
+     "problem": "The following pedigree illustrates the inheritance of an inability to taste. Persons unaffected or affected with a trait is indicated in the following box. The normal allele is designated as T, and the allele causing inability to taste as t.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2008-1-22-fig1.png\n\nWhich of the following statements regarding the pedigree is true?\n\n(A) The probability that II-1 is heterozygous is 1/2.\n\n(B) The genotype of II-5 can be either Tt or TT.\n\n(C) Based on the given information, the number of people with undeterminable genotypes is 4.\n\n(D) If II-4 and II-5 couple has 2 more children, the probability that they are both girls with taste blindness is 1/8."
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Multiple choice",
+     "problem": "Birth records of four babies were mixed up by mistake at a hospital. The ABO blood types of their parents were found as shown in the following table.\n\n$$\\begin{array}{|c|c|c|} \\hline & & \\text{Blood type} \\\\ \\hline \\text{parents W} & \\text{father} & \\text{A} \\\\ \\hline & \\text{mother} & \\text{AB} \\\\ \\hline \\text{parents X} & \\text{father} & \\text{O} \\\\ \\hline & \\text{mother} & \\text{O} \\\\ \\hline \\text{parents Y} & \\text{father} & \\text{AB} \\\\ \\hline & \\text{mother} & \\text{O} \\\\ \\hline \\text{parents Z} & \\text{father} & \\text{A} \\\\ \\hline & \\text{mother} & \\text{O} \\\\ \\hline \\end{array}$$\n\nGiven these four babies all have different blood types, which of the following statements is true?\n\n(A) parents W: baby blood type – B\n\n(B) parents W: baby blood type – AB\n\n(C) parents Y: baby blood type – A\n\n(D) parents Y: baby blood type – AB"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Multiple choice",
+     "problem": "The diagram below shows a typical foodweb of a rice paddy.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2008-1-25-fig1.png\n\n(a) Biomass decreases as you go up the trophic level in this foodweb.\n\n(b) Heron has the most impact on this ecosystem.\n\n(c) If the number of spiders decreases, the number of brown planthoppers will increase.\n\n(d) If the number of heron increases, the amount of rice will increase.\n\n(e) If the number of grasshoppers increases, the amount of rice will decrease.\n\nRegarding this foodweb, which of the following statements are true?\n\n(A) a, e\n\n(B) b, d\n\n(C) a, c, d\n\n(D) b, c, e"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Multiple choice",
+     "problem": "Seals can dive for about an hour without coming up to the surface of the ocean. Which of the following is incorrect in explaining how seals do this?\n\n(A) Seals have sufficient oxygen because they have relatively high blood volume compared to other animals.\n\n(B) Seals enhance oxygen transport to tissues by increasing heartbeat frequency.\n\n(C) Seals have constriction of blood vessels leading to most tissues except the neuronal system, heart, and eyes.\n\n(D) Seals reduce the rate of metabolism in their muscles."
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Multiple choice",
+     "problem": "The following experiment shows how leaf positioning is affected by different lights. Seedlings were placed under red and/or blue, or white light source for several hours. Angle (θ) of petiole was measured and the results were represented as the graph below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2008-1-28-fig1.png\n\nWhich of the following is a valid statement regarding this experiment?\n\n(A) Red light makes angle θ larger.\n\n(B) Angle θ is generally smaller when seedlings are exposed to sun light than when exposed to blue light.\n\n(C) Blue light is the major light which affects leaf positioning.\n\n(D) Angle θ will be larger than that of ‘ * ’ marked result when seedlings are illuminated by red light from above and blue light from the side."
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Multiple choice",
+     "problem": "Methionine is used to synthesize proteins in cells. To determine the intracellular protein transport pathway, pancreatic cells were cultured for 30 seconds in media containing $^{35}$S-labeled methionine and then were transfered to fresh media with no radioisotopes. After 5 minutes, 30 minutes, and 120 minutes, respectively, cell organelles(a, b, c) were purified and the radioactivity of each sample was measured. The following graph shows the results.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2008-1-29-fig1.png\n\nWhich of the following is the correct steps of the intracellular protein transport pathway?\n\n(A) a → b → c\n\n(B) a → c → b\n\n(C) b → a → c\n\n(D) b → c → a"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Multiple choice",
+     "problem": "Estrogen influences the menstrual cycle by binding to the α and β receptors of the endometrial cells of the uterus. Many women gain weight as the amount of estrogen decreases after menopause. A mouse with ovaries removed usually gains weight; however, if this mouse is injected with estrogen, it does not gain weight. If the mouse, with ovaries removed, is injected with a substance which can activate the α receptor, it doesn't gain weight. But when mouse with ovaries removed is injected with a substance which can activate β receptor, it gains weight.\n\nWhich of the following statements is valid?\n\n(A) The substance which can activate α receptor inhibits the secretion of estrogen.\n\n(B) Estrogen inhibits weight gain through activating the α receptor.\n\n(C) Estrogen inhibits weight gain through activating the β receptor.\n\n(D) Estrogen inhibits weight gain through inactivating the β receptor."
+    }
+   ]
+  },
+  {
+   "year": 2009,
+   "problems": [
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Multiple choice",
+     "problem": "Human chorionic gonadotropin hormone (hCG) is injected into the blood of a mouse. Antibodies are produced in the mouse blood in response to this substance. What can the serum from this mouse blood be used for?\n\n(A) Treatment of infertility\n\n(B) Pregnancy test\n\n(C) Prevention of fertilization\n\n(D) Paternity test"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Multiple choice",
+     "problem": "Freshwater and marine fish face different osmotic problems. As a consequence, they have various features enabling them to survive in their habitats. Some of these features are listed below:\n\n1. Active tubular reabsorption of NaCl\n2. Reduced glomerulus size\n3. Active secretion of NaCl through gills\n4. Osmotic movement of water through gills into the blood\n\nWhich of these are adaptations of marine fish to their environments?\n\n(A) 1, 2\n\n(B) 1, 3\n\n(C) 2, 3\n\n(D) 2, 4"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Multiple choice",
+     "problem": "Some people might believe that above a certain critical population density, the human population must become vegetarian. Which of the following is more likely to be true?\n\n(A) Taking into account trophic efficiency it would enable supporting greater number of people.\n\n(B) Eating too much meat is not healthy.\n\n(C) Plant food contains all nutrients needed for human organism.\n\n(D) It would help to increase biodiversity."
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Multiple choice",
+     "problem": "The graph below shows the processes which take place after HIV gets into the human blood.\n\nX. The immune reaction of the body prevents massive invasion of blood by HIV, but the virus continues reproducing in the lymphatic tissue\n\nY. The number of HIV passing from the lymph to the blood increases, as a consequence the number of helper T-cells drops\n\nZ. An extensive loss of humoral and cell mediated immunity is observed\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2009-1-24-fig1.png\n\nDetermine what is represented by the curves 1,2 and 3:\n\n$$\\begin{array}{c|l|l|l} & \\text{1} & \\text{2} & \\text{3} \\\\ \\hline \\text{(A)} & \\text{T-cells concentration} & \\text{Relative HIV concentration} & \\text{Relative amount of antibodies} \\\\ \\hline \\text{(B)} & \\text{T-cells concentration} & \\text{Relative amount of antibodies} & \\text{Relative HIV concentration} \\\\ \\hline \\text{(C)} & \\text{Weakening of immune response} & \\text{Increase in T-cells concentration} & \\text{Recovering from disease} \\\\ \\hline \\text{(D)} & \\text{Relative amount of antibodies} & \\text{T-cells concentration} & \\text{Relative HIV concentration} \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Multiple choice",
+     "problem": "Human beings, as they grow old, may have problems with their eyes. One of them involves the cornea, and can develop due to the decreased transparency of this eye layer. This problem can successfully be solved through transplantation operation. Which of the following statements makes this operation more likely to be successful comparing to other transplantation operations?\n\n(A) Cornea is an eye layer situated in the frontal part of the eye.\n\n(B) Cornea is not in direct contact with light-sensitive cells.\n\n(C) With age the role of cornea in an eye is minimized.\n\n(D) There are no blood vessels in the cornea."
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Multiple choice",
+     "problem": "Which letter(s) represents omnivores in the food web below?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2009-1-26-fig1.png\n\n(A) A and B\n\n(B) C\n\n(C) D\n\n(D) B"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Multiple choice",
+     "problem": "A student needs a blood transfusion after an accident. Consider the blood test results below and find out the probability that the student will receive a successful blood transfusion, if anti-B antibodies are detected in the blood of the donor’s monozygotic twin.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2009-1-27-fig1.png\n\n(A) 0\n\n(B) 1/4\n\n(C) 1/2\n\n(D) 3/4"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Multiple choice",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2009-1-28-fig1.png\n\nPedigree manifests the inheritance of an autosomal recessive disease. What is the probability that the second child is a normal boy and the fourth is a sick girl?\n\n(A) 3/256\n\n(B) 1/8\n\n(C) 3/64\n\n(D) 9/64"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Multiple choice",
+     "problem": "In eukaryotic cells, the DNA molecules have nucleotide sequences called telomeres at their ends, which don’t contain genes. These telomeres protect the genes near the ends of DNA molecules from being eroded, because linear chromosomal DNA gets shorter after each round of replication. An enzyme telomerase catalyses the lengthening of telomeres. In what type of cells do you expect the activity of telomerase will be the highest?\n\n(A) Specialized cells\n\n(B) Germ cells which produce gametes\n\n(C) Actively respiring cells\n\n(D) Ageing cells"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Multiple choice",
+     "problem": "It is known that trypsin catalyses hydrolysis of peptide bonds formed by carboxyl groups of amino acids lysine – Lys and arginine – Arg, pepsin catalyses hydrolysis of peptide bonds formed by amine groups of aromatic amino acids (phenylalanine – Phe and tyrosine – Tyr) and chymotrypsin catalyses hydrolysis of peptide bonds formed by carboxyl groups of these aromatic amino acids. Taking this into account, find out what will be formed from\n\n$$\\mathrm{NH_2-Gly-Lys-Met-Thr-Phe-Thr-Arg-Pro-Cys-Tyr-Glu-Ser-Gly-Lys-Ala-Val-COOH}$$\n\npolypeptide in the stomach and followed by the small intestine?\n\n$$\\begin{array}{c|l|l} & \\text{Stomach} & \\text{Small intestine} \\\\ \\hline \\text{(A)} & \\begin{array}{l} \\mathrm{Tyr-Glu-Ser-Gly} \\\\ \\mathrm{Thr-Phe-Thr-Arg} \\\\ \\mathrm{Gly-Lys-Phe-Met-Tyr} \\\\ \\mathrm{Lys-Ala-Val} \\end{array} & \\begin{array}{l} \\mathrm{Thr-Phe} \\\\ \\mathrm{Arg-Pro-Cys} \\\\ \\mathrm{Pro-Cys} \\\\ \\mathrm{Gly-Lys-Met} \\end{array} \\\\ \\hline \\text{(B)} & \\begin{array}{l} \\mathrm{Gly-Lys-Met-Thr} \\\\ \\mathrm{Phe-Thr-Arg-Pro-Cys} \\\\ \\mathrm{Tyr-Glu-Ser-Gly-Lys-Ala-Val} \\end{array} & \\begin{array}{l} \\mathrm{Gly-Lys} \\\\ \\mathrm{Met-Thr} \\\\ \\mathrm{Thr-Arg} \\\\ \\mathrm{Tyr} \\\\ \\mathrm{Pro-Cys} \\\\ \\mathrm{Glu-Ser-Gly-Lys} \\\\ \\mathrm{Ala-Val} \\\\ \\mathrm{Phe} \\end{array} \\\\ \\hline \\text{(C)} & \\begin{array}{l} \\mathrm{Glu-Ser-Gly-Lys} \\\\ \\mathrm{Tyr-Glu-Ser-Gly-Lys-Ala-Val} \\\\ \\mathrm{Tyr-Thr-Arg-Pro-Cys} \\\\ \\mathrm{Phe-Met-Tyr-Thr-Arg-Pro-Cys} \\end{array} & \\begin{array}{l} \\mathrm{Pro-Cys} \\\\ \\mathrm{Gly-Lys-Ala-Val} \\\\ \\mathrm{Phe-Thr-Arg-Pro} \\\\ \\mathrm{Thr-Arg-Pro-Cys} \\\\ \\mathrm{Met-Tyr-Thr-Arg} \\end{array} \\\\ \\hline \\text{(D)} & \\begin{array}{l} \\mathrm{Gly-Lys-Met-Thr} \\\\ \\mathrm{Phe-Thr-Arg-Pro-Cys} \\\\ \\mathrm{Tyr-Glu-Ser-Gly-Lys-Ala-Val} \\end{array} & \\begin{array}{l} \\mathrm{Gly-Lys} \\\\ \\mathrm{Met-Thr-Phe-Thr} \\\\ \\mathrm{Arg-Pro-Cys} \\\\ \\mathrm{Ala-Val} \\\\ \\mathrm{Tyr-Glu} \\end{array} \\end{array}$$"
+    }
+   ]
+  },
+  {
+   "year": 2010,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Multiple choice",
+     "problem": "Information for Questions 1 & 2\n\nMr. Jimoh Bello was 17 years old when he had a deep cut on his left leg and bled excessively without blood clot. Under normal conditions, when a tissue is wounded blood flows from it, and coagulates to form a blood clot. The clot then prevents further blood loss and entry of pathogenic microorganisms and the process of clotting depends on some clotting factors working in harmony with each other. Further investigation showed that Jimoh’s blood would not clot. The conditions in which individual’s blood does not clot is usually seen only in males and it is an inheritable gene mutation transmitted on an X chromosome and it is recessive to the normal allele. Jimoh’s father’s mother is not a carrier of the recessive gene for bleeding. Use the above information to answer questions 1 and 2.\n\nThe above information shows that,\n\nI. Mr. Jimoh’s mother definitely has the ability for blood clotting.\n\nII. Jimoh’s mother was a carrier of the gene that predisposes one to excessive blood loss.\n\nIII. Mr. Jimoh’s father had the gene that predisposes one to excessive blood loss.\n\nWhich of the above statements is/ are correct?\n\nA. I only\n\nB. II and III\n\nC. III only\n\nD. I and II"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Multiple choice",
+     "problem": "Information for Questions 1 & 2\n\nMr. Jimoh Bello was 17 years old when he had a deep cut on his left leg and bled excessively without blood clot. Under normal conditions, when a tissue is wounded blood flows from it, and coagulates to form a blood clot. The clot then prevents further blood loss and entry of pathogenic microorganisms and the process of clotting depends on some clotting factors working in harmony with each other. Further investigation showed that Jimoh’s blood would not clot. The conditions in which individual’s blood does not clot is usually seen only in males and it is an inheritable gene mutation transmitted on an X chromosome and it is recessive to the normal allele. Jimoh’s father’s mother is not a carrier of the recessive gene for bleeding. Use the above information to answer questions 1 and 2.\n\nIf Jimoh marries a normal woman that is not a carrier of the abnormal allele, what is the probability that they will give birth to a son that will produce excessive bleeding?\n\nA. ¾\n\nB. ½\n\nC. ¼\n\nD. 0"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Multiple choice",
+     "problem": "It is often possible to measure the amount of air normally present in the respiratory system and the rate at which ventilation occurs. The maximum amount of air that can be forcibly inhaled and exhaled from the lungs is called the vital capacity. The amount of air normally inhaled and exhaled with each breath is called the tidal volume. The residual volume is the air that always remains in the lungs after maximum forced exhalation, preventing the alveoli from collapsing. The expiratory reserve volume is the volume of air that can still be forcibly exhaled following a normal exhalation.\n\nThe total lung capacity will be equal to,\n\nA. Tidal volume plus expiratory reserve volume\n\nB. Vital capacity plus expiratory reserve volume\n\nC. Vital capacity plus residual volume\n\nD. Residual volume plus expiratory reserve volume."
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Multiple choice",
+     "problem": "Which of these is true of mountain dwellers in relation to people residing at sea level?\n\nA. Mountain dwellers have greater vital capacity and enlarged thoracic cavity\n\nB. Mountain dwellers have reduced vital capacity and compressed thoracic cavity\n\nC. Mountain dwellers inhale a smaller amount of air than people living at sea level\n\nD. Mountain dwellers have a reduced concentration of red blood cells compared to people living at sea level."
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Multiple choice",
+     "problem": "As an adaptive mechanism desert animals must conserve water by all means. The kidneys regulate the concentration of salt and water in the blood through the formation and excretion of urine. The kidney is composed of approximately one million units called nephrons. The kidneys of desert animals have modified nephrons which help them survive long periods without water. Which of these options best describes the expected modification?\n\nA. A short collecting duct\n\nB. A very long loop of Henle\n\nC. A very short distal tubule\n\nD. A large Bowman’s capsule"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Multiple choice",
+     "problem": "Use the diagram below (Figure 1) to answer questions 6-7\n\nThe amount of DNA present per cell at different stages during several nuclear divisions is represented in Figure 1.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2010-1-6-fig1.png\n\nFigure 1: Variations in DNA content of cell\n\nWhat type of nuclear division is represented by Figure 1 above ?\n\nA. Mitosis\n\nB. Meiosis\n\nC. Cytokinesis\n\nD. None of the above."
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Multiple choice",
+     "problem": "Use the diagram below (Figure 1) to answer questions 6-7\n\nThe amount of DNA present per cell at different stages during several nuclear divisions is represented in Figure 1.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2010-1-7-fig1.png\n\nFigure 1: Variations in DNA content of cell\n\nWhat stages are represented by the lines W, X, Y?\n\nA. Interphase , telophase I, telophase II.\n\nB. Interphase , prophase, telophase II\n\nC. Prophase , Interphase, telophaseI\n\nD. Interphase, anaphase, telophase I"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Multiple choice",
+     "problem": "The knowledge of the age structure of populations is important in the understanding of population dynamics because of the relevance of age to the reproductive role of organisms, including humans. A convenient way to picture age distribution in a population is to arrange the data in a form of polygon or age pyramid as shown below. Which pyramid in Figure 2 indicates a near stationary population?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2010-1-8-fig1.png\n\nFigure 2: Age pyramid\n\nA. X\n\nB. Y\n\nC. Z\n\nD. None of the above"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Multiple choice",
+     "problem": "For any animal to survive in water, it must devise a means of obtaining oxygen for respiration. Fishes, for instance, obtain oxygen dissolved in water through their gills. Which of the following way(s) is (are) correct as sources of oxygen for aquatic insects?\n\ni. Atmosphere\n\nii. Oxygen dissolved in water\n\niii. Air-containing cavities of submerged aquatic plants\n\nA. iii\n\nB. i, ii\n\nC. i, ii, iii\n\nD. ii, iii"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Multiple choice",
+     "problem": "Certain environmental conditions such as availability of water, optimum temperature and oxygen, must be present before the embryo of a seed will grow. Sometimes light is required for the seed to germinate. Seeds which require a stimulus of light for germination are usually relatively small. Which of following best explains the significance of this?\n\nA. Small seeds commonly require light before germination will occur.\n\nB. Small seeds commonly require light to inactivate the growth inhibitors in its coat before germination.\n\nC. Small seeds have relatively small food reserves; it is therefore important that growing shoot reaches light quickly so that photosynthesis can start before the reserves are exhausted.\n\nD. Small seeds commonly require light to find a suitable place for germination."
+    }
+   ]
+  },
+  {
    "year": 2011,
    "problems": [
     {
