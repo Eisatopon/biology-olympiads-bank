@@ -67,6 +67,7 @@
     --aso: #0369a1; --aso-ink: #0c4a6e; --aso-tint: #e0f2fe;
     --nbc: #b91c1c; --nbc-ink: #7f1d1d; --nbc-tint: #fee2e2;
     --ijso: #4d7c0f; --ijso-ink: #365314; --ijso-tint: #ecfccb;
+    --sbo: #dc2626; --sbo-ink: #991b1b; --sbo-tint: #fee2e2;
     --nseb: #c2410c; --nseb-ink: #7c2d12; --nseb-tint: #ffedd5;
     --nzibo: #0f766e; --nzibo-ink: #134e4a; --nzibo-tint: #ccfbf1;
     --inbo: #c2410c; --inbo-ink: #7c2d12; --inbo-tint: #fde8dc;
@@ -296,6 +297,7 @@
 .f-aso { --f: var(--aso); --f-ink: var(--aso-ink); --f-tint: var(--aso-tint); }
 .f-nbc { --f: var(--nbc); --f-ink: var(--nbc-ink); --f-tint: var(--nbc-tint); }
 .f-ijso { --f: var(--ijso); --f-ink: var(--ijso-ink); --f-tint: var(--ijso-tint); }
+.f-sbo { --f: var(--sbo); --f-ink: var(--sbo-ink); --f-tint: var(--sbo-tint); }
 .f-nseb { --f: var(--nseb); --f-ink: var(--nseb-ink); --f-tint: var(--nseb-tint); }
 .f-nzibo { --f: var(--nzibo); --f-ink: var(--nzibo-ink); --f-tint: var(--nzibo-tint); }
 .f-inbo { --f: var(--inbo); --f-ink: var(--inbo-ink); --f-tint: var(--inbo-tint); }
@@ -1056,10 +1058,10 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261022-ijso2007';
+const DATA_VERSION = '20261027-sbo';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
-const REGION_OF = { ibo: 'world', ibop: 'world', inbo: 'asia', aso: 'oceania', nbc: 'americas', nzibo: 'oceania', nseb: 'asia', ijso: 'world' };
+const REGION_OF = { ibo: 'world', ibop: 'world', inbo: 'asia', aso: 'oceania', nbc: 'americas', nzibo: 'oceania', nseb: 'asia', ijso: 'world', sbo: 'europe' };
 const regionOf = key => REGION_OF[key] || 'other';
 const PAGE = 20;
 const STORAGE_KEY = 'eisatopon-biology:set:v1';  // same origin as the math bank: keep the keys apart
@@ -1068,6 +1070,7 @@ const COUNTRIES = [
     { key: 'nzibo', name: 'New Zealand NZIBO', flag: '🇳🇿', file: 'NewZealand-NZIBO-problems.json', kind: 'years', scope: 'national', full: 'New Zealand International Biology Olympiad, national entrance and selection exams' },
     { key: 'nbc', name: 'Canada NBC', flag: '🇨🇦', file: 'Canada-NBC-problems.json', kind: 'years', scope: 'national', full: 'University of Toronto National Biology Competition' },
     { key: 'aso', name: 'Australia ASO', flag: '🇦🇺', file: 'Australia-ASO-problems.json', kind: 'years', scope: 'national', full: 'Australian Science Olympiad Exam, Biology' },
+    { key: 'sbo', name: 'Switzerland SBO', flag: '🇨🇭', file: 'Switzerland-SBO-problems.json', kind: 'years', scope: 'national', full: 'Swiss Biology Olympiad, 1st and 2nd rounds (English translations, with permission)' },
     { key: 'nseb', name: 'India NSEB', flag: '🇮🇳', file: 'India-NSEB-problems.json', kind: 'years', scope: 'national', full: 'National Standard Examination in Biology (India, IAPT / ATBS), first stage of the Indian biology olympiad' },
     { key: 'inbo', name: 'India INBO', flag: '🇮🇳', file: 'India-INBO-problems.json', kind: 'years', scope: 'national', full: 'Indian National Biology Olympiad' },
     { key: 'ijso', name: 'IJSO (biology)', flag: '🌐', file: 'IJSO-biology-problems.json', kind: 'years', scope: 'international', full: 'International Junior Science Olympiad, biology questions of the multiple-choice papers' },
@@ -2041,7 +2044,9 @@ function provenanceHtml(p, print = false) {
     // A statement taken from a secondary compilation never gets an original-source badge.
     const secondary = checked && /compilation/i.test(candidate.source_format || '');
     const unresolved = (checked || compared) && /^(?:Source ambiguity|Incomplete source condition|Unresolved source (?:error|variant)|Potential source typo|Source omission|Source convention omission)/.test(editorialText);
-    const status = unresolved ? 'Source issue — awaiting verification' : archiveChecked ? 'Statement checked against archive transcription (AI-assisted)' : secondary ? 'Checked against a secondary compilation (AI-assisted)' : editedChecked ? 'Edited statement — source correction recorded' : checked ? 'Statement checked against source (AI-assisted)' : compared ? 'Secondary-source comparison (AI-assisted)' : 'Sources and notes';
+    // Translated statements (published with the organiser's permission) say so wherever they are shown.
+    const translationText = checked && candidate.translated_from ? `English translation of the ${candidate.translated_from} original${candidate.translation_credit ? ' (' + candidate.translation_credit + ')' : ''}.` : '';
+    const status = unresolved ? 'Source issue — awaiting verification' : translationText ? 'Translation checked against the original (AI-assisted)' : archiveChecked ? 'Statement checked against archive transcription (AI-assisted)' : secondary ? 'Checked against a secondary compilation (AI-assisted)' : editedChecked ? 'Edited statement — source correction recorded' : checked ? 'Statement checked against source (AI-assisted)' : compared ? 'Secondary-source comparison (AI-assisted)' : 'Sources and notes';
     const note = gaps ? `Incomplete year: missing problem ${gaps.join(', ')}.` : '';
     const checkDetail = compared ? `<p>Compared textually on ${esc(candidate.checked_at)} with <a href="${esc(source)}" target="_blank" rel="noopener noreferrer">John Scholes’ reworded secondary archive</a>, problem ${esc(candidate.source_problem_number)}. This is an edited transcription; original examination wording has not been verified.</p>${candidate.source_variant_note ? `<p>${esc(candidate.source_variant_note)}</p>` : ''}` : archiveChecked ? `<p>Checked textually on ${esc(candidate.checked_at)} against the archive’s declared verbatim examination transcription: <a href="${esc(source)}" target="_blank" rel="noopener noreferrer">TeX statement source</a>, problem ${esc(candidate.source_problem_number)}. Source differences and visual dependencies received focused PDF checks. This does not assert visual comparison with every original MAA examination scan.</p>` : editedChecked ? `<p>The source was reviewed on ${esc(candidate.checked_at)}: <a href="${esc(source)}" target="_blank" rel="noopener noreferrer">Printed statement source${candidate.source_contains_solutions ? ' (includes solutions)' : ''}</a>, ${pageReference}, problem ${esc(candidate.source_problem_number)}. The explicit editorial correction is described above; the displayed formulation is not presented as the original printed wording.</p>` : secondary ? `<p>Compared visually and textually on ${esc(candidate.checked_at)} with a secondary source: ${esc(candidate.source_format)}. <a href="${esc(source)}" target="_blank" rel="noopener noreferrer">Compilation pages${candidate.source_contains_solutions ? ' (includes solutions)' : ''}</a>, ${pageReference}, problem ${esc(candidate.source_problem_number)}. The original examination paper has not been seen.</p>` : checked ? `<p>Compared visually and textually on ${esc(candidate.checked_at)}. <a href="${esc(source)}" target="_blank" rel="noopener noreferrer">Exam source${candidate.source_contains_solutions ? ' (includes solutions)' : ''}</a>, ${pageReference}, source problem ${esc(candidate.source_problem_number)}. This checks statement fidelity, not the answers or independent scientific correctness.${originalLink}</p>` : '';
     const links = (meta?.source_links || []).map(link => {
@@ -2049,11 +2054,11 @@ function provenanceHtml(p, print = false) {
         return url ? `<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">Archive research link</a>` : '';
     }).filter(Boolean);
     if (print) {
-        const text = [(checked || compared) ? status + '.' : '', note ? esc(note) : '', editorialText ? esc(editorialText) : '', (checked || compared) ? `Source: ${esc(source)}, ${checked && !archiveChecked ? pageReference + ', ' : ''}problem ${esc(candidate.source_problem_number)}; checked ${esc(candidate.checked_at)}.` : ''].filter(Boolean).join(' ');
+        const text = [translationText ? esc(translationText) : '', (checked || compared) ? status + '.' : '', note ? esc(note) : '', editorialText ? esc(editorialText) : '', (checked || compared) ? `Source: ${esc(source)}, ${checked && !archiveChecked ? pageReference + ', ' : ''}problem ${esc(candidate.source_problem_number)}; checked ${esc(candidate.checked_at)}.` : ''].filter(Boolean).join(' ');
         return text ? `<p class="ps-src">${text}</p>` : '';
     }
     if (!checked && !compared && !note && !editorialText && !links.length) return '';
-    return `${editorialText ? `<p class="ps-src">${esc(editorialText)}</p>` : ''}<details class="provenance"><summary>${status}${note ? ' · Incomplete year' : ''}</summary>
+    return `${translationText ? `<p class="ps-src">${esc(translationText)}</p>` : ''}${editorialText ? `<p class="ps-src">${esc(editorialText)}</p>` : ''}<details class="provenance"><summary>${status}${note ? ' · Incomplete year' : ''}</summary>
         ${note ? `<p>${esc(note)}</p>` : ''}${checkDetail}
         ${meta?.verification_notes ? `<p>${esc(meta.verification_notes)}</p>` : ''}
         ${links.length ? `<ul>${links.map(link => `<li>${link}</li>`).join('')}</ul>` : '<p>No archive research link has been recorded for this collection yet.</p>'}
