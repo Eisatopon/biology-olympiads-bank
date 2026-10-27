@@ -2,6 +2,1354 @@
  "competition": "Swiss Biology Olympiad (SBO) — 1st and 2nd rounds (English translation)",
  "years": [
   {
+   "year": 2021,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "1st round",
+     "problem": "Cells are the basic unit of all known living organisms. They contain specialised structures that carry out various functions in the cell. Indicate for each of the following statements whether it is true or false.\n\nA. The endoplasmic reticulum has a rough and a smooth part.\n\nB. Mitochondria are involved in the production of ATP.\n\nC. DNA has the 3D structure of a double helix.\n\nD. The cytoskeleton is responsible for detoxifying the cell."
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "1st round",
+     "problem": "Membranes consist of a lipid bilayer. Lipids are characterised by having large hydrophobic parts and are therefore poorly soluble in water. On the basis of this information, determine for the following molecules whether they can move freely through a membrane (true) or not (false).\n\nA. Negatively charged proteins.\n\nB. Water molecules.\n\nC. Lipid-soluble oestrogen.\n\nD. DNA fragments."
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "1st round",
+     "problem": "The thyroid hormone T3 increases the metabolism of the human body. The amount of T3 in our body is regulated, among other things, by feedback mechanisms. Using the figure, indicate for each of the following statements whether it is true or false.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2021-1-3-fig1.png\n\nFigure labels (German → English): Hypothalamus produziert TRH = hypothalamus produces TRH; Hypophyse produziert TSH = pituitary gland produces TSH; Schilddrüse produziert T3 = thyroid gland produces T3; Hemmung = inhibition; Stimulierung = stimulation.\n\nA. In the absence of T3, the production of TRH is increased.\n\nB. TSH stimulates the production of T3.\n\nC. T3 inhibits the production of TRH and TSH.\n\nD. TRH inhibits the production of T3."
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "1st round",
+     "problem": "Indicate whether the following features belong to a prokaryotic cell (true) or not (false).\n\nA. Nucleus\n\nB. Membrane-bound organelles\n\nC. Centrosome\n\nD. Cell membrane"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following statements about mitochondria whether it is true or false.\n\nA. Proteins produced in mitochondria are secreted into the cytoplasm of the cell.\n\nB. If the mitochondria of a cell lose functionality, this can lead to a shortage of ATP.\n\nC. In plant cells, chloroplasts take over the function of mitochondria.\n\nD. Under aerobic conditions, the majority of a cell's ATP is formed in the cytoplasm."
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "1st round",
+     "problem": "Cells possess numerous enzymes that catalyse various chemical reactions. Indicate for each of the following statements whether it is true or false.\n\nA. Enzymes lower the activation energy of a reaction.\n\nB. Enzymes shift the equilibrium of a reaction towards the products.\n\nC. To catalyse a reaction, the enzyme must bind to at least one of the reactants.\n\nD. Doubling the concentration of an enzyme leads to a doubling of the yield of the reaction."
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "1st round",
+     "problem": "The conversion of mRNA into a peptide is called translation. Indicate for each of the following statements whether it is true or false.\n\nA. Several specialised RNAs are involved in translation.\n\nB. During translation, the primary structure of the finished peptide is formed.\n\nC. Translation in the cell takes place inside the nucleus.\n\nD. Every four nucleotides of the mRNA correspond to one amino acid in the finished peptide."
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following statements about DNA replication whether it is true or false.\n\nA. Newly synthesised DNA must be joined by a ligase into an uninterrupted DNA strand.\n\nB. The DNA strands formed during DNA replication are joined by helicase into a new helix.\n\nC. In DNA replication, the entire complementary strand is first synthesised from RNA and then replaced by DNA.\n\nD. DNA polymerase starts from single-stranded DNA."
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "1st round",
+     "problem": "Cells multiply by a single cell splitting into two daughter cells. Indicate for each of the following statements whether it is true or false.\n\nA. During cell division, the spindle apparatuses ensure that the cell organelles are distributed evenly between the two daughter cells.\n\nB. Most prokaryotes have the ability to divide an unlimited number of times.\n\nC. During cell division, plant cells usually constrict in the middle, which separates the daughter cells from each other.\n\nD. During the division of human cells, the chromosomes line up in the equatorial plane in order to be distributed evenly to the daughter cells."
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "1st round",
+     "problem": "You sequence the same section in a coding region of a gene of two individuals of the species Arabidopsis thaliana. You obtain the sequences AAGTTCCGT in individual 1 and AAGTCCGT in individual 2. Which of the following terms best describes the observed mutation from individual 1 to 2?\n\nA. Silent mutation\n\nB. Frameshift mutation\n\nC. Nonsense mutation\n\nD. Addition"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "1st round",
+     "problem": "Which statement about viruses is true?\n\nA. Viruses have neither DNA nor RNA.\n\nB. Viruses cannot reproduce on their own.\n\nC. Viruses infect only animal cells.\n\nD. All viruses have a nucleus."
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "1st round",
+     "problem": "Atoms and molecules form different bonds with one another. Indicate for each of the following statements whether it is true or false.\n\nA. When table salt dissolves in water, van der Waals forces act between the salt ions and the water molecules.\n\nB. Hydrogen bonds contribute to the stability of secondary structure elements in proteins.\n\nC. pH influences protein structure by enabling or preventing ionic bonds.\n\nD. All stable compounds occurring in nature satisfy the octet/duet rule."
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "1st round",
+     "problem": "Many vascular plants have specialised tissues for the transport of substances. A distinction is made between xylem and phloem. Indicate for each of the following statements whether it is true or false.\n\nA. In most trees, phloem and xylem are arranged in rings.\n\nB. In the xylem, substances are transported from the root to the leaves.\n\nC. Sugar is transported within the plant via the phloem.\n\nD. The phloem consists of dead cells."
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following statements about photosynthesis whether it is true or false.\n\nA. The molecules of the light reaction are located on the thylakoid membrane.\n\nB. CO₂ is consumed in the dark reaction.\n\nC. Plants absorb light energy with photosystems.\n\nD. Plants are green because they mainly absorb light with wavelengths in the green range."
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "1st round",
+     "problem": "Similarly to animals, plants have hormones that control various functions. One example is auxin, which promotes root growth at low concentrations and shoot growth at high concentrations. Indicate for each of the following statements whether it is true or false.\n\nA. Auxin is present in increased concentration during shoot formation.\n\nB. Auxin can control the direction of root growth.\n\nC. If auxin is deposited on the left side of the shoot axis, the shoot axis bends to the right.\n\nD. A genetic defect that reduces the production of auxin can lead to excessive root growth."
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following molecules whether it is involved in photosynthesis (true) or not (false).\n\nA. Cellulose\n\nB. Chlorophyll\n\nC. Carbon dioxide\n\nD. NADPH"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following cell organelles whether it occurs in both animal and plant cells (true) or not (false).\n\nA. Chloroplasts\n\nB. Vacuole\n\nC. Golgi apparatus\n\nD. Mitochondria"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following statements about the reproduction and structure of flowering plants whether it is true or false.\n\nA. Pollen is collected in the ovary.\n\nB. Pollen grains form a pollen tube on the stigma.\n\nC. Pollen is produced by the stamens.\n\nD. Petals often serve to attract insects."
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following molecules whether it is released by the leaves on a warm, sunny day with moist soil (true) or not (false).\n\nA. O₂\n\nB. H₂O\n\nC. N₂\n\nD. CO₂"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following statements about plant stem cells whether it is true or false.\n\nA. They have the potential to form a completely new plant.\n\nB. They have a different genome from the parenchyma cells of the shoot.\n\nC. They have a rigid cell wall.\n\nD. They occur in the shoot tip and the root tip."
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "1st round",
+     "problem": "Water potential is a measure of the energy of a body of water. The main influences on water potential are mechanical pressure, osmotic pressure and gravity. Water always flows from higher to lower potential. Indicate for each of the following statements whether it is true or false.\n\nA. If a cell is placed in a solution with a lower water potential, it dries out.\n\nB. During active photosynthesis, the water potential of plant leaves is lower than the water potential of the roots.\n\nC. Highly concentrated solutions have a lower potential than solutions of low concentration.\n\nD. The roots of a plant generally have a lower water potential than their surroundings."
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "1st round",
+     "problem": "Some plants enter into a symbiosis with soil fungi in which they exchange substances. Which of the following substances is given by the plant to the fungus?\n\nA. Nitrogen\n\nB. Water\n\nC. Iron\n\nD. Glucose"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "1st round",
+     "problem": "Mammals have a four-chambered heart, which allows them to avoid mixing of oxygen-poor and oxygen-rich blood. Indicate for each of the following statements about the functioning of the mammalian heart whether it is true or false.\n\nA. Oxygen-rich blood reaches the heart via the pulmonary veins.\n\nB. During the filling of the ventricles, the atrioventricular valves are open.\n\nC. When the ventricles contract, the blood is pumped into the arteries.\n\nD. Oxygen-poor blood is found in the left half of the heart."
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "1st round",
+     "problem": "Animals that adapt their salt concentration to that of their surroundings are called osmoconformers. Animals that keep their salt concentration stable are called osmoregulators. Indicate for each of the following animal species whether they are osmoconformers (true) or not (false).\n\nA. Tuna\n\nB. Mussels\n\nC. Shrimps\n\nD. Dolphins"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following statements about respiration whether it is true or false.\n\nA. A respiratory organ works better the larger its surface area.\n\nB. Gills use the co-current principle to take up oxygen from the water more efficiently.\n\nC. We have to inhale oxygen so that we can run the respiratory chain efficiently.\n\nD. Insects need lungs for oxygen exchange."
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following statements about energy metabolism in animals whether it is true or false:\n\nA. The most important energy-carrier molecule in an animal cell is AMP.\n\nB. The combustion of sugar provides the organism with energy.\n\nC. If environmental conditions are harsh, an animal can shut down its metabolism.\n\nD. Surplus energy can be stored in the form of fat for longer periods."
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following statements about reproduction whether it is true or false:\n\nA. Animals that produce sperm are called males.\n\nB. In sexual reproduction, the offspring is called a clone.\n\nC. In animals that live only on land, external fertilisation is often found.\n\nD. Some animals change their sex in the course of their life."
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following statements about the human kidney whether it is true or false.\n\nA. White blood cells mature in the kidney.\n\nB. The kidney eliminates toxins, drugs and their metabolites.\n\nC. The kidney secretes hormones.\n\nD. Carbohydrates are digested in the kidney."
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following processes whether it is involved in synaptic signal transmission between a nerve cell and a skeletal muscle cell (true) or not (false).\n\nA. The neural crest cells migrate along the neural plate\n\nB. An electrical stimulus is generated by the sinoatrial node\n\nC. Calcium influx causes vesicles to fuse with the cell membrane\n\nD. Neurotransmitters open the ion channels of another cell"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following statements about human axons whether it is true or false.\n\nA. The nerve cell receives signals from other cells via the axon.\n\nB. Axons in the central nervous system are supplied with oxygen directly by capillaries.\n\nC. A single axon can be part of both the central and the peripheral nervous system at the same time.\n\nD. In the unmyelinated axon, signal conduction is saltatory."
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following components of the immune system whether it belongs to the innate immune response (true) or not (false).\n\nA. Plasma cells\n\nB. Mechanical barriers\n\nC. Macrophages\n\nD. Antibodies"
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following statements about the pancreas whether it is true or false.\n\nA. The digestive enzymes produced by the pancreas are only activated in the small intestine.\n\nB. The pancreas is both an exocrine and an endocrine gland.\n\nC. During digestion, the pancreas secretes an alkaline secretion.\n\nD. Insulin is produced in the pancreas."
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "1st round",
+     "problem": "It is a hot summer's day and you walk, sweating, to a fan. Which mechanisms contribute substantially to your cooling (true) or not (false)?\n\nA. Convection\n\nB. Vasoconstriction\n\nC. Heat radiation\n\nD. Evaporation"
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "1st round",
+     "problem": "Thyroxines (hormones of the thyroid gland) act on the production of the hormone TSH via a negative feedback loop. Which of the following graphs best represents the correlation between thyroxines and TSH?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2021-1-34-fig1.png"
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following animals whether it has an open circulatory system (true) or not (false).\n\nA. Drosophila melanogaster (fruit fly)\n\nB. Lumbricus terrestris (earthworm)\n\nC. Hyla arborea (European tree frog)\n\nD. Salmo trutta (trout)"
+    },
+    {
+     "day": 1,
+     "number": 36,
+     "paper_label": "1st round",
+     "problem": "In addition to the blood circulation, humans have a further vascular system: the lymphatic system. Indicate for each of the following statements whether it is true or false.\n\nA. The lymphatic system serves to recover substances that diffuse through the capillary walls.\n\nB. The human spleen is closely connected with the lymphatic system.\n\nC. The lymphatic system is an open circulatory system.\n\nD. New immune cells are formed in the lymph nodes."
+    },
+    {
+     "day": 1,
+     "number": 37,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following statements about osmosis whether it is true or false.\n\nA. Osmotic pressure can transport substances against gravity.\n\nB. Osmosis takes place when there are differences in the concentrations of dissolved substances.\n\nC. Without countermeasures, a (hypotonic) fish in the sea dries out because of osmosis.\n\nD. Osmosis is only possible across a semipermeable membrane."
+    },
+    {
+     "day": 1,
+     "number": 38,
+     "paper_label": "1st round",
+     "problem": "Ivan Petrovich Pavlov rang a bell every time he fed his dogs. After a certain time, the dogs also began to drool when he rang the bell without giving them food. This is an example of:\n\nA. Operant conditioning\n\nB. Habituation\n\nC. Reciprocity\n\nD. Classical conditioning"
+    },
+    {
+     "day": 1,
+     "number": 39,
+     "paper_label": "1st round",
+     "problem": "A bonobo (Pan paniscus) gives a banana to another individual in its group. This behaviour is:\n\nA. Sexual selection\n\nB. Egoism\n\nC. Food mutualism\n\nD. Altruism"
+    },
+    {
+     "day": 1,
+     "number": 40,
+     "paper_label": "1st round",
+     "problem": "After mating, the female cuckoo (Cuculus canorus) looks for an unattended nest of another bird species, lays her egg in it and flies away. The incubation of the egg and the care of the chick are taken over by the \"adoptive parents\", who do not notice that it is not their own offspring. What type of interspecific relationship is this?\n\nA. Commensalism\n\nB. Mutualism\n\nC. Parasitism\n\nD. Competition"
+    },
+    {
+     "day": 1,
+     "number": 41,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following behaviours whether it is innate (true) or not (false).\n\nA. The ability of a parrot to utter certain words\n\nB. A dog sitting down at the command \"Sit\"\n\nC. The burying of nuts in autumn by squirrels\n\nD. The feeding of cheeping chicks by bird parents"
+    },
+    {
+     "day": 1,
+     "number": 42,
+     "paper_label": "1st round",
+     "problem": "Traits of different animal species are called homologies if they have a common origin. Traits are called analogies if they are similar but arose independently of each other. Indicate for each of the following examples whether it is a homology (true) or an analogy (false).\n\nA. Beak of a squid and of a bird\n\nB. Ulna and radius of a bird and of a crocodile\n\nC. Streamlined body of a dolphin and of a penguin\n\nD. Wings of a bat and of a bird"
+    },
+    {
+     "day": 1,
+     "number": 43,
+     "paper_label": "1st round",
+     "problem": "Which of the following mechanisms is most likely responsible for the origin of an analogous trait?\n\nA. Adaptive radiation\n\nB. Genetic drift\n\nC. Bottleneck effect\n\nD. Selection"
+    },
+    {
+     "day": 1,
+     "number": 44,
+     "paper_label": "1st round",
+     "problem": "You cross two homozygous four o'clock plants (Mirabilis jalapa). One has red flowers and the other has white flowers. All offspring have pink flowers. Indicate for each of the following statements whether it is true or false.\n\nA. The pink flowers are a case of intermediate inheritance.\n\nB. The pink flowers are heterozygous.\n\nC. The offspring of a pink and a white flower will be half white and half pink.\n\nD. If you cross two of the pink offspring, their offspring will again all be pink."
+    },
+    {
+     "day": 1,
+     "number": 45,
+     "paper_label": "1st round",
+     "problem": "The father of a family has blood group AB and the mother has blood group A. Indicate for each of the following blood groups whether it is possible in the children (true) or not (false).\n\nA. A\n\nB. B\n\nC. AB\n\nD. O"
+    },
+    {
+     "day": 1,
+     "number": 46,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following effects whether it occurs in ideal populations (true) or not (false).\n\nA. Migration\n\nB. Genetic drift\n\nC. Sexual selection\n\nD. Inbreeding"
+    },
+    {
+     "day": 1,
+     "number": 47,
+     "paper_label": "1st round",
+     "problem": "Two maize strains are planted on different soils that differ in their nitrogen content. All individuals of a strain are genetically identical. The norm of reaction indicates how strongly the environment affects the phenotype. Indicate for each of the following statements whether it is true or false.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2021-1-47-fig1.png\n\nFigure labels (German → English): Ertrag (kg/ha) = yield (kg/ha); Stickstoffanreicherung (kg/ha) = nitrogen enrichment (kg/ha); Maisstamm 1 = maize strain 1; Maisstamm 2 = maize strain 2.\n\nA. The amount of enriched nitrogen depends only on the genotype.\n\nB. Maize strain 2 has the larger norm of reaction than maize strain 1.\n\nC. The environment (here: the nitrogen content of the soil) affects all genotypes equally strongly.\n\nD. In a trait with a large norm of reaction, genetically identical individuals also have the same phenotype."
+    },
+    {
+     "day": 1,
+     "number": 48,
+     "paper_label": "1st round",
+     "problem": "To investigate the genetic basis of a monogenic disease, the genome of sick persons is compared with the genome of healthy persons. Not all nucleotides are compared, but only certain SNPs (single base changes). Where is the gene that is responsible for the disease located?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2021-1-48-fig1.png\n\n$$\\begin{array}{c|c|ccccc} \\text{Participant} & \\text{Trait} & \\text{SNP 1} & \\text{SNP 2} & \\text{SNP 3} & \\text{SNP 4} & \\text{SNP 5} \\\\ \\hline 1 & \\text{Yes} & \\text{A/A} & \\text{T/T} & \\text{A/A} & \\text{G/G} & \\text{C/C} \\\\ 2 & \\text{No} & \\text{A/A} & \\text{G/G} & \\text{C/C} & \\text{G/G} & \\text{T/T} \\\\ 3 & \\text{No} & \\text{C/C} & \\text{T/T} & \\text{C/C} & \\text{C/C} & \\text{C/C} \\\\ 4 & \\text{Yes} & \\text{A/A} & \\text{G/G} & \\text{A/A} & \\text{T/T} & \\text{G/G} \\\\ 5 & \\text{No} & \\text{T/T} & \\text{G/G} & \\text{T/T} & \\text{T/T} & \\text{G/G} \\\\ 6 & \\text{Yes} & \\text{C/C} & \\text{T/T} & \\text{A/A} & \\text{C/C} & \\text{G/G} \\\\ 7 & \\text{Yes} & \\text{T/T} & \\text{G/G} & \\text{A/A} & \\text{A/A} & \\text{A/A} \\\\ 8 & \\text{Yes} & \\text{C/C} & \\text{A/A} & \\text{A/A} & \\text{C/C} & \\text{C/C} \\\\ 9 & \\text{No} & \\text{C/C} & \\text{A/A} & \\text{C/C} & \\text{C/C} & \\text{A/A} \\\\ 10 & \\text{No} & \\text{T/T} & \\text{T/T} & \\text{C/C} & \\text{G/G} & \\text{C/C} \\end{array}$$\n\nA. Chromosome 6\n\nB. Chromosome 3\n\nC. Chromosome 4\n\nD. Chromosome 8"
+    },
+    {
+     "day": 1,
+     "number": 49,
+     "paper_label": "1st round",
+     "problem": "Mice that live on dark rock have darker fur than mice that live in light-coloured grass. To which effect is this due?\n\nA. Disruptive selection\n\nB. Stabilising selection\n\nC. Frequency-dependent selection\n\nD. Directional selection"
+    },
+    {
+     "day": 1,
+     "number": 50,
+     "paper_label": "1st round",
+     "problem": "You observe a male peafowl (Pavo cristatus) that has a strikingly long tail, which prevents the male from flying and thus makes it more vulnerable to attacks by predators. Indicate for each of the following statements whether it is true or false.\n\nA. The reason for the occurrence of males with long tails is sexual selection.\n\nB. Peacocks with shorter tails generally have a higher fitness.\n\nC. Females that mate with males that have a longer tail generally have a lower fitness.\n\nD. It is to be expected that peahens prefer males that have a long tail."
+    },
+    {
+     "day": 1,
+     "number": 51,
+     "paper_label": "1st round",
+     "problem": "The pedigree shows the inheritance of a disease. Circles denote women, squares men. Affected individuals are marked in black. How is the disease inherited?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2021-1-51-fig1.png\n\nA. X-linked recessive\n\nB. Y-linked\n\nC. Mitochondrial\n\nD. Autosomal dominant"
+    },
+    {
+     "day": 1,
+     "number": 52,
+     "paper_label": "1st round",
+     "problem": "Huntington's chorea is an autosomal dominant inherited disease. The disease is caused by an above-average number of repeats of the three bases CAG in the gene that codes for the protein huntingtin. As a result, huntingtin can still carry out its normal function, but it has a toxic effect on the cells because of the high number of glutamine residues. Indicate for each of the following statements whether it is true or false.\n\nA. This type of mutation is called a missense mutation.\n\nB. If both parents are ill, all their children are also affected by the disease.\n\nC. The reading frame in the mutated variant of the gene is shifted.\n\nD. The denatured huntingtin of ill people is longer than that of healthy people."
+    },
+    {
+     "day": 1,
+     "number": 53,
+     "paper_label": "1st round",
+     "problem": "A silent mutation is a mutation in a coding section of DNA that has no effect on the amino acid sequence of the protein. Indicate for each of the following mutations whether it can be a silent mutation (true) or not (false).\n\nA. Insertion of 3 base pairs\n\nB. Inversion of 4 base pairs\n\nC. Deletion of 2 base pairs\n\nD. Point mutation"
+    },
+    {
+     "day": 1,
+     "number": 54,
+     "paper_label": "1st round",
+     "problem": "The absence of the tail (allele A) in cats is inherited dominantly. The litter of two tailless cats (genotype Aa) consists of one third kittens with a tail and two thirds kittens without a tail. Indicate for each of the following statements whether it is true or false.\n\nA. The litter of two cats with tails consists only of kittens with tails.\n\nB. The frequency of allele A has decreased in the kittens compared with the parental generation.\n\nC. The kittens with tails have genotype aa.\n\nD. Cats with genotype AA are not viable."
+    },
+    {
+     "day": 1,
+     "number": 55,
+     "paper_label": "1st round",
+     "problem": "In a paternity test, DNA samples are taken from the putative father and the child, and various genetic markers are compared. Indicate for each of the following statements whether it is true or false.\n\nA. A paternity test is more informative if the genotype of the mother is also known.\n\nB. A paternity test must give the same genotype for the child and the biological father.\n\nC. A paternity test can exclude paternity, but cannot confirm it 100%.\n\nD. A paternity test becomes more reliable the more genetic markers are compared."
+    },
+    {
+     "day": 1,
+     "number": 56,
+     "paper_label": "1st round",
+     "problem": "Which of the following answers classifies humans (Homo Sapiens) correctly:\n\nA. Metazoa: Protostomia: Mollusca: Cephalopoda\n\nB. Metazoa: Deuterostomia: Amniota: Eureptilia\n\nC. Chordata: Vertebrata: Tetrapoda: Mammalia\n\nD. Chordata: Vertebrata: Amniota: Sauropsida"
+    },
+    {
+     "day": 1,
+     "number": 57,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following statements about systematics whether it is true or false:\n\nA. Analogous structures are a clear sign of relatedness.\n\nB. There is only one way to define the term species.\n\nC. Homologies and analogies arise through evolution.\n\nD. Biological relationships are determined only on the basis of physical traits."
+    },
+    {
+     "day": 1,
+     "number": 58,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following plant groups whether it belongs to the seed plants (Spermatophyta) (true) or not (false).\n\nA. Ferns (Polypodiopsida)\n\nB. Magnolias (Magnoliidae)\n\nC. Conifers (Pinophyta)\n\nD. Mosses (Bryophyta)"
+    },
+    {
+     "day": 1,
+     "number": 59,
+     "paper_label": "1st round",
+     "problem": "The figure shows the temperature–performance curves of four species (A, B, C, D). The dotted line shows the current temperature in their common habitat. Which of the four species will lose the most productivity under a general rise in temperature?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2021-1-59-fig1.png\n\nFigure labels (German → English): Leistung = performance; Temperatur = temperature."
+    },
+    {
+     "day": 1,
+     "number": 60,
+     "paper_label": "1st round",
+     "problem": "Strangler figs are climbing plants that use tropical tree species as supporting structures. After some time they encircle the trees so tightly that the trees die. Which of the following words best describes the relationship of the strangler figs to the trees?\n\nA. Obligate mutualism\n\nB. Parasitism\n\nC. Predator–prey relationship\n\nD. Symbiosis"
+    },
+    {
+     "day": 1,
+     "number": 61,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following statements about ecological niches whether it is true or false.\n\nA. The realised ecological niche is generally larger than the fundamental ecological niche.\n\nB. The same species can occupy different niches in different habitats.\n\nC. If many predators are present, the fundamental and realised ecological niches of the prey are usually the same.\n\nD. The fundamental ecological niche of a species changes markedly when a competing species becomes extinct."
+    },
+    {
+     "day": 1,
+     "number": 62,
+     "paper_label": "1st round",
+     "problem": "You observe a forest in which foxes and rabbits live. At present there are equal numbers of individuals of both species. You look at the course of the population sizes over a long period. Which of the following scenarios is the most likely for the course of the population size of the foxes?\n\nA. Exponential growth\n\nB. Fluctuation around an equilibrium\n\nC. Linear growth\n\nD. Steady decline"
+    },
+    {
+     "day": 1,
+     "number": 63,
+     "paper_label": "1st round",
+     "problem": "You observe two different insect species A and B, both of which have a similar, strikingly colourful coloration. Species A is poisonous, but species B is harmless. Indicate for each of the following statements whether it is true or false.\n\nA. The similar coloration is an advantage for species B.\n\nB. Such similar colorations often occur in habitats with high pressure from predators.\n\nC. For the warning coloration to work, the poison of species A must necessarily be lethal.\n\nD. The similarity of the colorations is based on sexual selection."
+    },
+    {
+     "day": 1,
+     "number": 64,
+     "paper_label": "1st round",
+     "problem": "Insects, skunks and foxes live on an isolated island. After the golden eagle is introduced to the island in 1960, the food web looks like this:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2021-1-64-fig1.png\n\nThe sightings of eagles, skunks and foxes are counted and look like this:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2021-1-64-fig2.png\n\nIndicate for each of the following statements whether it is true or false.\n\nA. If all the insects on the island die out, this has no effect on the eagle population.\n\nB. The skunk population increases because fewer skunks are eaten by foxes.\n\nC. Foxes and skunks compete for their food.\n\nD. The introduction of the eagle is a possible cause of the decline of the foxes."
+    },
+    {
+     "day": 1,
+     "number": 65,
+     "paper_label": "1st round",
+     "problem": "Some years ago, seeds of the Norway spruce Picea abies were sown on alpine meadows. After ten years, the number of trees was measured. What limits the spread of Picea abies to higher altitudes in nature?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2021-1-65-fig1.png\n\nFigure labels (German → English): Prozent erfolgreich gewachsener Bäume = percentage of successfully grown trees; Alpwiese mit gerodeter Konkurrenz = alpine meadow with competition cleared; Alpwiese mit intakter Konkurrenz = alpine meadow with competition intact.\n\nA. Dispersal strategy\n\nB. Unsuitable habitat\n\nC. Infertility of the seeds\n\nD. Competition with other tree species"
+    }
+   ]
+  },
+  {
+   "year": 2022,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "1st round",
+     "problem": "What is the name of this molecule?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-1-1-fig1.png\n\nA. Cytidine monophosphate\n\nB. Cyclic guanosine monophosphate\n\nC. Tetrasodium diphosphate\n\nD. Adenosine triphosphate"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "1st round",
+     "problem": "Amino acids are the building blocks of proteins. Glycine is the simplest amino acid; it has no side chain. Indicate for each of the following statements whether it is true or false.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-1-2-fig1.png\n\nA. In proteins, the amino acids are linked via their side chains.\n\nB. The chemical properties of amino acids differ because of their side chains.\n\nC. Glycine is chiral.\n\nD. Glycine can form disulfide bridges."
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "1st round",
+     "problem": "Some cells have a flagellum, a whip-like structure that serves for locomotion. Indicate for each of the following cell types whether it can have a flagellum (true) or not (false).\n\nA. White blood cell\n\nB. Sperm cell\n\nC. Muscle cell\n\nD. Bacterium"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following statements about DNA whether it is true or false.\n\nA. DNA contains uracil.\n\nB. DNA contains sugar.\n\nC. DNA contains phosphate.\n\nD. DNA contains amino acids."
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following statements about fungi whether it is true or false.\n\nA. Fungi belong to the vascular plants.\n\nB. The cell wall of fungal cells consists of lignin.\n\nC. Fungi can be multicellular.\n\nD. Lichens are a symbiosis between fungi and algae."
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "1st round",
+     "problem": "Look at the figure of a biomembrane and indicate for each of the following statements whether it is true or false.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-1-6-fig1.png\n\nA. A is a protein.\n\nB. B is hydrophobic.\n\nC. C is a DNA chain.\n\nD. D is a phospholipid."
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "1st round",
+     "problem": "Consider the following reaction:\n\n$$\\mathrm{C_6H_{12}O_6 + 6O_2 \\Rightarrow 6CO_2 + 6H_2O}$$\n\nIndicate for each of the following statements whether it is true or false.\n\nA. Energy is released in the reaction.\n\nB. At room temperature the reaction proceeds spontaneously.\n\nC. The reactant $\\mathrm{C_6H_{12}O_6}$ can be glucose.\n\nD. In the reaction, oxygen is oxidised."
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "1st round",
+     "problem": "The polymerase chain reaction (PCR) is a biochemical method to amplify DNA in vitro. Indicate for each of the following statements whether it is true or false.\n\nA. In each temperature cycle the DNA is doubled.\n\nB. Even small amounts of DNA can be amplified by PCR.\n\nC. DNA synthesis takes place at 95 °C.\n\nD. Magnesium ions supply the energy for the reaction."
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "1st round",
+     "problem": "Protein biosynthesis at the ribosomes differs between prokaryotes and eukaryotes. Indicate for each of the following statements whether it is true or false.\n\nA. In prokaryotes, most mRNAs code for more than one protein.\n\nB. In eukaryotes, mRNA is exported from the nucleus after transcription.\n\nC. In prokaryotes, mRNA can be translated as soon as it has been synthesised.\n\nD. In eukaryotes, each mRNA codes for three proteins."
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "1st round",
+     "problem": "RNA is chemically less stable than DNA. Indicate for each of the following possibilities whether it is a reason for this (true) or not (false).\n\nA. RNA strands form more bonds than DNA strands.\n\nB. RNA contains ribose instead of deoxyribose.\n\nC. RNA consists of larger molecules than DNA.\n\nD. Unlike DNA, RNA is often present as a single strand."
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "1st round",
+     "problem": "The figure shows part of a signalling pathway. Apoptosis is controlled cell death. Indicate for each of the following statements whether it is true or false.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-1-11-fig1.png\n\nFigure labels (German → English): Apoptose = apoptosis.\n\nA. The concentration of AKT depends on MAP3K.\n\nB. Apoptosis can be suppressed without AKT.\n\nC. The more active TNF is, the more Bcl-2 is present.\n\nD. With a high expression of PI3 kinase, apoptosis can be reduced."
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following statements about the nucleus of a eukaryotic cell whether it is true or false.\n\nA. The nucleus contains genetic material.\n\nB. Translation takes place primarily in the nucleus.\n\nC. The nucleus persists throughout the cell cycle.\n\nD. The nucleus is surrounded by a double membrane."
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following molecules whether it occurs in the cell wall of a lignified plant cell (true) or not (false).\n\nA. Starch\n\nB. Cellulose\n\nC. Lignin\n\nD. Chitin"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "1st round",
+     "problem": "A lettuce leaf is placed in a concentrated salt solution. Indicate for each of the following statements whether it is true or false.\n\nA. Salt molecules move into the cells.\n\nB. Sugar moves out of the cells.\n\nC. The cell membranes dissolve.\n\nD. Water moves out of the cells."
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "1st round",
+     "problem": "Rye is a cereal of the grass family (Poaceae). By what is rye pollinated?\n\nA. Insects\n\nB. Wind\n\nC. Birds\n\nD. Water droplets"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "1st round",
+     "problem": "A plant stands in the afternoon sun at a dry site. Which of the following measures will it take (true) and which not (false)?\n\nA. Closing the leaf openings\n\nB. Converting water into starch\n\nC. Carrying out less photosynthesis\n\nD. Turning the leaves towards the sun"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following statements about the metabolism of plants whether it is true or false.\n\nA. In the phloem, water is transported from the roots to the rest of the plant.\n\nB. CO₂ is produced during cellular respiration of the plant.\n\nC. The leaves take up nitrogen as N₂ from the air.\n\nD. The xylem consists of dead cells."
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following statements about the reproduction of plants whether it is true or false.\n\nA. The nectar of a flower serves to attract pollinators.\n\nB. A flower can contain both female and male reproductive organs.\n\nC. The stigma is part of the female reproductive organ.\n\nD. Pollen is formed by the petals."
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "1st round",
+     "problem": "Mosses are among the most primitive land plants and have no supporting or vascular tissue. Indicate for each of the following statements whether it is true or false.\n\nA. Mosses take up minerals mainly through their roots.\n\nB. Mosses have chloroplasts.\n\nC. Mosses undergo an alternation of generations.\n\nD. Mosses reproduce by seeds."
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following statements about leaf structure whether it is true or false.\n\nA. Cellular respiration takes place in the palisade tissue.\n\nB. The spongy tissue absorbs and stores water.\n\nC. The cuticle consists of epidermal cells.\n\nD. Stomata enable gas exchange."
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following statements about plant seeds whether it is true or false.\n\nA. The seeds of the dandelion (Taraxacum officinale) are dispersed by the wind.\n\nB. The Norway spruce (Picea abies) belongs to the gymnosperms.\n\nC. The flesh of a cherry serves the seed as nutritive tissue.\n\nD. Angiosperms form a triploid nutritive tissue in their seeds."
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following statements about symbiotic organisms whether it is true or false.\n\nA. Nodule bacteria supply their host with usable nitrogen.\n\nB. Birds disperse plant seeds through their faeces.\n\nC. Certain plant species form symbioses with fungi.\n\nD. Nodule bacteria form colonies on leaves."
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following statements about photosynthesis whether it is true or false.\n\nA. In plants, photosynthesis takes place in the chloroplasts.\n\nB. In photosynthesis, CO₂ is oxidised.\n\nC. Photosynthesis enables plants to have an autotrophic way of life.\n\nD. Chlorophyll mainly absorbs green light."
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "1st round",
+     "problem": "Put the following processes of signal transmission at the synapse in the correct order:\n\nI. Vesicle fuses with the membrane\n\nII. Action potential in the presynaptic cell\n\nIII. Binding of signal molecules to receptors\n\nIV. Release of neurotransmitter\n\nA. II → IV → I → III\n\nB. III → I → II → IV\n\nC. I → II → III → IV\n\nD. II → I → IV → III"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following statements about the human heart whether it is true or false.\n\nA. Most people have a separation between the two ventricles.\n\nB. The heart has two atria.\n\nC. The pacemaker for the heart rate is located in the cerebrum.\n\nD. The heart has four atrioventricular (leaflet) valves."
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following statements about human sex hormones whether it is true or false.\n\nA. Testosterone and oestrogen are synthesised from the same precursor.\n\nB. Testosterone promotes muscle building.\n\nC. Oestrogen is produced exclusively in the ovaries.\n\nD. Chemically, sex hormones are carbohydrates."
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "1st round",
+     "problem": "Malaria is caused by unicellular parasites of the genus Plasmodium, which are transmitted by Anopheles mosquitoes. In humans, Plasmodium causes severe to fatal bouts of fever. Indicate for each of the following statements whether it is true or false.\n\nA. Wearing masks protects against malaria infection.\n\nB. The immune system cannot recognise Plasmodium.\n\nC. Malaria is widespread mainly in dry regions.\n\nD. Infected people can be treated with antibiotics."
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "1st round",
+     "problem": "Antidiuretic hormone (ADH) causes the kidneys to reabsorb water from the urine. In a patient, the ADH receptors do not work. Indicate for each of the following statements whether it is true or false.\n\nA. The sodium concentration in the patient's blood is too low.\n\nB. The patient's blood is too strongly diluted.\n\nC. The patient often complains of thirst.\n\nD. The patient produces little urine."
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "1st round",
+     "problem": "Adrenocorticotropic hormone (ACTH) stimulates the production of aldosterone in the adrenal cortex. Aldosterone causes the kidney to reabsorb sodium and water and to excrete potassium. In a patient, aldosterone synthesis is severely impaired. Indicate for each of the following symptoms whether it is likely in the patient (true) or not (false).\n\nA. High potassium concentration in the blood\n\nB. High blood pressure\n\nC. High ACTH concentration in the blood\n\nD. High sodium concentration in the blood"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "1st round",
+     "problem": "At the neuromuscular end plate, the signal is transmitted from nerves to muscles. Acetylcholine serves as the transmitter. In a patient, the postsynaptic acetylcholine receptors are blocked by antibodies. This leads to a ...\n\nIndicate for each of the following statements whether it is true or false.\n\nA. ... narrowing of the synaptic cleft.\n\nB. ... reduced release of acetylcholine.\n\nC. ... weakened neuromuscular transmission.\n\nD. ... change in the presynaptic action potential."
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following structures whether the human innate immune system would recognise it as foreign (true) or not (false).\n\nA. Cholesterol\n\nB. Chitin\n\nC. double-stranded RNA\n\nD. Flagellin"
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "1st round",
+     "problem": "Gas exchange in the human lung has adapted in the course of evolution so that as much oxygen as possible can be transported into the body in a short time. Indicate for each of the following statements whether it promotes gas exchange (true) or not (false).\n\nA. A high oxygen gradient between the alveoli and the blood.\n\nB. A large surface area due to an enormous number of small alveoli.\n\nC. Lungs that move independently of each other.\n\nD. A large distance between alveoli and blood vessels."
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "1st round",
+     "problem": "Animals are endothermic if they can regulate their body temperature independently of the ambient temperature. Indicate for each of the following statements whether it is true or false.\n\nA. Whales are endothermic.\n\nB. Muscle activity is a regulatory mechanism of endothermic animals.\n\nC. Fur is a regulatory mechanism of endothermic animals.\n\nD. Birds are endothermic."
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "1st round",
+     "problem": "The autonomic nervous system of animals consists of the antagonists sympathetic and parasympathetic nervous system. The sympathetic nervous system is activated during stress, the parasympathetic nervous system during relaxation. Indicate for each of the following statements whether it is true or false.\n\nA. Activation of the sympathetic nervous system increases intestinal activity.\n\nB. Activation of the sympathetic nervous system leads to increased blood flow to the muscles.\n\nC. Activation of the sympathetic nervous system leads to a dilated pupil.\n\nD. The parasympathetic nervous system is only active during sleep."
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "1st round",
+     "problem": "Put the following reactions of the immune response in the correct order.\n\nI. Norovirus enters.\n\nII. Matching lymphocytes multiply.\n\nIII. Memory cells are activated.\n\nIV. Pathogen is eliminated.\n\nV. Antibodies are formed.\n\nA. I → V → II → III → IV → I → IV → III\n\nB. I → III → IV → I → II → V → IV → III\n\nC. I → V → II → IV → I → III → IV → V\n\nD. I → II → V → IV → I → III → V → IV"
+    },
+    {
+     "day": 1,
+     "number": 36,
+     "paper_label": "1st round",
+     "problem": "Insulin stimulates the uptake of sugar from the blood into the tissues and thus lowers blood sugar. In type I diabetes, the insulin-producing cells of the pancreas are destroyed by immune cells. Indicate for each of the following statements about type I diabetes whether it is true or false.\n\nA. Insulin in the blood is increased.\n\nB. Blood sugar is increased.\n\nC. The tissues are not properly supplied with sugar.\n\nD. The blood has a higher osmolarity."
+    },
+    {
+     "day": 1,
+     "number": 37,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following reactions whether it is based on classical conditioning (true) or not (false).\n\nA. A bird avoids the berries that gave it digestive problems.\n\nB. A rat presses a lever with its paw so that it can drink.\n\nC. Your mouth waters when you see chocolate.\n\nD. Your heart beats faster when your ringtone announces a call from your crush."
+    },
+    {
+     "day": 1,
+     "number": 38,
+     "paper_label": "1st round",
+     "problem": "Vervet monkeys (Chlorocebus pygerythrus) use alarm calls to warn their conspecifics of predators. However, if a vervet monkey repeatedly hears the alarm call of a conspecific without any danger being present, it subsequently no longer reacts to it. What type of behaviour is this?\n\nA. Imprinting\n\nB. Associative learning\n\nC. Habituation\n\nD. Cognition"
+    },
+    {
+     "day": 1,
+     "number": 39,
+     "paper_label": "1st round",
+     "problem": "Eusocial communities care for the brood and obtain food communally, over several generations and with a clear division of roles. In which of the following animal groups do eusocial communities occur (true) and in which not (false)?\n\nA. Termites\n\nB. Bumblebees\n\nC. Ants\n\nD. Honeybees"
+    },
+    {
+     "day": 1,
+     "number": 40,
+     "paper_label": "1st round",
+     "problem": "Half of a Petri dish is coated with an antibiotic. A bacterial culture is streaked on the other half. You observe that at first the bacteria grow only up to the boundary. One week later you observe that individual bacterial colonies have advanced into the part of the Petri dish treated with the antibiotic. Indicate for each of the following statements whether it is true or false.\n\nA. Mutations in the bacterial genome occur only under high selection pressure.\n\nB. The bacteria that have advanced into the part treated with the antibiotic show antibiotic resistance.\n\nC. The emerging shortage of nutrients in the untreated half of the Petri dish has increased the selection pressure on the bacterial culture.\n\nD. This experiment is an example of sexual selection."
+    },
+    {
+     "day": 1,
+     "number": 41,
+     "paper_label": "1st round",
+     "problem": "Rudiments are understood to be traits that have become functionless and partly reduced in the course of evolution. Indicate for each of the following statements about rudiments whether it is true or false.\n\nA. Rudiments occur in only a few individuals of a species.\n\nB. Rudiments arise because of spontaneous mutations.\n\nC. Rudiments are evidence of the phylogenetic development of a species.\n\nD. Rudiments provide a fitness advantage."
+    },
+    {
+     "day": 1,
+     "number": 42,
+     "paper_label": "1st round",
+     "problem": "The Sumatran rhinoceros (Dicerorhinus sumatrensis) is a critically endangered species. It is estimated that there are fewer than 80 living individuals. Indicate for each of the following observations whether you would expect it in the Sumatran rhinoceros (true) or not (false).\n\nA. Clearly more newborn females than males\n\nB. Increased occurrence of homozygous genotypes\n\nC. A high genetic diversity\n\nD. Little genetic drift"
+    },
+    {
+     "day": 1,
+     "number": 43,
+     "paper_label": "1st round",
+     "problem": "Analogous traits have arisen independently of each other in two species; otherwise one speaks of homologous traits. Indicate for each of the following statements whether it is true or false.\n\nA. A homologous trait of two species was also present in their common ancestor.\n\nB. The fins of dolphins and sharks arose homologously.\n\nC. The eye of insects and mammals is homologous.\n\nD. If two species have analogous organs, they never had a common ancestor."
+    },
+    {
+     "day": 1,
+     "number": 44,
+     "paper_label": "1st round",
+     "problem": "Look at the pedigree. The circles are women, the squares men. White symbols stand for healthy people, black ones for ill people. How is the disease inherited?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-1-44-fig1.png\n\nA. mitochondrial\n\nB. sex-linked recessive\n\nC. autosomal dominant\n\nD. autosomal recessive"
+    },
+    {
+     "day": 1,
+     "number": 45,
+     "paper_label": "1st round",
+     "problem": "A white-flowered pea is crossed with a violet-flowered pea. The offspring of the first generation (F1 generation) all have violet flowers. The offspring of the F1 generation form the F2 generation. Indicate for each of the following answers whether it is true or false.\n\nA. Three quarters of the F2 plants have violet flowers.\n\nB. The F1 plants have the same genotype as the violet-flowered parent plants.\n\nC. All white-flowered peas are homozygous.\n\nD. The allele for white flower colour is dominant."
+    },
+    {
+     "day": 1,
+     "number": 46,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following statements about sexual selection whether it is true or false.\n\nA. All reproducing organisms experience sexual selection.\n\nB. Genes under sexual selection improve adaptation to the environment.\n\nC. Traits under sexual selection are not under natural selection.\n\nD. Sexual selection acts only between the sexes, not within one sex."
+    },
+    {
+     "day": 1,
+     "number": 47,
+     "paper_label": "1st round",
+     "problem": "In the Roman snail H. pomata, most snails have right-coiled shells. Rarely, individuals with left-coiled shells occur, which cannot mate with the normal snails. Indicate for each of the following statements whether it can be a reason why the left-coiled shells nevertheless do not die out in Roman snail populations.\n\nA. Left-handedness is based on a mutation.\n\nB. Left-handedness is inherited together with a gene essential for survival.\n\nC. Left-handedness is under positive sexual selection.\n\nD. Left- or right-handedness is not inherited at all but determined by environmental factors."
+    },
+    {
+     "day": 1,
+     "number": 48,
+     "paper_label": "1st round",
+     "problem": "Look at the pedigree. The circles are women, the squares are men. Filled symbols are affected persons. What is the probability that the offspring marked with a question mark will be affected?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-1-48-fig1.png\n\nA. 1\n\nB. 0.25\n\nC. 0.75\n\nD. 0.5"
+    },
+    {
+     "day": 1,
+     "number": 49,
+     "paper_label": "1st round",
+     "problem": "A woman with blood group A and a man with blood group B have a child together. Indicate for each of the following blood groups whether it can occur in the child (true) or not (false).\n\nA. 0\n\nB. A\n\nC. B\n\nD. AB"
+    },
+    {
+     "day": 1,
+     "number": 50,
+     "paper_label": "1st round",
+     "problem": "In sickle-cell anaemia, which is inherited in an autosomal recessive manner, the synthesis of red blood cells is impaired and therefore less oxygen can be transported. Homozygous people die a few years after birth. The disease occurs mainly in (sub)tropical regions. Laura, 18 years old, is the daughter of two heterozygous people. Indicate for each of the following statements whether it is true or false.\n\nA. The probability that Laura is a carrier is 2/3.\n\nB. Laura needs a heart transplant as soon as possible.\n\nC. The mutation mentioned is a so-called lethal factor.\n\nD. If Laura is a carrier, she has a certain resistance to malaria."
+    },
+    {
+     "day": 1,
+     "number": 51,
+     "paper_label": "1st round",
+     "problem": "In intermediate inheritance, the phenotype of the offspring is a mixture of the parental traits. An example of this is the flower colour of Mirabilis jalapa. You cross a pink flower with a white one. What do the offspring look like?\n\nA. Half of the flowers are pink, the other half white.\n\nB. Half of the flowers are red, the other half white.\n\nC. 25 % of the flowers are pink, the rest are white.\n\nD. All flowers are pink."
+    },
+    {
+     "day": 1,
+     "number": 52,
+     "paper_label": "1st round",
+     "problem": "A population of finches is being studied. It feeds on seeds and fruits. Which of the following factors exert selection pressure on the finch population (true) and which not (false)?\n\nA. A new predator has a particular preference for individuals that are larger than 25 cm.\n\nB. Females prefer males with particularly colourful tail feathers.\n\nC. In the course of climate change, a new seed plant migrates into the habitat of the population.\n\nD. A natural disaster reduces the primary food source of the population by half."
+    },
+    {
+     "day": 1,
+     "number": 53,
+     "paper_label": "1st round",
+     "problem": "Indicate for each of the following statements about butterflies and moths (Lepidoptera) whether it is true or false.\n\nA. All Lepidoptera undergo metamorphosis.\n\nB. The larvae of Lepidoptera occupy the same ecological niche as the adults.\n\nC. Lepidoptera belong to the order of beetles.\n\nD. The caterpillar is a haploid stage of the Lepidoptera."
+    },
+    {
+     "day": 1,
+     "number": 54,
+     "paper_label": "1st round",
+     "problem": "Shown is a simplified phylogenetic tree of the Sauropsida. Indicate for each of the following statements whether it is true or false.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-1-54-fig1.png\n\nA. The common ancestor of Sphenodontia and Gekkota belonged to the Lepidosauria.\n\nB. Gekkota are more closely related to the Anguimorpha than to the Sphenodontia.\n\nC. The Anguimorpha arose through a cross between Crocodylia and Sphenodontia.\n\nD. Lepidosauria is the sister group of Archosauria."
+    },
+    {
+     "day": 1,
+     "number": 55,
+     "paper_label": "1st round",
+     "problem": "Indicate for the following animal groups whether they have a vertebral column (true) or not (false).\n\nA. Squids\n\nB. Penguins\n\nC. Seahorses\n\nD. Frogs"
+    },
+    {
+     "day": 1,
+     "number": 56,
+     "paper_label": "1st round",
+     "problem": "In ecology, an ecosystem is defined as a community of organisms that interact with their environment. Which of the following examples are ecosystems (true) and which not (false).\n\nA. A pond\n\nB. Our gut\n\nC. A crack in a rock\n\nD. A website"
+    },
+    {
+     "day": 1,
+     "number": 57,
+     "paper_label": "1st round",
+     "problem": "Which of the following factors limits plant growth in a desert area?\n\nA. Fungal infections\n\nB. Carbon\n\nC. Water\n\nD. Oxygen"
+    },
+    {
+     "day": 1,
+     "number": 58,
+     "paper_label": "1st round",
+     "problem": "You observe that in plants with many seeds these are usually smaller than in plants with few seeds. Which factor can best explain this?\n\nA. different flowering times\n\nB. limited resources\n\nC. climatic differences\n\nD. independent inheritance"
+    },
+    {
+     "day": 1,
+     "number": 59,
+     "paper_label": "1st round",
+     "problem": "Who eats whom? Order the 4 species by predator > prey.\n\nA. Grasshopper > grass > rat > falcon\n\nB. Falcon > rat > grasshopper > grass\n\nC. Rat > falcon > grasshopper > grass\n\nD. Grasshopper > rat > falcon > grass"
+    },
+    {
+     "day": 1,
+     "number": 60,
+     "paper_label": "1st round",
+     "problem": "Communities of anemones and fish live in the Great Barrier Reef. Clownfish (grey) live in the anemones in a mutualistic symbiosis. Parrotfish (black) avoid anemones because of their nematocysts, which release venom when touched. The y-axis of the graphs shows the number of undischarged nematocysts per unit surface area of an anemone after contact with a fish. Which of the following graphs supports this initial situation?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-1-60-fig1.png"
+    },
+    {
+     "day": 1,
+     "number": 61,
+     "paper_label": "1st round",
+     "problem": "A fish population reaches a new lake through a flood. Because the bottom there is murky, mainly the light-coloured fish are eaten, while darker ones survive. What type of selection is this?\n\nA. Disruptive selection\n\nB. Directional selection\n\nC. Stabilising selection\n\nD. Frequency-dependent selection"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "paper_label": "2nd round",
+     "problem": "Ampicillin is an antibiotic used for the prevention and treatment of certain bacterial infections. It inhibits the enzyme transpeptidase, which bacteria need to build the cell wall.\n\nIndicate when the bacteriolytic effect of ampicillin sets in.\n\nA. During cell division\n\nB. Before chromosome replication\n\nC. During translation of the transpeptidase\n\nD. Immediately after contact of the ampicillin with the cell wall"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "paper_label": "2nd round",
+     "problem": "Bacteria represent one of the three domains of life and belong to the prokaryotes.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. The bacterial chromosome is circular.\n\nB. Plasmids consist of RNA.\n\nC. Bacteria need ribosomes for their translation.\n\nD. Most bacteria are diploid."
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "paper_label": "2nd round",
+     "problem": "RO-3306 is a cyclin-dependent kinase inhibitor. In the following figure you can see how many cells are in each phase of the cell cycle, either without (dark) or with (light) RO-3306 treatment.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-2-3-fig1.png\n\nIn which phase of the cell cycle are the cells treated with RO-3306 arrested?\n\nA. G0/G1\n\nB. S\n\nC. G2/M\n\nD. There is no cell-cycle arrest"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "paper_label": "2nd round",
+     "problem": "For a membrane to fulfil its functions, its viscosity must lie within a certain range.\n\nFor each of the following adaptations, indicate whether you would expect it in cold-adapted organisms (true) or not (false).\n\nA. The membranes contain little cholesterol.\n\nB. The membranes contain many polyunsaturated fatty acids.\n\nC. The membranes are considerably thicker than in organisms that are not cold-adapted.\n\nD. The fatty acids in the membranes are more branched than in organisms that are not cold-adapted."
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "paper_label": "2nd round",
+     "problem": "With only just under 160,000 base pairs and 182 genes, the bacterium Carsonella ruddii is one of the living organisms with a very small genome.\n\nFor each of the following characteristics, indicate whether you would expect it in Carsonella ruddii (true) or not (false).\n\nA. Symbiosis with another organism\n\nB. Intracellular way of life\n\nC. Small cell size\n\nD. Generalist way of life"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "paper_label": "2nd round",
+     "problem": "Cyanides are highly toxic and inactivate complex IV (cytochrome c oxidase). Cytochrome c oxidase is the last member of the electron transport chain in oxidative phosphorylation.\n\nFor each of the following options, indicate whether it is a possible consequence of this inactivation (true) or not (false).\n\nA. Cyanides prevent cytochrome c oxidase from transferring electrons to O$_2$.\n\nB. The concentration of protons in the intermembrane space increases sharply.\n\nC. Affected cells can obtain energy aerobically.\n\nD. Complexes I, II and III compensate for the failure of complex IV."
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "paper_label": "2nd round",
+     "problem": "Protein synthesis in eukaryotes begins at the ribosomes; the proteins are then distributed throughout the whole cell.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. All ribosomes are located in the cytoplasm.\n\nB. Proteins synthesised in the cytoplasm without a sorting signal remain in the cytoplasm.\n\nC. Nuclear proteins can pass through nuclear pores by diffusion.\n\nD. Proteins destined for secretion are released into the ER lumen after production."
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "paper_label": "2nd round",
+     "problem": "Look at the two DNA sequences below.\n\n1: 5′ CTATTTACGCATGTATAA 3′\n\n2: 5′ CTATTTACGCAGGTATAA 3′\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-2-8-fig1.png\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. Sequence 1 codes for a tripeptide.\n\nB. Sequence 2 codes for a hexapeptide.\n\nC. The two sequences differ by a point mutation.\n\nD. The DNA sequence can be deduced from the amino acid sequence."
+    },
+    {
+     "day": 2,
+     "number": 9,
+     "paper_label": "2nd round",
+     "problem": "For each of the following molecular biology methods, indicate whether you can use it to study proteins (true) or not (false).\n\nA. SDS-PAGE\n\nB. PCR\n\nC. Mass spectrometry\n\nD. Absorption spectroscopy"
+    },
+    {
+     "day": 2,
+     "number": 10,
+     "paper_label": "2nd round",
+     "problem": "Enzymes are proteins that accelerate chemical reactions as catalysts.\n\nFor each of the following statements about enzymes, indicate whether it is true or false.\n\nA. Enzymes lower the activation energy of chemical reactions.\n\nB. Enzymes change the position of the chemical equilibrium.\n\nC. Competitively inhibited enzymes lower the maximum rate of the reaction.\n\nD. In allosterically inhibited enzymes, the inhibitor binds in the active site."
+    },
+    {
+     "day": 2,
+     "number": 11,
+     "paper_label": "2nd round",
+     "problem": "For each of the following statements concerning protein structures, indicate whether it is true or false.\n\nA. Disulfide bridges are important for the stability of cytosolic proteins.\n\nB. In an α-helix, the side chains of the amino acids point outwards.\n\nC. A β-sheet is stabilised by hydrogen bonds between the side chains.\n\nD. The quaternary structure of a protein is independent of the primary structure."
+    },
+    {
+     "day": 2,
+     "number": 12,
+     "paper_label": "2nd round",
+     "problem": "A throat swab is tested for SARS-CoV-2 by quantitative real-time PCR.\n\nFor each enzyme, indicate whether it is needed in the reaction mix (true) or not (false).\n\nA. Heat-stable DNA polymerase\n\nB. Heat-stable primase\n\nC. Reverse transcriptase\n\nD. Furin (endoprotease)"
+    },
+    {
+     "day": 2,
+     "number": 13,
+     "paper_label": "2nd round",
+     "problem": "Plasmids need several elements so that they can be passed on from one bacterial generation to the next.\n\nFor each of the following elements, indicate whether it is strictly required (true) or not (false).\n\nA. Multiple cloning site (MCS)\n\nB. Origin of replication (ORI)\n\nC. Antibiotic resistance gene\n\nD. Restriction sites"
+    },
+    {
+     "day": 2,
+     "number": 14,
+     "paper_label": "2nd round",
+     "problem": "Look at the following diagram, which describes how the lac operon works.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-2-14-fig1.png\n\nFigure labels (German → English): Glukose = glucose; Laktose = lactose; Hemmung = inhibition; Aktivierung = activation.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. Increasing the concentration of lactose leads to increased expression of lacZYA.\n\nB. The presence of glucose leads to stronger expression of lacZYA.\n\nC. A mutation that makes CAP-cAMP ineffective leads to excessive expression of lacZYA.\n\nD. lacZYA probably codes for a protein responsible for the synthesis of lactose."
+    },
+    {
+     "day": 2,
+     "number": 15,
+     "paper_label": "2nd round",
+     "problem": "For each of the following statements, indicate whether it applies to viruses (true) or not (false).\n\nA. Some viruses can multiply in red blood cells.\n\nB. Viruses possess their own enzymes.\n\nC. Some viruses can infect cells with cell walls.\n\nD. Viruses can be specialised on more than one host."
+    },
+    {
+     "day": 2,
+     "number": 16,
+     "paper_label": "2nd round",
+     "problem": "Nitrate (NO$_3^-$) is the main source of nitrogen for plants. The following graphs show the relationship between the nitrate content of the soil and the plant dry mass produced.\n\nWhich of the following graphs is the most plausible?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-2-16-fig1.png\n\nA = natural nitrate content\n\nFigure labels (German → English): TS = dry mass (Trockensubstanz); A = natural nitrate content."
+    },
+    {
+     "day": 2,
+     "number": 17,
+     "paper_label": "2nd round",
+     "problem": "For each of the following statements about photosynthesis in plants, indicate whether it is true or false.\n\nA. The Calvin cycle belongs to the dark reaction.\n\nB. In the light reaction, water is split.\n\nC. Mitochondria play a decisive role in photosynthesis.\n\nD. The dark reaction takes place mainly in the roots."
+    },
+    {
+     "day": 2,
+     "number": 18,
+     "paper_label": "2nd round",
+     "problem": "For plants to grow properly, they need certain nutrients, which they take up mostly through their roots.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. Plants can compensate for the absence of one nutrient with other nutrients.\n\nB. Cationic nutrients are transported into the roots against an electrical gradient.\n\nC. Nutrient uptake takes place mainly in the region of the root tips.\n\nD. The uptake of Mg$^{2+}$ takes place against a chemical gradient."
+    },
+    {
+     "day": 2,
+     "number": 19,
+     "paper_label": "2nd round",
+     "problem": "One kilogram of dry mass of a healthy plant contains about 10 g of potassium. In the region of the roots of a sunflower there are 3 kg of potassium in the soil. Nevertheless, the plant examined shows symptoms of K deficiency.\n\nWhat is the reason for this?\n\nA. The plant uses too much potassium in photosynthesis.\n\nB. The potassium in the soil is present only as K$^+$ ions.\n\nC. The potassium present is tightly bound to soil particles.\n\nD. The plant lacks mycorrhizal fungi."
+    },
+    {
+     "day": 2,
+     "number": 20,
+     "paper_label": "2nd round",
+     "problem": "Annual plants are considered typical r-strategists and are often the first to be found at sites that were previously free of plants.\n\nFor each of the following characteristics, indicate whether you would expect it in annual plants (true) or not (false).\n\nA. Underground storage organs\n\nB. Strongly developed immune system\n\nC. Production of many seeds\n\nD. High competitive ability"
+    },
+    {
+     "day": 2,
+     "number": 21,
+     "paper_label": "2nd round",
+     "problem": "Whereas wheat is a C3 plant, maize is a C4 plant. In C4 plants, the light and dark reactions of photosynthesis take place spatially separated.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. A wheat plant has bundle sheath cells.\n\nB. In summer, maize grows faster than wheat.\n\nC. A maize leaf contains a larger proportion of Rubisco than a wheat leaf.\n\nD. In the wheat plant, photorespiration occurs sooner than in the maize plant."
+    },
+    {
+     "day": 2,
+     "number": 22,
+     "paper_label": "2nd round",
+     "problem": "In the course of evolution, the seed plants developed from ferns. The change in reproduction from spores to seeds brought decisive advantages.\n\nFor each of the following aspects, indicate whether seeds have an advantage over spores in it (true) or not (false).\n\nA. Dispersal\n\nB. Survival over time\n\nC. Dependence on water\n\nD. Nutrient reserve"
+    },
+    {
+     "day": 2,
+     "number": 23,
+     "paper_label": "2nd round",
+     "problem": "Which of the following features do vascular plants have in common?\n\nFor each of the following characteristics, indicate whether it is a common feature (true) or not (false).\n\nA. Development of seeds\n\nB. Alternation of generations with a dominant gametophyte\n\nC. Xylem and phloem\n\nD. Lignin-containing cell walls"
+    },
+    {
+     "day": 2,
+     "number": 24,
+     "paper_label": "2nd round",
+     "problem": "You suspect that bananas ripen faster if you put them next to apples. Indeed, the banana next to the apples ripened faster than the banana in your control group without apples.\n\nWhich phytohormone is most likely responsible for this?\n\nA. Ethene\n\nB. Abscisic acid\n\nC. Cytokinins\n\nD. Jasmonic acid"
+    },
+    {
+     "day": 2,
+     "number": 25,
+     "paper_label": "2nd round",
+     "problem": "The figure shows a schematic angiosperm flower.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-2-25-fig1.png\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. Structure A is important for pollen production.\n\nB. Structure B is a male floral organ.\n\nC. Structure C is a female floral organ.\n\nD. Structure D protects the flower in the bud stage."
+    },
+    {
+     "day": 2,
+     "number": 26,
+     "paper_label": "2nd round",
+     "problem": "Plants in dry regions have various adaptations to protect themselves from desiccation.\n\nFor each of the following characteristics, indicate whether it is a possible adaptation to drought (true) or not (false).\n\nA. Enlarged leaf surface\n\nB. Thickened cuticle\n\nC. Sunken stomata\n\nD. Trichomes (plant hairs) on the leaf surface"
+    },
+    {
+     "day": 2,
+     "number": 27,
+     "paper_label": "2nd round",
+     "problem": "For each of the following statements about the water balance of seed plants, indicate whether it is true or false.\n\nA. Dry air increases water transport in the xylem.\n\nB. Water can pass the Casparian strip only by the symplastic route.\n\nC. Water always flows from higher to lower water potential.\n\nD. Succulents are particularly resistant to water shortage."
+    },
+    {
+     "day": 2,
+     "number": 28,
+     "paper_label": "2nd round",
+     "problem": "For each of the following statements about the reproduction of plants, indicate whether it is true or false.\n\nA. Dioecious plants produce both stamens and carpels.\n\nB. Meiosis is a prerequisite for the vegetative reproduction of certain plant species.\n\nC. Double fertilisation takes place in angiosperms.\n\nD. An apple develops from the ovule of the flower of the apple tree."
+    },
+    {
+     "day": 2,
+     "number": 29,
+     "paper_label": "2nd round",
+     "problem": "The bird's-nest orchid (Neottia nidus-avis) is a plant species of the orchid family. It does not carry out any photosynthesis at all and obtains all its nutrients from fungal hyphae in the soil. The fungi live in a symbiosis with trees.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. The relationship between the bird's-nest orchid and the fungus is parasitism.\n\nB. The carbon contained in the bird's-nest orchid was originally fixed by a tree.\n\nC. In clearings, the bird's-nest orchid is more competitive than in shady forest.\n\nD. The bird's-nest orchid belongs to the monocotyledons."
+    },
+    {
+     "day": 2,
+     "number": 30,
+     "paper_label": "2nd round",
+     "problem": "The diagram shows schematically the hormonal control circuit of the female sex hormones.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-2-30-fig1.png\n\nFigure labels (German → English): Follikelreifung = follicle maturation; Gestagene = progestogens; Gebärmutterschleimhaut = uterine lining (endometrium); Hemmung = inhibition; Aktivierung = activation.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. Hormone A is human chorionic gonadotropin (HCG).\n\nB. Hormone B is oestrogen.\n\nC. An LH peak triggers ovulation (C).\n\nD. GnRH is released by the neurohypophysis."
+    },
+    {
+     "day": 2,
+     "number": 31,
+     "paper_label": "2nd round",
+     "problem": "Acetylcholine is an important parasympathetic neurotransmitter. Consider the modes of action of the following substances:\n\nCarbachol: structural analogue of acetylcholine.\n\nNeostigmine: inactivates acetylcholinesterase.\n\nBotulinum toxin: inhibits the release of acetylcholine.\n\nAtropine: competitive antagonist of acetylcholine.\n\nDonepezil: inhibits the activity of acetylcholinesterase.\n\nFor each of the following statements, indicate whether, on the basis of these modes of action, you suspect it to be true or false.\n\nA. Carbachol constricts the pupils.\n\nB. Neostigmine leads to a muscle cramp.\n\nC. Botulinum toxin poisoning can be treated with donepezil.\n\nD. Carbachol poisoning can be treated with atropine."
+    },
+    {
+     "day": 2,
+     "number": 32,
+     "paper_label": "2nd round",
+     "problem": "An experiment investigated whether a dietary supplement containing magnesium helps to prevent nocturnal leg cramps. The graph shows the average number of leg cramps of a patient per week, divided into a control group (placebo) and a treated group (magnesium oxide).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-2-32-fig1.png\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. This study proves the effect of magnesium as a remedy for leg cramps.\n\nB. The control group shows a clear placebo effect.\n\nC. The bars drawn above and below the data points show the standard error.\n\nD. The two groups already differ significantly before the treatment phase."
+    },
+    {
+     "day": 2,
+     "number": 33,
+     "paper_label": "2nd round",
+     "problem": "ADH (antidiuretic hormone) is involved in the regulation of water balance. It causes the insertion of more aquaporins in the collecting duct and increased reabsorption of water.\n\nFor each of the following conditions, indicate whether ADH is secreted in increased amounts under it (true) or not (false).\n\nA. with high salt consumption\n\nB. with reduced blood volume\n\nC. with alcohol consumption\n\nD. with dehydration"
+    },
+    {
+     "day": 2,
+     "number": 34,
+     "paper_label": "2nd round",
+     "problem": "The diagram shows the regulation of the thyroid hormones.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-2-34-fig1.png\n\nFigure labels (German → English): Hypophyse = pituitary gland; Schilddrüse = thyroid gland; Iod = iodine.\n\nFor the thyroid gland to produce T$_3$ and T$_4$, it needs enough iodine. What happens if we take in too little iodine?\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. We measure elevated serum TSH levels.\n\nB. If the pituitary gland produces less TSH, this leads to an increased TRH level.\n\nC. Chronic iodine deficiency can lead to a goitre.\n\nD. The hypothalamus produces less TRH."
+    },
+    {
+     "day": 2,
+     "number": 35,
+     "paper_label": "2nd round",
+     "problem": "What conceivable consequences does the destruction of the villi of the small intestine have for the patient?\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. Impaired nutrient uptake\n\nB. Diarrhoea\n\nC. Disturbed digestion of carbohydrates and sugars\n\nD. Stimulated saliva production"
+    },
+    {
+     "day": 2,
+     "number": 36,
+     "paper_label": "2nd round",
+     "problem": "Prolactinomas are the most common tumours of the human pituitary gland. On the one hand, they produce too much prolactin; on the other hand, they displace the remaining pituitary tissue, which is why a deficiency of all the other pituitary hormones develops.\n\nFor each of the symptoms below, indicate whether it is caused by a prolactinoma (true) or not (false).\n\nA. Tiredness\n\nB. High blood sugar\n\nC. Rapid pulse\n\nD. Milk production"
+    },
+    {
+     "day": 2,
+     "number": 37,
+     "paper_label": "2nd round",
+     "problem": "Digoxins are cardioactive steroid glycosides that selectively inhibit the Na$^+$/K$^+$-ATPase in cardiac muscle cells. They influence the cardiac muscle cells by causing a strong intracellular rise in the Ca$^{2+}$ concentration during contraction.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. Digoxins lead to an increased contraction of the heart muscle.\n\nB. Digoxins can be used in heart failure (weakened pumping capacity).\n\nC. Calcium is necessary for myosin to be able to bind to actin at all.\n\nD. A digoxin overdose can lead to cardiac arrhythmias."
+    },
+    {
+     "day": 2,
+     "number": 38,
+     "paper_label": "2nd round",
+     "problem": "Dexamethasone is a glucocorticoid and is used, among other things, to treat allergic and inflammatory diseases. Its effect is 25 times stronger than that of the body's own cortisol. Like cortisol, dexamethasone also has an influence on sugar and fat metabolism. Which side effects do you expect from taking dexamethasone for a long time?\n\nFor each of the following options, indicate whether you expect it as a side effect (true) or not (false).\n\nA. Lowered blood sugar level\n\nB. Increased immunosuppression\n\nC. Muscle breakdown due to increased gluconeogenesis\n\nD. Redistribution of fat tissue"
+    },
+    {
+     "day": 2,
+     "number": 39,
+     "paper_label": "2nd round",
+     "problem": "The figure shows oxygen-binding curves of myoglobin and maternal haemoglobin (at physiological pH).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-2-39-fig1.png\n\nFigure labels (German → English): O$_2$-Sättigung = O$_2$ saturation; mütterliches Hämoglobin = maternal haemoglobin; Sauerstoffpartialdruck = partial pressure of oxygen; Myoglobin = myoglobin.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. At low partial pressure of oxygen (e.g. in muscle tissue), haemoglobin binds oxygen less well.\n\nB. At lower pH, the haemoglobin curve would be shifted to the left.\n\nC. Myoglobin is a good O$_2$ store in muscle tissue.\n\nD. The sigmoid shape of the oxygen-binding curve of haemoglobin is due to cooperativity."
+    },
+    {
+     "day": 2,
+     "number": 40,
+     "paper_label": "2nd round",
+     "problem": "Radioactively labelled glucose ([18F]-FDG) is used in tumour diagnostics. Like normal glucose, FDG is taken up by the cells via glucose transporters. However, it cannot be metabolised further. Besides tumours, FDG often accumulates physiologically in other organs/structures as well.\n\nWhere do you expect a stronger accumulation of FDG (true) and where not (false)?\n\nA. In the brain\n\nB. In the liver\n\nC. In heart cells\n\nD. In the bladder"
+    },
+    {
+     "day": 2,
+     "number": 41,
+     "paper_label": "2nd round",
+     "problem": "In passive immunisation, a patient is injected with antibodies in high doses.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. After a passive immunisation, one is also protected against a second infection with the same pathogen.\n\nB. The antibody level remains elevated for several years.\n\nC. A passive immunisation takes effect faster than an active vaccination.\n\nD. In passive immunisation, the body's own specific immune response against the pathogen is stimulated."
+    },
+    {
+     "day": 2,
+     "number": 42,
+     "paper_label": "2nd round",
+     "problem": "For each of the following statements about vertebrate circulatory systems, indicate whether it is true or false.\n\nA. Fish have an open circulatory system.\n\nB. In fish, the heart and the gills are connected in parallel.\n\nC. In birds and mammals, the systemic and pulmonary circulations are completely separated from each other.\n\nD. The circulatory system of amphibians is the same as that of fish."
+    },
+    {
+     "day": 2,
+     "number": 43,
+     "paper_label": "2nd round",
+     "problem": "For each of the following animal species, indicate whether it can digest cellulose (true) or not (false).\n\nA. Lion\n\nB. Gorilla\n\nC. Pig\n\nD. Crocodile"
+    },
+    {
+     "day": 2,
+     "number": 44,
+     "paper_label": "2nd round",
+     "problem": "For each of the following components, indicate whether you expect it in the urine of a healthy patient (true) or not (false).\n\nA. Sodium\n\nB. Glucose\n\nC. Haemoglobin\n\nD. Proteins"
+    },
+    {
+     "day": 2,
+     "number": 45,
+     "paper_label": "2nd round",
+     "problem": "The phylum of arthropods (Arthropoda) includes the insects, the crustaceans and the arachnids.\n\nFor each of the following keywords, indicate whether it applies to arthropods (true) or not (false).\n\nA. Endoskeleton\n\nB. Lung breathing\n\nC. Endothermy\n\nD. Autotrophy"
+    },
+    {
+     "day": 2,
+     "number": 46,
+     "paper_label": "2nd round",
+     "problem": "For each of the following substances, indicate whether the body can obtain glucose from it (true) or not (false).\n\nA. Fatty acids\n\nB. Amino acids\n\nC. Lactate\n\nD. Glycerol"
+    },
+    {
+     "day": 2,
+     "number": 47,
+     "paper_label": "2nd round",
+     "problem": "Proopiomelanocortin is a precursor protein for various hormones from the hypothalamus and the pituitary gland, respectively. The cleavage products act on a wide variety of cells of the organism, as shown in the figure.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-2-47-fig1.png\n\nFigure labels (German → English): Hypophyse = pituitary gland; Endokrines Organ oder Zielgewebe = endocrine organ or target tissue; Synthese = synthesis; Effekt = effect; Adenohypophyse = adenohypophysis; Katecholamine = catecholamines; Nebennierenrinde = adrenal cortex; Melanozyten = melanocytes; Opioidrezeptoren = opioid receptors; Melanin = melanin; Hautpigmentierung = skin pigmentation; Schmerz = pain; Leber = liver; Gluconeogenese = gluconeogenesis; Hypoglykämie = hypoglycaemia; Blutkreislauf = blood circulation.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. One symptom of insufficient cortisol production in the adrenal gland is tanned skin.\n\nB. With elevated ACTH, one should first think of an overproduction of POMC.\n\nC. Strongly elevated ACTH levels can lead to hypoglycaemia.\n\nD. A typical symptom of adrenal insufficiency is immunosuppression."
+    },
+    {
+     "day": 2,
+     "number": 48,
+     "paper_label": "2nd round",
+     "problem": "During hyperventilation, more CO$_2$ is exhaled than during normal breathing. The breathing reflex is controlled mainly by the concentration of CO$_2$ in the blood.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. Hyperventilation leads to acidosis (low blood pH).\n\nB. During hyperventilation, more HCO$_3^-$ and H$^+$ are converted into H$_2$O and CO$_2$ in the lungs.\n\nC. If one hyperventilates before diving, the breathing reflex sets in later afterwards.\n\nD. Breathing into a bag counteracts the effects of hyperventilation."
+    },
+    {
+     "day": 2,
+     "number": 49,
+     "paper_label": "2nd round",
+     "problem": "In many mammals, oestrus (the time of mating) is determined by the melatonin level in the blood. In spring the melatonin level falls; in autumn it rises again. Large mammals have a long gestation period, small ones a short one. The young are mostly born in early summer.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. The red deer (Cervus elaphus) mates in autumn.\n\nB. Large mammals are in oestrus when the melatonin level is high.\n\nC. The common hamster (Cricetus cricetus) has a short gestation period.\n\nD. At birth, the parents have a high melatonin level."
+    },
+    {
+     "day": 2,
+     "number": 50,
+     "paper_label": "2nd round",
+     "problem": "Honeybees can use the waggle dance to tell their fellow workers where food sources are located. In doing so, the bee walks the pictured path in the hive. The angle between the bee and the vertical (y-axis) is equal to the angle between the food source and the sun. A bee dances at 16:00 in Switzerland in spring at an angle of 45°, as shown.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-2-50-fig1.png\n\nIn which compass direction does the food source lie?\n\nA. North\n\nB. South\n\nC. West\n\nD. East"
+    },
+    {
+     "day": 2,
+     "number": 51,
+     "paper_label": "2nd round",
+     "problem": "Female fruit flies, Drosophila melanogaster, change their behaviour after mating; e.g. they are less willing to mate with further males and instead start to lay eggs. The nuclear pore protein Nup54 is involved in this behavioural response. In mutants without Nup54, neuronal connections are missing, as a result of which these animals do not lay eggs.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. Egg laying after mating is instinctive behaviour.\n\nB. The reduced willingness to mate after mating is an example of a fixed action pattern.\n\nC. The ultimate cause of the behavioural response is mating with a male.\n\nD. The association of mating and egg laying is an example of operant conditioning."
+    },
+    {
+     "day": 2,
+     "number": 52,
+     "paper_label": "2nd round",
+     "problem": "The nematode Caenorhabditis elegans feeds on bacteria. However, there are also bacteria that are harmful to the worm, such as Pseudomonas aeruginosa. Worms that have once eaten this bacterium and fallen ill from it avoid it in future. A recent study has shown that this behaviour can also be passed on to other worms, which then also avoid P. aeruginosa.\n\nWhich type of learning process best describes this phenomenon?\n\nA. Classical conditioning\n\nB. Social learning\n\nC. Learning by trial and error\n\nD. Cognition"
+    },
+    {
+     "day": 2,
+     "number": 53,
+     "paper_label": "2nd round",
+     "problem": "For each of the following behaviours, indicate whether it is instinctive behaviour (true) or not (false).\n\nA. Rolling an egg back into the nest in geese\n\nB. Fear reaction to the smell of illegal drugs in bees\n\nC. Use of sponges as tools in dolphins\n\nD. Withdrawal of the gills after touch in sea slugs"
+    },
+    {
+     "day": 2,
+     "number": 54,
+     "paper_label": "2nd round",
+     "problem": "To characterise disorders in schizophrenic mice, researchers use a \"puzzle box\". In this test, the mice may go from a large, bright compartment into a small, dark one. The experiment extends over 3 days. The set-up of the puzzle box is changed from trial to trial:\n\nTrial 1: An open door connects the compartments.\n\n2, 3, 4: The door is replaced by a tunnel.\n\n5, 6, 7: The tunnel is blocked with sawdust.\n\n8, 9: The tunnel is blocked with a piece of cardboard.\n\nThe following graph shows how much time the healthy and the schizophrenic mice need in each trial to get from one compartment to the other.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-2-54-fig1.png\n\nFigure labels (German → English): Schizophrene Mäuse = schizophrenic mice; Gesunde Mäuse = healthy mice; Zeit = time; Versuch = trial.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. The schizophrenic mice have more difficulty with problem solving than the healthy ones.\n\nB. The schizophrenic mice have problems with long-term memory.\n\nC. The schizophrenic mice prefer to stay in the bright rather than in the dark room.\n\nD. The schizophrenic mice have problems with short-term memory."
+    },
+    {
+     "day": 2,
+     "number": 55,
+     "paper_label": "2nd round",
+     "problem": "Female brown rats (Rattus norvegicus) often cooperate with one another. For example, they can learn to pull a lever to give another rat access to food. In doing so, the rats also help conspecifics that are not closely related to them. However, they are more willing to help animals that have previously done them the same favour.\n\nWhat best explains this phenomenon?\n\nA. Reciprocal altruism\n\nB. Inclusive fitness\n\nC. Optimal foraging\n\nD. Kin selection"
+    },
+    {
+     "day": 2,
+     "number": 56,
+     "paper_label": "2nd round",
+     "problem": "Various unicellular organisms have gone through a so-called secondary endosymbiosis in their evolutionary history. This means that the precursors of the chloroplasts were eukaryotic cells that themselves already possessed chloroplasts as endosymbionts.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. Chloroplasts from secondary endosymbiosis possess four cell membranes.\n\nB. The innermost membrane of a chloroplast from secondary endosymbiosis resembles the cell membrane of cyanobacteria.\n\nC. The chloroplasts of angiosperms derive from secondary endosymbiosis.\n\nD. The precursors of the secondary chloroplasts could have been unicellular yeasts."
+    },
+    {
+     "day": 2,
+     "number": 57,
+     "paper_label": "2nd round",
+     "problem": "Metagenomics makes it possible to extract genetic material directly from environmental samples without culturing the microorganisms. These DNA samples are sequenced, then the sequences are divided into OTUs (operational taxonomic units) according to their similarity. An OTU describes a group of organisms that are very similar (equivalent to a species). In the table below you can see, for four samples, how many sequences can be assigned to the individual OTUs. A sample can be described by its species richness R, the evenness of the species J′ and its diversity H′. Determine these three values for each sample in order to solve the task. For this you can use the following formulae:\n\nShannon's diversity index $H' = -\\sum_{i=1}^{R} p_i \\ln(p_i)$\n\nPielou's evenness $J' = \\frac{H'}{\\ln(R)}$\n\nR = number of OTUs detected in a sample\n\n$p_i$ = proportion of the i-th OTU\n\n$$\\begin{array}{r|llll} \\text{OTUs} & \\text{Sample A} & \\text{Sample B} & \\text{Sample C} & \\text{Sample D} \\\\ \\hline 1 & 20 & 1 & 25 & 0 \\\\ 2 & 20 & 10 & 25 & 0 \\\\ 3 & 20 & 20 & 0 & 0 \\\\ 4 & 20 & 30 & 25 & 0 \\\\ 5 & 20 & 39 & 25 & 100 \\end{array}$$\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. In sample C, J′ reaches the highest possible value.\n\nB. Sample A has the highest diversity.\n\nC. For sample B, H′ = 0.96.\n\nD. Sample D contains less DNA than the other samples."
+    },
+    {
+     "day": 2,
+     "number": 58,
+     "paper_label": "2nd round",
+     "problem": "In biology, recombination means the rearrangement of genetic material in the cells.\n\nFor each of the following processes, indicate whether it contributes to recombination (true) or not (false).\n\nA. Crossing-over during meiosis\n\nB. Fertilisation of the egg cell by a random sperm cell\n\nC. Distribution of the chromosome sets in meiosis\n\nD. Acetylation and methylation of the chromosomes in germ cells"
+    },
+    {
+     "day": 2,
+     "number": 59,
+     "paper_label": "2nd round",
+     "problem": "In ants, sex is determined not by sex chromosomes but by so-called haplodiploidy. At each egg laying, the ant queen decides whether or not to have the egg fertilised by a sperm cell from her sperm pouch. Females develop from fertilised eggs, males from unfertilised eggs. Consequently, males are haploid and females are diploid.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. Male ants look morphologically like small females.\n\nB. A female ant has only three grandparents.\n\nC. All male ants in a colony are genetically identical.\n\nD. The queen can mate with her sons without any risk of inbreeding."
+    },
+    {
+     "day": 2,
+     "number": 60,
+     "paper_label": "2nd round",
+     "problem": "The fingerprint (pattern and number of the papillary ridges, and minutiae) is determined by genetic factors as well as by environmental factors. The basic pattern formed by the papillary ridges, and the total number of papillary ridges, appear to be genetically determined. Environmental factors then influence the formation of the so-called minutiae (= fine details of the fingerprint). The fingerprint is already formed in a foetus in the fourth month of development.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. Identical twins have the same basic patterns (papillary ridges).\n\nB. The movement of the amniotic fluid in the womb could be an environmental factor that influences the formation of the minutiae.\n\nC. Differences in gene expression could be responsible for the fact that not all fingers have the same basic pattern.\n\nD. Identical twins have the same minutiae."
+    },
+    {
+     "day": 2,
+     "number": 61,
+     "paper_label": "2nd round",
+     "problem": "Eye colour in humans is a complex polygenic trait. Two main eye-colour genes are known: Eye Colour Locus 1 (EYCL1) lies on chromosome 19 and has the alleles G (green) and g (blue). EYCL3 Locus lies on chromosome 15 and has the alleles B (brown) and b (blue). The dominance relationships of the alleles are as follows: brown (B) > green (G) > blue (b or g). A man and a woman, both with brown eyes, have children together.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. It is possible for the children to have blue or green eyes.\n\nB. It is most likely that the children have brown eyes.\n\nC. For the children to be able to have blue eyes, they must be homozygous for the g allele at the EYCL1 locus.\n\nD. For the children to be able to have blue eyes, both parents must be heterozygous at the EYCL3 locus."
+    },
+    {
+     "day": 2,
+     "number": 62,
+     "paper_label": "2nd round",
+     "problem": "You have two pure-breeding (= homozygous) pea plants: one is green, the other yellow. The colour of the peas is determined by a single gene with two alleles, the yellow allele (G) being dominant over the green allele (g). You cross these two pea plants with each other and then cross the offspring of the F1 generation with each other to obtain the F2 generation.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. All plants of the F1 generation produce yellow peas.\n\nB. In the F2 generation, 75% of the plants produce yellow peas.\n\nC. The genotype ratio in the F2 generation is 3:1.\n\nD. The plants of the F1 generation have either the genotype Gg or GG."
+    },
+    {
+     "day": 2,
+     "number": 63,
+     "paper_label": "2nd round",
+     "problem": "You are looking at two homozygous plants, one of which flowers red and the other yellow. When the two plants are crossed, the plants of the F1 generation have orange flowers.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. This is a case of intermediate inheritance.\n\nB. In the F2 generation, the genotype ratio corresponds to the phenotype ratio.\n\nC. The alleles for red and yellow flowers are codominant.\n\nD. In the F2 generation, only red and yellow flowers appear again."
+    },
+    {
+     "day": 2,
+     "number": 64,
+     "paper_label": "2nd round",
+     "problem": "You want to carry out a linkage analysis of the genes A, B and C. In the figure, the wild-type alleles are marked with a \"+\" and the mutant alleles are shown with small letters (a, b, c). Wild-type alleles are dominant over the mutant alleles. To construct the gene map, you cross two fruit flies (Drosophila melanogaster). One fly is homozygous mutant, the other is heterozygous for all three genes. The figure shows the numbers of the observed phenotypes of the offspring of this cross.\n\n$$\\begin{array}{ccc|r} a & b & c & 343 \\\\ + & + & + & 354 \\\\ a & b & + & 43 \\\\ a & + & c & 1 \\\\ + & b & + & 2 \\\\ + & b & c & 33 \\\\ a & + & + & 38 \\\\ + & + & c & 60 \\end{array}$$\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. The parental phenotypes are the most frequent.\n\nB. All three genes lie on the same chromosome.\n\nC. The three genes lie on the chromosome in the following order: A C B.\n\nD. The distance between genes A and C is 13 cM (centimorgans)."
+    },
+    {
+     "day": 2,
+     "number": 65,
+     "paper_label": "2nd round",
+     "problem": "For each of the following statements about the different modes of inheritance, indicate whether it is true or false.\n\nA. In an X-linked recessive disease, mostly men are affected.\n\nB. In autosomal dominant inheritance, the trait appears only in every second generation.\n\nC. In autosomal recessive inheritance, men and women show the trait equally often.\n\nD. In mitochondrial inheritance, the trait dies out with the maternal line."
+    },
+    {
+     "day": 2,
+     "number": 66,
+     "paper_label": "2nd round",
+     "problem": "For each of the following methods, indicate whether it is next-generation sequencing (NGS) (true) or not (false).\n\nA. Sanger\n\nB. Illumina\n\nC. SMRT\n\nD. Nanopore"
+    },
+    {
+     "day": 2,
+     "number": 67,
+     "paper_label": "2nd round",
+     "problem": "During meiosis, the number of chromosomes is halved.\n\nWhat is the correct reason for this?\n\nA. Two cell divisions are carried out, preceded by one round of replication of the chromosomes.\n\nB. One cell division is carried out, preceded by one round of replication of the chromosomes.\n\nC. Two cell divisions are carried out, preceded by two rounds of replication of the chromosomes.\n\nD. One cell division is carried out, preceded by two rounds of replication of the chromosomes."
+    },
+    {
+     "day": 2,
+     "number": 68,
+     "paper_label": "2nd round",
+     "problem": "The figure shows the inheritance of an X-linked dominant trait.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-2-68-fig1.png\n\nFor each of the following conditions, indicate whether it must be fulfilled for the inheritance pattern shown to apply (true) or not (false).\n\nA. The daughter has Turner syndrome (X0).\n\nB. The son has Klinefelter syndrome (XXY).\n\nC. The father is heterozygous for the allele causing the trait.\n\nD. The mother is heterozygous for the allele causing the trait."
+    },
+    {
+     "day": 2,
+     "number": 69,
+     "paper_label": "2nd round",
+     "problem": "In the laboratory you isolate a plasmid that you have multiplied in bacteria. You load 1 µg of the undigested plasmid onto an agarose gel and carry out a gel electrophoresis.\n\nHow many bands do you expect?\n\nA. One\n\nB. Two\n\nC. Three\n\nD. Four"
+    },
+    {
+     "day": 2,
+     "number": 70,
+     "paper_label": "2nd round",
+     "problem": "For each of the following possibilities of genetic isolation, indicate whether it is prezygotic (true) or not (false).\n\nA. Polyploidisation\n\nB. Genetic incompatibility\n\nC. Isolation via pollinators\n\nD. Habitat adaptation"
+    },
+    {
+     "day": 2,
+     "number": 71,
+     "paper_label": "2nd round",
+     "problem": "Influenza A virus (IAV) is the pathogen that causes flu. IAV carries a surface protein called haemagglutinin (HA). In an IAV infection or after a flu vaccination, our immune system forms antibodies that recognise the HA protein. The virus then mutates the HA protein in order to escape the body's immune response. With minor mutations (antigen drift), antibodies already formed still recognise the HA protein, albeit less well. With abrupt mutations (antigen shift), on the other hand, the \"old\" antibodies are ineffective.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. Because of antigen shift, the flu vaccination must be repeated every year.\n\nB. Exchange of genetic material between two IA viruses leads to antigen shift.\n\nC. IA viruses newly arising by antigen drift have the potential to cause pandemics.\n\nD. Antigen drift is due to the lacking proofreading mechanism of the IAV polymerase."
+    },
+    {
+     "day": 2,
+     "number": 72,
+     "paper_label": "2nd round",
+     "problem": "Red–green colour blindness is inherited X-linked recessively. Elias is affected by the colour blindness; his girlfriend Laura is not. In the population as a whole, about 1 % of all women are affected by the colour blindness.\n\nFor each of the following statements, indicate whether it applies to their common children (true) or not (false).\n\nA. The first-born daughter is affected by the colour blindness with a probability of about 9–10 %.\n\nB. The son is affected by the colour blindness with a probability of about 50 %.\n\nC. In the birth of identical twins, only one twin is affected.\n\nD. Elias's father must also have red–green colour blindness."
+    },
+    {
+     "day": 2,
+     "number": 73,
+     "paper_label": "2nd round",
+     "problem": "In the triplewart seadevil Cryptopsaras couesii, a deep-sea anglerfish, the male is many times smaller than the female. The adult males live attached to the body of the females.\n\nWhich of the following concepts from evolution best describes this phenomenon?\n\nA. Sexual dimorphism\n\nB. Natural selection\n\nC. Reproductive isolation\n\nD. Hybrid sterility"
+    },
+    {
+     "day": 2,
+     "number": 74,
+     "paper_label": "2nd round",
+     "problem": "An infestation with the grass flask fungus (Epichloe) leads to a whitish-orange coating on grass stalks. The fungus feeds on the cell sap of the grass stalks. Because the fungus forms toxic alkaloids, infested plants are avoided by herbivores.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. The fungus restricts the plant in its photosynthesis.\n\nB. If grazing animals are present, a fungal infestation is advantageous for the plant.\n\nC. There is a competitive relationship between the grass and the fungus.\n\nD. There is a mutualistic relationship between the fungus and grazing animals."
+    },
+    {
+     "day": 2,
+     "number": 75,
+     "paper_label": "2nd round",
+     "problem": "Certain habitats have an increased proportion of flightless insect species. The graph shows the number of flying and flightless insect species on the Southern Ocean Islands (SOI) and the Arctic Islands (AI).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-2-75-fig1.png\n\nFigure labels (German → English): Südozeanische Inseln = Southern Ocean Islands; Arktische Inseln = Arctic Islands; einheimische Arten = native species; eingewanderte Arten = immigrant species; flugunfähig = flightless; fliegend = flying; Artenreichtum = species richness.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. The flightlessness of different insect families on the SOI is a homologous trait.\n\nB. There are more flying species on the SOI than on the AI.\n\nC. There is no competition between immigrant and native insect species on the SOI.\n\nD. Flightlessness is a general adaptation to island life."
+    },
+    {
+     "day": 2,
+     "number": 76,
+     "paper_label": "2nd round",
+     "problem": "On a voyage of discovery you study a new terrestrial habitat. There you find the three mammal species A, B and C, which are in the same food chain. The figures show the results of your study of population size and population structure.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-2-76-fig1.png\n\nFigure labels (German → English): geschätzte Populationsgrösse = estimated population size; % überlebende Individuen = % surviving individuals; Lebensspanne = lifespan.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. A is probably a secondary consumer.\n\nB. In C you expect the lowest mean number of offspring per individual.\n\nC. A decrease in the population density of C has a direct positive effect on A and B.\n\nD. If B becomes extinct, the life expectancy of A and C rises."
+    },
+    {
+     "day": 2,
+     "number": 77,
+     "paper_label": "2nd round",
+     "problem": "Biodiversity is an important concept in ecology. However, biodiversity can be quantified in different ways. One of them is Simpson's index D. The greater D, the greater the diversity. In the formula, $n_i$ denotes the number of individuals of a specific species, N the total number of individuals and k the number of species.\n\n$$D = 1 - \\sum_{i=1}^{k} \\frac{n_i(n_i - 1)}{N(N - 1)}$$\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-2-77-fig1.png\n\nWhich of the study plots A–D has the highest diversity according to Simpson's index?"
+    },
+    {
+     "day": 2,
+     "number": 78,
+     "paper_label": "2nd round",
+     "problem": "In a population of dwarf hamsters, both red and brown coat types occur. Coat colour is inherited by a monogenic dominant–recessive mode of inheritance, brown being the dominant allele. In a population estimate you record 125 brown and 75 red mice. By sequencing you find that the heterozygote frequency is 0.3.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. The population is in Hardy–Weinberg equilibrium.\n\nB. The allele frequency of the brown allele is 0.625.\n\nC. The genotype frequency of the homozygous recessive genotype is 0.375.\n\nD. The heterozygote frequency can be determined by sequencing only red mice."
+    },
+    {
+     "day": 2,
+     "number": 79,
+     "paper_label": "2nd round",
+     "problem": "Population growth in nature can be modelled, among other ways, as logistic growth by the following equation:\n\n$$\\frac{dN}{dt} = r_{max} \\left(\\frac{K - N}{K}\\right) N$$\n\nHere N is the population size, K the carrying capacity and $r_{max}$ the maximum growth rate.\n\nFor each of the following statements about logistic growth, indicate whether it is true or false.\n\nA. $r_{max}$ depends on the current food supply.\n\nB. The actual growth rate is highest at a small population size.\n\nC. The absolute population increase is greatest at about N = 0.5K.\n\nD. K can change over time in nature."
+    },
+    {
+     "day": 2,
+     "number": 80,
+     "paper_label": "2nd round",
+     "problem": "The Magellanic steamer duck (Tachyeres pteneres) is a flightless duck. It breeds at the southern tip of Argentina, where a cold climate prevails. Magellanic steamer ducks are unusually large and stout compared with other ducks.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. The ability to fly would improve the fitness of the Magellanic steamer duck.\n\nB. Their large mass is an adaptation to the cold climate.\n\nC. Flightlessness in birds is a homologous trait.\n\nD. Steamer ducks share their ecological niche with other South American ducks."
+    },
+    {
+     "day": 2,
+     "number": 81,
+     "paper_label": "2nd round",
+     "problem": "Leaf-cutter ants feed on the fungus Leucoagaricus gongylophorus, which they cultivate in underground \"gardens\". The pathogen Escovopsis weberi inhibits the growth of L. gongylophorus. To defend their harvest against E. weberi, the ants breed bacteria that produce antibiotics against E. weberi.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. The ants and E. weberi are in mutual competition.\n\nB. The ants have a parasitic relationship with L. gongylophorus.\n\nC. The cultivated L. gongylophorus is not under selection pressure.\n\nD. The ants and the antibiotic-producing bacteria have a mutualistic relationship."
+    },
+    {
+     "day": 2,
+     "number": 82,
+     "paper_label": "2nd round",
+     "problem": "For each of the following statements about vertebrates, indicate whether it is true or false.\n\nA. All egg-laying vertebrates together form a monophyletic group.\n\nB. There are vertebrates that have no jaws.\n\nC. Amphibians possess an amnion.\n\nD. Taxonomically, birds belong to the dinosaurs."
+    },
+    {
+     "day": 2,
+     "number": 83,
+     "paper_label": "2nd round",
+     "problem": "For each of the following characteristics, indicate whether it is a common feature of all known living organisms (true) or not (false).\n\nA. Genetic material in the form of DNA\n\nB. Sexual reproduction\n\nC. Oxygen as electron acceptor\n\nD. Cell membrane"
+    },
+    {
+     "day": 2,
+     "number": 84,
+     "paper_label": "2nd round",
+     "problem": "Shown is an incomplete phylogenetic tree of the insects.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-2-84-fig1.png\n\nFor each of the following statements, indicate whether it applies according to this tree (true) or not (false).\n\nA. The closest relatives of the dragonflies (Odonata) are the mayflies (Ephemeroptera).\n\nB. The flies (Brachycera) are a basal group.\n\nC. The beetles (Coleoptera) are the sister group of the butterflies (Lepidoptera).\n\nD. The group consisting of butterflies (Lepidoptera) and flies (Brachycera) is monophyletic."
+    },
+    {
+     "day": 2,
+     "number": 85,
+     "paper_label": "2nd round",
+     "problem": "You are studying a butterfly species that feeds exclusively on the nectar of one flower species. After some time you observe that the plants north of the Alps have a clearly changed flower shape, so that the southern butterflies, in contrast to the northern population, can no longer drink the nectar of the northern plants.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. This is an example of incipient allopatric speciation.\n\nB. The evolution of the northern butterfly and plant populations is an example of coevolution.\n\nC. This is an example of adaptive radiation.\n\nD. This is an example of convergent evolution."
+    },
+    {
+     "day": 2,
+     "number": 86,
+     "paper_label": "2nd round",
+     "problem": "For each of the following features, indicate whether it is a case of homology (true) or not (false).\n\nA. Wing of a bird and forelegs of a dog\n\nB. Scales of a pangolin and of a snake\n\nC. Wing of a bat and hand of a human\n\nD. Eye of a human and eye of a squid"
+    },
+    {
+     "day": 2,
+     "number": 87,
+     "paper_label": "2nd round",
+     "problem": "Anemonefish live in close symbiosis with anemones. The stinging cells of the anemone deter predators and offer the anemonefish, which are immune to them, a safe habitat. P. biaculeatus is a highly specialised anemonefish that enters into a symbiosis only with the anemone E. quadricolor.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. If E. quadricolor becomes extinct, the selection pressure on P. biaculeatus increases.\n\nB. If P. biaculeatus becomes extinct, the selection pressure on other anemonefish increases.\n\nC. If P. biaculeatus becomes extinct, the selection pressure on E. quadricolor decreases.\n\nD. If E. quadricolor becomes extinct, the selection pressure on other anemones increases."
+    },
+    {
+     "day": 2,
+     "number": 88,
+     "paper_label": "2nd round",
+     "problem": "For each of the following statements about the evolution of the anemonefish, indicate whether it is true or false.\n\nA. The preference for different anemones has probably promoted the speciation of the anemonefish.\n\nB. The strategy of the anemonefish is advantageous under unstable environmental conditions.\n\nC. The symbiosis with the anemonefish also influences the evolution of the anemones.\n\nD. Low feeding pressure from predators favoured the evolution of this symbiosis."
+    },
+    {
+     "day": 2,
+     "number": 89,
+     "paper_label": "2nd round",
+     "problem": "Each anemone produces its own toxin, and not all are equally harmful. The graph shows how many anemonefish species interact symbiotically with anemones of different toxicity. A high toxicity value means that the anemone toxin strongly impairs animal metabolism.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-2-89-fig1.png\n\nWhich explanation best fits the data?\n\nA. The anemones are not able to produce harmful toxins.\n\nB. Balancing selection acts on the toxicity of the anemones.\n\nC. Most anemonefish prefer non-toxic anemones.\n\nD. The toxicity of the anemones has no influence on their symbiosis with fish."
+    },
+    {
+     "day": 2,
+     "number": 90,
+     "paper_label": "2nd round",
+     "problem": "The table shows which fish interact with which anemones. In the left-hand column various anemone species are listed, in the top row various anemonefish. A field filled in black means that the species interact symbiotically. A cross means that the distribution ranges of the species do not overlap.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-2-90-fig1.png\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. The anemonefish A. percula and A. latifasciatus compete with each other.\n\nB. A. clarkii has the largest realised ecological niche.\n\nC. A. chrysogaster has a smaller geographical distribution than A. fremarus.\n\nD. The anemone preference of the fish is determined solely by their geographical distribution."
+    },
+    {
+     "day": 2,
+     "number": 91,
+     "paper_label": "2nd round",
+     "problem": "Fin whales (Balaenoptera physalus) are among the largest known animals in the history of the Earth. To reach these body sizes, they have developed a special way of feeding, so-called lunge feeding. In this, they dive several hundred metres deep to a krill swarm, accelerate strongly and open their mouth shortly before the swarm, which flushes a large amount of krill and water into their expandable throat pouch. They then close the jaw and use the tongue to press the water outwards through the baleen plates (horny plates in the upper jaw). The krill contained in the water are retained by the baleen and can thus be swallowed.\n\nFor each of the following anatomical features, indicate whether you would expect it as an adaptation to this special way of feeding (true) or not (false).\n\nA. Small eyes in comparison to body size\n\nB. Low myoglobin concentration in the skeletal muscles\n\nC. A lower jaw split in two at the chin\n\nD. The absence of hair and ears"
+    },
+    {
+     "day": 2,
+     "number": 92,
+     "paper_label": "2nd round",
+     "problem": "Diatoms are the main food of krill, which in turn are eaten by baleen whales. They make up one of the most important groups of marine algae and contribute about 20 % of global photosynthetic carbon fixation. To accomplish this, they have developed a unique photosystem I (PSI), which contains much more chlorophyll than that of land plants. The PSI complex is shown in the figure below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-2-92-fig1.png\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. The ring of FCPIs is held together mainly by covalent bonds.\n\nB. PsaD, C and E are mainly involved in electron transport.\n\nC. After synthesis in the ribosome, PsaS must be transported across a membrane.\n\nD. The FCPIs convert light energy into a redox potential."
+    },
+    {
+     "day": 2,
+     "number": 93,
+     "paper_label": "2nd round",
+     "problem": "Baleen whales were practically exterminated until commercial whaling was banned in 1980. It was observed that krill numbers collapsed after the decline of the baleen whales, although baleen whales are the main predators of krill and one would have expected krill numbers to rise. To explain this so-called krill paradox, a hypothesis about a nutrient cycle was put forward, which is shown below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-2-93-fig1.png\n\nFigure labels (German → English): Kieselalgen = diatoms; Wal = whale.\n\nWhich of the following nutrients could this be (true) and which not (false)?\n\nA. Iron\n\nB. Carbon\n\nC. Chlorine\n\nD. Methane"
+    },
+    {
+     "day": 2,
+     "number": 94,
+     "paper_label": "2nd round",
+     "problem": "In the rainforests of Costa Rica, various animal species live in the leaf layer near the ground. Some of them are the small frog species Craugastor bransfordii and Oophaga pumilio, O. pumilio being poisonous, as well as the wandering spiders of the family Ctenidae. The graph shows the proportion of a certain ground area that is inhabited by each animal group, depending on the leaf mass present. In A), the solid black curve shows the occurrence of the wandering spiders; the dashed black curve shows the occurrence of C. bransfordii in areas where wandering spiders also live; and the dashed grey curve shows the occurrence of C. bransfordii in areas without wandering spiders. Graph B) shows the analogous data, but the dashed curves refer to O. pumilio.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-2-94-fig1.png\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. The wandering spiders are predators that also feed on C. bransfordii.\n\nB. In thick leaf layers, competition between wandering spiders and frogs is strongest.\n\nC. The distribution of the poisonous frog species O. pumilio is restricted by the wandering spiders.\n\nD. O. pumilio is less widespread than C. bransfordii."
+    },
+    {
+     "day": 2,
+     "number": 95,
+     "paper_label": "2nd round",
+     "problem": "Parts of the Costa Rican rainforest were destroyed in order to grow cocoa on the cleared areas. Today, attempts are being made to leave former cocoa plantations to nature in order to restore the habitats of native species. The graph shows the results of a study on the biodiversity of frogs in three areas: former cocoa plantations that were left to nature again less than 5 years ago (recently restored); former plantations that were left to nature 5–25 years ago (long-term restored); and undisturbed rainforest. The total density describes the number of frogs per unit area; the diversity measures how many different species occur in the area; and the dominance measures how strongly the ecosystem is dominated by a single species.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-2-95-fig1.png\n\nFigure labels (German → English): Gesamtdichte = total density; Diversität = diversity; Dominanz = dominance; Neu renaturiert = recently restored; Langfristig renaturiert = long-term restored; Ungestörter Wald = undisturbed forest.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. In undisturbed rainforest, there are fewer frogs per area than in former cocoa plantations.\n\nB. If a cocoa plantation is restored, the diversity of frogs increases over time.\n\nC. 25 years are sufficient to restore the original state of the Costa Rican rainforest.\n\nD. Rare frog species are particularly endangered by cocoa cultivation."
+    },
+    {
+     "day": 2,
+     "number": 96,
+     "paper_label": "2nd round",
+     "problem": "The poisonous frog species Oophaga pumilio is conspicuously red-blue in colour, whereas the harmless Craugastor bransfordii is brown. Saporito et al. (2007) built frog models, which they painted either red-blue or brown, and placed them in the Costa Rican rainforest on leaves or on a white background. They then counted how often the models were attacked by predators. The graph shows their results.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2022-2-96-fig1.png\n\nFigure labels (German → English): Rot-blaue Farbe = red-blue colour; Braune Farbe = brown colour; # Angriffe durch Räuber = number of attacks by predators; Laubboden = leaf-litter ground; Weisser Untergrund = white background.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. Because of its brown colour, C. bransfordii is well camouflaged from predators on the forest floor.\n\nB. The background influences predatory activity more strongly than the skin colour of the frogs.\n\nC. The colourful skin of O. pumilio is an effective aposematism (warning coloration).\n\nD. The data suggest that O. pumilio can evade predators better than C. bransfordii."
+    },
+    {
+     "day": 2,
+     "number": 97,
+     "paper_label": "2nd round",
+     "problem": "The frog Oophaga pumilio is poisonous because it takes up alkaloids with its food and stores them in its skin. One such alkaloid is pumiliotoxin 251D (PTX 251D), which blocks voltage-gated sodium channels.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. PTX 251D inhibits the repolarisation of nerve cells.\n\nB. PTX 251D inhibits the depolarisation of cardiac muscle cells.\n\nC. The effect of PTX 251D can be reversed by a drug that activates the Na/K pump.\n\nD. PTX 251D is harmless to invertebrates."
+    }
+   ]
+  },
+  {
    "year": 2023,
    "problems": [
     {
