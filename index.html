@@ -725,6 +725,8 @@ svg.i { width: 1em; height: 1em; flex: none; stroke: currentColor; fill: none; s
 .share-card .sc-link { color: #0f2a44; font-weight: 600; }
 .share-card .sc-qr { flex: none; width: 84px; height: 84px; }
 .share-card .sc-qr svg { display: block; width: 84px; height: 84px; }
+.p-credit { margin: 10px 0 0; max-width: 74ch; font: 400 .86rem/1.5 var(--sans); color: var(--muted, #555); border-left: 3px solid var(--f-tint, #ddd); padding-left: 10px; }
+.p-credit a { color: inherit; }
 .share-card .sc-credit { margin-top: 14px; font: italic 13px/1.3 var(--sans); color: #4a5d70; }
 .ai-note { margin: 6px 4px 2px; font-size: .75rem; color: var(--muted); }
 .ai-copy { margin-top: 6px; border-top: 1px solid var(--line); font-size: .8rem; color: var(--muted); }
@@ -1020,7 +1022,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
     <div class="wrap">
         <span>eisatopon.gr © 2026–<span id="yr">2026</span> – Aristotle – World Biology Olympiads Bank</span>
         <a href="https://github.com/Eisatopon/biology-olympiads-bank" target="_blank" rel="noopener">Data on GitHub</a>
-        <p class="thanks">Questions are reproduced from the official IBO examination papers (© International Biology Olympiad, licensed <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license noopener" target="_blank">CC BY-NC-SA 4.0</a>) for study; the questions remain the work of their authors and organising committees. Sister project of the <a href="https://eisatopon.github.io/national-olympiads-bank/">Mathematical</a>, <a href="https://eisatopon.github.io/physics-olympiads-bank/">Physics</a>, <a href="https://eisatopon.github.io/chemistry-olympiads-bank/">Chemistry</a> and <a href="https://eisatopon.github.io/informatics-olympiads-bank/">Informatics</a> Olympiads Banks.</p>
+        <p class="thanks">Questions are reproduced for study from the competitions' official papers (IBO papers © International Biology Olympiad, licensed <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license noopener" target="_blank">CC BY-NC-SA 4.0</a>; Swiss Biology Olympiad questions translated into English with the organiser's permission); each question shows its source. Aristotle is an independent project; it is not affiliated with, endorsed by or supported by any competition organiser. Questions remain the property of their organisers; any organiser may ask for corrections or removal at <a href="mailto:sokkorom@gmail.com">sokkorom@gmail.com</a>. Sister project of the <a href="https://eisatopon.github.io/national-olympiads-bank/">Mathematical</a>, <a href="https://eisatopon.github.io/physics-olympiads-bank/">Physics</a>, <a href="https://eisatopon.github.io/chemistry-olympiads-bank/">Chemistry</a> and <a href="https://eisatopon.github.io/informatics-olympiads-bank/">Informatics</a> Olympiads Banks.</p>
     </div>
 </footer>
 
@@ -1071,7 +1073,7 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261028-share2';
+const DATA_VERSION = '20261028-source-lines';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = { ibo: 'world', ibop: 'world', inbo: 'asia', aso: 'oceania', nbc: 'americas', nzibo: 'oceania', nseb: 'asia', ijso: 'world', sbo: 'europe' };
@@ -1080,15 +1082,15 @@ const PAGE = 20;
 const STORAGE_KEY = 'eisatopon-biology:set:v1';  // same origin as the math bank: keep the keys apart
 
 const COUNTRIES = [
-    { key: 'nzibo', name: 'New Zealand NZIBO', flag: '🇳🇿', file: 'NewZealand-NZIBO-problems.json', kind: 'years', scope: 'national', full: 'New Zealand International Biology Olympiad, national entrance and selection exams' },
-    { key: 'nbc', name: 'Canada NBC', flag: '🇨🇦', file: 'Canada-NBC-problems.json', kind: 'years', scope: 'national', full: 'University of Toronto National Biology Competition' },
-    { key: 'aso', name: 'Australia ASO', flag: '🇦🇺', file: 'Australia-ASO-problems.json', kind: 'years', scope: 'national', full: 'Australian Science Olympiad Exam, Biology' },
-    { key: 'sbo', name: 'Switzerland SBO', flag: '🇨🇭', file: 'Switzerland-SBO-problems.json', kind: 'years', scope: 'national', full: 'Swiss Biology Olympiad, 1st and 2nd rounds (English translations, with permission)', credit: 'English translation of the German original · © Swiss Biology Olympiad; translated with permission' },
-    { key: 'nseb', name: 'India NSEB', flag: '🇮🇳', file: 'India-NSEB-problems.json', kind: 'years', scope: 'national', full: 'National Standard Examination in Biology (India, IAPT / ATBS), first stage of the Indian biology olympiad' },
-    { key: 'inbo', name: 'India INBO', flag: '🇮🇳', file: 'India-INBO-problems.json', kind: 'years', scope: 'national', full: 'Indian National Biology Olympiad' },
-    { key: 'ijso', name: 'IJSO (biology)', flag: '🌐', file: 'IJSO-biology-problems.json', kind: 'years', scope: 'international', full: 'International Junior Science Olympiad, biology questions of the multiple-choice papers' },
-    { key: 'ibop', name: 'IBO practical', flag: '🌐', file: 'IBO-practical-problems.json', kind: 'years', scope: 'international', full: 'International Biology Olympiad, practical exams' },
-    { key: 'ibo', name: 'IBO', flag: '🌐', file: 'IBO-theory-problems.json', kind: 'years', scope: 'international', full: 'International Biology Olympiad, theoretical papers' },
+    { key: 'nzibo', name: 'New Zealand NZIBO', flag: '🇳🇿', file: 'NewZealand-NZIBO-problems.json', kind: 'years', scope: 'national', full: 'New Zealand International Biology Olympiad, national entrance and selection exams · not affiliated with, endorsed by or supported by NZIBO' },
+    { key: 'nbc', name: 'Canada NBC', flag: '🇨🇦', file: 'Canada-NBC-problems.json', kind: 'years', scope: 'national', full: 'University of Toronto National Biology Competition · not affiliated with, endorsed by or supported by the University of Toronto' },
+    { key: 'aso', name: 'Australia ASO', flag: '🇦🇺', file: 'Australia-ASO-problems.json', kind: 'years', scope: 'national', full: 'Australian Science Olympiad Exam, Biology · not affiliated with, endorsed by or supported by Australian Science Innovations' },
+    { key: 'sbo', name: 'Switzerland SBO', flag: '🇨🇭', file: 'Switzerland-SBO-problems.json', kind: 'years', scope: 'national', full: 'Swiss Biology Olympiad, 1st and 2nd rounds (English translations, with permission) · not affiliated with, endorsed by or supported by the Swiss Biology Olympiad', credit: 'English translation of the German original · © Swiss Biology Olympiad; translated with permission' },
+    { key: 'nseb', name: 'India NSEB', flag: '🇮🇳', file: 'India-NSEB-problems.json', kind: 'years', scope: 'national', full: 'National Standard Examination in Biology (India, IAPT / ATBS), first stage of the Indian biology olympiad · not affiliated with, endorsed by or supported by IAPT' },
+    { key: 'inbo', name: 'India INBO', flag: '🇮🇳', file: 'India-INBO-problems.json', kind: 'years', scope: 'national', full: 'Indian National Biology Olympiad · not affiliated with, endorsed by or supported by HBCSE-TIFR' },
+    { key: 'ijso', name: 'IJSO (biology)', flag: '🌐', file: 'IJSO-biology-problems.json', kind: 'years', scope: 'international', full: 'International Junior Science Olympiad, biology questions of the multiple-choice papers · not affiliated with, endorsed by or supported by the IJSO' },
+    { key: 'ibop', name: 'IBO practical', flag: '🌐', file: 'IBO-practical-problems.json', kind: 'years', scope: 'international', full: 'International Biology Olympiad, practical exams · not affiliated with, endorsed by or supported by the IBO' },
+    { key: 'ibo', name: 'IBO', flag: '🌐', file: 'IBO-theory-problems.json', kind: 'years', scope: 'international', full: 'International Biology Olympiad, theoretical papers · not affiliated with, endorsed by or supported by the IBO' },
 ];
 COUNTRIES.sort((a, b) => a.name.localeCompare(b.name, 'en', { sensitivity: 'base' }));
 const CBY = Object.fromEntries(COUNTRIES.map(c => [c.key, c]));
@@ -2067,11 +2069,11 @@ function provenanceHtml(p, print = false) {
         return url ? `<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">Archive research link</a>` : '';
     }).filter(Boolean);
     if (print) {
-        const text = [translationText ? esc(translationText) : '', (checked || compared) ? status + '.' : '', note ? esc(note) : '', editorialText ? esc(editorialText) : '', (checked || compared) ? `Source: ${esc(source)}, ${checked && !archiveChecked ? pageReference + ', ' : ''}problem ${esc(candidate.source_problem_number)}; checked ${esc(candidate.checked_at)}.` : ''].filter(Boolean).join(' ');
+        const text = [(checked || compared) ? status + '.' : '', note ? esc(note) : '', editorialText ? esc(editorialText) : '', (checked || compared) ? `Source: ${esc(source)}, ${checked && !archiveChecked ? pageReference + ', ' : ''}problem ${esc(candidate.source_problem_number)}; checked ${esc(candidate.checked_at)}.` : ''].filter(Boolean).join(' ');
         return text ? `<p class="ps-src">${text}</p>` : '';
     }
     if (!checked && !compared && !note && !editorialText && !links.length) return '';
-    return `${translationText ? `<p class="ps-src">${esc(translationText)}</p>` : ''}${editorialText ? `<p class="ps-src">${esc(editorialText)}</p>` : ''}<details class="provenance"><summary>${status}${note ? ' · Incomplete year' : ''}</summary>
+    return `${editorialText ? `<p class="ps-src">${esc(editorialText)}</p>` : ''}<details class="provenance"><summary>${status}${note ? ' · Incomplete year' : ''}</summary>
         ${note ? `<p>${esc(note)}</p>` : ''}${checkDetail}
         ${meta?.verification_notes ? `<p>${esc(meta.verification_notes)}</p>` : ''}
         ${links.length ? `<ul>${links.map(link => `<li>${link}</li>`).join('')}</ul>` : '<p>No archive research link has been recorded for this collection yet.</p>'}
@@ -2167,6 +2169,33 @@ async function openRelatedProblem(uid) {
     if (card) { card.tabIndex = -1; card.focus(); card.scrollIntoView({behavior:'smooth',block:'start'}); }
 }
 
+/* Per-question source lines (shown on cards, in print, in shared images and in Ask AI prompts). */
+const SBO_ARCHIVE = 'https://biology.olympiad.ch/en/navigation-rechts/exams';
+const sboPdf = p => `https://biology.olympiad.ch/fileadmin/user_upload/Archiv/Public/Brain_Food/Biology/Exams/${p.day === 2 ? '2nd' : '1st'}_Round_Exams/DE/${p.day === 2 ? 2 : 1}-Runde-Pruefung-${p.year}-Biologie-Olympiade.pdf`;
+const qref = (name, p) => `${name} ${p.year}${p.paperLabel ? `, ${p.paperLabel}` : ''}, Question ${p.num}`;
+const CREDITS = {
+    ibo: p => `${qref('IBO', p)}. Original organiser: International Biology Olympiad. © International Biology Olympiad (CC BY-NC-SA 4.0). Retyped, statement only (answers omitted).`,
+    ibop: p => `${qref('IBO practical exam', p)}. Original organiser: International Biology Olympiad. © International Biology Olympiad (CC BY-NC-SA 4.0). Retyped, statement only (answers and marking omitted).`,
+    inbo: p => `${qref('Indian National Biology Olympiad', p)}. Original organiser: HBCSE-TIFR. The questions remain the work of HBCSE and the INBO problem setters. Retyped, statement only (answers omitted).`,
+    nseb: p => `${qref('National Standard Examination in Biology', p)}. Original organisers: IAPT and the Association of Teachers in Biological Sciences (India). Retyped, statement only (answer keys omitted).`,
+    aso: p => `${qref('Australian Science Olympiad Exam, Biology', p)}. Original organiser: Australian Science Innovations. © Australian Science Innovations. Retyped, statement only (answers omitted).`,
+    nbc: p => `${qref('University of Toronto National Biology Competition', p)}. Original organiser: University of Toronto, National Biology Competition. Retyped, statement only (answer keys omitted).`,
+    nzibo: p => `${qref('New Zealand International Biology Olympiad', p)}. Original organiser: NZIBO. © NZIBO. Retyped, statement only (answers omitted).`,
+    ijso: p => `${qref('International Junior Science Olympiad', p)} (biology question of the multiple-choice paper). Original organiser: IJSO. Retyped, statement only (answers omitted).`,
+    sbo: p => `${qref('Swiss Biology Olympiad', p)}. English translation of the Swiss Biology Olympiad original, © Swiss Biology Olympiad; published with permission, statement only (solutions omitted). Archive: ${SBO_ARCHIVE} · Original PDF: ${sboPdf(p)}`
+};
+const NOT_AFFILIATED = 'Not affiliated with, endorsed by or supported by the organiser.';
+function creditText(p) { return CREDITS[p.country] ? `${CREDITS[p.country](p)} ${NOT_AFFILIATED}` : ''; }
+function creditHtml(p) {
+    const t = creditText(p);
+    if (!t) return '';
+    if (p.country === 'sbo') {
+        const head = `${qref('Swiss Biology Olympiad', p)}. English translation of the Swiss Biology Olympiad original, © Swiss Biology Olympiad; published with permission, statement only (solutions omitted).`;
+        return `<p class="p-credit">${esc(head)} <a href="${esc(SBO_ARCHIVE)}" target="_blank" rel="noopener noreferrer">Archive</a> · <a href="${esc(sboPdf(p))}" target="_blank" rel="noopener noreferrer">Original PDF</a>. ${NOT_AFFILIATED}</p>`;
+    }
+    return `<p class="p-credit">${esc(t)}</p>`;
+}
+
 function problemHtml(p) {
     const c = CBY[p.country];
     return `
@@ -2189,6 +2218,7 @@ function problemHtml(p) {
             </div>
         </div>
         <div class="statement">${bodyHtml(p.text, p)}</div>
+        ${creditHtml(p)}
         ${provenanceHtml(p)}
         ${dnaHtml(p)}
     </article>`;
@@ -2415,6 +2445,7 @@ function renderPrintSheet() {
                 <div class="ps-body">
                     ${showSrc ? `<p class="ps-src">${CBY[p.country].name} ${p.year}${p.paperLabel ? `, ${esc(p.paperLabel)}` : p.day ? `, Day ${p.day}` : ''}, Question ${esc(p.num)}${p.topic ? ` (${esc(p.topic)})` : ''}</p>` : ''}
                     <div class="statement">${bodyHtml(p.text, p)}</div>
+                    ${creditHtml(p)}
                     ${showSrc ? provenanceHtml(p, true) : ''}
                     ${$('#solutionSpace').value !== '0' ? `<div class="solution-space" style="height:${Number($('#solutionSpace').value)}mm" aria-label="Space for solution"></div>` : ''}
                 </div>
@@ -2465,7 +2496,7 @@ function aiPrompt(p, request) {
     const c = CBY[p.country];
     const label = `${c.name} ${p.year}${p.paperLabel ? `, ${p.paperLabel}` : p.day ? `, Day / Test ${p.day}` : ''}, question ${p.num}`;
     const figure = /https?:\/\/\S+\.(?:png|jpe?g|gif|webp)\b/i.test(p.text);
-    return `${request || 'Answer the following biology olympiad question, statement by statement or option by option (A, B, C, …), with a clear explanation for each. State the biological principle behind each answer and read the given data, tables and figures carefully; use only what the question gives and standard biology knowledge. If something cannot be decided from the information given, say so.'}\n\n${label}\n\n${p.text}` +
+    return `${request || 'Answer the following biology olympiad question, statement by statement or option by option (A, B, C, …), with a clear explanation for each. State the biological principle behind each answer and read the given data, tables and figures carefully; use only what the question gives and standard biology knowledge. If something cannot be decided from the information given, say so.'}\n\n${label}\n\n${p.text}${typeof creditText === 'function' && creditText(p) ? `\n\n(${creditText(p)})` : ''}` +
         (figure ? '\n\nThe statement includes figure links. Inspect the figures before using them. If you cannot access them, ask me to upload the images; do not guess their contents.' : '');
 }
 const AI_PROVIDERS = {chatgpt: {name: 'ChatGPT', q: 'https://chatgpt.com/?q=', home: 'https://chatgpt.com/'},
@@ -2739,7 +2770,7 @@ async function problemImage(p) {
     const node = document.createElement('div');
     node.className = 'share-card f-' + p.country;
     node.innerHTML = `<div class="sc-head">${esc(problemLabel(p))}</div><div class="statement">${bodyHtml(p.text, p)}</div>
-        ${CBY[p.country]?.credit ? `<div class="sc-credit">${esc(CBY[p.country].credit)}</div>` : ''}<div class="sc-foot"><div class="sc-text"><b>Aristotle</b> – World Biology Olympiads Bank<br>Open this problem: <span class="sc-link">${esc(link.replace(/^https:\/\//, ''))}</span></div>${qrcode ? `<div class="sc-qr">${qrSvg(qrcode, link)}</div>` : ''}</div>`;
+        ${creditText(p) ? `<div class="sc-credit">${esc(creditText(p))}</div>` : ''}<div class="sc-foot"><div class="sc-text"><b>Aristotle</b> – World Biology Olympiads Bank<br>Open this problem: <span class="sc-link">${esc(link.replace(/^https:\/\//, ''))}</span></div>${qrcode ? `<div class="sc-qr">${qrSvg(qrcode, link)}</div>` : ''}</div>`;
     document.body.appendChild(node);
     try {
         await typeset(node);
@@ -2776,7 +2807,7 @@ function shareAction(kind, uid) {
     const url = problemLink(p);
     if (kind === 'native') navigator.share({title: problemLabel(p), text: problemLabel(p), url}).catch(() => {});
     else if (kind === 'link') copyText(url, 'Link copied — the preview shows this problem.');
-    else if (kind === 'latex') copyText(`${problemLabel(p)}\n\n${p.text}\n\n${url}`, 'Statement copied (LaTeX).');
+    else if (kind === 'latex') copyText(`${problemLabel(p)}\n\n${p.text}${creditText(p) ? `\n\n(${creditText(p)})` : ''}\n\n${url}`, 'Statement copied (LaTeX).');
     else if (kind === 'image') shareImage(p);
 }
 // ?p=<uid> opens one problem and highlights it.
