@@ -2,6 +2,1269 @@
  "competition": "Swiss Biology Olympiad (SBO) — 1st and 2nd rounds (English translation)",
  "years": [
   {
+   "year": 2008,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "1st round",
+     "problem": "Which list of cell components contains only those that can occur more than once in an animal cell?\n\nA. Mitochondrion, ribosome and lysosome\n\nB. Nucleus, chloroplast and ribosome\n\nC. Chloroplast, mitochondrion and Golgi apparatus\n\nD. Lysosome, nucleus and Golgi apparatus\n\nE. Mitochondrion, nucleus and Golgi apparatus"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "1st round",
+     "problem": "In which of the following plant cell components is ATP synthesised?\n\nI. Vacuole\n\nII. Chloroplast\n\nIII. Mitochondrion\n\nIV. Cytosol\n\nA. Only I and III\n\nB. Only II and III\n\nC. Only II, III and IV\n\nD. Only II and IV\n\nE. Only IV"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "1st round",
+     "problem": "In the Golgi apparatus …\n\nA. lipids are stored and sorted\n\nB. starch is modified and stored\n\nC. proteins are modified and sorted\n\nD. lipids are synthesised and modified\n\nE. proteins are synthesised and stored"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "1st round",
+     "problem": "Fermentation serves to regenerate:\n\nA. Glucose\n\nB. Citric acid (citrate)\n\nC. $\\mathrm{NAD^+}$\n\nD. Pyruvate\n\nE. ADP"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "1st round",
+     "problem": "Which is not a component of animal DNA?\n\nA. Thymine\n\nB. Adenine\n\nC. Phosphate group\n\nD. Uracil\n\nE. Ribose"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "1st round",
+     "problem": "RNA viruses need their own supply of special enzymes because …\n\nA. these enzymes cannot be synthesised by the host cell.\n\nB. the viruses use these enzymes to penetrate the cell membrane of the host cell.\n\nC. these viruses are rapidly destroyed by the defence mechanisms of the host cell.\n\nD. the enzymes translate viral mRNA into proteins.\n\nE. host cells do not possess enzymes for copying RNA into RNA or RNA into DNA."
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "1st round",
+     "problem": "What happens during anaphase?\n\nA. The chromosomes line up at the equatorial plane.\n\nB. The DNA of the chromosomes is duplicated.\n\nC. The chromatids separate and move to opposite poles.\n\nD. The centrosomes approach each other.\n\nE. The cleavage furrow forms"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "1st round",
+     "problem": "At the end of which cell division are animal cells haploid?\n\nA. Meiosis I\n\nB. Meiosis II\n\nC. Meiosis I and meiosis II\n\nD. Mitosis\n\nE. Animal cells are never haploid."
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "1st round",
+     "problem": "Chains of amino acids form:\n\nA. Proteins\n\nB. Lipids\n\nC. Starch\n\nD. Nucleic acids\n\nE. Sugars"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "1st round",
+     "problem": "Various interactions play a role in the tertiary structure of a protein. The figure below shows various possible interactions. Which assignment of the interactions is correct?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2008-1-10-fig1.png\n\nA. 1 = hydrophobic interaction, 2 = ionic interaction, 3 = disulfide bond, 4 = hydrogen bonds\n\nB. 1 = hydrogen bonds, 2 = disulfide bond, 3 = hydrophobic interaction, 4 = ionic interaction\n\nC. 1 = hydrogen bonds, 2 = hydrophobic interaction, 3 = disulfide bond, 4 = ionic interaction\n\nD. 1 = ionic interaction, 2 = hydrophobic interaction, 3 = hydrogen bonds, 4 = disulfide bond\n\nE. 1 = disulfide bond, 2 = hydrogen bonds, 3 = ionic interaction, 4 = hydrophobic interaction"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "1st round",
+     "problem": "What is the RNA strand called that leaves the nucleus and is read for the synthesis of proteins?\n\nA. c-RNA\n\nB. m-RNA\n\nC. r-RNA\n\nD. s-RNA\n\nE. t-RNA"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "1st round",
+     "problem": "An important component of the cell membrane is a bilayer of\n\nA. proteins\n\nB. sugars\n\nC. phospholipids\n\nD. nucleic acids\n\nE. amino acids"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "1st round",
+     "problem": "Which statement about viruses is correct?\n\nA. Viruses possess neither DNA nor RNA.\n\nB. Viruses infect only animal cells.\n\nC. Female viruses are more dangerous than male ones.\n\nD. Viruses cannot reproduce on their own.\n\nE. Viruses always have a nucleus."
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "1st round",
+     "problem": "Which elements does a fatty acid consist of?\n\nA. C and H\n\nB. C, H and N\n\nC. C, H and O\n\nD. C, N and O\n\nE. H, O and P"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "1st round",
+     "problem": "Which assignment of the structures is correct?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2008-1-15-fig1.png\n\n$$\\begin{array}{l|c|c|c} & \\text{Palisade tissue} & \\text{Epidermis} & \\text{Stoma} \\\\ \\hline \\text{A.} & \\text{A} & \\text{E} & \\text{D} \\\\ \\text{B.} & \\text{B} & \\text{A} & \\text{E} \\\\ \\text{C.} & \\text{C} & \\text{B} & \\text{A} \\\\ \\text{D.} & \\text{B} & \\text{D} & \\text{E} \\\\ \\text{E.} & \\text{D} & \\text{A} & \\text{D} \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "1st round",
+     "problem": "Which are properties of annual plants?\n\nI. They grow relatively fast.\n\nII. In general, they do not form woody tissues.\n\nIII. They produce a large number of seeds.\n\nIV. They are exclusively monocotyledons.\n\nA. Only I, II and III\n\nB. Only I, II and IV\n\nC. Only I, III and IV\n\nD. Only III and IV\n\nE. All"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "1st round",
+     "problem": "Aphids feed on sugar-containing plant saps. Which conducting tissue of the plants do they pierce?\n\nA. Mesophyll\n\nB. Xylem\n\nC. Vena cava\n\nD. Phloem\n\nE. Central cylinder"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "1st round",
+     "problem": "Which property is mainly responsible for the transport of water up into the crowns of trees?\n\nA. Root pressure\n\nB. Osmosis due to the deposition of sugar\n\nC. Deposition of nutrient ions\n\nD. Negative pressure due to evaporation\n\nE. ATP-driven $\\mathrm{H_2O}$ pumps"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "1st round",
+     "problem": "Starch is not mobile in the plant, i.e. it cannot be transported. Nevertheless, starch is built up in the chloroplasts in the dark reaction. Why?\n\nA. Resistance to herbivores\n\nB. Capacity of the xylem is limited\n\nC. Secondary supporting tissue\n\nD. Energy store for the winter\n\nE. Energy store for the night"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "1st round",
+     "problem": "Plants are irradiated with green light only. What effect does this have on the dark reaction? The dark reaction is …\n\nA. not affected by this.\n\nB. accelerated, because the light reaction provides less ATP.\n\nC. slowed down, because there is a lack of excited electrons.\n\nD. accelerated, because chlorophyll strongly absorbs green light.\n\nE. strongly slowed down, because it lacks ATP and NADH."
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "1st round",
+     "problem": "Which nitrogen source is never used directly by plants?\n\nA. Insects\n\nB. Symbiosis with nitrogen-fixing bacteria\n\nC. Nitrate in the soil\n\nD. Atmosphere\n\nE. Ammonium in the soil"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "1st round",
+     "problem": "Which statement about the alternation of generations in plants is correct?\n\nA. Green moss plants are haploid.\n\nB. Ferns reproduce exclusively asexually.\n\nC. Conifers are haploid.\n\nD. Higher flowering plants no longer have a haploid phase.\n\nE. Diploid plants develop from spores."
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "1st round",
+     "problem": "Which of the following elements is, as a rule, the least abundant in quantity in a plant?\n\nA. N\n\nB. P\n\nC. Mg\n\nD. C\n\nE. O"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "1st round",
+     "problem": "What distinguishes a sun leaf from a shade leaf of the same plant?\n\nA. Thinner cuticle\n\nB. Fewer stomata\n\nC. More strongly developed palisade tissue\n\nD. Multilayered epidermis\n\nE. Reduced conducting tissue"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "1st round",
+     "problem": "The transpiration of a plant is reduced by:\n\nA. the closing of the stomata\n\nB. the hair covering\n\nC. the increase of photosynthetic activity\n\nD. the wilting of the leaves\n\nE. the cuticle"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "1st round",
+     "problem": "What is the correct sequence of early embryonic development?\n\nA. Blastula – zygote – gastrula – morula\n\nB. Zygote – gastrula – morula – blastula\n\nC. Blastula – morula – zygote – gastrula\n\nD. Zygote – morula – blastula – gastrula\n\nE. Zygote – blastula – gastrula – morula"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "1st round",
+     "problem": "Alcohol is a poison to the body that inhibits receptors in the brain and so leads to states of intoxication. A conspicuous symptom of drunk people is impaired coordination of movement. Which brain region is mainly responsible for the coordination and fine-tuning of movement sequences?\n\nA. Hypothalamus\n\nB. Diencephalon\n\nC. Brainstem\n\nD. Cerebellum\n\nE. Cerebrum"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "1st round",
+     "problem": "Which are properties that apply to all animal hormones?\n\nI. They are produced in huge quantities.\n\nII. They circulate in the bloodstream.\n\nIII. All of them are proteins.\n\nIV. They move from a hormone-producing cell to a target cell.\n\nV. They always enter the target cell.\n\nA. Only I, II and IV\n\nB. Only I, III and V\n\nC. Only II and IV\n\nD. Only III, IV and V\n\nE. All"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "1st round",
+     "problem": "Why can a nerve impulse not change its direction?\n\nA. Like all kinds of waves, the nerve impulse can only change direction when it is reflected from a surface.\n\nB. For genetic reasons, the dendrites and axons can conduct stimuli in one direction only.\n\nC. The part of the neuron that has just triggered an action potential must first polarise again.\n\nD. The insulation of the axon by the myelin sheath prevents the reversal of the nerve impulse.\n\nE. The calcium channels are closed by the nerve impulse and open again only after a certain time."
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "1st round",
+     "problem": "The kidney continuously filters large quantities of blood plasma. The filter of the glomeruli is well adapted to its function: it lets small molecules pass but is practically impermeable to proteins with a mass greater than 70,000 g/mol. The filter is also negatively charged and consequently retains negatively charged proteins more efficiently. This is important above all for plasma proteins such as albumin, which have a molecular mass slightly below 70,000 g/mol. The graph below shows the proportion of particles that have passed the filter (fractional clearance) as a function of the size and charge of the particles. Which of the assignments is correct?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2008-1-30-fig1.png\n\nFigure labels (German → English): Radius des Moleküls [Anstrøm] = radius of the molecule [ångström]. The label \"Fractional Clearance\" is printed in English.\n\nA. I = low density, II = medium density, III = high density\n\nB. I = high density, II = medium density, III = low density\n\nC. I = neutral, II = positively charged, III = negatively charged\n\nD. I = positively charged, II = neutral, III = negatively charged\n\nE. I = negatively charged, II = neutral, III = positively charged"
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "1st round",
+     "problem": "Which statement about adrenaline is correct? Adrenaline is a hormone of the …\n\nA. sympathetic nervous system and is secreted in the adrenal gland.\n\nB. parasympathetic nervous system and is secreted in the testes.\n\nC. parasympathetic nervous system and is secreted in the hypothalamus.\n\nD. sympathetic nervous system and is secreted in the hypothalamus.\n\nE. parasympathetic nervous system and is secreted in the adrenal gland."
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "1st round",
+     "problem": "Which hormone stimulates tissue cells to take up sugar from the blood?\n\nA. FSH\n\nB. ADH\n\nC. Noradrenaline\n\nD. Insulin\n\nE. Glucagon"
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "1st round",
+     "problem": "The blood from the right ventricle of a mammal goes into …\n\nA. the systemic circulation.\n\nB. the brain.\n\nC. the vena cava.\n\nD. the lungs.\n\nE. the aorta."
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "1st round",
+     "problem": "The following figure shows the levels of two hormones during the female reproductive cycle. What is the name of the hormone whose level is highest between day 20 and day 25?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2008-1-34-fig1.png\n\nA. Progesterone\n\nB. LH\n\nC. FSH\n\nD. Testosterone\n\nE. Oestrogen"
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "1st round",
+     "problem": "The embryos of all amniotes form a bladder-like sac called the allantois. While in bird embryos it enlarges until hatching, in many mammals (e.g. humans) it becomes the umbilical cord very early on and loses its sac-like structure. What is the function of the allantois in bird embryos?\n\nI. Storage of metabolic end products\n\nII. Nutrient store (yolk)\n\nIII. Water store\n\nIV. Gas exchange with the environment\n\nA. Only I, II and III\n\nB. Only I and IV\n\nC. Only II and III\n\nD. Only II and IV\n\nE. All"
+    },
+    {
+     "day": 1,
+     "number": 36,
+     "paper_label": "1st round",
+     "problem": "Which of the following is not a mechanism of non-specific immune defence?\n\nA. Inflammatory response\n\nB. Skin\n\nC. Secretions of mucous membranes\n\nD. White blood cells\n\nE. Antibodies"
+    },
+    {
+     "day": 1,
+     "number": 37,
+     "paper_label": "1st round",
+     "problem": "A decrease in the pH of the blood during physical work will …\n\nA. reduce the cardiac output.\n\nB. increase the heart rate.\n\nC. reduce the breathing rate.\n\nD. reduce the amount of $\\mathrm{O_2}$ released by haemoglobin.\n\nE. reduce the binding of $\\mathrm{CO_2}$ to haemoglobin."
+    },
+    {
+     "day": 1,
+     "number": 38,
+     "paper_label": "1st round",
+     "problem": "When a mammalian eye is focused on a near object, the following can be observed:\n\nA. relaxation of the ciliary muscle > slackening of the zonular fibres > the lens takes on a flat shape.\n\nB. contraction of the ciliary muscle > tensing of the zonular fibres > the lens takes on a flat shape.\n\nC. contraction of the ciliary muscle > slackening of the zonular fibres > the lens takes on a round shape.\n\nD. contraction of the ciliary muscle > tensing of the zonular fibres > the lens takes on a round shape.\n\nE. relaxation of the ciliary muscle > tensing of the zonular fibres > the lens takes on a round shape."
+    },
+    {
+     "day": 1,
+     "number": 39,
+     "paper_label": "1st round",
+     "problem": "Which of the following statements does not apply to the lymphatic system?\n\nA. It helps to maintain the blood volume and the protein concentration in the blood.\n\nB. Lymph drains directly into the excretory system.\n\nC. The lymph capillaries end blindly; it is not a closed circulation.\n\nD. It helps the body to defend itself against infections.\n\nE. The composition of lymph resembles that of the interstitial fluid."
+    },
+    {
+     "day": 1,
+     "number": 40,
+     "paper_label": "1st round",
+     "problem": "Bony fish living in the sea have a lower ion concentration inside their bodies than the surrounding seawater. Through osmosis they constantly lose water to the surroundings. In freshwater fish it is exactly the other way round. Which statement about osmoregulation is false?\n\nA. Marine fish drink large amounts of water.\n\nB. Marine fish actively excrete ions from their bodies.\n\nC. Freshwater fish actively take up ions from the gut.\n\nD. The urine of marine fish is very dilute.\n\nE. Some fish can adapt both to seawater and to freshwater."
+    },
+    {
+     "day": 1,
+     "number": 41,
+     "paper_label": "1st round",
+     "problem": "When the amino group is split off from amino acids, ammonia is formed. But why does the human body excrete the excess nitrogen in the form of urea and not as ammonia?\n\nA. Ammonia is highly toxic to the body.\n\nB. Urea serves the body as a nitrogen store.\n\nC. Ammonia crystallises in the urine.\n\nD. This is a legacy of our marine ancestors, which used urea for osmoregulation.\n\nE. Urea can be used to obtain energy."
+    },
+    {
+     "day": 1,
+     "number": 42,
+     "paper_label": "1st round",
+     "problem": "Which is not a function of the liver?\n\nA. Synthesis of urea\n\nB. Heat production\n\nC. Storage of glycogen\n\nD. Insulin secretion\n\nE. Detoxification (breakdown of alcohol)"
+    },
+    {
+     "day": 1,
+     "number": 43,
+     "paper_label": "1st round",
+     "problem": "What is the correct order in which a food particle passes through the body?\n\nA. Oesophagus > pharynx > stomach > pylorus > large intestine > duodenum\n\nB. Pharynx > oesophagus > stomach > duodenum > pylorus > large intestine\n\nC. Pharynx > oesophagus > stomach > pylorus > duodenum > large intestine\n\nD. Oesophagus > stomach > pharynx > duodenum > large intestine > pylorus\n\nE. Pharynx > oesophagus > pylorus > stomach > large intestine > duodenum"
+    },
+    {
+     "day": 1,
+     "number": 44,
+     "paper_label": "1st round",
+     "problem": "A patient whose inflamed gall bladder had to be removed must be particularly careful, when eating, with:\n\nA. Water\n\nB. Salt\n\nC. Sugar\n\nD. Fat\n\nE. Protein"
+    },
+    {
+     "day": 1,
+     "number": 45,
+     "paper_label": "1st round",
+     "problem": "Which of the following animals has an open circulatory system?\n\nA. Hyla arborea (European tree frog)\n\nB. Lumbricus terrestris (earthworm)\n\nC. Salmo trutta (trout)\n\nD. Canis lupus (wolf)\n\nE. Drosophila melanogaster (fruit fly)"
+    },
+    {
+     "day": 1,
+     "number": 46,
+     "paper_label": "1st round",
+     "problem": "The frequency of an allele differs greatly between neighbouring populations. What could cause such a difference in allele frequency?\n\nI. The occurrence of a \"founder\" effect in earlier generations.\n\nII. Selective advantage of the allele in one population, but not in the other.\n\nIII. More effective repair of the DNA damage caused by mutations.\n\nIV. Repeated migration between the populations.\n\nA. Only I\n\nB. Only I and II\n\nC. Only I, II and IV\n\nD. Only II and III\n\nE. All"
+    },
+    {
+     "day": 1,
+     "number": 47,
+     "paper_label": "1st round",
+     "problem": "Kurt had a child from a previous marriage who suffers from an autosomal recessive disease. Elisabeth has a brother who died of the same disease, but her parents are not ill. What is the probability that Kurt and Elisabeth will have an ill child, assuming that neither of them suffers from this disease?\n\nA. 0\n\nB. 1/12\n\nC. 1/8\n\nD. 1/6\n\nE. 1/2"
+    },
+    {
+     "day": 1,
+     "number": 48,
+     "paper_label": "1st round",
+     "problem": "A population is known to be in Hardy–Weinberg equilibrium for a certain recessive trait. The frequency of the trait is 16%. What is the frequency of the dominant allele?\n\nA. 0.36\n\nB. 0.4\n\nC. 0.48\n\nD. 0.6\n\nE. 0.84"
+    },
+    {
+     "day": 1,
+     "number": 49,
+     "paper_label": "1st round",
+     "problem": "Selection acts directly on:\n\nA. the entire genome\n\nB. the genotype\n\nC. the entire gene pool\n\nD. the phenotype\n\nE. every allele"
+    },
+    {
+     "day": 1,
+     "number": 50,
+     "paper_label": "1st round",
+     "problem": "Which of the following structures are certainly not homologous?\n\nA. The haemoglobin of a baboon (Paio papio) and the haemoglobin of a chimpanzee (Pan troglodytes).\n\nB. The leaves of mono- and dicotyledons.\n\nC. The wings of a bat (Myotis blythii) and the arms of a human (Homo sapiens).\n\nD. The digging shovels of a mole cricket (Gryllotalpa gryllotalpa) and of a mole (Talpa europaea).\n\nE. The mitochondria of a plant and those of an animal."
+    },
+    {
+     "day": 1,
+     "number": 51,
+     "paper_label": "1st round",
+     "problem": "Study the following pedigree (circle = female, filled = ill). Which mode of inheritance (it is a very rare disease) is the most likely?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2008-1-51-fig1.png\n\nA. dominant autosomal\n\nB. recessive autosomal\n\nC. dominant gonosomal on the X chromosome\n\nD. recessive gonosomal on the X chromosome\n\nE. gonosomal on the Y chromosome"
+    },
+    {
+     "day": 1,
+     "number": 52,
+     "paper_label": "1st round",
+     "problem": "A child has blood group O. Which blood group can the mother not have?\n\nA. O\n\nB. A\n\nC. B\n\nD. AB\n\nE. All blood groups are possible."
+    },
+    {
+     "day": 1,
+     "number": 53,
+     "paper_label": "1st round",
+     "problem": "Grass plants occurring in an area with irregular rainfall grow better in dry years if they possess the allele for curled leaves, whereas grass plants with the allele for smooth leaves grow better in wetter years. Curled and smooth leaves are controlled by different alleles of the same gene. This situation will …\n\nA. lead to gene flow in the grass population.\n\nB. maintain the variability of the grass population.\n\nC. lead to uniformity of the grass population.\n\nD. lead to directional evolution in the grass population.\n\nE. lead to genetic drift of the grass population."
+    },
+    {
+     "day": 1,
+     "number": 54,
+     "paper_label": "1st round",
+     "problem": "Which of the following mechanisms cannot prevent gene exchange between two closely related species?\n\nA. Copulation is prevented by the different structure of the genital organs.\n\nB. Hybrids of the two species are sterile.\n\nC. The species mate in different seasons.\n\nD. The two species live in different habitats and do not meet.\n\nE. All of the mechanisms mentioned prevent gene exchange"
+    },
+    {
+     "day": 1,
+     "number": 55,
+     "paper_label": "1st round",
+     "problem": "Which character occurs exclusively in flowering plants (apomorphic character)?\n\nA. Dispersal by seeds\n\nB. The diploid life phase is dominant\n\nC. Wind pollination\n\nD. Ability to form mycorrhiza\n\nE. Double fertilisation"
+    },
+    {
+     "day": 1,
+     "number": 56,
+     "paper_label": "1st round",
+     "problem": "In a certain insect species, individuals with average leg length survive better than individuals with longer or shorter legs. This is an example of\n\nA. stabilising selection\n\nB. frequency-dependent selection\n\nC. disruptive selection\n\nD. the founder effect\n\nE. no selection"
+    },
+    {
+     "day": 1,
+     "number": 57,
+     "paper_label": "1st round",
+     "problem": "You observe that in a bird species the probability of survival of the offspring is low and unpredictable. Which life cycle do you expect in this species?\n\nA. Repeated (iteroparous) reproduction\n\nB. Single (semelparous) reproduction\n\nC. Reproduction at a very old age\n\nD. Production of many large eggs with intensive brood care\n\nE. None of the above"
+    },
+    {
+     "day": 1,
+     "number": 58,
+     "paper_label": "1st round",
+     "problem": "Natural selection does not lead to perfect adaptation. Which of the following statements does not describe a limitation of natural selection in this respect?\n\nA. Resources are limited.\n\nB. Selection can only favour existing variants.\n\nC. Environmental conditions are not constant.\n\nD. Evolution is always a further development and is therefore limited.\n\nE. Not every evolutionary step is adaptive (genetic drift)."
+    },
+    {
+     "day": 1,
+     "number": 59,
+     "paper_label": "1st round",
+     "problem": "The species Drosophila melanogaster is one of the most popular model organisms of geneticists. Not a reason for this is: Drosophila melanogaster …\n\nA. is able to fly.\n\nB. has a short generation time.\n\nC. is undemanding.\n\nD. is cheap to keep.\n\nE. has a high reproductive rate."
+    },
+    {
+     "day": 1,
+     "number": 60,
+     "paper_label": "1st round",
+     "problem": "What phenotypic ratio (black : white) do the young cats of the F2 generation have if the father is homozygous for the dominant black coat and the mother is homozygous for the recessive white coat?\n\nA. 1:3\n\nB. 1:2:1\n\nC. 1:1\n\nD. 2:1\n\nE. 3:1"
+    },
+    {
+     "day": 1,
+     "number": 61,
+     "paper_label": "1st round",
+     "problem": "Which of the following animal groups is most closely related to the insects?\n\nA. Annelida (ringed worms)\n\nB. Crustacea (crustaceans)\n\nC. Vertebrata (vertebrates)\n\nD. Asteroida (sea stars)\n\nE. Gastropoda (snails)"
+    },
+    {
+     "day": 1,
+     "number": 62,
+     "paper_label": "1st round",
+     "problem": "The genetic code works in such a way that three bases each code for one amino acid. The following figure shows the genetic code. The figure is read as follows: the 1st base is given in the centre, the 2nd and the 3rd base follow in rings, the 3rd base being given outermost. Which of the following mutations leads to a change of amino acid?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2008-1-62-fig1.png\n\nA. CUU > CUA\n\nB. CGA > CGC\n\nC. GAA > GAG\n\nD. UUU > UUA\n\nE. UUG > CUG"
+    },
+    {
+     "day": 1,
+     "number": 63,
+     "paper_label": "1st round",
+     "problem": "With which of the following sequences does the probe 5'-ATGCCGA-3' hybridise?\n\nA. 5'-TACGGCT-3'\n\nB. 5'-TCGGCAT-3'\n\nC. 5'-AGCCGTA-3'\n\nD. 5'-GATTACG-3'\n\nE. 5'-CTAATGC-3'"
+    },
+    {
+     "day": 1,
+     "number": 64,
+     "paper_label": "1st round",
+     "problem": "Lake Sempach was an example of a eutrophicated lake. An excessive input of nutrients (in particular phosphates and nitrates) resulted in a massive multiplication of algae, as well as in a decrease in the oxygen content at the lake bottom. Fortunately, the lake could be restored by injecting oxygen in the form of small bubbles at the lake bottom. This oxygen allowed the bacteria to break down the anoxic sediment, accompanied by a normalisation of the oxygen content. What was the cause of the decrease in oxygen at the lake bottom?\n\nA. The breakdown of the phosphates and nitrates uses up the oxygen.\n\nB. The algae at the surface need the oxygen to carry out photosynthesis.\n\nC. The algae serve as food for fish, which in large numbers use up the oxygen at the lake bottom.\n\nD. The bacterial breakdown of the dead algae that have sedimented onto the lake bottom uses up the oxygen.\n\nE. The algae at the surface absorb the UV light that normally produces the oxygen in the water."
+    },
+    {
+     "day": 1,
+     "number": 65,
+     "paper_label": "1st round",
+     "problem": "What is the function of mycorrhiza, a symbiosis between plant roots and soil fungi?\n\nA. They enable the defence against pests in the soil.\n\nB. They prevent excessive transpiration of the plant during dry periods.\n\nC. They protect the meristem.\n\nD. They facilitate the penetration of the roots into the soil during their growth.\n\nE. They enlarge the effective absorption surface of the roots."
+    },
+    {
+     "day": 1,
+     "number": 66,
+     "paper_label": "1st round",
+     "problem": "The following graphic shows the food web of an ecosystem. What would be the consequence of the disappearance of species B?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2008-1-66-fig1.png\n\nA. Species C would benefit, because the competition between species B and C would decrease.\n\nB. Species A would lose its only prey.\n\nC. Species X would lose its only prey.\n\nD. Species D would benefit, because it has the least to do with species B.\n\nE. The disappearance of species B would have no effect on species C or D."
+    },
+    {
+     "day": 1,
+     "number": 67,
+     "paper_label": "1st round",
+     "problem": "Which of the following behaviour patterns is called imprinting?\n\nA. A great tit (Parus major) that observes another tit opening a milk bag subsequently tries to open milk bags itself.\n\nB. Young lions (Panthera leo) acquire skills during play that they will later need when hunting.\n\nC. A cow (Bos taurus) that feels pain on touching a fence avoids contact with the fence from then on.\n\nD. Young greylag geese (Anser anser) follow the first animal or object that is near them at hatching.\n\nE. A young male chaffinch (Fringilla coelebs) adopts from adult birds the population-typical song pattern, which is not genetically fixed."
+    },
+    {
+     "day": 1,
+     "number": 68,
+     "paper_label": "1st round",
+     "problem": "Which of the following is an example of classical mimicry (Müllerian mimicry)?\n\nA. The black-and-yellow banding of a hoverfly (Episyrphus balteatus).\n\nB. The body shape of a stick insect (Bacillus rossius).\n\nC. The striped coat of a zebra (Equus quagga).\n\nD. The black-and-yellow banding of a wasp (Vespula vulgaris).\n\nE. The tail feathers of a peacock (Pavo christatus)."
+    },
+    {
+     "day": 1,
+     "number": 69,
+     "paper_label": "1st round",
+     "problem": "Lichens are a well-known example of a symbiosis. A fungus harbours unicellular algae in its mesh of hyphae, supplies them with nutrients and protects them from drying out. In return, the fungus receives photosynthetic products from the alga. In this way, lichens can colonise the most extreme habitats. Although the symbiosis is very close, the fungus can reject the alga under certain circumstances. Under which conditions would it do this?\n\nA. The lichen is kept on a nutrient medium\n\nB. For reproductive purposes\n\nC. In a nitrogen-rich habitat\n\nD. The lichen is flooded\n\nE. After several days in darkness"
+    },
+    {
+     "day": 1,
+     "number": 70,
+     "paper_label": "1st round",
+     "problem": "The vegetation along free-flowing rivers is regularly flooded and thus destroyed, because the river tears away parts of the bank or covers the vegetation with gravel and sand. If reservoirs are built along the course of the river, large floods no longer occur. Which statement about the species diversity of a river ecosystem in the Swiss Alps is correct? Floods …\n\nA. increase species diversity, because the alluvial material is very rich in nutrients.\n\nB. reduce species diversity, because they repeatedly disturb succession.\n\nC. reduce species diversity, because they destroy the seeds of most species.\n\nD. increase species diversity by creating space for pioneer plants.\n\nE. have no noteworthy effect on species diversity."
+    }
+   ]
+  },
+  {
+   "year": 2009,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "1st round",
+     "problem": "Which of the following statements about nucleic acids is correct?\n\nA. The main site of RNA production is the endoplasmic reticulum (ER).\n\nB. Ribosomes consist of DNA and proteins.\n\nC. Only RNA is found in the mitochondria.\n\nD. The highest concentration of DNA is found in the Golgi apparatus.\n\nE. The concentration of RNA in the cytosol is considerably higher than that of DNA."
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "1st round",
+     "problem": "Which molecule consists of amino acids?\n\nA. Starch\n\nB. Collagen\n\nC. Phospholipid\n\nD. Cellulose\n\nE. mRNA"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "1st round",
+     "problem": "Which structures are found in bacterial cells as well as in plant and animal cells?\n\nA. Golgi apparatus, flagellum, endoplasmic reticulum\n\nB. RNA, cytoplasmic membrane, ATP synthase\n\nC. Vacuole, cytoskeleton, centrioles\n\nD. Cell wall, ribosome, DNA\n\nE. Mitochondrion, cell nucleus, cytoplasm"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "1st round",
+     "problem": "A plant cell is placed in a highly concentrated sucrose solution. What is the net movement of the molecules that can cross the plasma membrane?\n\nI. $\\mathrm{H_2O}$ flows out strongly.\n\nII. $\\mathrm{H_2O}$ flows in strongly.\n\nIII. Sucrose flows out strongly.\n\nIV. Sucrose flows in strongly.\n\nV. Sucrose does not cross the plasma membrane significantly.\n\nA. Only I and V\n\nB. Only I and IV\n\nC. Only II and III\n\nD. Only II and IV\n\nE. Only II and V"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "1st round",
+     "problem": "Which of the following statements about the genetic code is false?\n\nA. One and the same amino acid can be encoded by different codons.\n\nB. A codon consists of exactly three bases.\n\nC. A codon can code for several different amino acids.\n\nD. The genetic code is almost identical for all organisms.\n\nE. The genetic code enables the transfer of information from RNA to protein."
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "1st round",
+     "problem": "Human cells import mainly the following enzymes into their lysosomes:\n\nA. ATP synthases (adenosine-triphosphate-synthesising enzymes)\n\nB. Proteases (protein-cleaving enzymes)\n\nC. DNA polymerases (DNA-synthesising enzymes)\n\nD. Cellulases (cellulose-cleaving enzymes)\n\nE. RNA polymerases (RNA-synthesising enzymes)"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "1st round",
+     "problem": "Most of the $\\mathrm{CO_2}$ that you breathe out is produced …\n\nA. … in the Calvin cycle.\n\nB. … in glycolysis.\n\nC. … in the urea cycle.\n\nD. … in lactate fermentation (lactic acid fermentation).\n\nE. … in the citrate cycle (Krebs cycle/citric acid cycle)."
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "1st round",
+     "problem": "To which class of substances does the following molecule belong?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2009-1-8-fig1.png\n\nA. Fats\n\nB. Peptides\n\nC. Disaccharides\n\nD. Polysaccharides\n\nE. RNA"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "1st round",
+     "problem": "Which of the following processes is found only in eukaryotes but is absent in bacteria?\n\nA. DNA methylation\n\nB. DNA replication\n\nC. Transcription\n\nD. RNA splicing\n\nE. Translation"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "1st round",
+     "problem": "The large extracellular protein keratin consists of peptide monomers which are transported out of the cell individually after their synthesis. Through which of the following cell organelles does the transport route lead?\n\nI. Smooth endoplasmic reticulum\n\nII. Golgi apparatus\n\nIII. Lysosome\n\nIV. Vesicle\n\nV. Mitochondrion\n\nA. Only I and IV\n\nB. Only II and IV\n\nC. Only I, II and III\n\nD. Only I, II and V\n\nE. Only II, IV and V"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "1st round",
+     "problem": "Which of the following statements about mitosis are correct?\n\nI. During prophase the genome is duplicated.\n\nII. During telophase the cytoplasm divides.\n\nIII. During metaphase the chromosomes are arranged in the equatorial plane.\n\nIV. During anaphase the two sister chromatids of the chromosomes are separated from each other.\n\nA. None\n\nB. Only II\n\nC. Only II, III\n\nD. Only III, IV\n\nE. Only I, III, IV"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "1st round",
+     "problem": "From which of the following processes does the organism gain net ATP?\n\nI. From oxidative phosphorylation (respiratory chain)\n\nII. From glycolysis\n\nIII. From the Calvin cycle (dark reaction)\n\nIV. From photophosphorylation (light reaction)\n\nA. Only II\n\nB. Only I, III\n\nC. Only II, IV\n\nD. Only I, II, IV\n\nE. All"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "1st round",
+     "problem": "DNA nucleotides and RNA nucleotides differ in the number …\n\nA. … of OH groups of the sugar\n\nB. … of amino groups\n\nC. … of possible bases\n\nD. … of C atoms of the sugar\n\nE. … of phosphate groups"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "1st round",
+     "problem": "tRNAs play a key role in protein synthesis. Which statement is false?\n\nA. tRNAs are present only in the cell nucleus.\n\nB. tRNAs have a binding site (anticodon) for the corresponding mRNA codon.\n\nC. tRNAs have a fixed three-dimensional structure.\n\nD. tRNAs bind specifically to amino acids.\n\nE. tRNAs are synthesised from a DNA template."
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "1st round",
+     "problem": "A phospholipid consists of …\n\nA. … a phosphorylated fatty acid and a C chain.\n\nB. … exclusively lipophilic parts.\n\nC. … exclusively hydrophilic parts.\n\nD. … a hydrophilic and a lipophilic part.\n\nE. … a phosphate group and three fatty acids."
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "1st round",
+     "problem": "The Casparian strip is an anatomical structure …\n\nA. … of the epidermis of the shoot.\n\nB. … of the rhizodermis.\n\nC. … of the endodermis of the xylem.\n\nD. … of the epidermis of the leaves.\n\nE. … of the endodermis of the root."
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "1st round",
+     "problem": "Which statement about the xylem is false?\n\nA. The cell walls of the xylem are often reinforced with lignin\n\nB. There is usually a strong negative pressure in the xylem\n\nC. In leaf veins the xylem lies on the upper side of the leaf\n\nD. Fully differentiated xylem cells have a living protoplast.\n\nE. Mainly water and minerals/nutrient ions are transported in the xylem"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "1st round",
+     "problem": "The cell wall of the plant cell has many different functions. Which components will you find with certainty in a secondarily thickened cell wall of a beech?\n\nI. Cellulose\n\nII. Pectins\n\nIII. Calcium\n\nIV. Myosin\n\nA. Only I\n\nB. Only II\n\nC. Only I, II and III\n\nD. Only II, III and IV\n\nE. All"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "1st round",
+     "problem": "Which of the following pairings of tissue and function is correct?\n\nA. Collenchyma – supports young (plant) organs during development\n\nB. Epidermal layer – makes cells rigid and immobile\n\nC. Phloem – main tissue for photosynthesis\n\nD. Palisade parenchyma – produces root hairs\n\nE. Sclerenchyma – transports the phloem sap"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "1st round",
+     "problem": "Which of the following combinations of different plant parts is false?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2009-1-20-fig1.png\n\nA. VII = filament, VIII = stamen\n\nB. X = sepal, XI = pedicel (flower stalk)\n\nC. III = ovary, IV = carpel\n\nD. V = receptacle, VI = anther\n\nE. IX = petal, XI = style"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "1st round",
+     "problem": "CAM plants (CAM = Crassulacean acid metabolism), such as cacti, can keep their stomata (stomatal pores) closed during the day because …\n\nA. … their cuticle is permeable to $\\mathrm{CO_2}$.\n\nB. … they can take up and store $\\mathrm{CO_2}$ at night.\n\nC. … they can store starch at night.\n\nD. … they do not produce $\\mathrm{O_2}$ during the day.\n\nE. … their photosynthesis manages without $\\mathrm{CO_2}$."
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "1st round",
+     "problem": "Match the following substances to their use in plants.\n\nI. $\\mathrm{CO_2}$\n\nII. $\\mathrm{Mg^{2+}}$\n\nIII. Starch\n\nIV. $\\mathrm{Fe^{2+}}$\n\na. Central atom of many respiratory-chain proteins\n\nb. Central atom of chlorophyll\n\nc. Carbon source\n\nd. Glucose store\n\nA. Ic, IIb, IIId, IVa\n\nB. Ic, IIa, IIId, IVb\n\nC. Id, IIb, IIIc, IVa\n\nD. Ia, IId, IIIc, IVb\n\nE. Ib, IIa, IIId, IVc"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "1st round",
+     "problem": "Shown is a mature fern plant. Which of the labelled structures are diploid?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2009-1-23-fig1.png\n\nA. Only III\n\nB. Only IV\n\nC. Only I and II\n\nD. Only II and IV\n\nE. Only I, II and III"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "1st round",
+     "problem": "The light compensation point (LCP) is the light intensity at which a leaf can meet its ATP requirement through its own photosynthetic output. Which of the following statements about sun and shade plants is therefore correct?\n\nA. Shade plants reach the LCP with weaker incident light than sun plants.\n\nB. Sun plants reach the LCP with weaker incident light than shade plants.\n\nC. Sun and shade plants have the same LCP.\n\nD. Only sun plants produce more ATP than they need.\n\nE. Shade plants never reach the LCP."
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "1st round",
+     "problem": "Which statement about photosynthesis is false?\n\nA. In the dark reaction (Calvin cycle), $\\mathrm{CO_2}$ is fixed into organic molecules.\n\nB. Photosynthesis takes place in the chloroplasts of the plant cell.\n\nC. In photosynthesis, there is a net consumption of ATP.\n\nD. The energy for the photosynthetic reactions comes from photons which are absorbed by chlorophyll\n\nE. In the light reaction, $\\mathrm{H_2O}$ is split into $\\mathrm{O_2}$ and hydrogen ions."
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "1st round",
+     "problem": "Plants regulate the gas exchange of the leaf with the atmosphere through the stomata (stomatal pores). Which of the following factors influence the control of the opening state of the stomata?\n\nI. Light\n\nII. $\\mathrm{CO_2}$ concentration in the mesophyll of the leaf\n\nIII. The nutrient content of the soil solution\n\nIV. The sugar concentration in the phloem\n\nV. The phytohormone abscisic acid, released in case of water shortage\n\nA. Only III and IV\n\nB. Only I, II and III\n\nC. Only I, II, and V\n\nD. Only I, IV and V\n\nE. Only II, IV and V"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "1st round",
+     "problem": "In which organ does most of the enzymatic hydrolysis of lipids, polysaccharides, polypeptides, DNA and RNA in the human body take place?\n\nA. Oesophagus\n\nB. Oral cavity\n\nC. Small intestine\n\nD. Large intestine\n\nE. Pancreas"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "1st round",
+     "problem": "Which statement about nerve cells is false?\n\nA. In nerve cells, action potentials are electrical impulses.\n\nB. Nerve function is based on different ion concentrations outside and inside the cells.\n\nC. The brain consists of a large number of nerve cells.\n\nD. In the knee-jerk (patellar tendon) reflex, the muscles contract without a nerve impulse.\n\nE. Nerve cells can transmit impulses to other nerve cells."
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "1st round",
+     "problem": "Check the following statements and their connection for correctness.\n\n① Humans must take up many vitamins with their food\n\nbecause\n\n② vitamins are important energy suppliers.\n\nA. ① false, ② false\n\nB. ① true, ② false\n\nC. ① false, ② true\n\nD. ① true, ② true, connection false\n\nE. ① true, ② true, connection true"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "1st round",
+     "problem": "What is the shortest route in the circulatory system that $\\mathrm{CO_2}$ produced in the calf muscle can take before it is exhaled in the lungs?\n\nA. Vena cava → right atrium → right ventricle → pulmonary artery → capillary system of the lungs\n\nB. Vena cava → right atrium → right ventricle → left atrium → capillary system of the lungs\n\nC. Vena cava → left atrium → left ventricle → pulmonary vein → capillary system of the lungs\n\nD. Vena cava → left atrium → left ventricle → pulmonary artery → capillary system of the lungs\n\nE. Vena cava → right atrium → right ventricle → pulmonary vein → capillary system of the lungs"
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "1st round",
+     "problem": "Shown is a sketch of a human follicle at different stages of development. What is the correct order of follicle development?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2009-1-31-fig1.png\n\nA. II, V, III, I, IV\n\nB. II, V, III, IV, I\n\nC. IV, III, V, I, II\n\nD. III, I, II, V, IV\n\nE. I, II, V, III, IV"
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "1st round",
+     "problem": "In women, an elevated level of luteinising hormone (LH) causes …\n\nA. … mammary gland secretion.\n\nB. … the onset of menstrual bleeding.\n\nC. … nidation (implantation of the blastocyst in the uterus).\n\nD. … ovulation (release of the egg).\n\nE. … the onset of labour contractions."
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "1st round",
+     "problem": "Which pairing of a hormone and its main site of production is correct?\n\nA. Adrenaline – hypothalamus\n\nB. Insulin – thyroid glands\n\nC. Oestrogen – pituitary gland\n\nD. Aldosterone – adrenal cortex\n\nE. Testosterone – thymus"
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "1st round",
+     "problem": "Which statement about the immune system is false?\n\nA. An overreaction of the immune system leads to allergies.\n\nB. The skin and the mucous membranes form the first defence mechanism against infections.\n\nC. The phagocytes (macrophages) are part of the non-specific immune defence.\n\nD. Antibodies recognise particular antigens specifically.\n\nE. Antibodies are produced by killer T cells."
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "1st round",
+     "problem": "Withdrawing a hand that touches a hot hotplate is a reflex. What is the correct sequence of the nerve impulses in a reflex?\n\nI. Cerebrum\n\nII. Cerebellum\n\nIII. Sensory neuron\n\nIV. Motor neuron\n\nV. Temperature receptor\n\nVI. Spinal cord\n\nA. V → III → VI → IV →\n\nB. V → III → II → IV →\n\nC. V → III → VI → I → II → IV\n\nD. V → III → VI → II → I → IV\n\nE. V → III → I → IV →"
+    },
+    {
+     "day": 1,
+     "number": 36,
+     "paper_label": "1st round",
+     "problem": "Which statement about circulatory systems is false?\n\nA. Blood in the hearts of bony fishes (Actinopterygii) is oxygen-rich.\n\nB. The circulatory system of birds (Aves) is completely separated.\n\nC. Insects (Insecta) have an open circulatory system.\n\nD. The blood in the aorta of adult mammals (Mammalia) is $\\mathrm{O_2}$-rich.\n\nE. Amphibians (Lissamphibia) have an incompletely separated circulatory system."
+    },
+    {
+     "day": 1,
+     "number": 37,
+     "paper_label": "1st round",
+     "problem": "Which combinations of statements about digestion in humans are correct?\n\nI. Oesophagus\n\nII. Large intestine\n\nIII. Liver\n\nIV. Stomach\n\na. Forms an acidic, protease-rich environment\n\nb. Main function is the reabsorption of water\n\nc. Production of bile\n\nd. Transport by peristalsis\n\nA. Id, IIb, IIIc, IVa\n\nB. Ib, IIa, IIId, IVc\n\nC. Ia, IIb, IIIc, IVd\n\nD. Id, IIc, IIIa, IVb\n\nE. Ia, IId, IIIb, IVc"
+    },
+    {
+     "day": 1,
+     "number": 38,
+     "paper_label": "1st round",
+     "problem": "After an infection with staphylococci (bacteria), a person has developed a bad abscess that becomes red and hot. Such an inflammatory reaction …\n\nA. … normally occurs only in viral infections.\n\nB. … occurs only in people with immunodeficiency.\n\nC. … closes the skin pores and kills bacteria through $\\mathrm{O_2}$ deficiency.\n\nD. … dilates the blood vessels and so makes it easier for the macrophages to advance.\n\nE. … promotes the multiplication of the bacteria."
+    },
+    {
+     "day": 1,
+     "number": 39,
+     "paper_label": "1st round",
+     "problem": "Which of the following blood components is not involved in blood clotting\n\nA. Fibrin\n\nB. $\\mathrm{Ca^{2+}}$ ions\n\nC. Cholesterol\n\nD. Thrombocytes (blood platelets)\n\nE. Prothrombin"
+    },
+    {
+     "day": 1,
+     "number": 40,
+     "paper_label": "1st round",
+     "problem": "In our body we find mainly two types of muscle, striated and smooth muscle. Which of the following muscles does not consist of striated muscle tissue?\n\nA. Four-headed thigh muscle (quadriceps femoris)\n\nB. Two-headed upper-arm muscle (biceps brachii)\n\nC. Masticatory muscle\n\nD. Gluteus maximus (large buttock muscle)\n\nE. Musculature of the small intestine"
+    },
+    {
+     "day": 1,
+     "number": 41,
+     "paper_label": "1st round",
+     "problem": "A cardiac pacemaker takes over the function …\n\nA. … of the sinus node\n\nB. … of the coronary artery\n\nC. … of the semilunar valves\n\nD. … of the atrioventricular (cuspid) valves\n\nE. … of the atrial musculature"
+    },
+    {
+     "day": 1,
+     "number": 42,
+     "paper_label": "1st round",
+     "problem": "If blood is added to serum (blood without cellular components and without clotting proteins), it can agglutinate (clump). A drop of blood from a test person was added to (1) serum with antibodies against antigen A, to (2) serum with antibodies against antigen B and to (3) serum with antibodies against the rhesus antigen (see figure). Which blood group does the test person have?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2009-1-42-fig1.png\n\nA. Blood group A, rhesus positive (A+)\n\nB. Blood group B, rhesus positive (B+)\n\nC. Blood group A, rhesus negative (A–)\n\nD. Blood group B, rhesus negative (B–)\n\nE. Blood group AB, rhesus positive (AB+)"
+    },
+    {
+     "day": 1,
+     "number": 43,
+     "paper_label": "1st round",
+     "problem": "Shown is the gas exchange of two cells. Which cell types are they?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2009-1-43-fig1.png\n\nA. I = red blood cell in the capillary system of the muscle, II = red blood cell in the capillary system of the lungs\n\nB. I = muscle cell, II = red blood cell in the capillary system of the muscle\n\nC. I = muscle cell, II = red blood cell in the capillary system of the lungs\n\nD. I = red blood cell in the capillary system of the lungs, II = muscle cell\n\nE. I = red blood cell in the capillary system of the lungs, II = muscle cell"
+    },
+    {
+     "day": 1,
+     "number": 44,
+     "paper_label": "1st round",
+     "problem": "Fat cells, skin cells and liver cells differ in many respects because they …\n\nA. … contain different genes\n\nB. … have different numbers of chromosomes\n\nC. … use a different tRNA code\n\nD. … express different genes\n\nE. … have lost certain genes"
+    },
+    {
+     "day": 1,
+     "number": 45,
+     "paper_label": "1st round",
+     "problem": "Given is a section of the template strand of a gene. What is the transcribed RNA?\n\n5'--ACGGTAACTCCCAA--3'\n\nA. 5'--UUGGGAGUUACCGU--3'\n\nB. 5'--UUGGGTGUUTCCGU--3'\n\nC. 3'--TGCCATTGAGGGTT--5'\n\nD. 3'--UCCCAUUGACGGUU--5'\n\nE. 5'--UGCCAUUGAGGGUU--3'"
+    },
+    {
+     "day": 1,
+     "number": 46,
+     "paper_label": "1st round",
+     "problem": "The exchange of genetic material between non-sister chromatids is called crossing over. When can crossing over take place in a cell? During …\n\nA. … metaphase I of mitosis\n\nB. … anaphase I of meiosis\n\nC. … prophase I of meiosis\n\nD. … prophase of mitosis\n\nE. … prophase II of meiosis"
+    },
+    {
+     "day": 1,
+     "number": 47,
+     "paper_label": "1st round",
+     "problem": "Which of these taxa is the most species-rich?\n\nA. Testudines (turtles)\n\nB. Anura (frogs)\n\nC. Marsupialia (marsupials)\n\nD. Anseriformes (waterfowl)\n\nE. Teleostei (bony fishes)"
+    },
+    {
+     "day": 1,
+     "number": 48,
+     "paper_label": "1st round",
+     "problem": "You cross two Drosophila melanogaster with the genotypes PPQq and PpQq. Which of the following genotypes will certainly be absent in the F1?\n\nA. PPQq\n\nB. PPqq\n\nC. PpQQ\n\nD. Ppqq\n\nE. ppQp"
+    },
+    {
+     "day": 1,
+     "number": 49,
+     "paper_label": "1st round",
+     "problem": "The positions of the traits w, x, y and z are to be determined by gene mapping. By skilful crossing, the distances below between the traits, which all lie on the same chromosome, were determined in centimorgans. In which order do the traits lie on the chromosome?\n\nI. w–x: 10 cM\n\nII. w–z: 15 cM\n\nIII. x–z: 25 cM\n\nIV. x–y: 5 cM\n\nA. wxyz\n\nB. xwyz\n\nC. yxzw\n\nD. yzxw\n\nE. zwxy"
+    },
+    {
+     "day": 1,
+     "number": 50,
+     "paper_label": "1st round",
+     "problem": "Study the following human pedigree (circle = female, filled = affected). Which mode of inheritance (it is a very rare disease) is the most likely?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2009-1-50-fig1.png\n\nA. autosomal dominant\n\nB. autosomal recessive\n\nC. gonosomal dominant on the X chromosome\n\nD. gonosomal recessive on the X chromosome\n\nE. gonosomal on the Y chromosome"
+    },
+    {
+     "day": 1,
+     "number": 51,
+     "paper_label": "1st round",
+     "problem": "Check the two following statements and the \"because\" connection for correctness:\n\n① Phenotypic variability is a basic requirement for selection\n\nbecause\n\n② genetic variability unambiguously determines phenotypic variability.\n\nA. ① false, ② false\n\nB. ① true, ② false\n\nC. ① false, ② true\n\nD. ① true, ② true, connection false\n\nE. ① true, ② true, connection true"
+    },
+    {
+     "day": 1,
+     "number": 52,
+     "paper_label": "1st round",
+     "problem": "Male peafowl (Pavo cristatus) have a tail more than 1 m long, which hinders them when flying. In addition, they have iridescent plumage that predators can easily recognise. How can the existence of these traits nevertheless be explained?\n\nA. Genetic drift\n\nB. Natural selection\n\nC. Kin selection\n\nD. Sexual selection\n\nE. Neutral selection"
+    },
+    {
+     "day": 1,
+     "number": 53,
+     "paper_label": "1st round",
+     "problem": "It is known that a population is in Hardy–Weinberg equilibrium for a certain recessive trait. The frequency of the trait is 4 %. What proportion of the individuals are carriers.\n\nA. 0.16\n\nB. 0.20\n\nC. 0.32\n\nD. 0.64\n\nE. 0.80"
+    },
+    {
+     "day": 1,
+     "number": 54,
+     "paper_label": "1st round",
+     "problem": "Which animal group does not belong to the Amniota (vertebrates whose embryo is surrounded by an additional membrane, the amnion)?\n\nA. Ornithischia (bird-hipped dinosaurs such as Iguanodon and Stegosaurus)\n\nB. Mammalia (mammals)\n\nC. Squamata (lizards and snakes)\n\nD. Aves (birds)\n\nE. Amphibia (amphibians)"
+    },
+    {
+     "day": 1,
+     "number": 55,
+     "paper_label": "1st round",
+     "problem": "A population of a bird species feeds on soft and hard grass seeds. Individuals with thin beaks have an advantage when eating soft seeds, those with thick beaks when eating hard seeds. Intermediate beaks are disadvantageous with soft as well as with hard seeds. Assume that beak thickness in the population is distributed as in curve A. Which frequency distribution of beak thickness do you expect in this population after 100 generations.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2009-1-55-fig1.png\n\nFigure labels (German → English): Häufigkeit = frequency; Schnabeldicke = beak thickness."
+    },
+    {
+     "day": 1,
+     "number": 56,
+     "paper_label": "1st round",
+     "problem": "Which animal groups are bilaterally symmetrical (have only one imaginary cutting line that would divide the body into two symmetrical, mirror-image halves, a left and a right one)\n\nI. Arthropoda (arthropods)\n\nII. Cnidaria (cnidarians)\n\nIII. Mollusca (molluscs)\n\nIV. Porifera (sponges)\n\nV. Chordata (chordates)\n\nA. Only I\n\nB. Only II and III\n\nC. Only I, III and V\n\nD. Only I, IV and V\n\nE. all"
+    },
+    {
+     "day": 1,
+     "number": 57,
+     "paper_label": "1st round",
+     "problem": "Which classification of the chamois Rupicapra rupicapra corresponds to the correct order from the highest to the lowest taxon?\n\nI. Bovidae (bovids)\n\nII. Chordata (chordates)\n\nIII. Eutheria (placental mammals)\n\nIV. Mammalia (mammals)\n\nV. Tetrapoda (tetrapods)\n\nA. I > III > II > IV > V\n\nB. II > I > V > III > IV\n\nC. II > IV > I > V > III\n\nD. II > V > IV > III > I\n\nE. IV > III > II > V > I"
+    },
+    {
+     "day": 1,
+     "number": 58,
+     "paper_label": "1st round",
+     "problem": "Which of the listed organs arose as an adaptation to the respective environmental situation?\n\nI. Flipper-like wings of a penguin (Spheniscidae) for moving in the water\n\nII. Hands with five fingers (pentadactyly) of humans (Homo sapiens) for grasping objects\n\nIII. Skull made of bone for fights between male ibexes (Capra ibex)\n\nIV. extremely long and thin beak of a hummingbird (Trochilidae) for feeding on nectar from flowers\n\nA. Only I\n\nB. Only I and IV\n\nC. Only II and III\n\nD. Only II, III and IV\n\nE. all"
+    },
+    {
+     "day": 1,
+     "number": 59,
+     "paper_label": "1st round",
+     "problem": "The figure below shows (a) an ichthyosaur (Ophthalmosaurus yasikovi), (b) a blue shark (Prionace glauca), (c) a dolphin (Delphinus delphis) and (d) a tuna (Thynnus thynnus). Which statements about these organisms are correct?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2009-1-59-fig1.png\n\nI. All the organisms shown have gills as an adaptation to life in water\n\nII. The adaptations to high-performance swimming are convergent, that is, they arose independently of one another\n\nIII. Organisms a and b form a monophyletic group as Tetrapoda\n\nIV. The skeletons of all the organisms shown are homologous (= similar through common descent) to one another\n\nA. Only I\n\nB. Only III\n\nC. Only II and IV\n\nD. Only II, III and IV\n\nE. all"
+    },
+    {
+     "day": 1,
+     "number": 60,
+     "paper_label": "1st round",
+     "problem": "Study the following mammalian pedigree (circle = female, filled = affected). If the mode of inheritance is autosomal recessive, what is the probability that the individual marked with a question mark is affected?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2009-1-60-fig1.png\n\nA. 0\n\nB. 0.125\n\nC. 0.25\n\nD. 0.5\n\nE. 1"
+    },
+    {
+     "day": 1,
+     "number": 61,
+     "paper_label": "1st round",
+     "problem": "The ozone layer of the Earth's stratosphere filters out most of the cosmic UV radiation. In the 1960s and 70s, large quantities of chlorofluorocarbons (CFCs) were released into the atmosphere through refrigerants, propellants and the manufacture of building materials. These CFCs contain the halogen chlorine and react for decades with ozone molecules in the stratosphere, which every spring causes a huge ozone hole in the southern hemisphere. What direct consequences do ozone holes have for nature?\n\nI. The mutation rate of sun-exposed somatic cells increases\n\nII. Because of the lengthened day length, animal and plant communities change\n\nIII. High-energy UV radiation has a negative effect only on unicellular organisms and therefore increases the fitness of all multicellular organisms (Metazoa)\n\nA. Only I\n\nB. Only III\n\nC. Only I and II\n\nD. Only II and III\n\nE. all"
+    },
+    {
+     "day": 1,
+     "number": 62,
+     "paper_label": "1st round",
+     "problem": "In the Serengeti National Park in Tanzania you can comfortably approach a herd of plains zebras (Equus quagga) by car to within a few metres without their paying any attention to you. But if you get out of the car, the zebras flee in panic. Which form of learning do the zebras show with respect to the cars?\n\nA. Insight learning\n\nB. Learning by imitation\n\nC. Imprinting\n\nD. Classical conditioning\n\nE. Habituation (getting used to a stimulus)"
+    },
+    {
+     "day": 1,
+     "number": 63,
+     "paper_label": "1st round",
+     "problem": "In which biome are the seasonal fluctuations of temperature and precipitation smallest?\n\nA. Tundra\n\nB. Taiga\n\nC. Tropical rainforest\n\nD. Tropical savanna\n\nE. Deciduous (summer-green) broadleaf forest"
+    },
+    {
+     "day": 1,
+     "number": 64,
+     "paper_label": "1st round",
+     "problem": "The leopard (Panthera pardus) is considered the most widespread big cat in the world. Various subspecies and morphs are distinguished. The Congo leopard (P. p. ituriensis) lives in the tropical rainforest of Central Africa, the Amur leopard (P. p. orientalis) in the boreal coniferous forests (taiga) of Russia, the Arabian leopard (P. p. nimr) in the desert mountains of the Arabian Peninsula, the Cape leopard (P. p. melanotica) in the grassland of the temperate zone of South Africa and the Indian leopard (P. p. fusca) in the tropical and subtropical tree savannas of India. Which subspecies will, on the basis of Bergmann's rule, probably have the largest body mass on average?\n\nA. Indian leopard (P. p. fusca)\n\nB. Congo leopard (P. p. ituriensis)\n\nC. Cape leopard (P. p. melanotica)\n\nD. Amur leopard (P. p. orientalis)\n\nE. Arabian leopard (P. p. nimr)"
+    },
+    {
+     "day": 1,
+     "number": 65,
+     "paper_label": "1st round",
+     "problem": "How many species occur on an island depends largely on the immigration and extinction rates. These two factors are determined by the size of the island and its distance from the mainland. With reference to this island biogeography hypothesis, on which island do you expect the highest number of species?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2009-1-65-fig1.png\n\nFigure labels (German → English): Kontinent = continent; Ozean = ocean."
+    },
+    {
+     "day": 1,
+     "number": 66,
+     "paper_label": "1st round",
+     "problem": "Desert plants are often exposed to extreme living conditions, which require special adaptations. Which is not a specific ecological adaptation of plants to the desert climate?\n\nA. Thick wax layer (cuticle) over the epidermis\n\nB. Stomata sunken into the leaf or covered with hairs\n\nC. Long-lasting germinability of the seeds\n\nD. Fleshy, water-storing leaves and shoots\n\nE. Spines and thorns"
+    },
+    {
+     "day": 1,
+     "number": 67,
+     "paper_label": "1st round",
+     "problem": "The carrying capacity K is the population density at which the per-capita birth rate and the per-capita death rate are equal. A population at K therefore does not change its density. The following graphs show the birth and death rates as a function of population density. If neither immigration nor emigration takes place, which population density corresponds to a carrying capacity of a natural population?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2009-1-67-fig1.png\n\nFigure labels (German → English): Geburten- und Sterberate = birth and death rate; Geburtenrate = birth rate; Sterberate = death rate; Populationsdichte = population density."
+    },
+    {
+     "day": 1,
+     "number": 68,
+     "paper_label": "1st round",
+     "problem": "In Australia there are orange jewel beetles (Buprestidae) which climb onto all orange objects, such as bottles or road signs, and try to insert their genital organ. Male hoverflies (Syrphidae) chase after all small, fast-moving particles in the air, and male common toads (Bufo bufo) are often observed clinging to dead mice or rubber boots during the mating season. Check the following statements and their connection for correctness.\n\n① The behavioural mechanisms observed are innate but must be activated\n\nin that\n\n② the animal perceives very specific key stimuli.\n\nA. ① false, ② false\n\nB. ① true, ② false\n\nC. ① false, ② true\n\nD. ① true, ② true, connection false\n\nE. ① true, ② true, connection true"
+    },
+    {
+     "day": 1,
+     "number": 69,
+     "paper_label": "1st round",
+     "problem": "In which of the following innate behaviours is there negative feedback of the consummatory act on the readiness to act?\n\nI. A lion (Panthera leo) hunts a porcupine (Hystrix cristata) and injures itself on its quills\n\nII. A Thomson's gazelle (Gazella rufifrons) flees after a cheetah (Acinonyx jubatus) has come closer than its flight distance, but is nevertheless brought down by it.\n\nIII. A male satin bowerbird (Ptilonorhynchus violaceus) collects conspicuous blue objects for hours in order to attract females to its courtship arena. Because the male stays away searching too long, neighbouring birds can destroy its courtship arena.\n\nIV. A male red deer (Cervus elaphus) shows territorial behaviour during the rutting season and is afterwards drawn into a fight by the dominant stag.\n\nA. Only I\n\nB. Only II and III\n\nC. Only III and IV\n\nD. Only I, III and IV\n\nE. all"
+    }
+   ]
+  },
+  {
+   "year": 2010,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "1st round",
+     "problem": "Which route does a protein take that is formed in the rough endoplasmic reticulum (rER) and is to be secreted (released)?\n\nA. rER – Golgi apparatus – lysosome – vesicle – exocytosis\n\nB. rER – vesicle – Golgi apparatus – vesicle – exocytosis\n\nC. rER – nucleus – vesicle – Golgi apparatus – exocytosis\n\nD. rER – Golgi apparatus – vesicle – mitochondrion – vesicle – exocytosis\n\nE. rER – peroxisome – vesicle – Golgi apparatus – exocytosis"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "1st round",
+     "problem": "The two DNA strands of a chromosome of a eukaryotic cell are labelled with a radioactive marker. The cell now undergoes mitosis. Where are the radioactive markers found after cell division is complete?\n\nA. This cannot be predicted, because the pairing of homologous chromosomes after replication is purely random.\n\nB. This cannot be predicted, because an exchange of the strands can take place through crossing over.\n\nC. The radioactive label is transferred to the newly formed strands during replication, so all of them are labelled.\n\nD. One cell contains two labelled strands, the other cell two unlabelled strands.\n\nE. Each of the two cells contains one labelled and one unlabelled strand."
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "1st round",
+     "problem": "Which of the following organelles is surrounded by exactly one membrane?\n\nA. The mitochondrion\n\nB. The nucleus\n\nC. The endoplasmic reticulum\n\nD. The centrosome\n\nE. The ribosome"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "1st round",
+     "problem": "A component of an ATP molecule is:\n\nA. Atropine\n\nB. Anthraxin\n\nC. Asparagine\n\nD. Acetin\n\nE. Adenosine"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "1st round",
+     "problem": "Which of the following properties can amino acids have?\n\nI. Basic\n\nII. Acidic\n\nIII. Polar\n\nIV. Apolar\n\nA. Only I\n\nB. Only III and IV\n\nC. Only I, III and IV\n\nD. Only II, III and IV\n\nE. All"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "1st round",
+     "problem": "Which chemical group is found in every amino acid?\n\nA. $\\mathrm{PO_3^{2-}}$\n\nB. SH\n\nC. CN\n\nD. COOH\n\nE. Residue-O-residue"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "1st round",
+     "problem": "Where does glycolysis take place in the cell of a flowering plant?\n\nA. In the mitochondria\n\nB. In the chloroplasts\n\nC. In the cytoplasm\n\nD. In the Golgi apparatus\n\nE. Glycolysis does not take place in a plant."
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "1st round",
+     "problem": "Which proteins are not components of the animal cytoskeleton?\n\nA. Microtubules\n\nB. α-Amylase\n\nC. Intermediate filaments\n\nD. Actin filaments\n\nE. No answer is correct"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "1st round",
+     "problem": "In what form do liver cells store glucose?\n\nA. Amylose\n\nB. Chitin\n\nC. Glycogen\n\nD. Starch\n\nE. Cellulose"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "1st round",
+     "problem": "Which of the following structures does the bacterium Yersinia pestis certainly not have?\n\nA. Mitochondrion\n\nB. Cell membrane\n\nC. Ribosome\n\nD. Chromosome\n\nE. Cell wall"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "1st round",
+     "problem": "The following molecule is …\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2010-1-11-fig1.png\n\nA. … a polysaccharide.\n\nB. … a polypeptide.\n\nC. … a DNA strand.\n\nD. … an RNA strand.\n\nE. … a fatty acid."
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "1st round",
+     "problem": "Which of the following processes do you not find in bacteria?\n\nA. DNA repair\n\nB. RNA splicing\n\nC. Translation of mRNA\n\nD. Transcription of DNA\n\nE. DNA synthesis"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "1st round",
+     "problem": "The respiration of glucose can be summarised in the following reaction equation:\n\n$$\\mathrm{C_6H_{12}O_6 + 6\\,O_2 \\longrightarrow 6\\,CO_2 + 6\\,H_2O}$$\n\nWhich of the following statements is/are correct?\n\nI. The atoms of free oxygen ($\\mathrm{O_2}$) take up electrons in this reaction.\n\nII. This reaction is endothermic and consumes energy in the form of heat.\n\nIII. All organisms use this reaction to obtain energy.\n\nIV. In the body, this reaction takes place in many small steps.\n\nA. Only I\n\nB. Only III\n\nC. Only I and IV\n\nD. Only II and III\n\nE. Only II, III and IV"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "1st round",
+     "problem": "Label each transport mechanism with its name.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2010-1-14-fig1.png\n\nI. Diffusion\n\nII. Facilitated diffusion\n\nIII. Active transport\n\nA. Ia, IIb, IIIc\n\nB. Ia, IIc, IIIb\n\nC. Ib, IIa, IIIc\n\nD. Ib, IIc, IIIa\n\nE. Ic, IIb, IIIa"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "1st round",
+     "problem": "Which of the following properties do mitochondria have?\n\nI. Occur only in plant cells.\n\nII. Have their own DNA.\n\nIII. Are surrounded by two membranes.\n\nIV. Carry out photosynthesis.\n\nV. Are inherited by the offspring only from the father.\n\nA. Only I and IV\n\nB. Only II and III\n\nC. Only I, II and IV\n\nD. Only I, III and IV\n\nE. Only II, III and V"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "1st round",
+     "problem": "Which cell type is not involved in the immune response?\n\nA. Erythrocytes (red blood cells)\n\nB. Macrophages\n\nC. Leucocytes (white blood cells)\n\nD. T cells\n\nE. B cells"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "1st round",
+     "problem": "Nerve cells …\n\nI. … transmit stimuli in the form of electric currents.\n\nII. … often have many processes (dendrites).\n\nIII. … divide constantly.\n\nA. Only I\n\nB. Only II\n\nC. Only I and II\n\nD. Only I and III\n\nE. Only II and III"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "1st round",
+     "problem": "Check the following statements and the \"because\" connection for correctness:\n\n① Compared with a reptile lung, the mammalian lung has a considerably larger surface-area-to-volume ratio\n\nbecause\n\n② it has a special surface structure, the pulmonary alveoli.\n\nA. ① false, ② false\n\nB. ① true, ② false\n\nC. ① false, ② true\n\nD. ① true, ② true, connection false\n\nE. ① true, ② true, connection true"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "1st round",
+     "problem": "Check the following statements and the \"because\" connection for correctness:\n\n① If a liver cell of an adult human were transplanted into his spinal cord, it could NOT take over the function of a nerve cell\n\nbecause\n\n② fully differentiated body cells of a human contain only the genes needed for their particular function.\n\nA. ① false, ② false\n\nB. ① true, ② false\n\nC. ① false, ② true\n\nD. ① true, ② true, connection false\n\nE. ① true, ② true, connection true"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "1st round",
+     "problem": "Which functions are performed by red blood cells (erythrocytes)?\n\nI. $\\mathrm{O_2}$ transport\n\nII. $\\mathrm{CO_2}$ transport\n\nIII. Production of antibodies\n\nIV. Storage of glycogen\n\nV. Production of insulin\n\nA. Only I\n\nB. Only III\n\nC. Only I and II\n\nD. Only II and III\n\nE. Only IV and V"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "1st round",
+     "problem": "In which order do $\\mathrm{O_2}$ molecules pass through the following structures?\n\nI. Pulmonary artery\n\nII. Pulmonary vein\n\nIII. right carotid artery\n\nIV. Capillaries\n\nV. Pulmonary alveoli\n\nVI. left heart chamber (ventricle)\n\nVII. right heart antechamber (atrium)\n\nA. II, V, I, VII, VI\n\nB. IV, I, VI, II, III\n\nC. V, II, VI, II, IV\n\nD. V, VI, III, IV, VII\n\nE. VII, I, V, II, VI"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "1st round",
+     "problem": "Match.\n\na) Heart with 2 chambers\n\nb) Heart with 3 chambers\n\nc) Heart with 4 chambers\n\nI. Fish heart\n\nII. Bird heart\n\nIII. Mammalian heart\n\nIV. Amphibian heart\n\nA. Ia, IIa, IIIc, IVb\n\nB. Ia, IIc, IIIc, IVb\n\nC. Ib, IIa, IIIa, IVc\n\nD. Ic, IIa, IIIa, IVb\n\nE. Ic, IIb, IIIc, IVa"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "1st round",
+     "problem": "Check the two following statements and the \"because\" connection for correctness:\n\n① The eardrum transmits incoming sound waves via the auditory ossicles (malleus, incus, stapes) to a fluid (endolymph)\n\nbecause\n\n② the eardrum lies between the auditory ossicles.\n\nA. ① false, ② false\n\nB. ① true, ② false\n\nC. ① false, ② true\n\nD. ① true, ② true, connection false\n\nE. ① true, ② true, connection true"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "1st round",
+     "problem": "Which of the following chromosome aberrations is clearly due to an error in spermatogenesis (formation of sperm)?\n\nA. 45, X0 (only one sex chromosome present)\n\nB. 47, XY + an additional chromosome 21\n\nC. 47, XX + an additional chromosome 21\n\nD. 47, XYY\n\nE. 47, XXX"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "1st round",
+     "problem": "A rhesus-negative (rh-) female patient with blood group 0 urgently needs a blood transfusion. Which blood group or blood groups may the donor have?\n\nI. A, rh+\n\nII. B, rh-\n\nIII. AB, rh+\n\nIV. 0, rh-\n\nA. Only III\n\nB. Only IV\n\nC. Only III and IV\n\nD. Only I, II and IV\n\nE. All"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "1st round",
+     "problem": "The following graph shows the hormone levels during the menstrual cycle. What are the letters A, B and C (in this order)?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2010-1-26-fig1.png\n\nFigure labels (German → English): Tag = day.\n\nA. Prolactin, oxytocin, birth\n\nB. FSH, LH, ovulation\n\nC. LH, oestrogen, fertilisation\n\nD. Progesterone, FSH, fertilisation\n\nE. Oestrogen, progesterone, ovulation"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "1st round",
+     "problem": "Which of the following parameters are not controlled by the parasympathetic or sympathetic nervous system?\n\nA. Hair growth\n\nB. Erection\n\nC. Heart rate\n\nD. Intestinal activity\n\nE. Salivary flow"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "1st round",
+     "problem": "In sections of the brain and of the spinal cord, white matter (axons) and grey matter (cell bodies) can be distinguished. Which statement is correct?\n\nA. In the brain the grey matter surrounds the white matter, the reverse in the spinal cord.\n\nB. In the brain the white matter surrounds the grey matter, the reverse in the spinal cord.\n\nC. In both the brain and the spinal cord the grey matter surrounds the white matter.\n\nD. In both the brain and the spinal cord the white matter surrounds the grey matter.\n\nE. It depends; it is not the same in all sections."
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "1st round",
+     "problem": "Invertebrates have evolved various sense organs, among them statocysts. Here you see a diagram of a statocyst. To which human organ is it analogous (having the same function without having the same ancestry)?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2010-1-29-fig1.png\n\nA. To the sensory cells of the inner ear (organ of balance).\n\nB. To the windpipe (trachea).\n\nC. To the caecum.\n\nD. To an ovary.\n\nE. To the pupil."
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "1st round",
+     "problem": "In which order is a light stimulus taken up and passed on in the eye?\n\nI. Pupil\n\nII. Retina\n\nIII. Optic nerve (nervus opticus)\n\nIV. Lens\n\nV. Vitreous body\n\nVI. Cornea\n\nA. I, V, IV, VI, II, III\n\nB. II, V, I, IV, III, VI\n\nC. IV, I, VI, V, II, III\n\nD. VI, I, IV, V, II, III\n\nE. VI, IV, I, III, V, II"
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "1st round",
+     "problem": "Which of the following statements about digestion is false?\n\nA. DNA is not digested.\n\nB. Proteins are broken down into amino acids.\n\nC. Saliva contains digestive enzymes for starch.\n\nD. The pancreas secretes digestive enzymes for various food components.\n\nE. Fat digestion is efficient only with the help of bile."
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "1st round",
+     "problem": "Which statement about the functions of the kidney is false?\n\nA. The white blood cells mature in the kidney.\n\nB. The kidney excretes metabolic waste products (urea).\n\nC. The kidney maintains the volume and ionic composition of body fluids (homeostasis).\n\nD. The kidney eliminates toxins, drugs and their metabolites.\n\nE. The kidney secretes hormones."
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "1st round",
+     "problem": "Which of the following relationships is not a mutualism (interaction beneficial to both partners)?\n\nA. Nodule bacteria and legumes\n\nB. Alga and fungus in a lichen\n\nC. Cleaner fish and predatory fish\n\nD. Ivy and conifers\n\nE. Plant and mycorrhizal fungus"
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "1st round",
+     "problem": "In which order do N atoms pass through the nitrogen cycle?\n\nI. Edelweiss\n\nII. Decomposers\n\nIII. Vulture\n\nIV. Faeces\n\nV. Ibex\n\nA. III, IV, II, I, V\n\nB. IV, III, II, I, V\n\nC. IV, III, V, I, II\n\nD. V, I, IV, III, II\n\nE. V, II, IV, I, III"
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "1st round",
+     "problem": "Which of the following interactions are positive for both partners (+/+), negative for both partners (-/-), positive for one partner and negative for the other (+/-) or (-/+), or positive for one partner but without effects on the other (+/0). Assign the examples of interactions between species to the correct term.\n\nI. Leafcutter ants (Atta spec.) or (Acromyrmex spec.) cultivate and spread their food fungus.\n\nII. Sexually mature hookworms (Ancylostomatidae) live in the small intestine of ruminants, sucking blood.\n\nIII. Black-backed jackals (Canis mesomelas) live near large predators and grab the remains of their prey.\n\nIV. Great fen-sedge (Cladium mariscus) and reed canary grass (Phalaris arundinacea) both prefer waterlogged silting-up zones.\n\nA. I: (+/+), II: (+/-), III: (+/0), IV: (-/-)\n\nB. I: (+/+), II: (-/-), III: (+/-), IV: (+/0)\n\nC. I: (+/+), II: (-/-), III: (+/-), IV: (+/-)\n\nD. I: (+/-), II: (+/0), III: (+/+), IV: (+/+)\n\nE. I: (+/-), II: (+/-), III: (+/+), IV: (-/-)"
+    },
+    {
+     "day": 1,
+     "number": 36,
+     "paper_label": "1st round",
+     "problem": "What does a population of large, slowly reproducing mammals do on reaching the carrying capacity K?\n\nA. The population dies out.\n\nB. The population grows faster.\n\nC. Growth slows down and the population size stabilises.\n\nD. The population collapses to a fraction of its current size.\n\nE. The growth of the population remains unchanged."
+    },
+    {
+     "day": 1,
+     "number": 37,
+     "paper_label": "1st round",
+     "problem": "Check the two following statements and the \"because\" connection for correctness:\n\n① Food chains often comprise only a few trophic levels\n\nbecause\n\n② only a small percentage of the energy is passed on to the next level.\n\nA. ① false, ② false\n\nB. ① true, ② false\n\nC. ① false, ② true\n\nD. ① true, ② true, connection false\n\nE. ① true, ② true, connection true"
+    },
+    {
+     "day": 1,
+     "number": 38,
+     "paper_label": "1st round",
+     "problem": "Müllerian mimicry is understood as the presence of warning colours in poisonous species. Batesian mimicry denotes the imitation of these warning colours by species that are actually non-poisonous. Which behaviour must natural enemies show for Müllerian or Batesian mimicry to be a successful strategy for the species concerned?\n\nA. Associative learning\n\nB. Imitation\n\nC. Habituation\n\nD. Imprinting\n\nE. cognitive learning"
+    },
+    {
+     "day": 1,
+     "number": 39,
+     "paper_label": "1st round",
+     "problem": "In the animal kingdom, several individuals of a species often occur at the same place at the same time. These social structures can be divided into 4 types:\n\na) Aggregation (random clustering of conspecifics).\n\nb) open anonymous group (individuals of a species join together purposefully. The individuals do not know each other. Anyone can join the group).\n\nc) closed anonymous group (individuals of a species join together purposefully. The individuals do not know each other, but know whether an individual belongs to the same group. Only group members are tolerated.).\n\nd) Individualised group (individuals of a species join together purposefully. The individuals know each other personally and develop relationships within the group. Only group members are tolerated.)\n\nAssign the animal assemblages to a social structure:\n\nI. Wolf pack\n\nII. Flock of starlings\n\nIII. Ant nest\n\nIV. Aggregation of jellyfish\n\nA. Ia, IIb, IIIc, IVd\n\nB. Ib, IIa, IIId, IVc\n\nC. Ib, IIc, IIId, IVa\n\nD. Ic, IId, IIIa, IVb\n\nE. Id, IIb, IIIc, IVa"
+    },
+    {
+     "day": 1,
+     "number": 40,
+     "paper_label": "1st round",
+     "problem": "Under which social form is paternal brood care most likely?\n\nA. A group of males and females live together all year round and form alliances and coalitions within the group. There is no fixed mating season.\n\nB. Males and females live monogamously and fertilisation is internal. There is no fixed mating season.\n\nC. Males defend small territories, where they monopolise and mate with females passing through.\n\nD. Females seek out particularly large and conspicuous males for mating at central display grounds (leks).\n\nE. Several females release their eggs directly into the water. At the same time, several males fertilise these eggs."
+    },
+    {
+     "day": 1,
+     "number": 41,
+     "paper_label": "1st round",
+     "problem": "In a plant population, flower colour is determined by incomplete dominance. The plants with genotype RR are red, the plants with Rr pink and the plants with rr are white. Of 150 plants, 6 are white. About how many red plants do you expect, assuming that the population is in Hardy–Weinberg equilibrium?\n\nA. 40\n\nB. 64\n\nC. 78\n\nD. 96\n\nE. 144"
+    },
+    {
+     "day": 1,
+     "number": 42,
+     "paper_label": "1st round",
+     "problem": "You cross black-and-white spotted mice with brown mice (generation P). You obtain exclusively black, unspotted mice (generation F1). If you cross these F1 with each other, you obtain 93 black, 29 black-and-white spotted, 32 brown and 1 brown-and-white spotted mice (generation F2). What are the genotypes of the P and F1 generations? A = black, a = brown, B = unspotted, b = spotted\n\nA. P: ABAB x abab, F1: ABab\n\nB. P: ABab x AbAb, F1: AbAb\n\nC. P: AbAB x abab, F1: ABab\n\nD. P: AbAb x aBaB, F1: ABab\n\nE. P: AbAb x aBaB, F1: AbAb"
+    },
+    {
+     "day": 1,
+     "number": 43,
+     "paper_label": "1st round",
+     "problem": "At a locus with two alleles in sheep, the frequency of one allele is 0.6. How many animals of a flock of 10,000 sheep are expected to be heterozygous?\n\nA. 1600\n\nB. 3200\n\nC. 4800\n\nD. 6400\n\nE. 8000"
+    },
+    {
+     "day": 1,
+     "number": 44,
+     "paper_label": "1st round",
+     "problem": "Which mode of inheritance of this very rare disease is the most likely? Circle = woman, square = man, filled = affected.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2010-1-44-fig1.png\n\nA. autosomal dominant\n\nB. autosomal recessive\n\nC. gonosomal dominant\n\nD. gonosomal recessive\n\nE. mitochondrial"
+    },
+    {
+     "day": 1,
+     "number": 45,
+     "paper_label": "1st round",
+     "problem": "Of a population of bugs, 50% are coloured red, the remaining 50% are yellow. The red individuals are eaten much more often than the yellow ones by a newly immigrated bird species. Check the following statements and their \"because\" connection for correctness.\n\n① The proportion of yellow bugs will increase\n\nbecause\n\n② birds cannot perceive colours.\n\nA. ① false, ② false\n\nB. ① true, ② false\n\nC. ① false, ② true\n\nD. ① true, ② true, connection false\n\nE. ① true, ② true, connection true"
+    },
+    {
+     "day": 1,
+     "number": 46,
+     "paper_label": "1st round",
+     "problem": "In the so-called heterosis effect, individuals heterozygous for a particular gene locus have an advantage over individuals homozygous for the same locus. A well-known example in humans is the locus for one chain of haemoglobin: heterozygous individuals are more resistant to malaria. What is the consequence of this?\n\nA. At some point there will be only homozygous individuals for this locus.\n\nB. In malaria areas, homozygous individuals will die out.\n\nC. Natural selection is circumvented.\n\nD. Homozygous individuals benefit less from better drugs for the treatment of malaria.\n\nE. At the locus concerned, allelic variability is maintained."
+    },
+    {
+     "day": 1,
+     "number": 47,
+     "paper_label": "1st round",
+     "problem": "Which of the following traits does not contribute to the mating success of particular individuals?\n\nA. The yellow and black stripes of the wasp\n\nB. The brush-shaped penis of damselflies, which removes the sperm from previous copulations\n\nC. The feathers of the peacock\n\nD. The antlers of the deer\n\nE. The striking colours of the golden pheasant"
+    },
+    {
+     "day": 1,
+     "number": 48,
+     "paper_label": "1st round",
+     "problem": "Insert the terms in the correct order into the following two sentences: The phenotypic differences are caused by differences in the … . Natural selection acts on the …, which selects the best … .\n\nA. Genotype, phenotype, alleles\n\nB. Genotype, genotype, genes\n\nC. Genotype, genotype, alleles\n\nD. Phenotype, phenotype, alleles\n\nE. Phenotype, genotype, genes"
+    },
+    {
+     "day": 1,
+     "number": 49,
+     "paper_label": "1st round",
+     "problem": "Florida scrub jays (Aphelocoma coerulescens) live together in family groups. Young birds from the previous year help adult birds rear the young. In an experiment, the young birds acting as helpers were caught and removed from 45 family groups. The survival probability of this year's young birds for certain life stages was compared for these groups with 63 control family groups. What conclusions can be drawn from the following graph with the results of this experiment?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2010-1-49-fig1.png\n\nFigure labels (German → English): mit Brutpflegehelfer = with helpers; ohne Brutpflegehelfer = without helpers; Überlebensrate % = survival rate %; vom Ei zum Schlüpfen = from egg to hatching; vom Schlüpfen zum Flügge werden = from hatching to fledging; vom Flügge werden bis Tag 60 = from fledging to day 60; vom Ei bis Tag 60 = from egg to day 60.\n\nA. Helpers relieve the parents during incubation, so that measurably fewer of the eggs fall victim to bad weather and predators.\n\nB. Helpers have a significant influence on the survival probability only after the young have fledged.\n\nC. Helpers have a significant influence on the survival rate in every stage of brood care.\n\nD. Helpers play a measurable role in provisioning the young birds.\n\nE. The mortality rate is lowest after the young birds have hatched."
+    },
+    {
+     "day": 1,
+     "number": 50,
+     "paper_label": "1st round",
+     "problem": "Florida scrub jays (Aphelocoma coerulescens) live together in family groups. Young birds from the previous year help adult birds rear the young.\n\nWhich conditions best explain a behaviour such as that shown by the young Florida scrub jays?\n\nI. Limited resources that are difficult to exploit\n\nII. High degree of relatedness between helpers and reproducing individuals\n\nIII. Very low reproductive prospects for young animals\n\nIV. Saturated territories\n\nA. Only II\n\nB. Only III\n\nC. Only I and II\n\nD. Only III and IV\n\nE. All"
+    },
+    {
+     "day": 1,
+     "number": 51,
+     "paper_label": "1st round",
+     "problem": "The following disease is inherited gonosomally recessively. Which statement about the pedigree shown is correct? Circle = woman, square = man, filled = affected.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2010-1-51-fig1.png\n\nA. Son A is certainly affected.\n\nB. Daughter B is affected with a probability of 0.5.\n\nC. Son C is affected with a probability of 0.5.\n\nD. Daughter D is affected with a probability of 0.75.\n\nE. Daughter D is certainly affected."
+    },
+    {
+     "day": 1,
+     "number": 52,
+     "paper_label": "1st round",
+     "problem": "Here you see a DNA strand. Which is its complementary strand?\n\n5'-ACGTGTACCCGTATGC-3'\n\nA. 5'-GTACACGTTTACGCAG-3'\n\nB. 5'-UGCACAUGGGCAUACG-3'\n\nC. 5'-TGCACATGGGCATACG-3'\n\nD. 5'-GCAUACGGGUACACGU-3'\n\nE. 5'-GCATACGGGTACACGT-3'"
+    },
+    {
+     "day": 1,
+     "number": 53,
+     "paper_label": "1st round",
+     "problem": "The position of the loci a, b, c and d on the chromosome is to be determined by genetic mapping. By skilful crossing, the following distances in centimorgans (cM) between the loci were found. What is their order on the chromosome?\n\nI. a-b: 8 cM\n\nII. a-d: 10 cM\n\nIII. b-c: 4 cM\n\nIV. b-d: 18 cM\n\nA. cbad\n\nB. dcba\n\nC. acbd\n\nD. bacd\n\nE. adcb"
+    },
+    {
+     "day": 1,
+     "number": 54,
+     "paper_label": "1st round",
+     "problem": "Which statement is false?\n\nA. Reproductive isolation can result from prezygotic barriers (such as behavioural isolation) and/or postzygotic barriers (such as the sterility of hybrids).\n\nB. According to the biological species concept, a species is a population or a group of populations whose individuals actually or potentially interbreed and can produce fertile offspring.\n\nC. A new species can arise through a mutation of the chromosome set.\n\nD. Two related populations whose mating seasons do not overlap can easily interbreed in nature.\n\nE. In allopatric speciation, a geographical barrier isolates two populations, which will develop separately."
+    },
+    {
+     "day": 1,
+     "number": 55,
+     "paper_label": "1st round",
+     "problem": "Match.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2010-1-55-fig1.png\n\nI. Petal\n\nII. Sepal\n\nIII. Anther\n\nIV. Stigma\n\nV. Carpel\n\nVI. Receptacle\n\nA. Ia, IIe, IIIg, IVj, Vh, VIi\n\nB. Ib, IIe, IIIa, IVc, Vi, VIj\n\nC. Ib, IIh, IIIe, IVi, Va, VIc\n\nD. Ie, IIb, IIIc, IVg, Va, VIi\n\nE. Ie, IIf, IIIa, IVh, Vb, VIg"
+    },
+    {
+     "day": 1,
+     "number": 56,
+     "paper_label": "1st round",
+     "problem": "Which of the following statements is false? A photosynthetically active plant cell …\n\nA. … can fix $\\mathrm{CO_2}$ from the air.\n\nB. … can change its external shape freely.\n\nC. … has a cell membrane.\n\nD. … has mitochondria.\n\nE. … has a cell wall."
+    },
+    {
+     "day": 1,
+     "number": 57,
+     "paper_label": "1st round",
+     "problem": "During the so-called alternation of generations, mosses pass through haploid and diploid stages. Which of the following structures is diploid?\n\nA. Egg cell\n\nB. Gametophyte\n\nC. Sporophyte\n\nD. Spermatozoids\n\nE. Spores"
+    },
+    {
+     "day": 1,
+     "number": 58,
+     "paper_label": "1st round",
+     "problem": "Which of the following statements about photosynthesis is false?\n\nA. Photosynthesis is divided into the light reaction (photochemical reactions) and the dark reaction (Calvin cycle).\n\nB. Solar energy is collected by pigments, mainly by chlorophyll.\n\nC. Photosynthesis allows the synthesis of organic molecules starting from $\\mathrm{CO_2}$\n\nD. The site of photosynthesis is the chloroplasts.\n\nE. Only green light can be used for photosynthesis."
+    },
+    {
+     "day": 1,
+     "number": 59,
+     "paper_label": "1st round",
+     "problem": "Which statement about the growth of plants is false?\n\nA. The elongation of the cells of the shoot contributes to growth in length.\n\nB. The meristems consist of little-differentiated cells responsible for growth.\n\nC. The annual rings of tree trunks arise through growth in thickness.\n\nD. Growth is negatively influenced by light.\n\nE. The apical meristems are responsible for growth in length."
+    },
+    {
+     "day": 1,
+     "number": 60,
+     "paper_label": "1st round",
+     "problem": "Check the following statements and the \"because\" connection for correctness:\n\n① Most plants are potentially immortal,\n\nbecause\n\n② plants have tissue that remains capable of division, which allows them unlimited growth.\n\nA. ① false, ② false\n\nB. ① true, ② false\n\nC. ① false, ② true\n\nD. ① true, ② true, connection false\n\nE. ① true, ② true, connection true"
+    },
+    {
+     "day": 1,
+     "number": 61,
+     "paper_label": "1st round",
+     "problem": "The figure shows a three-dimensional section through the wood of a dicotyledonous tree. Assign the indicated structures correctly.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2010-1-61-fig1.png\n\nFigure labels (German → English): Querschnitt = cross section; Radialschnitt = radial section; Lateralschnitt = lateral section.\n\nA. I: Phloem, II: sclerenchyma/supporting fibre, III: medullary ray, IV: annual ring\n\nB. I: Early wood, II: late wood, III: vessel (vessel element), IV: medullary ray\n\nC. I: Vessels (vessel elements), II: bark, III: resin canal, IV: medullary ray\n\nD. I: Bark, II: phloem, III: vessel (vessel element), IV: sclerenchyma/supporting fibre\n\nE. I: Late wood, II: early wood, III: medullary ray, IV: cambium (dividing tissue)"
+    },
+    {
+     "day": 1,
+     "number": 62,
+     "paper_label": "1st round",
+     "problem": "Which of the following statements about the phloem (assimilate-conducting tissue) and the xylem (water- and mineral-conducting tissue) are correct?\n\nI. Unlike in the phloem, transport in the xylem takes place exclusively towards the shoot tips.\n\nII. Unlike in the phloem, transport in the xylem is driven by the transpiration pull.\n\nIII. Unlike the phloem, the xylem is part of the bark.\n\nIV. Unlike the phloem, the xylem is present in the shoot but not in the root.\n\nV. Unlike the phloem, the xylem supplies the non-photosynthetically active parts of the plant with sugar\n\nA. Only I and II\n\nB. Only III and IV\n\nC. Only III and V\n\nD. Only I, II and V\n\nE. Only II, IV and V"
+    },
+    {
+     "day": 1,
+     "number": 63,
+     "paper_label": "1st round",
+     "problem": "From which sources does the plant obtain carbon, nitrogen, phosphorus and sulfur?\n\nA. C: $\\mathrm{CO_2}$, N: $\\mathrm{N_2}$, P: $\\mathrm{H_4P_2O_7}$, S: $\\mathrm{H_2SO_2}$\n\nB. C: $\\mathrm{C_6H_{12}O_6}$, N: $\\mathrm{C_2H_5NO_2}$, P: $\\mathrm{PO_4^{3-}}$, S: $\\mathrm{H_2SO_2}$\n\nC. C: $\\mathrm{CO_2}$, N: $\\mathrm{NO_3^-}$, P: $\\mathrm{PO_4^{3-}}$, S: $\\mathrm{SO_4^{2-}}$\n\nD. C: $\\mathrm{C_6H_{12}O_6}$, N: $\\mathrm{NO_3^-}$, P: $\\mathrm{PO_4^{3-}}$, S: $\\mathrm{SO_4^{2-}}$\n\nE. C: $\\mathrm{CO_2}$, N: $\\mathrm{N_2}$, P: ATP, S: $\\mathrm{H_2S}$"
+    },
+    {
+     "day": 1,
+     "number": 64,
+     "paper_label": "1st round",
+     "problem": "The picture shows a part of the root cap (radial section) of maize, Zea mays. What are the black structures most likely to be?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2010-1-64-fig1.png\n\nA. Nodule bacteria, which convert atmospheric nitrogen into nitrogen fertiliser for the plant.\n\nB. Viruses that can spread in the tissue via cell-to-cell connections.\n\nC. Chromoplasts filled with pigments, which serve to attract pollinators visually.\n\nD. Starch grains, which sink to the bottom of the cells and indicate where down is.\n\nE. Chromosomes during telophase of mitosis."
+    },
+    {
+     "day": 1,
+     "number": 65,
+     "paper_label": "1st round",
+     "problem": "Which of the following pairings of structures/tissue types and functions is false?\n\nA. Stomata – allow gas exchange of the leaves\n\nB. Anther – production of pollen grains\n\nC. Epidermis – boundary and protective tissue of plant organs\n\nD. Chloroplast – photosynthesis\n\nE. Palisade parenchyma – starch-storing tissue in the roots"
+    },
+    {
+     "day": 1,
+     "number": 66,
+     "paper_label": "1st round",
+     "problem": "Which grouping is false?\n\nA. Snakes (Squamata), earthworms (Annelidae) and sharks (Chondrichthyes) belong to the group of vertebrates (Vertebrata).\n\nB. Squids (Cephalopoda), snails (Gastropoda) and mussels belong to the group of molluscs (Mollusca).\n\nC. Insects (Hexapoda), crustaceans (Crustacea) and spiders (Arachnaida) belong to the group of arthropods.\n\nD. Frogs (Anura), tailed amphibians (Caudata) and caecilians (Gymnophiona) belong to the group of amphibians.\n\nE. Brown rat (Rattus norvegicus), water vole (Arvicola terrestris) and guinea pig (Cavia aperea) belong to the group of rodents (Rodentia)."
+    },
+    {
+     "day": 1,
+     "number": 67,
+     "paper_label": "1st round",
+     "problem": "Check the two following statements and the \"because\" connection for correctness:\n\n① Mammals are regarded as a monophyletic animal group (a group that derives from a common ancestor and differs from other groups by particular characters)\n\nbecause\n\n② all mammals have a bony head capsule (skull).\n\nA. ① false, ② false\n\nB. ① true, ② false\n\nC. ① false, ② true\n\nD. ① true, ② true, connection false\n\nE. ① true, ② true, connection true"
+    },
+    {
+     "day": 1,
+     "number": 68,
+     "paper_label": "1st round",
+     "problem": "Which statement about arthropods (insects, millipedes etc.) is false?\n\nA. Arthropods have jointed limbs.\n\nB. Arthropods have a segmented body plan.\n\nC. Arthropods have an open circulatory system.\n\nD. Most known extant animal species belong to the arthropods.\n\nE. Arthropods have a hardened endoskeleton (skeleton inside the body)."
+    },
+    {
+     "day": 1,
+     "number": 69,
+     "paper_label": "1st round",
+     "problem": "What do jellyfish (Cnidaria) have in common with frogs (Amphibia)?\n\nA. Possession of a heart\n\nB. Possession of true tissue\n\nC. Radially symmetrical body plan\n\nD. Possession of a lung\n\nE. Possession of stinging cells"
+    }
+   ]
+  },
+  {
    "year": 2011,
    "problems": [
     {
