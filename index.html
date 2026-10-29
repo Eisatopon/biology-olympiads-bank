@@ -67,6 +67,7 @@
     --aso: #0369a1; --aso-ink: #0c4a6e; --aso-tint: #e0f2fe;
     --nbc: #b91c1c; --nbc-ink: #7f1d1d; --nbc-tint: #fee2e2;
     --ijso: #4d7c0f; --ijso-ink: #365314; --ijso-tint: #ecfccb;
+    --jbo: #be123c; --jbo-ink: #881337; --jbo-tint: #ffe4e6;
     --sbo: #dc2626; --sbo-ink: #991b1b; --sbo-tint: #fee2e2;
     --nseb: #c2410c; --nseb-ink: #7c2d12; --nseb-tint: #ffedd5;
     --nzibo: #0f766e; --nzibo-ink: #134e4a; --nzibo-tint: #ccfbf1;
@@ -297,6 +298,7 @@
 .f-aso { --f: var(--aso); --f-ink: var(--aso-ink); --f-tint: var(--aso-tint); }
 .f-nbc { --f: var(--nbc); --f-ink: var(--nbc-ink); --f-tint: var(--nbc-tint); }
 .f-ijso { --f: var(--ijso); --f-ink: var(--ijso-ink); --f-tint: var(--ijso-tint); }
+.f-jbo { --f: var(--jbo); --f-ink: var(--jbo-ink); --f-tint: var(--jbo-tint); }
 .f-sbo { --f: var(--sbo); --f-ink: var(--sbo-ink); --f-tint: var(--sbo-tint); }
 .f-nseb { --f: var(--nseb); --f-ink: var(--nseb-ink); --f-tint: var(--nseb-tint); }
 .f-nzibo { --f: var(--nzibo); --f-ink: var(--nzibo-ink); --f-tint: var(--nzibo-tint); }
@@ -1073,10 +1075,10 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261028-source-lines';
+const DATA_VERSION = '20261029-jbo';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
-const REGION_OF = { ibo: 'world', ibop: 'world', inbo: 'asia', aso: 'oceania', nbc: 'americas', nzibo: 'oceania', nseb: 'asia', ijso: 'world', sbo: 'europe' };
+const REGION_OF = { ibo: 'world', ibop: 'world', inbo: 'asia', aso: 'oceania', nbc: 'americas', nzibo: 'oceania', nseb: 'asia', ijso: 'world', sbo: 'europe', jbo: 'asia' };
 const regionOf = key => REGION_OF[key] || 'other';
 const PAGE = 20;
 const STORAGE_KEY = 'eisatopon-biology:set:v1';  // same origin as the math bank: keep the keys apart
@@ -1085,6 +1087,7 @@ const COUNTRIES = [
     { key: 'nzibo', name: 'New Zealand NZIBO', flag: '🇳🇿', file: 'NewZealand-NZIBO-problems.json', kind: 'years', scope: 'national', full: 'New Zealand International Biology Olympiad, national entrance and selection exams · not affiliated with, endorsed by or supported by NZIBO' },
     { key: 'nbc', name: 'Canada NBC', flag: '🇨🇦', file: 'Canada-NBC-problems.json', kind: 'years', scope: 'national', full: 'University of Toronto National Biology Competition · not affiliated with, endorsed by or supported by the University of Toronto' },
     { key: 'aso', name: 'Australia ASO', flag: '🇦🇺', file: 'Australia-ASO-problems.json', kind: 'years', scope: 'national', full: 'Australian Science Olympiad Exam, Biology · not affiliated with, endorsed by or supported by Australian Science Innovations' },
+    { key: 'jbo', name: 'Japan JBO', flag: '🇯🇵', file: 'Japan-JBO-problems.json', kind: 'years', scope: 'national', full: 'Japan Biology Olympiad, 1st and 2nd rounds (English translations, with permission) · not affiliated with, endorsed by or supported by the JBO', credit: 'English translation of the JBO original · © International Biology Olympiad Japan Committee (JBO); translated with permission' },
     { key: 'sbo', name: 'Switzerland SBO', flag: '🇨🇭', file: 'Switzerland-SBO-problems.json', kind: 'years', scope: 'national', full: 'Swiss Biology Olympiad, 1st and 2nd rounds (English translations, with permission) · not affiliated with, endorsed by or supported by the Swiss Biology Olympiad', credit: 'English translation of the German original · © Swiss Biology Olympiad; translated with permission' },
     { key: 'nseb', name: 'India NSEB', flag: '🇮🇳', file: 'India-NSEB-problems.json', kind: 'years', scope: 'national', full: 'National Standard Examination in Biology (India, IAPT / ATBS), first stage of the Indian biology olympiad · not affiliated with, endorsed by or supported by IAPT' },
     { key: 'inbo', name: 'India INBO', flag: '🇮🇳', file: 'India-INBO-problems.json', kind: 'years', scope: 'national', full: 'Indian National Biology Olympiad · not affiliated with, endorsed by or supported by HBCSE-TIFR' },
@@ -2170,8 +2173,14 @@ async function openRelatedProblem(uid) {
 }
 
 /* Per-question source lines (shown on cards, in print, in shared images and in Ask AI prompts). */
+const JBO_SITE = 'https://www.jbo-info.jp/exam/index.html';
 const SBO_ARCHIVE = 'https://biology.olympiad.ch/en/navigation-rechts/exams';
 const sboPdf = p => `https://biology.olympiad.ch/fileadmin/user_upload/Archiv/Public/Brain_Food/Biology/Exams/${p.day === 2 ? '2nd' : '1st'}_Round_Exams/DE/${p.day === 2 ? 2 : 1}-Runde-Pruefung-${p.year}-Biologie-Olympiade.pdf`;
+// year.paper -> original JBO paper (paper 1 = 1st round); add an entry for every imported JBO paper.
+const JBO_PDF = {
+    '2025.1': 'JBO_2025/2025_1_Exam.pdf', '2024.1': 'JBO_2024/2024_1_Exam.pdf', '2023.1': 'JBO_2023/2023_1_Exam.pdf'
+};
+const jboPdf = p => JBO_PDF[`${p.year}.${p.day}`] ? 'https://www.jbo-info.jp/exam/pdf_exam/pdf_jbo_exam/' + JBO_PDF[`${p.year}.${p.day}`] : '';
 const qref = (name, p) => `${name} ${p.year}${p.paperLabel ? `, ${p.paperLabel}` : ''}, Question ${p.num}`;
 const CREDITS = {
     ibo: p => `${qref('IBO', p)}. Original organiser: International Biology Olympiad. © International Biology Olympiad (CC BY-NC-SA 4.0). Retyped, statement only (answers omitted).`,
@@ -2182,6 +2191,7 @@ const CREDITS = {
     nbc: p => `${qref('University of Toronto National Biology Competition', p)}. Original organiser: University of Toronto, National Biology Competition. Retyped, statement only (answer keys omitted).`,
     nzibo: p => `${qref('New Zealand International Biology Olympiad', p)}. Original organiser: NZIBO. © NZIBO. Retyped, statement only (answers omitted).`,
     ijso: p => `${qref('International Junior Science Olympiad', p)} (biology question of the multiple-choice paper). Original organiser: IJSO. Retyped, statement only (answers omitted).`,
+    jbo: p => `${qref('Japan Biology Olympiad', p)}. English translation of the JBO original, © International Biology Olympiad Japan Committee (JBO); published with permission, statement only (answers omitted). Source: ${JBO_SITE}${jboPdf(p) ? ' · Original PDF: ' + jboPdf(p) : ''}`,
     sbo: p => `${qref('Swiss Biology Olympiad', p)}. English translation of the Swiss Biology Olympiad original, © Swiss Biology Olympiad; published with permission, statement only (solutions omitted). Archive: ${SBO_ARCHIVE} · Original PDF: ${sboPdf(p)}`
 };
 const NOT_AFFILIATED = 'Not affiliated with, endorsed by or supported by the organiser.';
@@ -2189,6 +2199,10 @@ function creditText(p) { return CREDITS[p.country] ? `${CREDITS[p.country](p)} $
 function creditHtml(p) {
     const t = creditText(p);
     if (!t) return '';
+    if (p.country === 'jbo') {
+        const head = `${qref('Japan Biology Olympiad', p)}. English translation of the JBO original, © International Biology Olympiad Japan Committee (JBO); published with permission, statement only (answers omitted).`;
+        return `<p class="p-credit">${esc(head)} <a href="${esc(JBO_SITE)}" target="_blank" rel="noopener noreferrer">JBO past papers</a>${jboPdf(p) ? ` · <a href="${esc(jboPdf(p))}" target="_blank" rel="noopener noreferrer">Original PDF</a>` : ''}. ${NOT_AFFILIATED}</p>`;
+    }
     if (p.country === 'sbo') {
         const head = `${qref('Swiss Biology Olympiad', p)}. English translation of the Swiss Biology Olympiad original, © Swiss Biology Olympiad; published with permission, statement only (solutions omitted).`;
         return `<p class="p-credit">${esc(head)} <a href="${esc(SBO_ARCHIVE)}" target="_blank" rel="noopener noreferrer">Archive</a> · <a href="${esc(sboPdf(p))}" target="_blank" rel="noopener noreferrer">Original PDF</a>. ${NOT_AFFILIATED}</p>`;
