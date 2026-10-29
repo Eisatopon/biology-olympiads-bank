@@ -1075,7 +1075,7 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261029-jbo-2nd-theory';
+const DATA_VERSION = '20261029-jbo2021-2022-theory';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = { ibo: 'world', ibop: 'world', inbo: 'asia', aso: 'oceania', nbc: 'americas', nzibo: 'oceania', nseb: 'asia', ijso: 'world', sbo: 'europe', jbo: 'asia' };
@@ -2183,7 +2183,7 @@ const JBO_PDF = {
     '2019.1': 'JBO_2019/2019_1_Exam.pdf', '2018.1': 'JBO_2018/2018_1_Exam.pdf', '2017.1': 'JBO_2017/2017_1_Exam.pdf',
     '2016.1': 'JBO_2016/2016_1_Exam.pdf', '2015.1': 'JBO_2015/2015_1_Exam.pdf', '2014.1': 'JBO_2014/2014_1_Exam.pdf',
     '2013.1': 'JBO_2013/2013_1_exam.pdf', '2012.1': 'JBO_2012/2012_1_exam.pdf', '2011.1': 'JBO_2011/2011_1_exam.pdf',
-    '2025.2': 'JBO_2025/2025_2_1_Exam.pdf', '2024.2': 'JBO_2024/2024_2_3_Exam.pdf'
+    '2025.2': 'JBO_2025/2025_2_1_Exam.pdf', '2024.2': 'JBO_2024/2024_2_3_Exam.pdf', '2022.2': 'JBO_2022/2022_2_1_Exam.pdf', '2021.2': 'JBO_2021/2021_2_1_Exam.pdf'
 };
 const jboPdf = p => JBO_PDF[`${p.year}.${p.day}`] ? 'https://www.jbo-info.jp/exam/pdf_exam/pdf_jbo_exam/' + JBO_PDF[`${p.year}.${p.day}`] : '';
 const qref = (name, p) => `${name} ${p.year}${p.paperLabel ? `, ${p.paperLabel}` : ''}, Question ${p.num}`;
