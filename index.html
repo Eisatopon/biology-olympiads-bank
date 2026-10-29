@@ -68,6 +68,7 @@
     --nbc: #b91c1c; --nbc-ink: #7f1d1d; --nbc-tint: #fee2e2;
     --ijso: #4d7c0f; --ijso-ink: #365314; --ijso-tint: #ecfccb;
     --jbo: #be123c; --jbo-ink: #881337; --jbo-tint: #ffe4e6;
+    --grbio: #0d5eaf; --grbio-ink: #0a3d75; --grbio-tint: #dbeafe;
     --sbo: #dc2626; --sbo-ink: #991b1b; --sbo-tint: #fee2e2;
     --nseb: #c2410c; --nseb-ink: #7c2d12; --nseb-tint: #ffedd5;
     --nzibo: #0f766e; --nzibo-ink: #134e4a; --nzibo-tint: #ccfbf1;
@@ -299,6 +300,7 @@
 .f-nbc { --f: var(--nbc); --f-ink: var(--nbc-ink); --f-tint: var(--nbc-tint); }
 .f-ijso { --f: var(--ijso); --f-ink: var(--ijso-ink); --f-tint: var(--ijso-tint); }
 .f-jbo { --f: var(--jbo); --f-ink: var(--jbo-ink); --f-tint: var(--jbo-tint); }
+.f-grbio { --f: var(--grbio); --f-ink: var(--grbio-ink); --f-tint: var(--grbio-tint); }
 .f-sbo { --f: var(--sbo); --f-ink: var(--sbo-ink); --f-tint: var(--sbo-tint); }
 .f-nseb { --f: var(--nseb); --f-ink: var(--nseb-ink); --f-tint: var(--nseb-tint); }
 .f-nzibo { --f: var(--nzibo); --f-ink: var(--nzibo-ink); --f-tint: var(--nzibo-tint); }
@@ -738,6 +740,12 @@ svg.i { width: 1em; height: 1em; flex: none; stroke: currentColor; fill: none; s
 .p-tag { font-size: .82rem; font-weight: 600; color: var(--f-ink); background: var(--f-tint); padding: 2px 9px; border-radius: 3px; }
 
 .statement { font: 400 1.08rem/1.75 var(--serif); max-width: 74ch; overflow-wrap: anywhere; }
+.lang-sw { display: inline-flex; gap: 4px; margin: 0 0 8px; }
+.lang-sw .btn { min-width: 40px; }
+body:not(.lang-el) .lang-sw [data-lang="en"], body.lang-el .lang-sw [data-lang="el"] { background: var(--accent); color: #fff; border-color: var(--accent); }
+.st-el { display: none; }
+body.lang-el .st-el { display: block; }
+body.lang-el .st-en { display: none; }
 .statement .para + .para { margin-top: .6em; }
 .statement .choices .choice { display: block; }
 .statement .fig { margin: .9em 0; text-align: center; }
@@ -1075,10 +1083,10 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261029-credit-min';
+const DATA_VERSION = '20261029-grbio-2024-2026';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
-const REGION_OF = { ibo: 'world', ibop: 'world', inbo: 'asia', aso: 'oceania', nbc: 'americas', nzibo: 'oceania', nseb: 'asia', ijso: 'world', sbo: 'europe', jbo: 'asia' };
+const REGION_OF = { ibo: 'world', ibop: 'world', inbo: 'asia', aso: 'oceania', nbc: 'americas', nzibo: 'oceania', nseb: 'asia', ijso: 'world', sbo: 'europe', jbo: 'asia', grbio: 'europe' };
 const regionOf = key => REGION_OF[key] || 'other';
 const PAGE = 20;
 const STORAGE_KEY = 'eisatopon-biology:set:v1';  // same origin as the math bank: keep the keys apart
@@ -1088,6 +1096,7 @@ const COUNTRIES = [
     { key: 'nbc', name: 'Canada NBC', flag: '🇨🇦', file: 'Canada-NBC-problems.json', kind: 'years', scope: 'national', full: 'University of Toronto National Biology Competition · not affiliated with, endorsed by or supported by the University of Toronto' },
     { key: 'aso', name: 'Australia ASO', flag: '🇦🇺', file: 'Australia-ASO-problems.json', kind: 'years', scope: 'national', full: 'Australian Science Olympiad Exam, Biology · not affiliated with, endorsed by or supported by Australian Science Innovations' },
     { key: 'jbo', name: 'Japan JBO', flag: '🇯🇵', file: 'Japan-JBO-problems.json', kind: 'years', scope: 'national', full: 'Japan Biology Olympiad, 1st and 2nd rounds (English translations, with permission) · not affiliated with, endorsed by or supported by the JBO', credit: 'English translation of the JBO original · © International Biology Olympiad Japan Committee (JBO); translated with permission' },
+    { key: 'grbio', name: 'Greece – Panhellenic Exams', flag: '🇬🇷', file: 'Greece-panhellenic-biology-problems.json', kind: 'years', scope: 'entrance', full: 'Greek Panhellenic university entrance exams, Biology (Greek original and English translation) · © Hellenic Ministry of Education · not affiliated with, endorsed by or supported by the Ministry' },
     { key: 'sbo', name: 'Switzerland SBO', flag: '🇨🇭', file: 'Switzerland-SBO-problems.json', kind: 'years', scope: 'national', full: 'Swiss Biology Olympiad, 1st and 2nd rounds (English translations, with permission) · not affiliated with, endorsed by or supported by the Swiss Biology Olympiad', credit: 'English translation of the German original · © Swiss Biology Olympiad; translated with permission' },
     { key: 'nseb', name: 'India NSEB', flag: '🇮🇳', file: 'India-NSEB-problems.json', kind: 'years', scope: 'national', full: 'National Standard Examination in Biology (India, IAPT / ATBS), first stage of the Indian biology olympiad · not affiliated with, endorsed by or supported by IAPT' },
     { key: 'inbo', name: 'India INBO', flag: '🇮🇳', file: 'India-INBO-problems.json', kind: 'years', scope: 'national', full: 'Indian National Biology Olympiad · not affiliated with, endorsed by or supported by HBCSE-TIFR' },
@@ -1098,12 +1107,13 @@ const COUNTRIES = [
 COUNTRIES.sort((a, b) => a.name.localeCompare(b.name, 'en', { sensitivity: 'base' }));
 const CBY = Object.fromEntries(COUNTRIES.map(c => [c.key, c]));
 /* Sections of the grid, as in the math bank; a section without collections yet says what is coming. */
-const TABS = [['national', 'National'], ['regional', 'Regional'], ['international', 'International'], ['undergraduate', 'Undergraduate']];
+const TABS = [['national', 'National'], ['regional', 'Regional'], ['international', 'International'], ['undergraduate', 'Undergraduate'], ['entrance', 'Entrance Exams']];
 const COMING = {
     national: 'National biology olympiads (USABO, UK British Biology Olympiad, Canada, Russia, Germany, Australia, Greece and more) are being prepared.',
     regional: 'Regional biology olympiads (Baltic, Iberoamerican OIAB and more) are being prepared.',
     international: 'International biology olympiads are being prepared.',
-    undergraduate: 'University biology competitions are being prepared.'
+    undergraduate: 'University biology competitions are being prepared.',
+    entrance: 'University entrance exams in biology (Greek Panhellenic exams and more) are being prepared.'
 };
 const comingHtml = tab => `<p class="mx-nomatch mx-coming">${esc(COMING[tab] || 'This section is being prepared.')}</p>`;
 const scopeOf = c => c.scope || 'national';
@@ -1248,6 +1258,10 @@ const IMG_RE = /(https?:\/\/\S+?)[ \t]*\.(png|jpe?g|gif|webp|svg)\b\.?/gi;
 // A paragraph that is only a figure URL shows the figure in place (biology questions have many);
 // a figure URL inside other text is shown after the statement.
 const FIG_ONLY_RE = /^(https?:\/\/\S+?\.(?:png|jpe?g|gif|webp|svg))$/i;
+// Bilingual exam rows keep one sub-question per line (line breaks outside $$ … $$ become <br>).
+function keepLines(x) {
+    return x.split('$$').map((part, i) => i % 2 ? part : part.replace(/\n/g, '<br>')).join('$$');
+}
 function bodyHtml(text, record) {
     const local = typeof location !== 'undefined' && /^(localhost|127\.)/.test(location.hostname);
     const src = u => local && u.startsWith(RAW) ? './' + u.slice(RAW.length) : u;
@@ -1262,7 +1276,7 @@ function bodyHtml(text, record) {
         if (!x) return '';
         return isChoices(x)
             ? `<div class="para choices">${x.split('\n').map(l => l.trim()).filter(Boolean).map(l => `<span class="choice">${l}</span>`).join('')}</div>`
-            : `<div class="para">${x.replace(/\n(?=\s*•)/g, '<br>')}</div>`;
+            : `<div class="para">${record && record.textEl ? keepLines(x) : x.replace(/\n(?=\s*•)/g, '<br>')}</div>`;
     }).join('');
     figs.forEach(u => { html += fig(u.replace(/&amp;/g, '&')); });
     return html;
@@ -1322,7 +1336,7 @@ function normalizeYears(country, raw) {
                 uid: `${country.key}.${y.year}.${day ?? 0}.${num}`,
                 country: country.key, year: y.year, day, num,
                 paperLabel: p.paper_label || (tests && day ? 'Test ' + day : null), figureAlt: p.figure_alt || null,
-                ...topicFields(p.problem, p.category, `${country.key}.${y.year}.${day ?? 0}.${num}`), text: String(p.problem || '')
+                ...topicFields(p.problem, p.category, `${country.key}.${y.year}.${day ?? 0}.${num}`), text: String(p.problem || ''), textEl: p.problem_el ? String(p.problem_el) : null
             });
         });
     });
@@ -1539,6 +1553,12 @@ function paintTab() {
     if (useList()) buildList();
     REGIONS.forEach(([rk]) => paintGroup(rk));
 }
+// Bilingual rows (Greek Panhellenic exams): EN / ΕΛ switch, remembered per visitor.
+function setLang(l) {
+    document.body.classList.toggle('lang-el', l === 'el');
+    try { localStorage.setItem('biob-lang', l); } catch (e) {}
+}
+try { if (localStorage.getItem('biob-lang') === 'el') document.body.classList.add('lang-el'); } catch (e) {}
 function setTab(tab, keepScope) {
     if (tab === state.tab) return;
     state.tab = tab;
@@ -1956,7 +1976,7 @@ function scoped() {
 }
 function matchesQuery(p) {
     if (!state.q) return true;
-    const hay = `${p.text} ${p.year} ${p.num} ${CBY[p.country].name}`.toLowerCase();
+    const hay = `${p.text} ${p.textEl || ''} ${p.year} ${p.num} ${CBY[p.country].name}`.toLowerCase();
     return state.q.toLowerCase().split(/\s+/).filter(Boolean).every(t => hay.includes(t));
 }
 const matchesDay = p => state.day === 'all' || String(p.day) === state.day;
@@ -2185,6 +2205,18 @@ const JBO_PDF = {
     '2013.1': 'JBO_2013/2013_1_exam.pdf', '2012.1': 'JBO_2012/2012_1_exam.pdf', '2011.1': 'JBO_2011/2011_1_exam.pdf',
     '2025.2': 'JBO_2025/2025_2_1_Exam.pdf', '2024.2': 'JBO_2024/2024_2_3_Exam.pdf', '2022.2': 'JBO_2022/2022_2_1_Exam.pdf', '2021.2': 'JBO_2021/2021_2_1_Exam.pdf'
 };
+// Official papers of the Greek Panhellenic Biology exams (minedu.gov.gr/publications/), per year and paper.
+const GRBIO_PDF = {
+    '2026.1': 'docs2026/panelladikes_2026_iounios/them_biologia_gel_260603.pdf', '2025.1': 'docs2025/panelladikes_2025_iounios/them_biol_gel_250602.pdf',
+    '2024.1': 'docs2024/panelladikes_2024_iounios/them_biol_gel_240604.pdf', '2023.1': 'docs2023/panelladikes_2023_iounios/05_BIOLOGIA_OP_2023.pdf',
+    '2022.1': 'docs2022/panelladikes_2022_iounios/them_bio_gel_220606.pdf', '2021.1': 'docs2021/panelladikes_2021_iounios/BIOLOGIA_OP_NEO_2021_12.pdf',
+    '2020.1': 'docs2020/EXETASEIS-2020-IOUNIOS/04-BIOLOGIA_OP_NEO_2020.pdf', '2020.2': 'docs2020/EXETASEIS-2020-IOUNIOS/them_bio_op_hmer_PALAIO_200619.pdf',
+    '2019.1': 'docs2019/EXETASEIS-2019/them_bio_op_c_hmer_190618.pdf', '2018.1': 'docs2018/EXETASEIS-2018/them_bio_op_c_hmer_180619.pdf',
+    '2017.1': 'docs2017/EXETASEIS-2017/them_bio_op_c_hmer_170616.pdf', '2016.1': 'docs2016/EXETASEIS-2016/them_bio_op_c_hmer_ns_160527.pdf',
+    '2014.1': 'docs2014/them_bio_kat_c_hmer_no_1406.pdf', '2013.1': 'docs2013/them_bio_kat_c_hmer_no_1305.pdf',
+    '2012.1': 'docs2012/them_bio_kat_c_hmer_no_1206.pdf', '2011.1': 'docs2011/them_bio_kat_c_hmer_no_1106.pdf', '2010.1': 'docs/them_bio_kat_c_hmer_no_1006.pdf'
+};
+const grbioPdf = p => GRBIO_PDF[`${p.year}.${p.day}`] ? 'https://www.minedu.gov.gr/publications/' + GRBIO_PDF[`${p.year}.${p.day}`] : '';
 const jboPdf = p => JBO_PDF[`${p.year}.${p.day}`] ? 'https://www.jbo-info.jp/exam/pdf_exam/pdf_jbo_exam/' + JBO_PDF[`${p.year}.${p.day}`] : '';
 const qref = (name, p) => `${name} ${p.year}${p.paperLabel ? `, ${p.paperLabel}` : ''}, Question ${p.num}`;
 const CREDITS = {
@@ -2197,7 +2229,8 @@ const CREDITS = {
     nzibo: () => '© NZIBO',
     ijso: () => '© IJSO',
     jbo: () => '© International Biology Olympiad Japan Committee (JBO) · English translation of the JBO original',
-    sbo: () => '© Swiss Biology Olympiad · English translation of the German original'
+    sbo: () => '© Swiss Biology Olympiad · English translation of the German original',
+    grbio: () => '© Hellenic Ministry of Education'
 };
 const creditLink = (href, text) => `<a href="${esc(href)}" target="_blank" rel="noopener noreferrer">${text}</a>`;
 function creditText(p) { return CREDITS[p.country] ? CREDITS[p.country](p) : ''; }
@@ -2205,6 +2238,7 @@ function creditHtml(p) {
     const t = creditText(p);
     if (!t) return '';
     if (p.country === 'jbo') return `<p class="p-credit">${esc(t)} · ${creditLink(JBO_SITE, 'JBO past papers')}${jboPdf(p) ? ` · ${creditLink(jboPdf(p), 'Original PDF')}` : ''}</p>`;
+    if (p.country === 'grbio') return `<p class="p-credit">${esc(t)}${grbioPdf(p) ? ` · ${creditLink(grbioPdf(p), 'Original PDF')}` : ''}</p>`;
     if (p.country === 'sbo') return `<p class="p-credit">${esc(t)} · ${creditLink(SBO_ARCHIVE, 'Archive')} · ${creditLink(sboPdf(p), 'Original PDF')}</p>`;
     return `<p class="p-credit">${esc(t)}</p>`;
 }
@@ -2230,7 +2264,7 @@ function problemHtml(p) {
             </button>
             </div>
         </div>
-        <div class="statement">${bodyHtml(p.text, p)}</div>
+        ${p.textEl ? `<div class="lang-sw" role="group" aria-label="Language of the statement"><button type="button" class="btn btn-sm" data-lang="en">EN</button><button type="button" class="btn btn-sm" data-lang="el">ΕΛ</button></div><div class="statement st-en">${bodyHtml(p.text, p)}</div><div class="statement st-el" lang="el">${bodyHtml(p.textEl, p)}</div>` : `<div class="statement">${bodyHtml(p.text, p)}</div>`}
         ${creditHtml(p)}
         ${provenanceHtml(p)}
         ${dnaHtml(p)}
@@ -2890,6 +2924,7 @@ document.addEventListener('click', e => {
     const t = e.target.closest('button');
     if (!t) return;
 
+    if (t.dataset.lang) { setLang(t.dataset.lang); return; }
     if (t.dataset.tab) { setTab(t.dataset.tab); return; }
     if (t.hasAttribute('data-early')) { setEarly(!earlyYears); return; }
     if (t.dataset.cgCell) { if (!t.disabled) countryCellClick(t.dataset.cgCell, +t.dataset.year); return; }
