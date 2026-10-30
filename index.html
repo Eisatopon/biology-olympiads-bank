@@ -729,7 +729,9 @@ svg.i { width: 1em; height: 1em; flex: none; stroke: currentColor; fill: none; s
 .share-card .sc-link { color: #0f2a44; font-weight: 600; }
 .share-card .sc-qr { flex: none; width: 84px; height: 84px; }
 .share-card .sc-qr svg { display: block; width: 84px; height: 84px; }
-.p-credit { margin: 8px 0 0; max-width: 74ch; font: 400 .76rem/1.4 var(--sans); color: var(--muted, #666); }
+.p-credit { margin: 0 0 10px; max-width: 74ch; font: .74rem/1.45 var(--sans); color: var(--muted, #666); }
+.yr-credit { margin-left: auto; font: .72rem/1.4 var(--sans); color: var(--muted, #666); }
+.ps-body .p-credit { margin: 8px 0 0; }
 .p-credit a { color: inherit; }
 .share-card .sc-credit { margin-top: 14px; font: italic 13px/1.3 var(--sans); color: #4a5d70; }
 .ai-note { margin: 6px 4px 2px; font-size: .75rem; color: var(--muted); }
@@ -1083,7 +1085,7 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261029-grbio-2024-2026';
+const DATA_VERSION = '20261030-credit-once';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = { ibo: 'world', ibop: 'world', inbo: 'asia', aso: 'oceania', nbc: 'americas', nzibo: 'oceania', nseb: 'asia', ijso: 'world', sbo: 'europe', jbo: 'asia', grbio: 'europe' };
@@ -2265,7 +2267,6 @@ function problemHtml(p) {
             </div>
         </div>
         ${p.textEl ? `<div class="lang-sw" role="group" aria-label="Language of the statement"><button type="button" class="btn btn-sm" data-lang="en">EN</button><button type="button" class="btn btn-sm" data-lang="el">ΕΛ</button></div><div class="statement st-en">${bodyHtml(p.text, p)}</div><div class="statement st-el" lang="el">${bodyHtml(p.textEl, p)}</div>` : `<div class="statement">${bodyHtml(p.text, p)}</div>`}
-        ${creditHtml(p)}
         ${provenanceHtml(p)}
         ${dnaHtml(p)}
     </article>`;
@@ -2331,16 +2332,22 @@ function renderResults() {
     }
 
     const singleGroup = state.country && state.year !== null;
+    // The organiser's credit is shown once per competition-year (again only where a year's papers have different original PDFs).
+    let lastCredit = null;
     if (singleGroup) {
-        html += shown.map(problemHtml).join('');
+        shown.forEach(p => {
+            const c = creditHtml(p);
+            if (c !== lastCredit) { html += c; lastCredit = c; }
+            html += problemHtml(p);
+        });
     } else {
         let cur = null;
         shown.forEach(p => {
-            const key = p.country + '|' + p.year;
+            const key = p.country + '|' + p.year, c = creditHtml(p);
             if (key !== cur) {
-                cur = key;
-                html += `<div class="yr-head"><h3 class="yr">${p.year}</h3><span class="kd">${CBY[p.country].flag} ${CBY[p.country].name}</span></div>`;
-            }
+                cur = key; lastCredit = c;
+                html += `<div class="yr-head"><h3 class="yr">${p.year}</h3><span class="kd">${CBY[p.country].flag} ${CBY[p.country].name}</span>${c ? `<span class="yr-credit">${c.replace(/^<p class="p-credit">|<\/p>$/g, '')}</span>` : ''}</div>`;
+            } else if (c !== lastCredit) { html += c; lastCredit = c; }
             html += problemHtml(p);
         });
     }
