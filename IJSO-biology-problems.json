@@ -368,6 +368,266 @@
    ]
   },
   {
+   "year": 2014,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Multiple choice",
+     "problem": "The temperature of the human organism, considering deep tissues, is around 37ºC, which is subject to slight variations according to the time of day, physical activity, environmental temperature and certain metabolic processes.\n\nVarious neural feedback mechanisms can regulate body temperature. Some mechanisms are:\n\n$$\\begin{array}{|l|} \\hline \\text{1. Tremblings caused by increased muscle tone.} \\\\ \\hline \\text{2. Evaporation of water from the skin and mucous membranes.} \\\\ \\hline \\text{3. Increased basal metabolism and thyroxine blood level.} \\\\ \\hline \\text{4. Panting and peripheral vasodilation.} \\\\ \\hline \\text{5. Peripheral vasoconstriction.} \\\\ \\hline \\end{array}$$\n\nWhen a man faces a sharp drop in temperature as it happens at the Aconcagua summit, compensatory mechanisms that tend to maintain body temperature are:\n\na. 1, 2 and 4\n\nb. 2, 3 and 4\n\nc. 1, 3 and 5\n\nd. 2, 3 and 5"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Multiple choice",
+     "problem": "A climber is training to participate in an expedition to the summit of Aconcagua. For this reason, he goes to an area of high altitude to acclimatize and avoid acute mountain sickness, caused by air pressure reduction and consequently a low partial oxygen pressure ($p\\text{O}_2$).\n\nOne of the acclimation mechanisms is:\n\na. Pulmonary hyperventilation by venous chemoreceptors stimulation.\n\nb. Increase in number of erythrocytes.\n\nc. Decreased supply of oxygen to the muscles.\n\nd. Decreased oxygen diffusion by increased capillary surface."
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Multiple choice",
+     "problem": "Figure 3 shows the arterial oxygen saturation as a function of altitude when breathing air or pure oxygen. According to this, in the ascent to Mount Aconcagua, at 4 500 m a.s.l., breathing air implies a saturation of hemoglobin with oxygen of approximately:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2014-1-7-fig1.png\n\nFigure 3\n\na. 100%\n\nb. 92%\n\nc. 82%\n\nd. 72%"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Multiple choice",
+     "problem": "The differences in the chemical composition of the extracellular and intracellular fluids are vitally important for cells. The components of these liquids are almost equal; however, concentrations vary between both of them. Mark the $\\underline{\\text{incorrect}}$ option taking into consideration the chemical composition of the intra- and extracellular fluids, transport mechanisms and the organs responsible for regulating the internal environment.\n\na. Blood plasma and other extracellular fluids have similar ionic composition but vary in their protein content.\n\nb. Calcium ion ($\\text{Ca}^{2+}$) is almost exclusively present in extracellular fluid. However, it is of vital importance within muscle cells.\n\nc. Extracellular fluid contains higher concentrations of chloride ($\\text{Cl}^-$), potassium ($\\text{K}^+$), hydrogen carbonate [$(\\text{HCO}_3)^-$] ions than intracellular fluid.\n\nd. Metabolic products are eliminated mainly through the lungs and kidneys."
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Multiple choice",
+     "problem": "Adult human hemoglobin (HbA) consists of four polypeptide chains, two $\\alpha$ with 141 amino acids and two $\\beta$ with 146 amino acids.\n\nThe amino acid sequence of the polypeptide chain is known as:\n\na. The quaternary structure of hemoglobin\n\nb. The tertiary structure of hemoglobin\n\nc. The primary structure of hemoglobin\n\nd. The secondary structure of hemoglobin"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Multiple choice",
+     "problem": "Hemoglobin may become abnormal by a mutation in the $\\beta$ chain of the normal protein thereby forming insoluble superpolymers that precipitate and generate sickle-shaped erythrocytes (Figure 7).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2014-1-14-fig1.png\n\nFigure 7\n\nThe synthesis of abnormal hemoglobin type \"S\" (Hb S) is governed by a recessive allele. Two parents are heterozygous for sickle-shaped erythrocytes. The percentage chance of genotypes in their offspring is:\n\na. 50% heterozygous and 50% recessive homozygous\n\nb. 50% heterozygous and 50% dominant homozygous\n\nc. 25% dominant homozygous, 25% recessive homozygous, 50 % heterozygous\n\nd. 25% dominant homozygous, 50% recessive homozygous, 25% heterozyg"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Multiple choice",
+     "problem": "People who are homozygous for HbS suffer from falciform anemie disease /sickle cell anemia. What can be deduced from the altered hemoglobin and the abnormal shape of the erythrocyte?\n\na. Oxygen transport to tissues is canceled\n\nb. Blood flow is reduced because of abnormal erythrocytes blocking blood vessels\n\nc. Oxygen transport is not altered\n\nd. Blood flow in vessels is decreased by precipitation of hemoglobin/HbS"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "Multiple choice",
+     "problem": "In Mendoza flora, Atriplex lampa are an angiosperm with imperfect (unisexual) flowers.\n\nThese flowers are on separate plants, so in this case we are referring to a plant type:\n\na. Monoecious with flowers with stamens and carpels together\n\nb. Monoecious with staminate flowers and carpellate flowers\n\nc. Dioecious with staminate flowers and carpellate flowers\n\nd. Dioecious with flowers with stamens and carpels together"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "Multiple choice",
+     "problem": "Osmosis modifies cells shape. If Atriplex lampa leaves are placed in a media with high salt concentration with respect to the plant, the solution is of the type:\n\na. Hypotonic, causing movement of water to the outside of cells, the leaf wilts\n\nb. Hypertonic, causing movement of water to the outside of the cell, the leaf wilts\n\nc. Hypertonic, causing movement of water into the cell increasing turgor pressure\n\nd. Hypotonic, causing movement of water into the cell, increasing turgor pressure"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Multiple choice",
+     "problem": "Different structures in animals allow maintenance of salt and water balance and excretion of metabolic waste. The functions of a species' excretory organs, and the composition of its excretions, both depend on the environment they inhabit.\n\nIn the following table, column A presents different taxa belonging to the Animal Kingdom. Column B shows some excretory structures.\n\nSelect the right option which indicates the correlation between the number in column A and the letter in column B:\n\n$$\\begin{array}{|c|c|c|c|} \\hline  & \\text{Column A} &  & \\text{Column B} \\\\ \\hline 1 & \\text{Mammalia (Vertebrata)} & \\text{A} & \\text{No excretory organs} \\\\ \\hline 2 & \\text{Gastropoda (Mollusca)} & \\text{B} & \\text{Kidneys} \\\\ \\hline 3 & \\text{Hexapoda (Arthropoda)} & \\text{C} & \\text{Malpighian tubules} \\\\ \\hline 4 & \\text{Asteroidea (Echinodermata)} & \\text{D} & \\text{Nephridia} \\\\ \\hline \\end{array}$$\n\na. 1-A; 2-B; 3-C; 4-D\n\nb. 1-B; 2-D; 3-C; 4-A\n\nc. 1-B; 2-A; 3-D; 4-C\n\nd. 1-C; 2-B; 3-D; 4-A"
+    }
+   ]
+  },
+  {
+   "year": 2016,
+   "problems": [
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Multiple choice",
+     "problem": "Female silkworm moths (Bombyx mori) attract males by emitting chemical signals that spread through the air. A male hundreds of meters away can detect these molecules by chemoreceptors and can fly toward their source. A chemoreceptor is a sensory receptor that detects chemical stimuli. The sensory organs responsible for this behavior are the comb like antennae. Each filament of an antennae is equipped with thousands of receptor cells that detect the sex attractant. The correct proposed hypothesis to account for the ability of the male moth to find the female: The chemoreceptor at the antenna of the male moth .....\n\nA. is only specific for detecting the chemical compound emitted from the female moth within certain distances. The male moth finds the female moth piloted by specific chemical compound which is emitted by the female moth.\n\nB. is not specific for detecting the chemical compound emitted from the female moth within certain distances.\n\nC. can detect all chemical compounds in the air but the male moth finds the female moth by chance.\n\nD. can detect all chemical compounds in the air including specific chemical compound emitted from the female moth which guides the male to the female."
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Multiple choice",
+     "problem": "Pathogenicity of Bacillus thuringiensis (Bt) ORG1 isolate against instar 3 larvae of Spodoptera litura was determined by Probit Analysis. The LC50 is known as the concentration of bacterial cells that kills 50% (probit mortality = 5) of Spodoptera litura larvae. The probit analysis on Bt ORG1 isolate using the regression line $Y = 2.8279 + 0.2069X$ results in the LC50 during 24 hours = 3.15×1010 cell/mL. We tested another Bt isolate (Bt ORG2) for pathogenicity towards Spodoptera litura larvae and obtained a probit regression line with slope of 0.5245 and LC50 during 24 hours = 2.15×1010 cell/mL. Based on the value of LC50 and the slope of probit regression line, which Bt isolate is more pathogenic?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2016-1-22-fig1.png\n\nProbit regression line, $Y = 2.8279 + 0.2069X$, bioassay Bt isolate ORG 1 against 3th instar larvae of Spodoptera litura\n\nA. Bt ORG1 isolate\n\nB. Bt ORG2 isolate\n\nC. Bt ORG1 is as pathogenic as Bt ORG2\n\nD. Neither Bt isolate ORG1 nor Bt isolate ORG2 is pathogenic"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Multiple choice",
+     "problem": "Which of the following statements is INCORRECT about a prokaryote? It has …..\n\nA. nucleoid, a region where the cell’s DNA is located (not enclosed by a membrane)\n\nB. fimbriae-attachment structures on the surface of some prokaryotes\n\nC. plasma membrane enclosing the cytoplasm\n\nD. centrosome, a region where the cell’s microtubules are initiated; contains a pair of centrioles"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Multiple choice",
+     "problem": "Hemoglobin, the oxygen-binding protein of red blood cells, is also a globular protein with quaternary structure. The quaternary structure of hemoglobin is figured out as four polypeptide sub-units, consisting of two α sub-units and two β sub-units. Both α and β sub-units primarily have α-helical secondary structure. Each sub-unit has a non-polypeptide component, called heme, in which an ion of iron binds oxygen. Which of the following figure represents the structure of hemoglobin?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2016-1-24-fig1.png"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Multiple choice",
+     "problem": "The following figure shows a cross section of the root of Ranunculus (buttercup) describing the organization of primary tissues in young roots. This root cross section represents basic pattern of root organization. What is the name of the root tissue indicated by the question mark?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2016-1-25-fig1.png\n\nCross section of the root of Ranunculus (buttercup).\n\nA. Phloem\n\nB. Cortex\n\nC. Xylem\n\nD. Endodermis"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Multiple choice",
+     "problem": "Malaria is a disease caused by plasmodium. The plasmodium spreads from an individual to the others by a mosquito vector. A vector species of plasmodium-carrying mosquito lives in a forest together with two different species of monkeys, X and Y. Species X is immune to plasmodium, but species Y is not. That plasmodium-carrying mosquito is a food source for a particular bird in the forest. If all the birds were suddenly eliminated by hunters, which of the following statements would be an immediate observable consequence?\n\nA. Increased mortality (death rate) in species X\n\nB. Increased mortality in species Y\n\nC. Increased mortality in the plasmodium-carrying mosquitoes\n\nD. No increased mortality in both species X and Y"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Multiple choice",
+     "problem": "Certain species of acacia trees in Baluran National Park, East Java, Indonesia have hollow thorns inhabited (resided) by stinging ants which attack anything that touches the tree. The ants get nutrients produced by the acacia. This is an example of the interaction called…...\n\nA. Mutualism\n\nB. Parasitism\n\nC. Competitive exclusion\n\nD. Intraspecific competition"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Multiple choice",
+     "problem": "Human has dozens of antigens on the surface of his/her blood cells. One group of antigens, designated as the MN blood group, stimulates the production of antibodies when injected into rabbit. Allele for MN blood groups, usually designated as M and N, are codominant. It means that Genotype MM produces only antigen M, while genotype NN produces only antigen N, and the heterozygous genotype MN produces both antigens. Given the following data:\n\n$$\\begin{array}{c|c} \\text{Genotype} & \\text{Observed} \\\\ \\hline \\text{MM} & 320 \\\\ \\text{MN} & 480 \\\\ \\text{NN} & 200 \\\\ \\hline \\text{Total} & 1000 \\end{array}$$\n\nWhat is the frequency of allele M?\n\nA. 0.44\n\nB. 0.56\n\nC. 0.32\n\nD. 0.16"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Multiple choice",
+     "problem": "Sexual reproduction in plants and animals involve the union of two gametes to form a single cell called zygote. Gametes include the egg and sperm cells. Zygote is formed after the sperm fertilizes the egg, resulting in diploid chromosome. The zygote develops into ... .\n\n(Hint: The following figure indicates fertilized egg)\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2016-1-29-fig1.png\n\nA. Embryo\n\nB. Endosperm\n\nC. Carpel\n\nD. Ovule"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Multiple choice",
+     "problem": "Photosynthesis consists of two processes, with each process involves multiple steps. These two photosynthesis processes are known as: (i) the light reaction as the first stage of photosynthesis that uses sunlight as an energy source absorbed by chlorophyll and (ii) the Calvin cycle as the second stage that can proceed without sunlight. Which of the following is INCORRECT statement about photosynthesis?\n\nA. It is a combination of the light reactions and the Calvin cycle. In the chloroplast, the thylakoid membranes are the sites of the light reactions, whereas the Calvin cycle occurs in the stroma\n\nB. The light reactions also generate ATP, using chemiosmosis to power the addition of a phosphate group to ADP, a process called photophosphorylation\n\nC. The light reactions use solar energy to make ATP and NADPH, which supply chemical energy and reducing power, respectively, to the Calvin cycle\n\nD. The Calvin cycle releases $\\text{CO}_2$ from organic molecules, which are converted to sugar."
+    }
+   ]
+  },
+  {
+   "year": 2017,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Multiple choice",
+     "problem": "In a muscle in the upper arm of a human, blood runs through arteries, capillary vessels and veins. The picture shows the total area of a cross section of one of these arteries (a), the subsequent capillary vessels (c) and the corresponding returning veins (v).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2017-1-1-fig1.png\n\nX = direction of the blood flow\n\nY = total area of cross section\n\nWhich of the following pictures correctly shows the rate of flow (velocity) of the blood through an artery, a capillary vessel and a vein concerned?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2017-1-1-fig2.png"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Multiple choice",
+     "problem": "Floris investigates the conversion of glucose by yeast. The glucose is converted anaerobically as well as aerobically. Consider the reaction equations:\n\n$$\\begin{array}{ll} \\text{Aerobic:} & \\mathrm{C_6H_{12}O_6 + 6\\ O_2 \\rightarrow 6\\ CO_2 + 6\\ H_2O} \\\\ \\text{Anaerobic:} & \\mathrm{C_6H_{12}O_6 \\rightarrow 2\\ C_2H_5OH + 2\\ CO_2} \\end{array}$$\n\nFloris starts off with a solution containing 0.50 mol of glucose and some yeast. By measuring the loss of mass he is able to determine the amount of $\\text{CO}_2$ generated.\n\nWhen all the glucose is converted, the total loss in mass due to the generation of $\\text{CO}_2$ is 79.2 g (= 1.8 mol $\\text{CO}_2$). Floris assumes that no carbon dioxide remains in the solution. Now Floris is able to calculate the Respiratory Quotient of the process.\n\nThe Respiratory Quotient is defined as:\n\n$$RQ = \\frac{\\text{moles of } \\mathrm{CO_2} \\text{ (produced)}}{\\text{moles of } \\mathrm{O_2} \\text{ (used)}}$$\n\nWhat is the correct Respiratory Quotient?\n\nA. $RQ$ = 0.67\n\nB. $RQ$ = 1.2\n\nC. $RQ$ = 1.5\n\nD. $RQ$ = 1.8"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Multiple choice",
+     "problem": "The picture shows blood circulation in a mammal. Four locations are indicated by A, B, C and D.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2017-1-3-fig1.png\n\nWhich location has the lowest glucose concentration?"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Multiple choice",
+     "problem": "The distribution of Sphagnum (moss) species is influenced by pH, but not by other abiotic factors.\n\nAfter a long period of stable weather conditions Tom investigates the distribution of three different Sphagnum species on a small island surrounded by brackish water. The results are shown below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2017-1-4-fig1.png\n\nThree conclusions are:\n\nI. Sphagnum squarrosum can only survive if pH > 4.0.\n\nII. Competition occurs between Sphagnum recurvum and Sphagnum fimbriatum.\n\nIII. Sphagnum recurvum and Sphagnum squarrosum have overlapping habitats.\n\nWhich conclusion(s) are correct?\n\nA. only II\n\nB. only I and III\n\nC. only II and III\n\nD. I, II and III"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Multiple choice",
+     "problem": "Mary boiled water and dried grass in a beaker for some time, and left it uncovered for several days. During that period only heterotrophic bacteria were found in the beaker. After ten days, she added a few drops of water from a ditch and covered it with a lid. The water from the ditch only contained heterotrophic unicellular organisms, but no bacteria or fungi. Mary regularly determined the population size of the different species present in the beaker over three months. Alltogether six different species (p - u) were found. The diagram shows the number of individuals per mL in the beaker.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2017-1-5-fig1.png\n\nX = Time (days); Y = number of individuals per mL\n\nLooking at the results Mary considers two conclusions.\n\nI. Eventually the number of dividing bacteria will decrease to zero.\n\nII. Eventually a climax stage will develop, comprising bacteria and other heterotrophic unicellular organisms, in a stable natural equilibrium.\n\nWhich conclusion(s) is/are correct?\n\nA. only I\n\nB. only II\n\nC. both I and II\n\nD. neither I nor II"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Multiple choice",
+     "problem": "In modern biology DNA plays an important role in distinguishing different species. In the past this was done primarily by considering external characteristics. The picture below shows Caminalcules: non-existent creatures invented by Joseph Camin to demonstrate to his students how to distinguish species and set up evolutionary trees.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2017-1-6-fig1.png\n\nThe eight Caminalcules shown can be distinguised with just three of the following four features:\n\nLong arms, long body, presence of belly spots, and presence of fingers.\n\nWhich of the following four features is $\\underline{\\textbf{NOT}}$ needed?\n\nA. long arms\n\nB. long body\n\nC. presence of belly spots\n\nD. presence of fingers"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Multiple choice",
+     "problem": "In a pilot study the daily water loss of a group of subjects is monitored under different conditions. Three processes are monitored: diffusion (not sweating) of water through skin, lung ventilation, and urine production.\n\nThe table shows the results in a random order.\n\nAverage daily loss of water in mL/day:\n\n$$\\begin{array}{l|c|c|c} & \\text{mild exercise at 20 °C} & \\text{mild exercise at 30 °C} & \\text{strenuous exercise at 20 °C} \\\\ \\hline \\text{Process I} & 350 & 250 & 650 \\\\ \\hline \\text{Process II} & 50 & 50 & 50 \\\\ \\hline \\text{Process III} & 1400 & 1300 & 600 \\end{array}$$\n\nWhich processes correspond to lung ventilation and urine production?\n\nA. lung ventilation: process I; urine production: process II\n\nB. lung ventilation: process I; urine production: process III\n\nC. lung ventilation: process II; urine production: process III\n\nD. lung ventilation: process III; urine production: process I"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Multiple choice",
+     "problem": "Some fly species have alleles that are temperature sensitive. Fertilized eggs only develop below a specific temperature, see the table below.\n\n$$\\begin{array}{c|c} \\text{Genotype} & \\text{Temperature necessary for development} \\\\ \\hline \\text{EE} & \\text{< 18 °C} \\\\ \\hline \\text{Ee} & \\text{< 20 °C} \\\\ \\hline \\text{ee} & \\text{< 28 °C} \\end{array}$$\n\nTwo flies, both with genotype Ee, mate. Their fertilized eggs (F1) are allowed to develop at 19 °C. The F1 flies mate randomly and the eggs produced are again allowed to develop at 19 °C.\n\nWhat fraction of eggs produced in the F1 crossing will $\\underline{\\textbf{not}}$ develop?\n\nA. 1/9\n\nB. 2/9\n\nC. 4/9\n\nD. 6/9"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Multiple choice",
+     "problem": "Several people (A - E) in the same city contract Legionnaires’ disease. It is important to identify how many sources are causing this outbreak, and what those sources are, to prevent the disease from spreading. The pathogens’ DNA is extracted, and the alleles of seven of its genes are determined to identify the number of sources. Then, for each pair of patients, we count how often the alleles for those seven genes are different, known as the ‘distance’ between the patient’s pathogens. If the two pathogens of two patients are identical on all seven genes, then the distance is 0, whereas if the pathogens have different alleles for all seven genes, the distance is 7. The distances for all pairs of patients A - E are given below in the ‘Distance matrix’.\n\nDistance matrix:\n\n$$\\begin{array}{c|c|c|c|c|l} \\text{Patient A} & \\text{Patient B} & \\text{Patient C} & \\text{Patient D} & \\text{Patient E} & \\\\ \\hline & 5 & 5 & 1 & 4 & \\text{Patient A} \\\\ \\hline & & 2 & 5 & 2 & \\text{Patient B} \\\\ \\hline & & & 6 & 1 & \\text{Patient C} \\\\ \\hline & & & & 6 & \\text{Patient D} \\\\ \\hline & & & & & \\text{Patient E} \\end{array}$$\n\nThe data in the table can be used to depict the relation of the pathogens in patients A - E as a dendrogram (tree structure).\n\nWhich of the dendrograms below corresponds to the distance matrix?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2017-1-9-fig1.png\n\nA. I\n\nB. II\n\nC. III\n\nD. IV"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Multiple choice",
+     "problem": "Strains of Legionella (the bacterium responsible for Legionnaires’ disease) can be identified by means of the allele for the gene flaA. This gene codes for a protein that is part of the bacterium’s flagellum.\n\nThe bases 670 to 700 of the $\\underline{\\text{coding strand}}$ (the complement of the template strand) of the DNA of an allele of Legionella’s flaA gene are represented below. Bases 197 to 199 make up the start codon.\n\n$$\\begin{array}{c|c|c} & \\text{670 ------------------------------------------ 700} & \\\\ \\hline \\text{5’} & \\text{T T T C A G T A T C G G C A G C A C A A A A G C T T C T T C T} & \\text{3’} \\end{array}$$\n\nWhat is the correct order of the amino acids in the part of the protein that is coded for by the DNA fragment above? Use the table below, in which the genetic code is depicted.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2017-1-10-fig1.png\n\nA. Phe - Ser - Ile - Gly - Ser - Thr - Lys - Ala - Ser - Ser\n\nB. Phe - Gln - Tyr - Trp - Gln - His - Lys - Ser - Phe - Phe\n\nC. Ser - Val - Ser - Ala - Ala - Gln - Lys - Leu - Leu\n\nD. Lys - Ser - Stop"
+    }
+   ]
+  },
+  {
+   "year": 2018,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Multiple choice",
+     "problem": "Amino acids are groups of organic molecules that are building blocks of proteins. The picture below shows a typical amino acid structure. Amino acids serve as buffers to maintain cell pH in the body. Which parts of an amino acid gives it the pH buffering properties?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2018-1-1-fig1.png\n\nA. Amino group and hydroxyl group\n\nB. Peptide bond and carboxyl group\n\nC. Carboxyl group and hydroxyl group\n\nD. Amino group and carboxyl group"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Multiple choice",
+     "problem": "In the DNA sequence shown below, the normal Guanine (G) in the top strand was replaced by the mutant enol form G* before replication. This mutant enol form binds to Thymine (T) instead of Cytosine (C).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2018-1-2-fig1.png\n\nWhat would be the proportion of mutant (different from the original strand shown above) progeny in the second filial ($F_2$) generation?\n\nA. 1/2\n\nB. 1/3\n\nC. 1/4\n\nD. 1/5"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Multiple choice",
+     "problem": "An ecologist driving along the banks of the Chobe River, Botswana, observes little white egrets (Bubulcus ibis) sitting on the back of a hippopotamus (Hippopotamus amphibius). The hippopotamus did not chase the birds away. The ecologist took out his binoculars and observed what was happening. He recorded that the birds were picking ticks from the hippo’s skin.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2018-1-3-fig1.png\n\nSource: Flickr.com/photos/38504899@N08/4178471716\n\nThe symbiotic interaction between the hippo and the egrets could be described as\n\nA. Commensalism\n\nB. Parasitism\n\nC. Mutualism\n\nD. Amensalism"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Multiple choice",
+     "problem": "Oxygen consumption can be used as a measure of metabolic rate because oxygen is\n\nA. Required by all living organisms\n\nB. Required to break down lactic acid that is produced in muscles\n\nC, Necessary for Adenosine Tri-Phosphate (ATP) synthesis by oxidation\n\nD. Necessary to replenish glycogen levels"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Multiple choice",
+     "problem": "Embryonic development is a complex multi-step process that involves transition from single cellularism to multicellularism. In animals, all of the following are associated with embryonic development except\n\nA. Migration of cells to specific areas\n\nB. Formation of germ layers\n\nC. Activation of all the genes in each cell\n\nD. Inductive tissue interactions"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Multiple choice",
+     "problem": "Nitrogen accounts for approximately 79% of air. However, in this form it is inaccessible to most organisms. Atmospheric nitrogen has to be converted into a usable form in the soil by nitrogen fixation for plant growth. The nitrogen fixation mainly occurs by\n\nA. Lightning\n\nB. Biological processes\n\nC. Volcanic eruptions\n\nD. Haber-Bosch process"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Multiple choice",
+     "problem": "The pesticide Dichlorodiphenyltrichloroethane (DDT) was widely used between 1940 and 1960 to kill mosquitoes that transmit the malaria pathogen. Though useful, the pesticide was found to be persistent, meaning it does not degrade easily in the environment. Supposing DDT was sprayed on grasses to eradicate mosquitoes, which organisms in the food web will have the highest concentration of DDT within its tissues?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2018-1-7-fig1.png\n\nA. Rabbits\n\nB. Owls\n\nC. Squirrels\n\nD. Foxes"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Multiple choice",
+     "problem": "Consider the following statements regarding bacterial, animal and plant cells:\n\n(i) Animal and plant cells have a nucleoid.\n\n(ii) Peptidoglycan is the major cell wall component in bacteria.\n\n(iii) Bacterial cell has no cell wall.\n\n(iv) Animal and plant cells generate ATP within the mitochondria.\n\n(v) The main constituent of plant cell walls is a polysaccharide called lignin.\n\n(vi) Bacterial cell generates ATP within the cytoplasm.\n\nWhich of the above statements are correct?\n\nA. (i), (iii) and (vi)\n\nB. (i), (iv) and (v)\n\nC. (ii), (iv) and (vi)\n\nD. (ii), (iv) and (v)"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Multiple choice",
+     "problem": "Leaves have air spaces in between mesophyll cells, as opposed to being completely occupied by cells or water. How are the air spaces useful for $CO_2$ diffusion?\n\nA. They increase surface area for $CO_2$ absorption\n\nB. Allow for faster diffusion of $CO_2$\n\nC. If there were no air spaces between the cells, the amount of $CO_2$ would be the rate limiting factor in photosynthesis\n\nD. All of the above"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Multiple choice",
+     "problem": "Guttation (picture below) in small plants happens at night and is due to osmosis. Which of the following statements describes how the process of guttation occurs?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/ijso-2018-1-10-fig1.png\n\nhttps://twitter.com/cairotango/status/332246248818106368\n\nA. Positive pressure generated in the roots pushes water out of the xylem in the leaves\n\nB. Water accumulates in the leaves because evaporation happens slower than transpiration\n\nC. Water is pulled up in large quantities to leaves because of an increase in solute concentrations in the leaves\n\nD. Water from dew gathers on the surface of plant leaves"
+    }
+   ]
+  },
+  {
    "year": 2019,
    "problems": [
     {
