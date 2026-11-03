@@ -828,6 +828,13 @@ dialog p { color: var(--muted); font-size: .92rem; }
 .copy-status { font-size: .85rem; color: var(--az-ink); min-height: 1.4em; margin-top: 6px; }
 
 /* ---------- Footer ---------- */
+.says { margin-top: 40px; padding: 20px 0 24px; border-top: 1px solid var(--line); font-size: .9rem; color: var(--muted); }
+.says h2 { margin: 0 0 8px; font: 700 1rem var(--sans); color: var(--ink); }
+.says ol { margin: 0 0 8px; padding-left: 1.4em; max-width: 90ch; list-style: decimal; }
+.says li + li { margin-top: 6px; }
+.says p { margin: 0 0 4px; }
+.says .says-note { font-size: .8rem; }
+.says a { color: inherit; text-decoration: underline; }
 .footer { background: var(--ink-deep); color: #b9c6d2; font-size: .9rem; }
 .footer .wrap { padding-top: 22px; padding-bottom: 22px; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px 24px; }
 .footer a { color: #fff; }
@@ -1032,6 +1039,18 @@ dialog p { color: var(--muted); font-size: .92rem; }
     </aside>
 </main>
 
+<section class="says" aria-labelledby="saysTitle">
+    <div class="wrap">
+        <h2 id="saysTitle">What people say</h2>
+        <ol>
+            <li><q>I think it's great for budding mathematicians that you're compiling this resource.</q> — Jim Propp, mathematician, UMass Lowell · on <a href="https://eisatopon.github.io/national-olympiads-bank/">Pythagoras</a></li>
+            <li><q>This is quite a collection of problems from many different olympiads. Hipparchus will definitely be useful for our students for the next year's olympiad.</q> — Loa Hellsing, Project Leader, Swedish Astronomical Olympiad · on <a href="https://eisatopon.github.io/astronomy-olympiads-bank/">Hipparchus</a></li>
+        </ol>
+        <p>Also: <a href="https://eisatopon.github.io/astronomy-olympiads-bank/">Hipparchus</a> is listed by the IOAA among its <a href="https://ioaastrophysics.org/resources/other-resources" target="_blank" rel="noopener">Other Resources</a>.</p>
+        <p class="says-note">Personal words shared with permission; not official endorsements.</p>
+    </div>
+</section>
+
 <footer class="footer">
     <div class="wrap">
         <span>eisatopon.gr © 2026–<span id="yr">2026</span> – Aristotle – World Biology Olympiads Bank</span>
@@ -1087,7 +1106,7 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261103-cybio-2010-2011';
+const DATA_VERSION = '20261103-what-people-say';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = { ibo: 'world', ibop: 'world', inbo: 'asia', aso: 'oceania', nbc: 'americas', nzibo: 'oceania', nseb: 'asia', ijso: 'world', sbo: 'europe', jbo: 'asia', grbio: 'europe', cybio: 'europe' };
