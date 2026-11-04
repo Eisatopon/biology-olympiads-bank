@@ -572,6 +572,14 @@ svg.i { width: 1em; height: 1em; flex: none; stroke: currentColor; fill: none; s
 .stat b { display: block; font: 800 1.7rem/1 var(--serif); }
 .stat span { font-size: .82rem; color: #aebccb; }
 .updated { flex-basis: 100%; text-align: right; font-size: .8rem; color: #aebccb; margin-top: -10px; }
+.potd { margin: 8px 0 14px; padding: 18px 20px; border: 2px solid var(--ink); border-radius: 10px; background: linear-gradient(135deg, #fdf2f8 0%, #f0fdf4 100%); color: #12261a; }
+.potd-top { display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap; }
+.potd-badge { background: var(--ink); color: #fff; border-radius: 999px; padding: 4px 12px; font-weight: 700; font-size: .85rem; }
+.potd-date { font-size: .85rem; opacity: .8; }
+.potd-src { margin: 10px 0 6px; font-weight: 600; }
+.potd-st { font-size: 1.1rem; }
+.potd-actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 12px; }
+.potd-next { margin: 10px 0 0; font-size: .8rem; opacity: .75; }
 .daily-h { margin: 18px 0 8px; font-size: 1.05rem; }
 .daily-h-row { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
 .daily-h-row .daily-h { margin-right: auto; }
@@ -1130,7 +1138,7 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261104-bellos';
+const DATA_VERSION = '20261104-potd';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = { ibo: 'world', ibop: 'world', inbo: 'asia', aso: 'oceania', nbc: 'americas', nzibo: 'oceania', nseb: 'asia', ijso: 'world', sbo: 'europe', jbo: 'asia', grbio: 'europe', cybio: 'europe' };
@@ -1208,7 +1216,7 @@ const countText = n => plural(n, 'problem', 'problems');
 let typesetObserver = null;
 function typesetVisible(root) {
     if (typesetObserver) { typesetObserver.disconnect(); typesetObserver = null; }
-    const cards = [...root.querySelectorAll('article.problem')];
+    const cards = [...root.querySelectorAll('article.problem, article.potd')];
     if (!cards.length) return /[$\\]/.test(root.textContent) ? typeset(root) : Promise.resolve();
     if (typeof IntersectionObserver !== 'function') return typeset(root);
     typesetObserver = new IntersectionObserver(entries => {
@@ -2342,18 +2350,33 @@ function dailyHtml() {
     if (!dailyHome()) return '';
     if (!dailyPool) { loadDaily(); return ''; }
     if (!dailyPool.length) return '';
-    const rnd = mulberry32(dailySeed), a = dailyPool.slice();
-    for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(rnd() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; }
-    // One per row; distinct flags first, then any row not yet used.
-    const picks = [], keys = new Set(), flags = new Set();
-    a.forEach(e => { if (picks.length < 9 && !keys.has(e.k) && !flags.has(CBY[e.k].flag)) { picks.push(e); keys.add(e.k); flags.add(CBY[e.k].flag); } });
-    a.forEach(e => { if (picks.length < 9 && !keys.has(e.k)) { picks.push(e); keys.add(e.k); } });
-    const card = e => {
-        const c = CBY[e.k];
-        return `<article class="problem daily f-${e.k}"><div class="p-head"><div class="p-id"><span class="p-num">${esc(String(e.n))}</span><span class="p-meta">${c.flag} ${esc(c.name)} ${e.y}${e.pl ? `, ${esc(e.pl)}` : e.d ? `, Day ${e.d}` : ''}</span></div><div class="p-actions"><a class="btn btn-sm" href="?p=${encodeURIComponent(e.u)}">Open</a></div></div><div class="statement">${bodyHtml(e.t, null)}</div></article>`;
-    };
-    return `<section class="daily-box" aria-label="Problem of the day"><h3 class="daily-h">★ Problem of the day</h3>${card(picks[0])}`
-        + (picks.length > 1 ? `<div class="daily-h-row"><h3 class="daily-h">Today's selection from around the world</h3><button type="button" class="btn btn-sm" data-daily-shuffle>Shuffle</button></div>${picks.slice(1).map(card).join('')}` : '')
+    const shuffled = seed => { const rnd = mulberry32(seed), a = dailyPool.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(rnd() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
+    // The Problem of the day is always the day's pick; Shuffle reseeds only the selection below it.
+    const today = Math.floor(Date.now() / 864e5), potd = shuffled(today)[0];
+    const a = shuffled(dailySeed);
+    const picks = [], keys = new Set([potd.k]), flags = new Set([CBY[potd.k].flag]);
+    a.forEach(e => { if (picks.length < 8 && e.u !== potd.u && !keys.has(e.k) && !flags.has(CBY[e.k].flag)) { picks.push(e); keys.add(e.k); flags.add(CBY[e.k].flag); } });
+    a.forEach(e => { if (picks.length < 8 && e.u !== potd.u && !keys.has(e.k)) { picks.push(e); keys.add(e.k); } });
+    const meta = e => { const c = CBY[e.k]; return `${c.flag} ${esc(c.name)} ${e.y}${e.pl ? `, ${esc(e.pl)}` : e.d ? `, Day ${e.d}` : ''}`; };
+    const card = e => `<article class="problem daily f-${e.k}"><div class="p-head"><div class="p-id"><span class="p-num">${esc(String(e.n))}</span><span class="p-meta">${meta(e)}</span></div><div class="p-actions"><a class="btn btn-sm" href="?p=${encodeURIComponent(e.u)}">Open</a></div></div><div class="statement">${bodyHtml(e.t, null)}</div></article>`;
+    const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+    const d = new Date(today * 864e5), left = (today + 1) * 864e5 - Date.now();
+    const pp = {uid: potd.u, country: potd.k, year: potd.y, num: potd.n, day: potd.d ?? null, paperLabel: potd.pl || null, text: potd.t};
+    const hint = aiUrl(aiPrompt(pp, aiRequest('hint')));
+    const topic = typeof topicFields === 'function' ? (topicFields(potd.t, null, potd.u) || {}).topic : '';
+    return `<section class="daily-box" aria-label="Problem of the day">
+        <article class="potd f-${potd.k}">
+            <div class="potd-top"><span class="potd-badge">★ Problem of the day</span><span class="potd-date">${d.getUTCDate()} ${MONTHS[d.getUTCMonth()]} ${d.getUTCFullYear()}</span></div>
+            <p class="potd-src">${meta(potd)} · Problem ${esc(String(potd.n))}${topic ? ` <span class="p-tag">${esc(topic)}</span>` : ''}</p>
+            <div class="statement potd-st">${bodyHtml(potd.t, null)}</div>
+            <div class="potd-actions">
+                <a class="btn btn-primary" href="?p=${encodeURIComponent(potd.u)}">Open the problem</a>
+                <a class="btn" href="${esc(hint)}" target="_blank" rel="noopener noreferrer" data-potd-hint="${esc(potd.u)}">💡 Get a hint</a>
+                <button type="button" class="btn" data-potd-share="${esc(potd.u)}">Share</button>
+            </div>
+            <p class="potd-next">Next problem in ${Math.floor(left / 36e5)} h ${Math.floor(left % 36e5 / 6e4)} min</p>
+        </article>`
+        + (picks.length ? `<div class="daily-h-row"><h3 class="daily-h">Today's selection from around the world</h3><button type="button" class="btn btn-sm" data-daily-shuffle>Shuffle</button></div>${picks.map(card).join('')}` : '')
         + '</section>';
 }
 
@@ -3161,6 +3184,12 @@ document.addEventListener('click', e => {
         return;
     }
     if (t.hasAttribute('data-whats-new')) { showWhatsNew(); return; }
+    if (t.hasAttribute('data-potd-share')) {
+        const url = SHARE_URL + encodeURIComponent(t.dataset.potdShare);
+        if (navigator.share) navigator.share({title: 'Problem of the day – Aristotle', url}).catch(() => {});
+        else copyText(url, 'Link copied.');
+        return;
+    }
     if (t.hasAttribute('data-daily-shuffle')) { dailySeed = Math.floor(Math.random() * 2 ** 31); renderResults(); return; }
     if (t.hasAttribute('data-retry')) { failed.clear(); refresh(); return; }
     if (t.hasAttribute('data-more')) {
