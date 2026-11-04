@@ -1138,7 +1138,7 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261104-potd';
+const DATA_VERSION = '20261104-home-order';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = { ibo: 'world', ibop: 'world', inbo: 'asia', aso: 'oceania', nbc: 'americas', nzibo: 'oceania', nseb: 'asia', ijso: 'world', sbo: 'europe', jbo: 'asia', grbio: 'europe', cybio: 'europe' };
@@ -1488,8 +1488,15 @@ function browseTotal() {
 }
 // The list is ordered by year (newest first), then by collection name, exactly as COUNTRIES.
 // Returns the last (year, collection index) needed to fill the first `limit` results.
+// On the home list the collections of a year come in a daily order, the same for everyone that day.
+function dayRank(key) {
+    let h = (2166136261 ^ Math.floor(Date.now() / 864e5)) >>> 0;
+    for (let i = 0; i < key.length; i++) { h ^= key.charCodeAt(i); h = Math.imul(h, 16777619) >>> 0; }
+    return h;
+}
+function browseRows() { return tabRows().slice().sort((a, b) => dayRank(a.key) - dayRank(b.key)); }
 function browseCutoff() {
-    const rows = tabRows();
+    const rows = browseRows();
     let sum = 0;
     for (let y = LAST; y >= FIRST; y--) {
         for (let i = 0; i < rows.length; i++) {
@@ -2027,7 +2034,7 @@ function scoped() {
     const keys = state.country ? [state.country] : tabRows().map(c => c.key);
     let list = keys.flatMap(k => cache.get(k) || []);
     if (state.year !== null) list = list.filter(p => p.year === state.year);
-    else if (browseTotal()) { const [cy, ci] = browseCutoff(); const idx = Object.fromEntries(tabRows().map((c, i) => [c.key, i])); list = list.filter(p => p.year > cy || (p.year === cy && idx[p.country] <= ci)); }
+    else if (browseTotal()) { const [cy, ci] = browseCutoff(); const idx = Object.fromEntries(browseRows().map((c, i) => [c.key, i])); list = list.filter(p => p.year > cy || (p.year === cy && idx[p.country] <= ci)); }
     return list;
 }
 function matchesQuery(p) {
@@ -2041,6 +2048,7 @@ const filtersOn = () => state.day !== 'all' || state.topic !== 'all' || state.q.
 
 function compare(a, b) {
     if (a.year !== b.year) return b.year - a.year;
+    if (a.country !== b.country && browseTotal()) return dayRank(a.country) - dayRank(b.country);
     if (a.country !== b.country) return CBY[a.country].name.localeCompare(CBY[b.country].name, 'en', { sensitivity: 'base' });
     if ((a.day || 0) !== (b.day || 0)) return (a.day || 0) - (b.day || 0);
     return (parseFloat(a.num) || 0) - (parseFloat(b.num) || 0);
@@ -2389,7 +2397,8 @@ function neededCountries() {
     if (state.year !== null) return all.filter(k => has(k, y => y === state.year));
     if (filtersOn()) return all;
     const [cy, ci] = browseCutoff();
-    return all.filter((k, i) => !manifestYears(k) || has(k, y => y > cy || (y === cy && i <= ci)));
+    const idx = Object.fromEntries(browseRows().map((c, i) => [c.key, i]));
+    return all.filter(k => !manifestYears(k) || has(k, y => y > cy || (y === cy && idx[k] <= ci)));
 }
 function pendingCountries() { return neededCountries().filter(k => !cache.has(k) && !failed.has(k)); }
 function progressText() {
