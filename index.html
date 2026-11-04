@@ -554,7 +554,7 @@ svg.i { width: 1em; height: 1em; flex: none; stroke: currentColor; fill: none; s
    ========================================================== */
 .hero { background: var(--ink); color: #fff; overflow: hidden; }
 /* Until the grid is built (init), keep what it pushes down invisible, so nothing jumps on phones. */
-.booting .hero > .wrap:last-child, .booting #main, .booting .footer, .booting #statUpdated { visibility: hidden; }
+.booting .hero > .wrap:last-child, .booting #main, .booting .footer, .booting .updated { visibility: hidden; }
 .brandbar { padding-top: 18px; padding-bottom: 4px; display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
 .subjects { display: flex; gap: 8px; flex-wrap: wrap; }
 .subj { display: inline-flex; align-items: center; gap: 7px; padding: 7px 13px; border: 1px solid rgba(255,255,255,.28); border-radius: 999px; color: #fff; text-decoration: none; font-size: .88rem; font-weight: 600; background: rgba(255,255,255,.06); transition: background .15s, border-color .15s; }
@@ -572,7 +572,12 @@ svg.i { width: 1em; height: 1em; flex: none; stroke: currentColor; fill: none; s
 .stat b { display: block; font: 800 1.7rem/1 var(--serif); }
 .stat span { font-size: .82rem; color: #aebccb; }
 .updated { flex-basis: 100%; text-align: right; font-size: .8rem; color: #aebccb; margin-top: -10px; }
-.updated:empty { display: none; }
+.linkish { background: none; border: 0; padding: 0; font: inherit; color: inherit; text-decoration: underline; cursor: pointer; }
+.wn-dlg { max-width: 560px; width: calc(100% - 32px); }
+.wn-dlg ul { list-style: none; padding: 0; margin: 0 0 12px; max-height: 60vh; overflow: auto; }
+.wn-dlg li { padding: 6px 0; border-bottom: 1px solid rgba(127,127,127,.2); }
+.wn-dlg a { color: inherit; }
+.wn-dlg .wn-date { display: block; font-size: .8rem; opacity: .75; }
 @media (max-width: 820px) { .updated { text-align: left; margin-top: -6px; } }
 
 /* ---------- Country × year grid ---------- */
@@ -946,7 +951,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
             <div class="stat"><b id="statTotal">—</b><span>questions</span></div>
             <div class="stat"><b id="statRows">—</b><span>competitions</span></div>
             <div class="stat"><b id="statYears">—</b><span>years</span></div>
-            <p class="updated" id="statUpdated"></p>
+            <p class="updated"><span id="statUpdated"></span> · <button type="button" class="linkish" data-whats-new>What's new</button></p>
         </div>
     </div>
 
@@ -1118,7 +1123,7 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261104-jbo-2nd-2011-2017';
+const DATA_VERSION = '20261104-copy-tex-news';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = { ibo: 'world', ibop: 'world', inbo: 'asia', aso: 'oceania', nbc: 'americas', nzibo: 'oceania', nseb: 'asia', ijso: 'world', sbo: 'europe', jbo: 'asia', grbio: 'europe', cybio: 'europe' };
@@ -2083,7 +2088,7 @@ function headHtml(count) {
             ${wide || filtersOn() ? '<button type="button" class="btn btn-sm btn-quiet" data-copy-view>Copy link to this view</button>' : ''}
             ${wide ? `<button type="button" class="btn btn-sm" data-all-scope>${state.tab === 'national' ? 'All countries, all years' : 'All competitions, all years'}</button>` : ''}
             ${count && count <= 60 ? `<button type="button" class="btn btn-sm" data-add-all>${ICON.plus} Add all (${count})</button>` : ''}
-            ${count && (state.country || filtersOn()) ? `<button type="button" class="btn btn-sm" data-export-view title="Download every problem of this view as a LaTeX (.tex) file">Export LaTeX (${count})</button>` : ''}
+            ${count && (state.country || filtersOn()) ? `<button type="button" class="btn btn-sm" data-export-view title="Download every problem of this view as a LaTeX (.tex) file">Export LaTeX (${count})</button><button type="button" class="btn btn-sm" data-copy-tex title="Copy the LaTeX of every problem of this view">Copy LaTeX (${count})</button>` : ''}
         </div>
     </div>`;
 }
@@ -2849,6 +2854,29 @@ function showUpdated() {
     $('#statUpdated').textContent = `Updated ${d.getUTCDate()} ${MONTHS[d.getUTCMonth()]} ${d.getUTCFullYear()}`;
 }
 
+let whatsNew = null;
+async function showWhatsNew() {
+    const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sept', 'Oct', 'Nov', 'Dec'];
+    const fmt = iso => { const m = /^(\d{4})-(\d{2})-(\d{2})/.exec(iso || ''); return m ? `${+m[3]} ${MONTHS[+m[2] - 1]} ${m[1]}` : esc(iso || ''); };
+    let dlg = $('#whatsNewDialog');
+    if (!dlg) {
+        dlg = document.createElement('dialog');
+        dlg.id = 'whatsNewDialog'; dlg.className = 'wn-dlg'; dlg.setAttribute('aria-labelledby', 'wnTitle');
+        dlg.innerHTML = '<h2 id="wnTitle">What\'s new</h2><ul id="wnList"><li>Loading…</li></ul><div class="dlg-actions"><button type="button" class="btn btn-primary" data-wn-close>Close</button></div>';
+        dlg.addEventListener('click', e => { if (e.target === dlg || e.target.closest('[data-wn-close]')) dlg.close(); });
+        document.body.appendChild(dlg);
+    }
+    dlg.showModal();
+    try {
+        if (!whatsNew) { const r = await fetch('./metadata/runtime/whats-new.json?v=' + DATA_VERSION); if (!r.ok) throw new Error(r.status); whatsNew = (await r.json()).entries || []; }
+        $('#wnList').innerHTML = whatsNew.slice(0, 40).map(e => {
+            const c = CBY[e.key];
+            const label = `${c ? c.flag + ' ' : ''}${esc(e.text)}`;
+            return `<li><span class="wn-date">${fmt(e.date)}</span>${c ? `<a href="?s=${encodeURIComponent(scopeOf(c))}&amp;c=${encodeURIComponent(e.key)}">${label}</a>` : label}</li>`;
+        }).join('') || '<li>Nothing yet.</li>';
+    } catch (e) { $('#wnList').innerHTML = '<li>Could not load the list. Please try again later.</li>'; }
+}
+
 /* ---------- Share one problem ----------
    Links go through the share worker (workers/share): its page carries the problem's title and statement
    for link previews and sends people on to ?p=<uid>. */
@@ -3083,6 +3111,14 @@ document.addEventListener('click', e => {
         exportTex(shownUids.map(u => byUid.get(u)).filter(Boolean), title.replace(/^[^\p{L}\p{N}]+/u, '') + topic, true);
         return;
     }
+    if (t.hasAttribute('data-copy-tex')) {
+        const [title] = scopeTitle();
+        const topic = state.topic !== 'all' ? ` – ${state.topic}` : '';
+        const items = shownUids.map(u => byUid.get(u)).filter(Boolean);
+        if (items.length) copyText(buildTex(items, title.replace(/^[^\p{L}\p{N}]+/u, '') + topic, true), `LaTeX of ${items.length} problem${items.length === 1 ? '' : 's'} copied.`);
+        return;
+    }
+    if (t.hasAttribute('data-whats-new')) { showWhatsNew(); return; }
     if (t.hasAttribute('data-retry')) { failed.clear(); refresh(); return; }
     if (t.hasAttribute('data-more')) {
         limit += PAGE;
