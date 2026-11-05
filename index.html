@@ -579,6 +579,8 @@ svg.i { width: 1em; height: 1em; flex: none; stroke: currentColor; fill: none; s
 .potd-src { margin: 10px 0 6px; font-weight: 600; }
 .potd-st { font-size: 1.1rem; }
 .potd-actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 12px; }
+.potd-junior { border-color: #1d6fb8; background: linear-gradient(135deg, #eff6ff 0%, #f0f9ff 100%); }
+.potd-junior .potd-badge { background: #1d6fb8; }
 .potd-next { margin: 10px 0 0; font-size: .8rem; opacity: .75; }
 .daily-h { margin: 18px 0 8px; font-size: 1.05rem; }
 .daily-h-row { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
@@ -1142,7 +1144,7 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261105-overleaf';
+const DATA_VERSION = '20261105-junior-potd';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = { ibo: 'world', ibop: 'world', inbo: 'asia', aso: 'oceania', nbc: 'americas', nzibo: 'oceania', nseb: 'asia', ijso: 'world', sbo: 'europe', jbo: 'asia', grbio: 'europe', cybio: 'europe' };
@@ -2347,7 +2349,7 @@ function problemHtml(p) {
 /* ---------- Problem of the day ----------
    Same picks for every visitor on a given day: seed = day number, mulberry32, Fisher–Yates over a small pool
    (metadata/runtime/daily.json, loaded only on the home view). "Shuffle" reseeds randomly. */
-let dailyPool = null, dailyLoading = false, dailySeed = Math.floor(Date.now() / 864e5);
+let dailyJunior = [], dailyPool = null, dailyLoading = false, dailySeed = Math.floor(Date.now() / 864e5);
 function mulberry32(a) { return () => { a |= 0; a = a + 0x6D2B79F5 | 0; let t = Math.imul(a ^ a >>> 15, 1 | a); t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t; return ((t ^ t >>> 14) >>> 0) / 4294967296; }; }
 function dailyHome() { return !state.country && state.year === null && !filtersOn() && state.tab !== 'entrance'; }
 function loadDaily() {
@@ -2355,6 +2357,7 @@ function loadDaily() {
     dailyLoading = true;
     fetch('./metadata/runtime/daily.json?v=' + DATA_VERSION).then(r => r.ok ? r.json() : null).then(d => {
         dailyPool = (d && d.pool || []).filter(e => CBY[e.k] && scopeOf(CBY[e.k]) !== 'entrance');
+        dailyJunior = (d && d.junior || []).filter(e => CBY[e.k]);
         if (dailyHome()) renderResults();
     }).catch(() => { dailyPool = []; });
 }
@@ -2373,21 +2376,25 @@ function dailyHtml() {
     const card = e => `<article class="problem daily f-${e.k}"><div class="p-head"><div class="p-id"><span class="p-num">${esc(String(e.n))}</span><span class="p-meta">${meta(e)}</span></div><div class="p-actions"><a class="btn btn-sm" href="?p=${encodeURIComponent(e.u)}">Open</a></div></div><div class="statement">${bodyHtml(e.t, null)}</div></article>`;
     const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
     const d = new Date(today * 864e5), left = (today + 1) * 864e5 - Date.now();
-    const pp = {uid: potd.u, country: potd.k, year: potd.y, num: potd.n, day: potd.d ?? null, paperLabel: potd.pl || null, text: potd.t};
-    const hint = aiUrl(aiPrompt(pp, aiRequest('hint')));
-    const topic = typeof topicFields === 'function' ? (topicFields(potd.t, null, potd.u) || {}).topic : '';
-    return `<section class="daily-box" aria-label="Problem of the day">
-        <article class="potd f-${potd.k}">
-            <div class="potd-top"><span class="potd-badge">★ Problem of the day</span><span class="potd-date">${d.getUTCDate()} ${MONTHS[d.getUTCMonth()]} ${d.getUTCFullYear()}</span></div>
-            <p class="potd-src">${meta(potd)} · Problem ${esc(String(potd.n))}${topic ? ` <span class="p-tag">${esc(topic)}</span>` : ''}</p>
-            <div class="statement potd-st">${bodyHtml(potd.t, null)}</div>
+    const potdCard = (e, junior) => {
+        const pp = {uid: e.u, country: e.k, year: e.y, num: e.n, day: e.d ?? null, paperLabel: e.pl || null, text: e.t};
+        const hint = aiUrl(aiPrompt(pp, aiRequest('hint')));
+        const topic = typeof topicFields === 'function' ? (topicFields(e.t, null, e.u) || {}).topic : '';
+        return `<article class="potd${junior ? ' potd-junior' : ''} f-${e.k}">
+            <div class="potd-top"><span class="potd-badge">★ ${junior ? 'Junior problem' : 'Problem'} of the day</span><span class="potd-date">${junior ? 'Ages about 10–15' : `${d.getUTCDate()} ${MONTHS[d.getUTCMonth()]} ${d.getUTCFullYear()}`}</span></div>
+            <p class="potd-src">${meta(e)} · Problem ${esc(String(e.n))}${topic ? ` <span class="p-tag">${esc(topic)}</span>` : ''}</p>
+            <div class="statement potd-st">${bodyHtml(e.t, null)}</div>
             <div class="potd-actions">
-                <a class="btn btn-primary" href="?p=${encodeURIComponent(potd.u)}">Open the problem</a>
-                <a class="btn" href="${esc(hint)}" target="_blank" rel="noopener noreferrer" data-potd-hint="${esc(potd.u)}">💡 Get a hint</a>
-                <button type="button" class="btn" data-potd-share="${esc(potd.u)}">Share</button>
+                <a class="btn btn-primary" href="?p=${encodeURIComponent(e.u)}">Open the problem</a>
+                <a class="btn" href="${esc(hint)}" target="_blank" rel="noopener noreferrer" data-potd-hint="${esc(e.u)}">💡 Get a hint</a>
+                <button type="button" class="btn" data-potd-share="${esc(e.u)}">Share</button>
             </div>
-            <p class="potd-next">Next problem in ${Math.floor(left / 36e5)} h ${Math.floor(left % 36e5 / 6e4)} min</p>
-        </article>`
+            <p class="potd-next">Next ${junior ? 'one' : 'problem'} in ${Math.floor(left / 36e5)} h ${Math.floor(left % 36e5 / 6e4)} min</p>
+        </article>`;
+    };
+    // One junior problem a day, the same for everyone (hash of the day number).
+    const junior = dailyJunior.length ? dailyJunior[(Math.imul(today ^ 0x9e3779b9, 2654435761) >>> 0) % dailyJunior.length] : null;
+    return `<section class="daily-box" aria-label="Problem of the day">${potdCard(potd, false)}${junior ? potdCard(junior, true) : ''}`
         + (picks.length ? `<div class="daily-h-row"><h3 class="daily-h">Today's selection from around the world</h3><button type="button" class="btn btn-sm" data-daily-shuffle>Shuffle</button></div>${picks.map(card).join('')}` : '')
         + '</section>';
 }
