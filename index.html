@@ -69,6 +69,7 @@
     --ijso: #4d7c0f; --ijso-ink: #365314; --ijso-tint: #ecfccb;
     --jbo: #be123c; --jbo-ink: #881337; --jbo-tint: #ffe4e6;
     --grbio: #0d5eaf; --grbio-ink: #0a3d75; --grbio-tint: #dbeafe;
+    --usnsb: #1d4ed8; --usnsb-ink: #1e3a8a; --usnsb-tint: #dbeafe;
     --cybio: #c2410c; --cybio-ink: #7c2d12; --cybio-tint: #ffedd5;
     --sbo: #dc2626; --sbo-ink: #991b1b; --sbo-tint: #fee2e2;
     --nseb: #c2410c; --nseb-ink: #7c2d12; --nseb-tint: #ffedd5;
@@ -302,6 +303,7 @@
 .f-ijso { --f: var(--ijso); --f-ink: var(--ijso-ink); --f-tint: var(--ijso-tint); }
 .f-jbo { --f: var(--jbo); --f-ink: var(--jbo-ink); --f-tint: var(--jbo-tint); }
 .f-grbio { --f: var(--grbio); --f-ink: var(--grbio-ink); --f-tint: var(--grbio-tint); }
+.f-usnsb { --f: var(--usnsb); --f-ink: var(--usnsb-ink); --f-tint: var(--usnsb-tint); }
 .f-cybio { --f: var(--cybio); --f-ink: var(--cybio-ink); --f-tint: var(--cybio-tint); }
 .f-sbo { --f: var(--sbo); --f-ink: var(--sbo-ink); --f-tint: var(--sbo-tint); }
 .f-nseb { --f: var(--nseb); --f-ink: var(--nseb-ink); --f-tint: var(--nseb-tint); }
@@ -1145,16 +1147,17 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261112-domain';
+const DATA_VERSION = '20261114-usnsb';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
-const REGION_OF = { ibo: 'world', ibop: 'world', inbo: 'asia', aso: 'oceania', nbc: 'americas', nzibo: 'oceania', nseb: 'asia', ijso: 'world', sbo: 'europe', jbo: 'asia', grbio: 'europe', cybio: 'europe' };
+const REGION_OF = { ibo: 'world', ibop: 'world', inbo: 'asia', aso: 'oceania', nbc: 'americas', nzibo: 'oceania', nseb: 'asia', ijso: 'world', sbo: 'europe', jbo: 'asia', grbio: 'europe', cybio: 'europe', usnsb: 'americas' };
 const regionOf = key => REGION_OF[key] || 'other';
 const PAGE = 20;
 const STORAGE_KEY = 'eisatopon-biology:set:v1';  // same origin as the math bank: keep the keys apart
 
 const COUNTRIES = [
     { key: 'nzibo', name: 'New Zealand NZIBO', flag: '🇳🇿', file: 'NewZealand-NZIBO-problems.json', kind: 'years', scope: 'national', full: 'New Zealand International Biology Olympiad, national entrance and selection exams · not affiliated with, endorsed by or supported by NZIBO' },
+    { key: 'usnsb', name: 'USA National Science Bowl', flag: '🇺🇸', file: 'USA-NSB-biology-problems.json', kind: 'years', scope: 'national', full: 'U.S. National Science Bowl® (Department of Energy), Biology and Life Science questions of the official sample question sets · public domain · not affiliated with, endorsed by or supported by the U.S. Department of Energy' },
     { key: 'nbc', name: 'Canada NBC', flag: '🇨🇦', file: 'Canada-NBC-problems.json', kind: 'years', scope: 'national', full: 'University of Toronto National Biology Competition · not affiliated with, endorsed by or supported by the University of Toronto' },
     { key: 'aso', name: 'Australia ASO', flag: '🇦🇺', file: 'Australia-ASO-problems.json', kind: 'years', scope: 'national', full: 'Australian Science Olympiad Exam, Biology · not affiliated with, endorsed by or supported by Australian Science Innovations' },
     { key: 'jbo', name: 'Japan JBO', flag: '🇯🇵', file: 'Japan-JBO-problems.json', kind: 'years', scope: 'national', full: 'Japan Biology Olympiad, 1st and 2nd rounds (English translations, with permission) · not affiliated with, endorsed by or supported by the JBO', credit: 'English translation of the JBO original · © International Biology Olympiad Japan Committee (JBO); translated with permission' },
@@ -2306,7 +2309,8 @@ const CREDITS = {
     jbo: () => '© International Biology Olympiad Japan Committee (JBO) · English translation of the JBO original',
     sbo: () => '© Swiss Biology Olympiad · English translation of the German original',
     grbio: () => '© Hellenic Ministry of Education',
-    cybio: () => '© the Cyprus Ministry of Education (Examinations Service)'
+    cybio: () => '© the Cyprus Ministry of Education (Examinations Service)',
+    usnsb: () => 'Public domain · U.S. Department of Energy, Office of Science (National Science Bowl® sample questions)'
 };
 const creditLink = (href, text) => `<a href="${esc(href)}" target="_blank" rel="noopener noreferrer">${text}</a>`;
 function creditText(p) { return CREDITS[p.country] ? CREDITS[p.country](p) : ''; }
