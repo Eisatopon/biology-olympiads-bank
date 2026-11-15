@@ -70,6 +70,7 @@
     --jbo: #be123c; --jbo-ink: #881337; --jbo-tint: #ffe4e6;
     --grbio: #0d5eaf; --grbio-ink: #0a3d75; --grbio-tint: #dbeafe;
     --usnsb: #1d4ed8; --usnsb-ink: #1e3a8a; --usnsb-tint: #dbeafe;
+    --catpau: #b45309; --catpau-ink: #78350f; --catpau-tint: #fef3c7;
     --cybio: #c2410c; --cybio-ink: #7c2d12; --cybio-tint: #ffedd5;
     --sbo: #dc2626; --sbo-ink: #991b1b; --sbo-tint: #fee2e2;
     --nseb: #c2410c; --nseb-ink: #7c2d12; --nseb-tint: #ffedd5;
@@ -304,6 +305,7 @@
 .f-jbo { --f: var(--jbo); --f-ink: var(--jbo-ink); --f-tint: var(--jbo-tint); }
 .f-grbio { --f: var(--grbio); --f-ink: var(--grbio-ink); --f-tint: var(--grbio-tint); }
 .f-usnsb { --f: var(--usnsb); --f-ink: var(--usnsb-ink); --f-tint: var(--usnsb-tint); }
+.f-catpau { --f: var(--catpau); --f-ink: var(--catpau-ink); --f-tint: var(--catpau-tint); }
 .f-cybio { --f: var(--cybio); --f-ink: var(--cybio-ink); --f-tint: var(--cybio-tint); }
 .f-sbo { --f: var(--sbo); --f-ink: var(--sbo-ink); --f-tint: var(--sbo-tint); }
 .f-nseb { --f: var(--nseb); --f-ink: var(--nseb-ink); --f-tint: var(--nseb-tint); }
@@ -1147,10 +1149,10 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261114-usnsb';
+const DATA_VERSION = '20261115-catpau';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
-const REGION_OF = { ibo: 'world', ibop: 'world', inbo: 'asia', aso: 'oceania', nbc: 'americas', nzibo: 'oceania', nseb: 'asia', ijso: 'world', sbo: 'europe', jbo: 'asia', grbio: 'europe', cybio: 'europe', usnsb: 'americas' };
+const REGION_OF = { ibo: 'world', ibop: 'world', inbo: 'asia', aso: 'oceania', nbc: 'americas', nzibo: 'oceania', nseb: 'asia', ijso: 'world', sbo: 'europe', jbo: 'asia', grbio: 'europe', cybio: 'europe', catpau: 'europe', usnsb: 'americas' };
 const regionOf = key => REGION_OF[key] || 'other';
 const PAGE = 20;
 const STORAGE_KEY = 'eisatopon-biology:set:v1';  // same origin as the math bank: keep the keys apart
@@ -1162,6 +1164,7 @@ const COUNTRIES = [
     { key: 'aso', name: 'Australia ASO', flag: '🇦🇺', file: 'Australia-ASO-problems.json', kind: 'years', scope: 'national', full: 'Australian Science Olympiad Exam, Biology · not affiliated with, endorsed by or supported by Australian Science Innovations' },
     { key: 'jbo', name: 'Japan JBO', flag: '🇯🇵', file: 'Japan-JBO-problems.json', kind: 'years', scope: 'national', full: 'Japan Biology Olympiad, 1st and 2nd rounds (English translations, with permission) · not affiliated with, endorsed by or supported by the JBO', credit: 'English translation of the JBO original · © International Biology Olympiad Japan Committee (JBO); translated with permission' },
     { key: 'grbio', name: 'Greece – Panhellenic Exams', flag: '🇬🇷', file: 'Greece-panhellenic-biology-problems.json', kind: 'years', scope: 'entrance', full: 'Greek Panhellenic university entrance exams, Biology (Greek original and English translation) · © Hellenic Ministry of Education · not affiliated with, endorsed by or supported by the Ministry' },
+    { key: 'catpau', name: 'Spain (Catalonia) – PAU', flag: '🇪🇸', file: 'Spain-Catalonia-PAU-biology-problems.json', kind: 'years', scope: 'entrance', full: 'Catalan university entrance exams (PAU, Proves d’accés a la universitat), Biologia (Catalan original and English translation) · source: Generalitat de Catalunya, reused under the Catalan open information-use licence · not affiliated with, endorsed by or supported by the Generalitat de Catalunya' },
     { key: 'cybio', name: 'Cyprus – Pancyprian Exams', flag: '🇨🇾', file: 'Cyprus-pancyprian-biology-problems.json', kind: 'years', scope: 'entrance', full: 'Cyprus Pancyprian university entrance exams, Biology (Greek original and English translation) · © the Cyprus Ministry of Education (Examinations Service) · not affiliated with, endorsed by or supported by the Ministry' },
     { key: 'sbo', name: 'Switzerland SBO', flag: '🇨🇭', file: 'Switzerland-SBO-problems.json', kind: 'years', scope: 'national', full: 'Swiss Biology Olympiad, 1st and 2nd rounds (English translations, with permission) · not affiliated with, endorsed by or supported by the Swiss Biology Olympiad', credit: 'English translation of the German original · © Swiss Biology Olympiad; translated with permission' },
     { key: 'nseb', name: 'India NSEB', flag: '🇮🇳', file: 'India-NSEB-problems.json', kind: 'years', scope: 'national', full: 'National Standard Examination in Biology (India, IAPT / ATBS), first stage of the Indian biology olympiad · not affiliated with, endorsed by or supported by IAPT' },
@@ -2295,6 +2298,9 @@ const grbioPdf = p => GRBIO_PDF[`${p.year}.${p.day}`] ? 'https://www.minedu.gov.
 // Official Biology papers of the Cyprus Pancyprian exams (sch.cy/mc/…, linked from panexams.moec.gov.cy), per year.
 const CYBIO_PDF = { '2026': '1121/2026_06_22_021_themata.pdf', '2025': '1052/2025_06_23_021_themata.pdf', '2024': '1007/2024_06_25_021_themata.pdf', '2023': '941/2023_06_23_021_themata.pdf', '2022': '841/2022_06_27_021_themata.pdf', '2021': '800/2021_05_21_021_themata.pdf', '2020': '315/2020_06_18_021_themata.pdf', '2019': '164/2019_06_04_021_themata.pdf', '2018': '46/2018_05_29_021_themata.pdf', '2017': '6/2017_06_02_021_themata.pdf', '2016': '86/2016_06_03_021_themata.pdf', '2015': '85/2015_06_05_021_themata.pdf', '2014': '84/2014_05_23_021_themata.pdf', '2013': '83/2013_05_20_021_themata.pdf', '2012': '82/2012_05_21_021_themata.pdf', '2011': '81/2011_05_23_viologia_themata.pdf', '2010': '80/22-05-2010-viologia-themata.pdf' };
 const cybioPdf = p => CYBIO_PDF[p.year] ? 'https://sch.cy/mc/' + CYBIO_PDF[p.year] : '';
+// Official Biologia papers of the Catalan PAU (universitats.gencat.cat), per year and series.
+const CATPAU_PDF = { '2023.1': 'examens-2023/biologia/ord/pau_biol23jl.pdf', '2023.5': 'examens-2023/biologia/ord/pau_biol23jl.pdf', '2023.2': 'examens-2023/biologia/ext/pau_biol23sl.pdf', '2024.1': 'examens-2024/biologia/ord/pau_biol24jl.pdf', '2024.3': 'examens-2024/biologia/ext/pau_biol24sl.pdf', '2025.1': 'examens-2025/biologia/ord/pau_biol25jl.pdf', '2025.3': 'examens-2025/biologia/ext/pau_biol25sl.pdf', '2026.1': 'examens-2026/biologia/ord/pau_biol26o.pdf', '2026.2': 'examens-2026/biologia/ext/pau_biol26e.pdf' };
+const catpauPdf = p => CATPAU_PDF[`${p.year}.${p.day}`] ? 'https://universitats.gencat.cat/web/.content/06_pau/models-examen-anys-anteriors/' + CATPAU_PDF[`${p.year}.${p.day}`] : '';
 const jboPdf = p => JBO_PDF[`${p.year}.${p.day}`] ? 'https://www.jbo-info.jp/exam/pdf_exam/pdf_jbo_exam/' + JBO_PDF[`${p.year}.${p.day}`] : '';
 const qref = (name, p) => `${name} ${p.year}${p.paperLabel ? `, ${p.paperLabel}` : ''}, Question ${p.num}`;
 const CREDITS = {
@@ -2310,6 +2316,7 @@ const CREDITS = {
     sbo: () => '© Swiss Biology Olympiad · English translation of the German original',
     grbio: () => '© Hellenic Ministry of Education',
     cybio: () => '© the Cyprus Ministry of Education (Examinations Service)',
+    catpau: () => 'Source: Generalitat de Catalunya (Consell Interuniversitari de Catalunya), PAU · Llicència oberta d’ús d’informació – Catalunya · retrieved 14 Nov 2026 · English translation of the Catalan original',
     usnsb: () => 'Public domain · U.S. Department of Energy, Office of Science (National Science Bowl® sample questions)'
 };
 const creditLink = (href, text) => `<a href="${esc(href)}" target="_blank" rel="noopener noreferrer">${text}</a>`;
@@ -2319,6 +2326,7 @@ function creditHtml(p) {
     if (!t) return '';
     if (p.country === 'jbo') return `<p class="p-credit">${esc(t)} · ${creditLink(JBO_SITE, 'JBO past papers')}${jboPdf(p) ? ` · ${creditLink(jboPdf(p), 'Original PDF')}` : ''}</p>`;
     if (p.country === 'cybio') return `<p class="p-credit">${esc(t)}${cybioPdf(p) ? ` · ${creditLink(cybioPdf(p), 'Original PDF')}` : ''}</p>`;
+    if (p.country === 'catpau') return `<p class="p-credit">${esc(t)}${catpauPdf(p) ? ` · ${creditLink(catpauPdf(p), 'Original PDF')}` : ''}</p>`;
     if (p.country === 'grbio') return `<p class="p-credit">${esc(t)}${grbioPdf(p) ? ` · ${creditLink(grbioPdf(p), 'Original PDF')}` : ''}</p>`;
     if (p.country === 'sbo') return `<p class="p-credit">${esc(t)} · ${creditLink(SBO_ARCHIVE, 'Archive')} · ${creditLink(sboPdf(p), 'Original PDF')}</p>`;
     return `<p class="p-credit">${esc(t)}</p>`;
