@@ -71,6 +71,7 @@
     --grbio: #0d5eaf; --grbio-ink: #0a3d75; --grbio-tint: #dbeafe;
     --usnsb: #1d4ed8; --usnsb-ink: #1e3a8a; --usnsb-tint: #dbeafe;
     --catpau: #b45309; --catpau-ink: #78350f; --catpau-tint: #fef3c7;
+    --twbio: #0e7490; --twbio-ink: #164e63; --twbio-tint: #cffafe;
     --cybio: #c2410c; --cybio-ink: #7c2d12; --cybio-tint: #ffedd5;
     --sbo: #dc2626; --sbo-ink: #991b1b; --sbo-tint: #fee2e2;
     --nseb: #c2410c; --nseb-ink: #7c2d12; --nseb-tint: #ffedd5;
@@ -306,6 +307,7 @@
 .f-grbio { --f: var(--grbio); --f-ink: var(--grbio-ink); --f-tint: var(--grbio-tint); }
 .f-usnsb { --f: var(--usnsb); --f-ink: var(--usnsb-ink); --f-tint: var(--usnsb-tint); }
 .f-catpau { --f: var(--catpau); --f-ink: var(--catpau-ink); --f-tint: var(--catpau-tint); }
+.f-twbio { --f: var(--twbio); --f-ink: var(--twbio-ink); --f-tint: var(--twbio-tint); }
 .f-cybio { --f: var(--cybio); --f-ink: var(--cybio-ink); --f-tint: var(--cybio-tint); }
 .f-sbo { --f: var(--sbo); --f-ink: var(--sbo-ink); --f-tint: var(--sbo-tint); }
 .f-nseb { --f: var(--nseb); --f-ink: var(--nseb-ink); --f-tint: var(--nseb-tint); }
@@ -1149,10 +1151,10 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261115-catpau';
+const DATA_VERSION = '20261117-twbio';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
-const REGION_OF = { ibo: 'world', ibop: 'world', inbo: 'asia', aso: 'oceania', nbc: 'americas', nzibo: 'oceania', nseb: 'asia', ijso: 'world', sbo: 'europe', jbo: 'asia', grbio: 'europe', cybio: 'europe', catpau: 'europe', usnsb: 'americas' };
+const REGION_OF = { ibo: 'world', ibop: 'world', inbo: 'asia', aso: 'oceania', nbc: 'americas', nzibo: 'oceania', nseb: 'asia', ijso: 'world', sbo: 'europe', jbo: 'asia', grbio: 'europe', cybio: 'europe', catpau: 'europe', twbio: 'asia', usnsb: 'americas' };
 const regionOf = key => REGION_OF[key] || 'other';
 const PAGE = 20;
 const STORAGE_KEY = 'eisatopon-biology:set:v1';  // same origin as the math bank: keep the keys apart
@@ -1165,6 +1167,7 @@ const COUNTRIES = [
     { key: 'jbo', name: 'Japan JBO', flag: '🇯🇵', file: 'Japan-JBO-problems.json', kind: 'years', scope: 'national', full: 'Japan Biology Olympiad, 1st and 2nd rounds (English translations, with permission) · not affiliated with, endorsed by or supported by the JBO', credit: 'English translation of the JBO original · © International Biology Olympiad Japan Committee (JBO); translated with permission' },
     { key: 'grbio', name: 'Greece – Panhellenic Exams', flag: '🇬🇷', file: 'Greece-panhellenic-biology-problems.json', kind: 'years', scope: 'entrance', full: 'Greek Panhellenic university entrance exams, Biology (Greek original and English translation) · © Hellenic Ministry of Education · not affiliated with, endorsed by or supported by the Ministry' },
     { key: 'catpau', name: 'Spain (Catalonia) – PAU', flag: '🇪🇸', file: 'Spain-Catalonia-PAU-biology-problems.json', kind: 'years', scope: 'entrance', full: 'Catalan university entrance exams (PAU, Proves d’accés a la universitat), Biologia (Catalan original and English translation) · source: Generalitat de Catalunya, reused under the Catalan open information-use licence · not affiliated with, endorsed by or supported by the Generalitat de Catalunya' },
+    { key: 'twbio', name: 'Taiwan – AST Biology', flag: '🇹🇼', file: 'Taiwan-AST-biology-problems.json', kind: 'years', scope: 'entrance', full: 'Taiwan university entrance exams, Biology: Advanced Subjects Test (分科測驗, from 2022; 指定科目考試, 2002–2021) (Chinese original and English translation) · source: College Entrance Examination Center (CEEC) · examination questions are not subject to copyright under Article 9(1)(5) of Taiwan’s Copyright Act · not affiliated with, endorsed by or supported by the CEEC' },
     { key: 'cybio', name: 'Cyprus – Pancyprian Exams', flag: '🇨🇾', file: 'Cyprus-pancyprian-biology-problems.json', kind: 'years', scope: 'entrance', full: 'Cyprus Pancyprian university entrance exams, Biology (Greek original and English translation) · © the Cyprus Ministry of Education (Examinations Service) · not affiliated with, endorsed by or supported by the Ministry' },
     { key: 'sbo', name: 'Switzerland SBO', flag: '🇨🇭', file: 'Switzerland-SBO-problems.json', kind: 'years', scope: 'national', full: 'Swiss Biology Olympiad, 1st and 2nd rounds (English translations, with permission) · not affiliated with, endorsed by or supported by the Swiss Biology Olympiad', credit: 'English translation of the German original · © Swiss Biology Olympiad; translated with permission' },
     { key: 'nseb', name: 'India NSEB', flag: '🇮🇳', file: 'India-NSEB-problems.json', kind: 'years', scope: 'national', full: 'National Standard Examination in Biology (India, IAPT / ATBS), first stage of the Indian biology olympiad · not affiliated with, endorsed by or supported by IAPT' },
@@ -2301,6 +2304,9 @@ const cybioPdf = p => CYBIO_PDF[p.year] ? 'https://sch.cy/mc/' + CYBIO_PDF[p.yea
 // Official Biologia papers of the Catalan PAU (universitats.gencat.cat), per year and series.
 const CATPAU_PDF = { '2023.1': 'examens-2023/biologia/ord/pau_biol23jl.pdf', '2023.5': 'examens-2023/biologia/ord/pau_biol23jl.pdf', '2023.2': 'examens-2023/biologia/ext/pau_biol23sl.pdf', '2024.1': 'examens-2024/biologia/ord/pau_biol24jl.pdf', '2024.3': 'examens-2024/biologia/ext/pau_biol24sl.pdf', '2025.1': 'examens-2025/biologia/ord/pau_biol25jl.pdf', '2025.3': 'examens-2025/biologia/ext/pau_biol25sl.pdf', '2026.1': 'examens-2026/biologia/ord/pau_biol26o.pdf', '2026.2': 'examens-2026/biologia/ext/pau_biol26e.pdf' };
 const catpauPdf = p => CATPAU_PDF[`${p.year}.${p.day}`] ? 'https://universitats.gencat.cat/web/.content/06_pau/models-examen-anys-anteriors/' + CATPAU_PDF[`${p.year}.${p.day}`] : '';
+// Official biology question papers of the Taiwan CEEC (ceec.edu.tw 歷年試題), per year and paper (1 = regular, 2 = make-up).
+const TWBIO_PDF = {'2026.1': '0q219333119090436237/07-115%e5%88%86%e7%a7%91%e6%b8%ac%e9%a9%97%e7%94%9f%e7%89%a9%e8%80%83%e7%a7%91%e8%a9%a6%e5%8d%b7.pdf', '2025.1': '0p212529015501164507/07-114%e5%88%86%e7%a7%91%e6%b8%ac%e9%a9%97%e7%94%9f%e7%89%a9%e8%a9%a6%e5%8d%b7.pdf', '2024.1': '0o221348105821976939/113%e5%88%86%e7%a7%91%e6%b8%ac%e9%a9%97%e7%94%9f%e7%89%a9%e8%a9%a6%e9%a1%8c.pdf', '2023.1': '0n214387178287976958/07-112%e5%88%86%e7%a7%91%e6%b8%ac%e9%a9%97%e7%94%9f%e7%89%a9%e8%80%83%e7%a7%91%e8%a9%a6%e9%a1%8c.pdf', '2022.1': '0m223493108618143168/07-111%e5%88%86%e7%a7%91%e6%b8%ac%e9%a9%97%e7%94%9f%e7%89%a9%e8%a9%a6%e5%8d%b7%e5%ae%9a%e7%a8%bf.pdf', '2021.1': '0l251604376927422359/10-110%e6%8c%87%e8%80%83%e7%94%9f%e7%89%a9%e8%a9%a6%e5%8d%b7%e5%ae%9a%e7%a8%bf.pdf', '2020.2': '0k232629721785451323/10-109%e6%8c%87%e8%80%83%28%e8%a3%9c%e8%80%83%29%e7%94%9f%e7%89%a9%e8%a9%a6%e5%8d%b7%e5%ae%9a%e7%a8%bf.pdf', '2020.1': '0k220537565314515747/10-109%e6%8c%87%e8%80%83%e7%94%9f%e7%89%a9%e8%a9%a6%e5%8d%b7%e5%ae%9a%e7%a8%bf.pdf', '2019.1': '0j304498129137324116/10-108%e6%8c%87%e8%80%83%e7%94%9f%e7%89%a9%e8%a9%a6%e5%8d%b7%e5%ae%9a%e7%a8%bf.pdf', '2018.1': '0j075765900360363338/10-107%e6%8c%87%e8%80%83%e7%94%9f%e7%89%a9%e8%a9%a6%e5%8d%b7%e5%ae%9a%e7%a8%bf.pdf', '2017.1': '0j075763571373687725/10-106%e6%8c%87%e8%80%83%e7%94%9f%e7%89%a9%e8%a9%a6%e5%8d%b7%e5%ae%9a%e7%a8%bf.pdf', '2016.1': '0j075761382387091212/10-105%e6%8c%87%e8%80%83%e7%94%9f%e7%89%a9%e8%a9%a6%e5%8d%b7%e5%ae%9a%e7%a8%bf.pdf', '2015.1': '0j075759563301314700/10_104%e6%8c%87%e8%80%83%e7%94%9f%e7%89%a9%e5%ae%9a%e7%a8%bf.pdf', '2014.1': '0j075758284315628197/10-103%e6%8c%87%e8%80%83%e7%94%9f%e7%89%a9%28%e5%ae%9a%e7%a8%bf%29.pdf', '2013.1': '0j075756165328942684/10-102%20%e6%8c%87%e8%80%83%e7%94%9f%e7%89%a9%e8%a9%a6%e9%a1%8c%28%e5%ae%9a%e7%a8%bf%29.pdf', '2012.1': '0j075755037976235199/10-101%e6%8c%87%e8%80%83%e7%94%9f%e7%89%a9%e8%a9%a6%e5%8d%b7%e5%ae%9a%e7%a8%bf%20.pdf', '2011.1': '0j075753827801791531/10-100%e6%8c%87%e8%80%83%e7%94%9f%e7%89%a9%e8%a9%a6%e5%8d%b7%e5%ae%9a%e7%a8%bf.pdf', '2010.1': '0j075747499815015029/10-99%e6%8c%87%e8%80%83%e7%94%9f%e7%89%a9%e8%a9%a6%e5%8d%b7%e5%ae%9a%e7%a8%bf.pdf', '2009.1': '0j075744390839328516/10-98%e6%8c%87%e8%80%83%e7%94%9f%e7%89%a9%e8%a9%a6%e5%8d%b7%e5%ae%9a%e7%a8%bf.pdf', '2008.1': '0j075635505148625302/09-97%e6%8c%87%e8%80%83%e7%94%9f%e7%89%a9%e8%a9%a6%e5%8d%b7.pdf', '2007.1': '0j075634667974766861/09-96%e6%8c%87%e8%80%83%e7%94%9f%e7%89%a9%e5%ae%9a%e7%a8%bf.pdf', '2006.1': '0j075632255439312727/95%e6%8c%87%e8%80%83%e7%94%9f%e7%89%a9%e8%a9%a6%e5%8d%b7.pdf', '2005.1': '0j075631561715011728/94bio.pdf', '2004.2': '0j075630798635798746/93%e6%8c%87%e8%80%83%e7%94%9f%e7%89%a9%e8%a3%9c%e8%80%83%e8%a9%a6%e5%8d%b7.pdf', '2004.1': '0j075630185465465775/93bio.pdf', '2003.1': '0j075628792385142603/92bio.pdf', '2002.1': '0j075628144577204145/91bio.pdf'};
+const twbioPdf = p => TWBIO_PDF[`${p.year}.${p.day}`] ? 'https://www.ceec.edu.tw/files/file_pool/1/' + TWBIO_PDF[`${p.year}.${p.day}`] : '';
 const jboPdf = p => JBO_PDF[`${p.year}.${p.day}`] ? 'https://www.jbo-info.jp/exam/pdf_exam/pdf_jbo_exam/' + JBO_PDF[`${p.year}.${p.day}`] : '';
 const qref = (name, p) => `${name} ${p.year}${p.paperLabel ? `, ${p.paperLabel}` : ''}, Question ${p.num}`;
 const CREDITS = {
@@ -2317,6 +2323,7 @@ const CREDITS = {
     grbio: () => '© Hellenic Ministry of Education',
     cybio: () => '© the Cyprus Ministry of Education (Examinations Service)',
     catpau: () => 'Source: Generalitat de Catalunya (Consell Interuniversitari de Catalunya), PAU · Llicència oberta d’ús d’informació – Catalunya · retrieved 14 Nov 2026 · English translation of the Catalan original',
+    twbio: () => 'Source: College Entrance Examination Center (CEEC), Taiwan · examination questions are not subject to copyright (Copyright Act of Taiwan, Art. 9(1)(5)) · retrieved 17 Nov 2026 · English translation of the Chinese original',
     usnsb: () => 'Public domain · U.S. Department of Energy, Office of Science (National Science Bowl® sample questions)'
 };
 const creditLink = (href, text) => `<a href="${esc(href)}" target="_blank" rel="noopener noreferrer">${text}</a>`;
@@ -2327,6 +2334,7 @@ function creditHtml(p) {
     if (p.country === 'jbo') return `<p class="p-credit">${esc(t)} · ${creditLink(JBO_SITE, 'JBO past papers')}${jboPdf(p) ? ` · ${creditLink(jboPdf(p), 'Original PDF')}` : ''}</p>`;
     if (p.country === 'cybio') return `<p class="p-credit">${esc(t)}${cybioPdf(p) ? ` · ${creditLink(cybioPdf(p), 'Original PDF')}` : ''}</p>`;
     if (p.country === 'catpau') return `<p class="p-credit">${esc(t)}${catpauPdf(p) ? ` · ${creditLink(catpauPdf(p), 'Original PDF')}` : ''}</p>`;
+    if (p.country === 'twbio') return `<p class="p-credit">${esc(t)}${twbioPdf(p) ? ` · ${creditLink(twbioPdf(p), 'Original PDF')}` : ''}</p>`;
     if (p.country === 'grbio') return `<p class="p-credit">${esc(t)}${grbioPdf(p) ? ` · ${creditLink(grbioPdf(p), 'Original PDF')}` : ''}</p>`;
     if (p.country === 'sbo') return `<p class="p-credit">${esc(t)} · ${creditLink(SBO_ARCHIVE, 'Archive')} · ${creditLink(sboPdf(p), 'Original PDF')}</p>`;
     return `<p class="p-credit">${esc(t)}</p>`;
