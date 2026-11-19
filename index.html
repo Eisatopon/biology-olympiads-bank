@@ -1099,7 +1099,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 
 <footer class="footer">
     <div class="wrap">
-        <span>eisatopon.gr © 2026–<span id="yr">2026</span> – Aristotle – World Biology Olympiads Bank</span>
+        <span>© 2026–<span id="yr">2026</span> eisatopon.gr – Aristotle, World Biology Olympiads Bank · All rights reserved · <a href="terms.html">Terms of use</a></span>
         <p class="thanks">Questions are reproduced for study from the competitions' official papers (IBO papers © International Biology Olympiad, licensed <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license noopener" target="_blank">CC BY-NC-SA 4.0</a>; Swiss Biology Olympiad questions translated into English with the organiser's permission); each question shows its source. Aristotle is an independent project; it is not affiliated with, endorsed by or supported by any competition organiser. Questions remain the property of their organisers; any organiser may ask for corrections or removal at <a href="mailto:sokkorom@gmail.com">sokkorom@gmail.com</a>. Sister project of the <a href="https://eisatopon.github.io/national-olympiads-bank/">Mathematical</a>, <a href="https://eisatopon.github.io/physics-olympiads-bank/">Physics</a>, <a href="https://eisatopon.github.io/chemistry-olympiads-bank/">Chemistry</a> and <a href="https://eisatopon.github.io/informatics-olympiads-bank/">Informatics</a> Olympiads Banks.</p>
     </div>
 </footer>
@@ -1151,7 +1151,7 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261118-twbio-2002';
+const DATA_VERSION = '20261119-terms';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = { ibo: 'world', ibop: 'world', inbo: 'asia', aso: 'oceania', nbc: 'americas', nzibo: 'oceania', nseb: 'asia', ijso: 'world', sbo: 'europe', jbo: 'asia', grbio: 'europe', cybio: 'europe', catpau: 'europe', twbio: 'asia', usnsb: 'americas' };
@@ -1363,12 +1363,13 @@ function bodyHtml(text, record) {
 function textHash(text) {
     const s = String(text);
     let h = 0x811c9dc5;
-    for (let i = 0; i < s.length; i++) { h ^= s.charCodeAt(i); h = Math.imul(h, 0x01000193); }
+    for (let i = 0; i < s.length; i++) { const c = s.charCodeAt(i); h ^= c === 0xa0 ? 0x20 : c; h = Math.imul(h, 0x01000193); }  // U+00A0 counts as a space
     return (h >>> 0).toString(16).padStart(8, '0');
 }
+const noMark = t => String(t).replace(/\u00a0/g, ' ');  // the published copy carries a few U+00A0 instead of spaces
 function sameStatement(record, text) {
     if (!record) return false;
-    if (typeof record.reviewed_statement === 'string') return record.reviewed_statement === text;
+    if (typeof record.reviewed_statement === 'string') return noMark(record.reviewed_statement) === noMark(text);
     return typeof record.h === 'string' && record.h === textHash(text);
 }
 // The IBO's own areas of the theory papers.
@@ -2205,7 +2206,7 @@ const CONCEPTS = [
 ];
 function reviewedDna(p) {
     const record = problemDna.records?.[p.uid];
-    return record && record.reviewed_statement === p.text && Array.isArray(record.techniques)
+    return record && noMark(record.reviewed_statement) === noMark(p.text) && Array.isArray(record.techniques)
         && record.techniques.every(t => problemDna.techniques?.[t])
         && Number.isInteger(record.practice_level) && record.practice_level >= 1 && record.practice_level <= 3 ? record : null;
 }

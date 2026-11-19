@@ -336,8 +336,8 @@
      "day": 1,
      "number": 42,
      "paper_label": "1st round",
-     "problem": "Which is not a function of the liver?\n\nA. Synthesis of urea\n\nB. Heat production\n\nC. Storage of glycogen\n\nD. Insulin secretion\n\nE. Detoxification (breakdown of alcohol)",
-     "problem_orig": "Welches ist keine Funktion der Leber?\n\nA. Synthese von Harnstoff\n\nB. Wärmeproduktion\n\nC. Speicherung von Gykogen\n\nD. Insulinausschüttung\n\nE. Entgiftung (Alkoholabbau)",
+     "problem": "Which is not a function of the liver?\n\nA. Synthesis of urea\n\nB. Heat production\n\nC. Storage of glycogen\n\nD. Insulin secretion\n\nE. Detoxification (breakdown of alcohol)",
+     "problem_orig": "Welches ist keine Funktion der Leber?\n\nA. Synthese von Harnstoff\n\nB. Wärmeproduktion\n\nC. Speicherung von Gykogen\n\nD. Insulinausschüttung\n\nE. Entgiftung (Alkoholabbau)",
      "orig_lang": "de"
     },
     {
@@ -408,8 +408,8 @@
      "day": 1,
      "number": 51,
      "paper_label": "1st round",
-     "problem": "Study the following pedigree (circle = female, filled = ill). Which mode of inheritance (it is a very rare disease) is the most likely?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2008-1-51-fig1.png\n\nA. dominant autosomal\n\nB. recessive autosomal\n\nC. dominant gonosomal on the X chromosome\n\nD. recessive gonosomal on the X chromosome\n\nE. gonosomal on the Y chromosome",
-     "problem_orig": "Studiere folgenden Stammbaum (Kreis = Weibchen, ausgefüllt = krank). Welches Vererbungsmuster (es handelt sich um eine sehr seltene Krankheit) ist am wahrscheinlichsten?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2008-1-51-fig1.png\n\nA. dominant autosomal\n\nB. rezessiv autosomal\n\nC. dominant gonosomal auf dem X Chromosom\n\nD. rezessiv gonosomal auf dem X Chromosom\n\nE. gonosomal auf dem Y Chromosom",
+     "problem": "Study the following pedigree (circle = female, filled = ill). Which mode of inheritance (it is a very rare disease) is the most likely?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2008-1-51-fig1.png\n\nA. dominant autosomal\n\nB. recessive autosomal\n\nC. dominant gonosomal on the X chromosome\n\nD. recessive gonosomal on the X chromosome\n\nE. gonosomal on the Y chromosome",
+     "problem_orig": "Studiere folgenden Stammbaum (Kreis = Weibchen, ausgefüllt = krank). Welches Vererbungsmuster (es handelt sich um eine sehr seltene Krankheit) ist am wahrscheinlichsten?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2008-1-51-fig1.png\n\nA. dominant autosomal\n\nB. rezessiv autosomal\n\nC. dominant gonosomal auf dem X Chromosom\n\nD. rezessiv gonosomal auf dem X Chromosom\n\nE. gonosomal auf dem Y Chromosom",
      "orig_lang": "de"
     },
     {
@@ -1306,8 +1306,8 @@
      "day": 1,
      "number": 23,
      "paper_label": "1st round",
-     "problem": "Check the two following statements and the \"because\" connection for correctness:\n\n① The eardrum transmits incoming sound waves via the auditory ossicles (malleus, incus, stapes) to a fluid (endolymph)\n\nbecause\n\n② the eardrum lies between the auditory ossicles.\n\nA. ① false, ② false\n\nB. ① true, ② false\n\nC. ① false, ② true\n\nD. ① true, ② true, connection false\n\nE. ① true, ② true, connection true",
-     "problem_orig": "Prüfe die beiden folgenden Aussagen sowie die weil-Verknüpfung auf ihre Richtigkeit:\n\n① Das Trommelfell überträgt ankommende Schallwellen via Gehörknöchelchen (Hammer, Amboss, Steigbügel) auf eine Flüssigkeit (Endolymphe)\n\nweil\n\n② das Trommelfell zwischen den Gehörknöchelchen liegt.\n\nA. ① falsch, ② falsch\n\nB. ① richtig, ② falsch\n\nC. ① falsch, ② richtig\n\nD. ① richtig, ② richtig, Verknüpfung falsch\n\nE. ① richtig, ② richtig, Verknüpfung richtig",
+     "problem": "Check the two following statements and the \"because\" connection for correctness:\n\n① The eardrum transmits incoming sound waves via the auditory ossicles (malleus, incus, stapes) to a fluid (endolymph)\n\nbecause\n\n② the eardrum lies between the auditory ossicles.\n\nA. ① false, ② false\n\nB. ① true, ② false\n\nC. ① false, ② true\n\nD. ① true, ② true, connection false\n\nE. ① true, ② true, connection true",
+     "problem_orig": "Prüfe die beiden folgenden Aussagen sowie die weil-Verknüpfung auf ihre Richtigkeit:\n\n① Das Trommelfell überträgt ankommende Schallwellen via Gehörknöchelchen (Hammer, Amboss, Steigbügel) auf eine Flüssigkeit (Endolymphe)\n\nweil\n\n② das Trommelfell zwischen den Gehörknöchelchen liegt.\n\nA. ① falsch, ② falsch\n\nB. ① richtig, ② falsch\n\nC. ① falsch, ② richtig\n\nD. ① richtig, ② richtig, Verknüpfung falsch\n\nE. ① richtig, ② richtig, Verknüpfung richtig",
      "orig_lang": "de"
     },
     {
@@ -1458,8 +1458,8 @@
      "day": 1,
      "number": 42,
      "paper_label": "1st round",
-     "problem": "You cross black-and-white spotted mice with brown mice (generation P). You obtain exclusively black, unspotted mice (generation F1). If you cross these F1 with each other, you obtain 93 black, 29 black-and-white spotted, 32 brown and 1 brown-and-white spotted mice (generation F2). What are the genotypes of the P and F1 generations? A = black, a = brown, B = unspotted, b = spotted\n\nA. P: ABAB x abab, F1: ABab\n\nB. P: ABab x AbAb, F1: AbAb\n\nC. P: AbAB x abab, F1: ABab\n\nD. P: AbAb x aBaB, F1: ABab\n\nE. P: AbAb x aBaB, F1: AbAb",
-     "problem_orig": "Du kreuzt schwarz-weiss gescheckte Mäuse mit braunen Mäusen (Generation P). Du erhältst ausschliesslich schwarze, ungescheckte Mäuse (Generation F1). Wenn du diese F1 untereinander weiterkreuzt, erhältst du 93 schwarze, 29 schwarz-weiss gescheckte, 32 braune, und 1 braun-weiss-gescheckte Mäuse (Generation F2). Wie sehen die Genotypen der P und der F1 Generation aus? A=schwarz, a=braun, B=ungescheckt, b=gescheckt\n\nA. P: ABAB x abab, F1: ABab\n\nB. P: ABab x AbAb, F1: AbAb\n\nC. P: AbAB x abab, F1: ABab\n\nD. P: AbAb x aBaB, F1: ABab\n\nE. P: AbAb x aBaB, F1: AbAb",
+     "problem": "You cross black-and-white spotted mice with brown mice (generation P). You obtain exclusively black, unspotted mice (generation F1). If you cross these F1 with each other, you obtain 93 black, 29 black-and-white spotted, 32 brown and 1 brown-and-white spotted mice (generation F2). What are the genotypes of the P and F1 generations? A = black, a = brown, B = unspotted, b = spotted\n\nA. P: ABAB x abab, F1: ABab\n\nB. P: ABab x AbAb, F1: AbAb\n\nC. P: AbAB x abab, F1: ABab\n\nD. P: AbAb x aBaB, F1: ABab\n\nE. P: AbAb x aBaB, F1: AbAb",
+     "problem_orig": "Du kreuzt schwarz-weiss gescheckte Mäuse mit braunen Mäusen (Generation P). Du erhältst ausschliesslich schwarze, ungescheckte Mäuse (Generation F1). Wenn du diese F1 untereinander weiterkreuzt, erhältst du 93 schwarze, 29 schwarz-weiss gescheckte, 32 braune, und 1 braun-weiss-gescheckte Mäuse (Generation F2). Wie sehen die Genotypen der P und der F1 Generation aus? A=schwarz, a=braun, B=ungescheckt, b=gescheckt\n\nA. P: ABAB x abab, F1: ABab\n\nB. P: ABab x AbAb, F1: AbAb\n\nC. P: AbAB x abab, F1: ABab\n\nD. P: AbAb x aBaB, F1: ABab\n\nE. P: AbAb x aBaB, F1: AbAb",
      "orig_lang": "de"
     },
     {
@@ -1626,8 +1626,8 @@
      "day": 1,
      "number": 63,
      "paper_label": "1st round",
-     "problem": "From which sources does the plant obtain carbon, nitrogen, phosphorus and sulfur?\n\nA. C: $\\mathrm{CO_2}$, N: $\\mathrm{N_2}$, P: $\\mathrm{H_4P_2O_7}$, S: $\\mathrm{H_2SO_2}$\n\nB. C: $\\mathrm{C_6H_{12}O_6}$, N: $\\mathrm{C_2H_5NO_2}$, P: $\\mathrm{PO_4^{3-}}$, S: $\\mathrm{H_2SO_2}$\n\nC. C: $\\mathrm{CO_2}$, N: $\\mathrm{NO_3^-}$, P: $\\mathrm{PO_4^{3-}}$, S: $\\mathrm{SO_4^{2-}}$\n\nD. C: $\\mathrm{C_6H_{12}O_6}$, N: $\\mathrm{NO_3^-}$, P: $\\mathrm{PO_4^{3-}}$, S: $\\mathrm{SO_4^{2-}}$\n\nE. C: $\\mathrm{CO_2}$, N: $\\mathrm{N_2}$, P: ATP, S: $\\mathrm{H_2S}$",
-     "problem_orig": "Aus welchen Quellen versorgt sich die Pflanze mit Kohlenstoff, Stickstoff, Phosphor und Schwefel?\n\nA. C: $\\mathrm{CO_2}$, N: $\\mathrm{N_2}$, P: $\\mathrm{H_4P_2O_7}$, S: $\\mathrm{H_2SO_2}$\n\nB. C: $\\mathrm{C_6H_{12}O_6}$, N: $\\mathrm{C_2H_5NO_2}$, P: $\\mathrm{PO_4^{3-}}$, S: $\\mathrm{H_2SO_2}$\n\nC. C: $\\mathrm{CO_2}$, N: $\\mathrm{NO_3^-}$, P: $\\mathrm{PO_4^{3-}}$, S: $\\mathrm{SO_4^{2-}}$\n\nD. C: $\\mathrm{C_6H_{12}O_6}$, N: $\\mathrm{NO_3^-}$, P: $\\mathrm{PO_4^{3-}}$, S: $\\mathrm{SO_4^{2-}}$\n\nE. C: $\\mathrm{CO_2}$, N: $\\mathrm{N_2}$, P: ATP, S: $\\mathrm{H_2S}$",
+     "problem": "From which sources does the plant obtain carbon, nitrogen, phosphorus and sulfur?\n\nA. C: $\\mathrm{CO_2}$, N: $\\mathrm{N_2}$, P: $\\mathrm{H_4P_2O_7}$, S: $\\mathrm{H_2SO_2}$\n\nB. C: $\\mathrm{C_6H_{12}O_6}$, N: $\\mathrm{C_2H_5NO_2}$, P: $\\mathrm{PO_4^{3-}}$, S: $\\mathrm{H_2SO_2}$\n\nC. C: $\\mathrm{CO_2}$, N: $\\mathrm{NO_3^-}$, P: $\\mathrm{PO_4^{3-}}$, S: $\\mathrm{SO_4^{2-}}$\n\nD. C: $\\mathrm{C_6H_{12}O_6}$, N: $\\mathrm{NO_3^-}$, P: $\\mathrm{PO_4^{3-}}$, S: $\\mathrm{SO_4^{2-}}$\n\nE. C: $\\mathrm{CO_2}$, N: $\\mathrm{N_2}$, P: ATP, S: $\\mathrm{H_2S}$",
+     "problem_orig": "Aus welchen Quellen versorgt sich die Pflanze mit Kohlenstoff, Stickstoff, Phosphor und Schwefel?\n\nA. C: $\\mathrm{CO_2}$, N: $\\mathrm{N_2}$, P: $\\mathrm{H_4P_2O_7}$, S: $\\mathrm{H_2SO_2}$\n\nB. C: $\\mathrm{C_6H_{12}O_6}$, N: $\\mathrm{C_2H_5NO_2}$, P: $\\mathrm{PO_4^{3-}}$, S: $\\mathrm{H_2SO_2}$\n\nC. C: $\\mathrm{CO_2}$, N: $\\mathrm{NO_3^-}$, P: $\\mathrm{PO_4^{3-}}$, S: $\\mathrm{SO_4^{2-}}$\n\nD. C: $\\mathrm{C_6H_{12}O_6}$, N: $\\mathrm{NO_3^-}$, P: $\\mathrm{PO_4^{3-}}$, S: $\\mathrm{SO_4^{2-}}$\n\nE. C: $\\mathrm{CO_2}$, N: $\\mathrm{N_2}$, P: ATP, S: $\\mathrm{H_2S}$",
      "orig_lang": "de"
     },
     {
@@ -1751,8 +1751,8 @@
      "day": 1,
      "number": 9,
      "paper_label": "1st round",
-     "problem": "Which statement about fermentation is correct?\n\nA. Fermentation takes place in the Golgi apparatus.\n\nB. End products of fermentation are, for example, ethanol or lactic acid.\n\nC. Fermentation is an aerobic process.\n\nD. Fermentation has a greater energy yield per glucose molecule than cellular respiration.\n\nE. Only prokaryotes are capable of fermentation.",
-     "problem_orig": "Welche Aussage zur Gärung (Fermentation) ist richtig?\n\nA. Die Fermentation findet im Golgi-Apparat statt.\n\nB. Endprodukte der Fermentation sind beispielsweise Ethanol oder Milchsäure.\n\nC. Die Fermentation ist ein aerober Prozess.\n\nD. Die Fermentation hat eine grössere Energieausbeute pro Glukosemolekül als die Zellatmung.\n\nE. Nur Prokaryonten sind zur Fermentation befähigt.",
+     "problem": "Which statement about fermentation is correct?\n\nA. Fermentation takes place in the Golgi apparatus.\n\nB. End products of fermentation are, for example, ethanol or lactic acid.\n\nC. Fermentation is an aerobic process.\n\nD. Fermentation has a greater energy yield per glucose molecule than cellular respiration.\n\nE. Only prokaryotes are capable of fermentation.",
+     "problem_orig": "Welche Aussage zur Gärung (Fermentation) ist richtig?\n\nA. Die Fermentation findet im Golgi-Apparat statt.\n\nB. Endprodukte der Fermentation sind beispielsweise Ethanol oder Milchsäure.\n\nC. Die Fermentation ist ein aerober Prozess.\n\nD. Die Fermentation hat eine grössere Energieausbeute pro Glukosemolekül als die Zellatmung.\n\nE. Nur Prokaryonten sind zur Fermentation befähigt.",
      "orig_lang": "de"
     },
     {
@@ -2729,8 +2729,8 @@
      "day": 1,
      "number": 1,
      "paper_label": "1st round",
-     "problem": "Check the two following statements individually, as well as the \"because\" link, for their correctness:\n\n① Prokaryotes cannot carry out cellular respiration\n\nbecause\n\n② prokaryotes do not possess mitochondria.\n\nA. ① false, ② false\n\nB. ① false, ② true\n\nC. ① true, ② false\n\nD. ① true, ② true, link false\n\nE. ① true, ② true, link true",
-     "problem_orig": "Prüfe die beiden folgenden Aussagen einzeln, so wie die “weil-Verknüpfung” auf ihre Richtigkeit:\n\n① Prokaryonten können keine Zellatmung betreiben\n\nweil\n\n② Prokaryonten keine Mitochondrien besitzen.\n\nA. ① falsch, ② falsch\n\nB. ① falsch, ② richtig\n\nC. ① richtig, ② falsch\n\nD. ① richtig, ② richtig, Verknüpfung falsch\n\nE. ① richtig, ② richtig, Verknüpfung richtig",
+     "problem": "Check the two following statements individually, as well as the \"because\" link, for their correctness:\n\n① Prokaryotes cannot carry out cellular respiration\n\nbecause\n\n② prokaryotes do not possess mitochondria.\n\nA. ① false, ② false\n\nB. ① false, ② true\n\nC. ① true, ② false\n\nD. ① true, ② true, link false\n\nE. ① true, ② true, link true",
+     "problem_orig": "Prüfe die beiden folgenden Aussagen einzeln, so wie die “weil-Verknüpfung” auf ihre Richtigkeit:\n\n① Prokaryonten können keine Zellatmung betreiben\n\nweil\n\n② Prokaryonten keine Mitochondrien besitzen.\n\nA. ① falsch, ② falsch\n\nB. ① falsch, ② richtig\n\nC. ① richtig, ② falsch\n\nD. ① richtig, ② richtig, Verknüpfung falsch\n\nE. ① richtig, ② richtig, Verknüpfung richtig",
      "orig_lang": "de"
     },
     {
@@ -3574,8 +3574,8 @@
      "day": 1,
      "number": 46,
      "paper_label": "1st round",
-     "problem": "Circles stand for females, squares for males. Black symbols stand for the expression of a genetic trait. What is the probability that the individual marked with \"?\" expresses the genetic trait?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2014-1-46-fig1.png\n\nA. 1/8\n\nB. 1/4\n\nC. 1/3\n\nD. 1/2",
-     "problem_orig": "Kreise stehen für Weibchen, Quadrate für Männchen. Schwarz gefärbte Symbole stehen für die Ausprägung eines genetischen Merkmals. Wie gross ist die Wahrscheinlichkeit, dass das mit \"?\" markierte Individuum das genetische Merkmal ausprägt?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2014-1-46-fig1.png\n\nA. 1/8\n\nB. 1/4\n\nC. 1/3\n\nD. 1/2",
+     "problem": "Circles stand for females, squares for males. Black symbols stand for the expression of a genetic trait. What is the probability that the individual marked with \"?\" expresses the genetic trait?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2014-1-46-fig1.png\n\nA. 1/8\n\nB. 1/4\n\nC. 1/3\n\nD. 1/2",
+     "problem_orig": "Kreise stehen für Weibchen, Quadrate für Männchen. Schwarz gefärbte Symbole stehen für die Ausprägung eines genetischen Merkmals. Wie gross ist die Wahrscheinlichkeit, dass das mit \"?\" markierte Individuum das genetische Merkmal ausprägt?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2014-1-46-fig1.png\n\nA. 1/8\n\nB. 1/4\n\nC. 1/3\n\nD. 1/2",
      "orig_lang": "de"
     },
     {
@@ -3763,8 +3763,8 @@
      "day": 1,
      "number": 6,
      "paper_label": "1st round",
-     "problem": "Which of the following statements about catabolism in human cells is correct?\n\nA. In lactic acid fermentation, glucose is completely oxidised to $\\mathrm{CO_2}$.\n\nB. Fatty acids can only be broken down under aerobic conditions.\n\nC. In the electron transport chain, $\\mathrm{CO_2}$ is the final electron acceptor.\n\nD. Under aerobic conditions, glycolysis supplies a large part of the ATP.",
-     "problem_orig": "Welche der folgenden Aussagen über den Katabolismus in menschlichen Zellen ist richtig?\n\nA. In der Milchgärung wird Glucose komplett zu $\\mathrm{CO_2}$ oxidiert.\n\nB. Fettsäuren können nur unter aeroben Bedingungen abgebaut werden.\n\nC. In der Elektronentransportkette ist $\\mathrm{CO_2}$ der Endakzeptor für Elektronen.\n\nD. Unter aeroben Bedingungen liefert die Glycolyse einen Grossteil des ATP.",
+     "problem": "Which of the following statements about catabolism in human cells is correct?\n\nA. In lactic acid fermentation, glucose is completely oxidised to $\\mathrm{CO_2}$.\n\nB. Fatty acids can only be broken down under aerobic conditions.\n\nC. In the electron transport chain, $\\mathrm{CO_2}$ is the final electron acceptor.\n\nD. Under aerobic conditions, glycolysis supplies a large part of the ATP.",
+     "problem_orig": "Welche der folgenden Aussagen über den Katabolismus in menschlichen Zellen ist richtig?\n\nA. In der Milchgärung wird Glucose komplett zu $\\mathrm{CO_2}$ oxidiert.\n\nB. Fettsäuren können nur unter aeroben Bedingungen abgebaut werden.\n\nC. In der Elektronentransportkette ist $\\mathrm{CO_2}$ der Endakzeptor für Elektronen.\n\nD. Unter aeroben Bedingungen liefert die Glycolyse einen Grossteil des ATP.",
      "orig_lang": "de"
     },
     {
@@ -4027,8 +4027,8 @@
      "day": 1,
      "number": 39,
      "paper_label": "1st round",
-     "problem": "In an experiment it was tested by which features young gulls recognise their parents. For this purpose, various dummies were held out to them and it was measured how often the young responded to these dummies by pecking. The results are shown in the following graph. Which of the following statements is correct?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2015-1-39-fig1.png\n\nFigure labels (German → English): Picken (% relativ zur Kontrolle) = pecking (% relative to the control); Kontrolle = control; Anwesenheit vom Fleck auf Schnabel = presence of the spot on the bill; Schnabelform = bill shape; Kopfform = head shape; Kopffarbe = head colour; nur Schnabel = bill only.\n\nA. The spot on the bill is considerably more important than a realistic head shape.\n\nB. The presence of the spot has no influence on the pecking behaviour of the young.\n\nC. A realistic head colour is considerably more important than a realistic head shape.\n\nD. The thick bill is preferred to the normal bill.",
-     "problem_orig": "In einem Experiment wurde getestet, anhand welcher Merkmale junge Möwen ihre Eltern erkennen. Dafür wurden ihnen verschiedene Attrappen hingehalten und gemessen, wie oft die Jungen mit Picken auf diese Attrappen reagierten. Die Resultate sind in der folgenden Grafik dargestellt. Welche der folgenden Aussagen ist korrekt?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2015-1-39-fig1.png\n\nA. Der Fleck auf dem Schnabel ist deutlich wichtiger als eine realistische Kopfform.\n\nB. Die Anwesenheit des Fleckes hat keinen Einfluss auf das Pickverhalten der Jungen.\n\nC. Eine realistische Kopffarbe ist deutlich wichtiger als eine realistische Kopfform.\n\nD. Der dicke Schnabel wird gegenüber dem normalen Schnabel bevorzugt.",
+     "problem": "In an experiment it was tested by which features young gulls recognise their parents. For this purpose, various dummies were held out to them and it was measured how often the young responded to these dummies by pecking. The results are shown in the following graph. Which of the following statements is correct?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2015-1-39-fig1.png\n\nFigure labels (German → English): Picken (% relativ zur Kontrolle) = pecking (% relative to the control); Kontrolle = control; Anwesenheit vom Fleck auf Schnabel = presence of the spot on the bill; Schnabelform = bill shape; Kopfform = head shape; Kopffarbe = head colour; nur Schnabel = bill only.\n\nA. The spot on the bill is considerably more important than a realistic head shape.\n\nB. The presence of the spot has no influence on the pecking behaviour of the young.\n\nC. A realistic head colour is considerably more important than a realistic head shape.\n\nD. The thick bill is preferred to the normal bill.",
+     "problem_orig": "In einem Experiment wurde getestet, anhand welcher Merkmale junge Möwen ihre Eltern erkennen. Dafür wurden ihnen verschiedene Attrappen hingehalten und gemessen, wie oft die Jungen mit Picken auf diese Attrappen reagierten. Die Resultate sind in der folgenden Grafik dargestellt. Welche der folgenden Aussagen ist korrekt?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2015-1-39-fig1.png\n\nA. Der Fleck auf dem Schnabel ist deutlich wichtiger als eine realistische Kopfform.\n\nB. Die Anwesenheit des Fleckes hat keinen Einfluss auf das Pickverhalten der Jungen.\n\nC. Eine realistische Kopffarbe ist deutlich wichtiger als eine realistische Kopfform.\n\nD. Der dicke Schnabel wird gegenüber dem normalen Schnabel bevorzugt.",
      "orig_lang": "de"
     },
     {
@@ -5021,16 +5021,16 @@
      "day": 1,
      "number": 38,
      "paper_label": "1st round",
-     "problem": "Imprinting is defined by the following three features: it takes place only in sensitive phases during development, it proceeds rapidly and it is irreversible. Indicate for each of the following examples whether it is imprinting (true) or not (false).\n\nA. Chaffinches (Fringilla coelebs) develop their own song.\n\nB. Horses (Equus ferus) mate only with their own kind.\n\nC. Ducklings (Anas platyrhynchos) follow their mother.\n\nD. Squirrels (Sciurus vulgaris) find their buried nuts again.",
-     "problem_orig": "Die Prägung wird durch die folgenden drei Merkmale definiert: Sie findet nur in sensiblen Phasen während der Entwicklung statt, verläuft schnell und ist irreversibel. Gib für jedes der folgenden Beispiele an, ob es sich dabei um Prägung handelt (richtig) oder nicht (falsch).\n\nA. Buchfinken (Fringilla coelebs) entwickeln ihren eigenen Gesang.\n\nB. Pferde (Equus ferus) paaren sich nur mit ihresgleichen.\n\nC. Entenkücken (Anas platyrhynchos) laufen ihrer Mutter hinterher\n\nD. Eichhörnchen (Sciurus vulgaris) finden ihre vergrabenen Nüsse wieder.",
+     "problem": "Imprinting is defined by the following three features: it takes place only in sensitive phases during development, it proceeds rapidly and it is irreversible. Indicate for each of the following examples whether it is imprinting (true) or not (false).\n\nA. Chaffinches (Fringilla coelebs) develop their own song.\n\nB. Horses (Equus ferus) mate only with their own kind.\n\nC. Ducklings (Anas platyrhynchos) follow their mother.\n\nD. Squirrels (Sciurus vulgaris) find their buried nuts again.",
+     "problem_orig": "Die Prägung wird durch die folgenden drei Merkmale definiert: Sie findet nur in sensiblen Phasen während der Entwicklung statt, verläuft schnell und ist irreversibel. Gib für jedes der folgenden Beispiele an, ob es sich dabei um Prägung handelt (richtig) oder nicht (falsch).\n\nA. Buchfinken (Fringilla coelebs) entwickeln ihren eigenen Gesang.\n\nB. Pferde (Equus ferus) paaren sich nur mit ihresgleichen.\n\nC. Entenkücken (Anas platyrhynchos) laufen ihrer Mutter hinterher\n\nD. Eichhörnchen (Sciurus vulgaris) finden ihre vergrabenen Nüsse wieder.",
      "orig_lang": "de"
     },
     {
      "day": 1,
      "number": 39,
      "paper_label": "1st round",
-     "problem": "In a behavioural study, the foraging of a nesting songbird was investigated. Shown is a graph giving the optimal relationship between the search time and the travel time required for food sources a far from and b close to the nesting site. Which behaviour do you expect in this bird species?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2017-1-39-fig1.png\n\nFigure labels (German → English): Entfernung zum Nest = distance to the nest; Reise-Zeit = travel time; Such-Zeit = search time.\n\nA. Short travel distances are not worthwhile and should be avoided in favour of long travel distances.\n\nB. With short travel distances, less time is spent searching than with long ones.\n\nC. Distant food sources are visited more often than nearby ones.\n\nD. The search time is independent of the travel time.",
-     "problem_orig": "In einer Verhaltensstudie wurde die Nahrungsbeschaffung eines nistenden Singvogels untersucht. Abgebildet ist eine Graphik, welche das optimale Verhältnis zwischen der zu leistenden Such-Zeit und Reise-Zeit für a weit entfernte und b dem Nistplatz nahe Nahrungsquellen angibt. Welches Verhalten erwartest du bei dieser Vogelart?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2017-1-39-fig1.png\n\nA. Kurze Reisestrecken lohnen sich nicht und sollten zu Gunsten langer Reisestrecken vermieden werden.\n\nB. Bei kurzen Reisestrecken wird weniger lange gesucht als bei langen.\n\nC. Entfernte Nahrungsquellen werden öfter aufgesucht als nahe liegende.\n\nD. Die Suchzeit ist unabhängig von der Reisezeit.",
+     "problem": "In a behavioural study, the foraging of a nesting songbird was investigated. Shown is a graph giving the optimal relationship between the search time and the travel time required for food sources a far from and b close to the nesting site. Which behaviour do you expect in this bird species?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2017-1-39-fig1.png\n\nFigure labels (German → English): Entfernung zum Nest = distance to the nest; Reise-Zeit = travel time; Such-Zeit = search time.\n\nA. Short travel distances are not worthwhile and should be avoided in favour of long travel distances.\n\nB. With short travel distances, less time is spent searching than with long ones.\n\nC. Distant food sources are visited more often than nearby ones.\n\nD. The search time is independent of the travel time.",
+     "problem_orig": "In einer Verhaltensstudie wurde die Nahrungsbeschaffung eines nistenden Singvogels untersucht. Abgebildet ist eine Graphik, welche das optimale Verhältnis zwischen der zu leistenden Such-Zeit und Reise-Zeit für a weit entfernte und b dem Nistplatz nahe Nahrungsquellen angibt. Welches Verhalten erwartest du bei dieser Vogelart?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2017-1-39-fig1.png\n\nA. Kurze Reisestrecken lohnen sich nicht und sollten zu Gunsten langer Reisestrecken vermieden werden.\n\nB. Bei kurzen Reisestrecken wird weniger lange gesucht als bei langen.\n\nC. Entfernte Nahrungsquellen werden öfter aufgesucht als nahe liegende.\n\nD. Die Suchzeit ist unabhängig von der Reisezeit.",
      "orig_lang": "de"
     },
     {
@@ -5437,16 +5437,16 @@
      "day": 2,
      "number": 30,
      "paper_label": "2nd round",
-     "problem": "In the process of photorespiration, oxygen is added to ribulose-1,5-bisphosphate in the first reaction of the Calvin cycle. For each of the following statements regarding photorespiration, indicate whether it is true or false.\n\nA. Photorespiration can be prevented by closing the stomata.\n\nB. Rubisco of CAM plants accepts only CO₂.\n\nC. The higher the CO₂ partial pressure, the stronger the photorespiration.\n\nD. Photorespiration is induced by cyclic electron flow.",
-     "problem_orig": "Beim Prozess der Fotorespiration wird bei der ersten Reaktion im Calvinzyklus Sauerstoff ans Ribulose-1,5-bisphosphat addiert. Gib für jede der folgenden Aussagen bezüglich der Fotorespiration an, ob sie richtig oder falsch ist.\n\nA. Fotorespiration kann durch Schliessung der Stomata verhindert werden.\n\nB. Rubisco von CAM-Pflanzen akzeptiert nur CO₂.\n\nC. Je höher der CO₂-Partialdruck ist, desto stärker ist die Fotorespiration.\n\nD. Die Fotorespiration wird durch den zyklischen Elektronenfluss induziert.",
+     "problem": "In the process of photorespiration, oxygen is added to ribulose-1,5-bisphosphate in the first reaction of the Calvin cycle. For each of the following statements regarding photorespiration, indicate whether it is true or false.\n\nA. Photorespiration can be prevented by closing the stomata.\n\nB. Rubisco of CAM plants accepts only CO₂.\n\nC. The higher the CO₂ partial pressure, the stronger the photorespiration.\n\nD. Photorespiration is induced by cyclic electron flow.",
+     "problem_orig": "Beim Prozess der Fotorespiration wird bei der ersten Reaktion im Calvinzyklus Sauerstoff ans Ribulose-1,5-bisphosphat addiert. Gib für jede der folgenden Aussagen bezüglich der Fotorespiration an, ob sie richtig oder falsch ist.\n\nA. Fotorespiration kann durch Schliessung der Stomata verhindert werden.\n\nB. Rubisco von CAM-Pflanzen akzeptiert nur CO₂.\n\nC. Je höher der CO₂-Partialdruck ist, desto stärker ist die Fotorespiration.\n\nD. Die Fotorespiration wird durch den zyklischen Elektronenfluss induziert.",
      "orig_lang": "de"
     },
     {
      "day": 2,
      "number": 31,
      "paper_label": "2nd round",
-     "problem": "For each of the diagrams, indicate whether it belongs to a representative of the monocotyledons (true) or not (false).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2017-2-31-fig1.png",
-     "problem_orig": "Gib für jedes der Schemata an, ob es zu einem Vertreter der Monokotyledonen gehört (richtig) oder nicht (falsch).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2017-2-31-fig1.png",
+     "problem": "For each of the diagrams, indicate whether it belongs to a representative of the monocotyledons (true) or not (false).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2017-2-31-fig1.png",
+     "problem_orig": "Gib für jedes der Schemata an, ob es zu einem Vertreter der Monokotyledonen gehört (richtig) oder nicht (falsch).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2017-2-31-fig1.png",
      "orig_lang": "de"
     },
     {
@@ -5525,8 +5525,8 @@
      "day": 2,
      "number": 41,
      "paper_label": "2nd round",
-     "problem": "Nephrin is a protein that is needed for the correct function of the filtration membrane in the glomerulus (renal corpuscle) of the human kidney. There are hereditary defects of nephrin by which the function of the glomerular filter is disturbed, so that it retains substances in the blood less reliably. Which of the following substances do you expect in higher concentration in the urine of affected persons compared with healthy ones?\n\nA. Potassium\n\nB. Urea\n\nC. Glucose\n\nD. Proteins",
-     "problem_orig": "Nephrin ist ein Protein, welches für die korrekte Funktion der Filtermembran im Glomerulum (Nierenkörperchen) der menschlichen Niere nötig ist. Es gibt erbliche Defekte von Nephrin, wodurch die Funktion des glomerulären Filters gestört ist und er Stoffe weniger zuverlässig im Blut zurückhalten kann. Welche der folgenden Stoffe erwartest du in höherer Konzentration im Urin von betroffenen Personen im Vergleich zu Gesunden?\n\nA. Kalium\n\nB. Harnstoff\n\nC. Glucose\n\nD. Proteine",
+     "problem": "Nephrin is a protein that is needed for the correct function of the filtration membrane in the glomerulus (renal corpuscle) of the human kidney. There are hereditary defects of nephrin by which the function of the glomerular filter is disturbed, so that it retains substances in the blood less reliably. Which of the following substances do you expect in higher concentration in the urine of affected persons compared with healthy ones?\n\nA. Potassium\n\nB. Urea\n\nC. Glucose\n\nD. Proteins",
+     "problem_orig": "Nephrin ist ein Protein, welches für die korrekte Funktion der Filtermembran im Glomerulum (Nierenkörperchen) der menschlichen Niere nötig ist. Es gibt erbliche Defekte von Nephrin, wodurch die Funktion des glomerulären Filters gestört ist und er Stoffe weniger zuverlässig im Blut zurückhalten kann. Welche der folgenden Stoffe erwartest du in höherer Konzentration im Urin von betroffenen Personen im Vergleich zu Gesunden?\n\nA. Kalium\n\nB. Harnstoff\n\nC. Glucose\n\nD. Proteine",
      "orig_lang": "de"
     },
     {
@@ -6322,8 +6322,8 @@
      "day": 1,
      "number": 25,
      "paper_label": "1st round",
-     "problem": "For which of the following substances does the concentration in the exhaled air of land mammals differ, in percentage terms, most from that in the inhaled air?\n\nA. Carbon dioxide\n\nB. Argon\n\nC. Nitrogen\n\nD. Carbon monoxide",
-     "problem_orig": "Von welchem der folgenden Stoffe weicht die Konzentration in der Ausatmungsluft von Land-Säugetieren prozentual am meisten von derjenigen in der Einatmungsluft ab?\n\nA. Kohlenstoffdioxid\n\nB. Argon\n\nC. Stickstoff\n\nD. Kohlenstoffmonoxid",
+     "problem": "For which of the following substances does the concentration in the exhaled air of land mammals differ, in percentage terms, most from that in the inhaled air?\n\nA. Carbon dioxide\n\nB. Argon\n\nC. Nitrogen\n\nD. Carbon monoxide",
+     "problem_orig": "Von welchem der folgenden Stoffe weicht die Konzentration in der Ausatmungsluft von Land-Säugetieren prozentual am meisten von derjenigen in der Einatmungsluft ab?\n\nA. Kohlenstoffdioxid\n\nB. Argon\n\nC. Stickstoff\n\nD. Kohlenstoffmonoxid",
      "orig_lang": "de"
     },
     {
@@ -6386,8 +6386,8 @@
      "day": 1,
      "number": 33,
      "paper_label": "1st round",
-     "problem": "Indicate for each of the following processes whether it is important for successful embryogenesis (true) or not (false).\n\nA. Cell communication\n\nB. Cell migration\n\nC. Cell differentiation\n\nD. programmed cell death (apoptosis)",
-     "problem_orig": "Gib für jeden der folgenden Abläufe an, ob er wichtig ist für eine erfolgreiche Embryogenese (richtig) oder nicht (falsch).\n\nA. Zellkommunikation\n\nB. Zellmigration\n\nC. Zelldifferenzierung\n\nD. programmierter Zelltod (Apoptose)",
+     "problem": "Indicate for each of the following processes whether it is important for successful embryogenesis (true) or not (false).\n\nA. Cell communication\n\nB. Cell migration\n\nC. Cell differentiation\n\nD. programmed cell death (apoptosis)",
+     "problem_orig": "Gib für jeden der folgenden Abläufe an, ob er wichtig ist für eine erfolgreiche Embryogenese (richtig) oder nicht (falsch).\n\nA. Zellkommunikation\n\nB. Zellmigration\n\nC. Zelldifferenzierung\n\nD. programmierter Zelltod (Apoptose)",
      "orig_lang": "de"
     },
     {
@@ -6730,8 +6730,8 @@
      "day": 2,
      "number": 16,
      "paper_label": "2nd round",
-     "problem": "Mark all answers that correctly complete the sentence: Cell types that produce a lot of … have a particularly large smooth ER.\n\nA. steroids\n\nB. carbohydrates\n\nC. membrane lipids\n\nD. proteins",
-     "problem_orig": "Kreuze alle Antworten an, die den Satz korrekt ergänzen: Zelltypen, welche viele ... produzieren, haben ein besonders grosses glattes ER.\n\nA. Steroide\n\nB. Kohlenhydrate\n\nC. Membranlipide\n\nD. Proteine",
+     "problem": "Mark all answers that correctly complete the sentence: Cell types that produce a lot of … have a particularly large smooth ER.\n\nA. steroids\n\nB. carbohydrates\n\nC. membrane lipids\n\nD. proteins",
+     "problem_orig": "Kreuze alle Antworten an, die den Satz korrekt ergänzen: Zelltypen, welche viele ... produzieren, haben ein besonders grosses glattes ER.\n\nA. Steroide\n\nB. Kohlenhydrate\n\nC. Membranlipide\n\nD. Proteine",
      "orig_lang": "de"
     },
     {
@@ -6890,8 +6890,8 @@
      "day": 2,
      "number": 36,
      "paper_label": "2nd round",
-     "problem": "The figure shows schematically the formation of a plant organelle. For each of the following statements, indicate whether it is true or false.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2018-2-36-fig1.png\n\nFigure labels (German → English): Proplastid = proplastid; Thylakoidvesikel = thylakoid vesicle; Thylakoidinnenraum = thylakoid lumen; Thylakoidmembran = thylakoid membrane.\n\nA. Glycolysis takes place in compartment A.\n\nB. Process B is triggered by a rise in intracellular glucose.\n\nC. Organelle C is an amyloplast.\n\nD. The proplastid is surrounded by two membranes.",
-     "problem_orig": "In der Abbildung ist schematisch die Bildung eines Pflanzenorganells dargestellt. Gib für jede der folgenden Aussagen an, ob sie richtig oder falsch ist.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2018-2-36-fig1.png\n\nA. Im Abteil A findet die Glykolyse statt.\n\nB. Prozess B wird durch einen Anstieg an intrazellulärer Glukose ausgelöst.\n\nC. Beim Organell C handelt es sich um einen Amyloplasten.\n\nD. Der Proplastid ist von zwei Membranen umgeben.",
+     "problem": "The figure shows schematically the formation of a plant organelle. For each of the following statements, indicate whether it is true or false.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2018-2-36-fig1.png\n\nFigure labels (German → English): Proplastid = proplastid; Thylakoidvesikel = thylakoid vesicle; Thylakoidinnenraum = thylakoid lumen; Thylakoidmembran = thylakoid membrane.\n\nA. Glycolysis takes place in compartment A.\n\nB. Process B is triggered by a rise in intracellular glucose.\n\nC. Organelle C is an amyloplast.\n\nD. The proplastid is surrounded by two membranes.",
+     "problem_orig": "In der Abbildung ist schematisch die Bildung eines Pflanzenorganells dargestellt. Gib für jede der folgenden Aussagen an, ob sie richtig oder falsch ist.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2018-2-36-fig1.png\n\nA. Im Abteil A findet die Glykolyse statt.\n\nB. Prozess B wird durch einen Anstieg an intrazellulärer Glukose ausgelöst.\n\nC. Beim Organell C handelt es sich um einen Amyloplasten.\n\nD. Der Proplastid ist von zwei Membranen umgeben.",
      "orig_lang": "de"
     },
     {
@@ -7743,8 +7743,8 @@
      "day": 1,
      "number": 22,
      "paper_label": "1st round",
-     "problem": "Indicate for each of the following enzymes whether it is involved in the digestion of carbohydrates (true) or not (false).\n\nA. Lipase\n\nB. Maltase\n\nC. Pepsin\n\nD. Amylase",
-     "problem_orig": "Gib für jedes der folgenden Enzyme an, ob es bei der Verdauung von Kohlehydraten mitbeteiligt ist (richtig) oder nicht (falsch).\n\nA. Lipase\n\nB. Maltase\n\nC. Pepsin\n\nD. Amylase",
+     "problem": "Indicate for each of the following enzymes whether it is involved in the digestion of carbohydrates (true) or not (false).\n\nA. Lipase\n\nB. Maltase\n\nC. Pepsin\n\nD. Amylase",
+     "problem_orig": "Gib für jedes der folgenden Enzyme an, ob es bei der Verdauung von Kohlehydraten mitbeteiligt ist (richtig) oder nicht (falsch).\n\nA. Lipase\n\nB. Maltase\n\nC. Pepsin\n\nD. Amylase",
      "orig_lang": "de"
     },
     {
@@ -7999,8 +7999,8 @@
      "day": 1,
      "number": 54,
      "paper_label": "1st round",
-     "problem": "Indicate for each of the following factors whether it can have an influence on the distribution range of a species (true) or not (false).\n\nA. Temperature\n\nB. Occurrence of other species\n\nC. Precipitation\n\nD. Mineral content",
-     "problem_orig": "Gib für jeden der folgenden Faktoren an, ob er einen Einfluss auf das Verbreitungsgebiet einer Art haben kann (richtig), oder nicht (falsch).\n\nA. Temperatur\n\nB. Vorkommen anderer Arten\n\nC. Niederschlag\n\nD. Mineralstoffgehalt",
+     "problem": "Indicate for each of the following factors whether it can have an influence on the distribution range of a species (true) or not (false).\n\nA. Temperature\n\nB. Occurrence of other species\n\nC. Precipitation\n\nD. Mineral content",
+     "problem_orig": "Gib für jeden der folgenden Faktoren an, ob er einen Einfluss auf das Verbreitungsgebiet einer Art haben kann (richtig), oder nicht (falsch).\n\nA. Temperatur\n\nB. Vorkommen anderer Arten\n\nC. Niederschlag\n\nD. Mineralstoffgehalt",
      "orig_lang": "de"
     },
     {
@@ -9276,8 +9276,8 @@
      "day": 1,
      "number": 31,
      "paper_label": "1st round",
-     "problem": "Neuronal transmission of information is mediated by action potentials. Indicate for each of the following statements about the action potential whether it is true or false.\n\nA. The amplitude of the action potential changes with the extracellular sodium ion concentration.\n\nB. The action potential follows the all-or-nothing principle.\n\nC. The refractory period determines the maximum frequency at which action potentials can be triggered.\n\nD. The amplitude of the action potential changes with the intensity of the stimulus.",
-     "problem_orig": "Die neuronale Informationsweiterleitung wird durch Aktionspotentiale vermittelt. Gib für jede der folgenden Aussagen zum Aktionspotential an, ob sie richtig oder falsch ist.\n\nA. Die Amplitude des Aktionspotentials ändert sich mit der extrazellulären Natrium-Ionen Konzentration.\n\nB. Das Aktionspotential folgt dem alles-oder-nichts Prinzip.\n\nC. Die Refraktärzeit bestimmt die maximale Frequenz, mit der Aktionspotentiale ausgelöst werden können.\n\nD. Die Amplitude des Aktionspotentials ändert sich mit der Intensität des Reizes.",
+     "problem": "Neuronal transmission of information is mediated by action potentials. Indicate for each of the following statements about the action potential whether it is true or false.\n\nA. The amplitude of the action potential changes with the extracellular sodium ion concentration.\n\nB. The action potential follows the all-or-nothing principle.\n\nC. The refractory period determines the maximum frequency at which action potentials can be triggered.\n\nD. The amplitude of the action potential changes with the intensity of the stimulus.",
+     "problem_orig": "Die neuronale Informationsweiterleitung wird durch Aktionspotentiale vermittelt. Gib für jede der folgenden Aussagen zum Aktionspotential an, ob sie richtig oder falsch ist.\n\nA. Die Amplitude des Aktionspotentials ändert sich mit der extrazellulären Natrium-Ionen Konzentration.\n\nB. Das Aktionspotential folgt dem alles-oder-nichts Prinzip.\n\nC. Die Refraktärzeit bestimmt die maximale Frequenz, mit der Aktionspotentiale ausgelöst werden können.\n\nD. Die Amplitude des Aktionspotentials ändert sich mit der Intensität des Reizes.",
      "orig_lang": "de"
     },
     {
@@ -9436,8 +9436,8 @@
      "day": 1,
      "number": 51,
      "paper_label": "1st round",
-     "problem": "The phylogenetic tree shows the relationships of the great apes (Hominidae) according to current knowledge. Indicate for each of the following statements whether it is true or false.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2020-1-51-fig1.png\n\nA. The last common ancestor of gorillas (Gorilla) and chimpanzees (Pan) is older than that of chimpanzees (Pan) and humans (Homo).\n\nB. The sister group of the gorillas (Gorilla) is the orangutans (Pongo).\n\nC. The last common ancestor of chimpanzees (Pan) and humans (Homo) was a gorilla (Gorilla).\n\nD. Humans (Homo) form an outgroup to the remaining great apes.",
-     "problem_orig": "Der Stammbaum zeigt die Verwandschaftsverhältnisse der Menschenaffen (Hominidae) nach aktuellem Wissensstand. Gib für jede der folgenden Aussagen an, ob sie richtig oder falsch ist.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2020-1-51-fig1.png\n\nA. Der letzte gemeinsame Vorfahre von Gorillas (Gorilla) und Schimpansen (Pan) ist älter als der von Schimpansen (Pan) und Mensch (Homo).\n\nB. Die Schwestergruppe der Gorillas (Gorilla) sind die Orang-Utans (Pongo).\n\nC. Der letzte gemeinsame Vorfahre der Schimpansen (Pan) und des Menschen (Homo) war ein Gorilla (Gorilla).\n\nD. Die Menschen (Homo) bilden eine Aussengruppe zu den restlichen Menschenaffen.",
+     "problem": "The phylogenetic tree shows the relationships of the great apes (Hominidae) according to current knowledge. Indicate for each of the following statements whether it is true or false.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2020-1-51-fig1.png\n\nA. The last common ancestor of gorillas (Gorilla) and chimpanzees (Pan) is older than that of chimpanzees (Pan) and humans (Homo).\n\nB. The sister group of the gorillas (Gorilla) is the orangutans (Pongo).\n\nC. The last common ancestor of chimpanzees (Pan) and humans (Homo) was a gorilla (Gorilla).\n\nD. Humans (Homo) form an outgroup to the remaining great apes.",
+     "problem_orig": "Der Stammbaum zeigt die Verwandschaftsverhältnisse der Menschenaffen (Hominidae) nach aktuellem Wissensstand. Gib für jede der folgenden Aussagen an, ob sie richtig oder falsch ist.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2020-1-51-fig1.png\n\nA. Der letzte gemeinsame Vorfahre von Gorillas (Gorilla) und Schimpansen (Pan) ist älter als der von Schimpansen (Pan) und Mensch (Homo).\n\nB. Die Schwestergruppe der Gorillas (Gorilla) sind die Orang-Utans (Pongo).\n\nC. Der letzte gemeinsame Vorfahre der Schimpansen (Pan) und des Menschen (Homo) war ein Gorilla (Gorilla).\n\nD. Die Menschen (Homo) bilden eine Aussengruppe zu den restlichen Menschenaffen.",
      "orig_lang": "de"
     },
     {
@@ -10124,8 +10124,8 @@
      "day": 2,
      "number": 77,
      "paper_label": "2nd round",
-     "problem": "PLK4, STIL and SAS6 form a protein complex at the mother centriole that acts as the starting point for the formation of a daughter centriole. In simplified terms, an intracellular concentration of these three proteins of 1 mol per cell corresponds to one newly formed daughter centriole. This is the normal case. For each of the following statements, indicate whether it is true or false:\n\nA. Regardless of which of these three proteins is overexpressed, multiple daughter centrioles are formed.\n\nB. If the protein complex consists of 6 PLK4, 3 STIL and 10 SAS6, normally 100 mmol of complex per cell is formed\n\nC. Overexpression of SAS6 does not yet lead to the formation of multiple daughter centrioles per mother centriole. For this, PLK4 and STIL must also be overexpressed.\n\nD. The effects on the cell divisions become noticeable in the same cell cycle in which the protein concentrations are higher than 1 mol per cell.",
-     "problem_orig": "PLK4, STIL und SAS6 bilden einen Proteinkomplex an der Mutterzentriole welcher als Ansatzpunkt für die Bildung einer Tochterzentriole fungiert. Vereinfacht entspricht eine intrazelluläre Konzentration dieser drei Proteine von 1 mol pro Zelle einer neu gebildeten Tochterzentriole. Dies ist der Normalfall. Gib für jede der folgenden Aussagen an, ob sie richtig oder falsch ist: Gib für jede der folgenden Aussagen an, ob sie richtig oder falsch ist.\n\nA. Unabhängig davon welches dieser drei Proteine überexprimiert wird, es kommt zur Bildung multipler Tochterzentriolen.\n\nB. Besteht der Proteinkomplex aus 6 PLK4, 3 STIL und 10 SAS6 entsteht im Normalfall 100 mmol Komplex pro Zelle\n\nC. Die Überexpression von SAS6 führt noch nicht zur Bildung von multiplen Tochterzentriolen per Mutterzentriole. Dazu müssen PLK4 und STIL auch überexprimiert werden.\n\nD. Die Auswirkungen auf die Zellteilungen werden im selben Zellzyklus bemerkbar wie Proteinkonzentrationen höher ist als 1 mol pro Zelle.",
+     "problem": "PLK4, STIL and SAS6 form a protein complex at the mother centriole that acts as the starting point for the formation of a daughter centriole. In simplified terms, an intracellular concentration of these three proteins of 1 mol per cell corresponds to one newly formed daughter centriole. This is the normal case. For each of the following statements, indicate whether it is true or false:\n\nA. Regardless of which of these three proteins is overexpressed, multiple daughter centrioles are formed.\n\nB. If the protein complex consists of 6 PLK4, 3 STIL and 10 SAS6, normally 100 mmol of complex per cell is formed\n\nC. Overexpression of SAS6 does not yet lead to the formation of multiple daughter centrioles per mother centriole. For this, PLK4 and STIL must also be overexpressed.\n\nD. The effects on the cell divisions become noticeable in the same cell cycle in which the protein concentrations are higher than 1 mol per cell.",
+     "problem_orig": "PLK4, STIL und SAS6 bilden einen Proteinkomplex an der Mutterzentriole welcher als Ansatzpunkt für die Bildung einer Tochterzentriole fungiert. Vereinfacht entspricht eine intrazelluläre Konzentration dieser drei Proteine von 1 mol pro Zelle einer neu gebildeten Tochterzentriole. Dies ist der Normalfall. Gib für jede der folgenden Aussagen an, ob sie richtig oder falsch ist: Gib für jede der folgenden Aussagen an, ob sie richtig oder falsch ist.\n\nA. Unabhängig davon welches dieser drei Proteine überexprimiert wird, es kommt zur Bildung multipler Tochterzentriolen.\n\nB. Besteht der Proteinkomplex aus 6 PLK4, 3 STIL und 10 SAS6 entsteht im Normalfall 100 mmol Komplex pro Zelle\n\nC. Die Überexpression von SAS6 führt noch nicht zur Bildung von multiplen Tochterzentriolen per Mutterzentriole. Dazu müssen PLK4 und STIL auch überexprimiert werden.\n\nD. Die Auswirkungen auf die Zellteilungen werden im selben Zellzyklus bemerkbar wie Proteinkonzentrationen höher ist als 1 mol pro Zelle.",
      "orig_lang": "de"
     },
     {
@@ -10329,8 +10329,8 @@
      "day": 1,
      "number": 16,
      "paper_label": "1st round",
-     "problem": "Indicate for each of the following molecules whether it is involved in photosynthesis (true) or not (false).\n\nA. Cellulose\n\nB. Chlorophyll\n\nC. Carbon dioxide\n\nD. NADPH",
-     "problem_orig": "Gib für jedes der folgenden Moleküle an, ob es an der Photosynthese beteiligt ist (richtig) oder nicht (falsch).\n\nA. Cellulose\n\nB. Chlorophyll\n\nC. Kohlenstoffdioxid\n\nD. NADPH",
+     "problem": "Indicate for each of the following molecules whether it is involved in photosynthesis (true) or not (false).\n\nA. Cellulose\n\nB. Chlorophyll\n\nC. Carbon dioxide\n\nD. NADPH",
+     "problem_orig": "Gib für jedes der folgenden Moleküle an, ob es an der Photosynthese beteiligt ist (richtig) oder nicht (falsch).\n\nA. Cellulose\n\nB. Chlorophyll\n\nC. Kohlenstoffdioxid\n\nD. NADPH",
      "orig_lang": "de"
     },
     {
@@ -10633,8 +10633,8 @@
      "day": 1,
      "number": 54,
      "paper_label": "1st round",
-     "problem": "The absence of the tail (allele A) in cats is inherited dominantly. The litter of two tailless cats (genotype Aa) consists of one third kittens with a tail and two thirds kittens without a tail. Indicate for each of the following statements whether it is true or false.\n\nA. The litter of two cats with tails consists only of kittens with tails.\n\nB. The frequency of allele A has decreased in the kittens compared with the parental generation.\n\nC. The kittens with tails have genotype aa.\n\nD. Cats with genotype AA are not viable.",
-     "problem_orig": "Das Fehlen des Schwanzes (Allel A) bei Katzen wird dominant vererbt. Der Wurf zweier schwanzloser Katzen (Genotyp Aa) besteht zu einem Drittel aus Jungen mit Schwanz, zu zwei Dritteln aus Jungen ohne Schwanz. Gib für jede der folgenden Aussagen an, ob sie richtig oder falsch ist.\n\nA. Der Wurf zweier Katzen mit Schwanz besteht nur aus Jungen mit Schwanz.\n\nB. Die Häufigkeit von Allel A hat bei den Jungen gegenüber der Elterngeneration abgenommen.\n\nC. Die Jungen mit Schwanz haben Genotyp aa.\n\nD. Katzen mit Genotyp AA sind nicht überlebensfähig.",
+     "problem": "The absence of the tail (allele A) in cats is inherited dominantly. The litter of two tailless cats (genotype Aa) consists of one third kittens with a tail and two thirds kittens without a tail. Indicate for each of the following statements whether it is true or false.\n\nA. The litter of two cats with tails consists only of kittens with tails.\n\nB. The frequency of allele A has decreased in the kittens compared with the parental generation.\n\nC. The kittens with tails have genotype aa.\n\nD. Cats with genotype AA are not viable.",
+     "problem_orig": "Das Fehlen des Schwanzes (Allel A) bei Katzen wird dominant vererbt. Der Wurf zweier schwanzloser Katzen (Genotyp Aa) besteht zu einem Drittel aus Jungen mit Schwanz, zu zwei Dritteln aus Jungen ohne Schwanz. Gib für jede der folgenden Aussagen an, ob sie richtig oder falsch ist.\n\nA. Der Wurf zweier Katzen mit Schwanz besteht nur aus Jungen mit Schwanz.\n\nB. Die Häufigkeit von Allel A hat bei den Jungen gegenüber der Elterngeneration abgenommen.\n\nC. Die Jungen mit Schwanz haben Genotyp aa.\n\nD. Katzen mit Genotyp AA sind nicht überlebensfähig.",
      "orig_lang": "de"
     },
     {
@@ -11345,8 +11345,8 @@
      "day": 2,
      "number": 78,
      "paper_label": "2nd round",
-     "problem": "The Asian jewel beetle Agrilus planipennis is invasive in the USA and damages the forests. You want to control the jewel beetle. In doing so, you want to disturb the natural ecosystem as little as possible, i.e. as few species as possible should be affected by the intervention. Arrange the following methods in ascending order of ecological severity (from the least disturbance to the greatest disturbance). I. Genetic research on A. planipennis in the laboratory II. Introduction of a beetle-eating predator into the forest III. Large-scale use of pesticides in the forest IV. Introduction of a parasitoid that attacks A. planipennis.\n\nA. I-II-IV-III\n\nB. I-IV-II-III\n\nC. I-II-III-IV\n\nD. I-IV-III-II",
-     "problem_orig": "Der asiatische Prachtkäfer Agrilus planipennis ist in den USA invasiv und beschädigt die Wälder. Du willst den Prachtkäfer bekämpfen. Dabei willst du das natürliche Ökosystem so wenig wie möglich stören, d.h. möglichst wenige Arten sollten vom Eingriff betroffen sein. Ordne die folgenden Methoden nach aufsteigendem ökologischen Schweregrad (von der geringsten Störung zur grössten Störung). I. Genetische Forschung an A. planipennis im Labor II. Einführung eines käferfressenden Räubers im Wald III. Grossflächiger Einsatz von Pestiziden im Wald IV. Einführung eines Parasitoiden, der A. planipennis befällt.\n\nA. I-II-IV-III\n\nB. I-IV-II-III\n\nC. I-II-III-IV\n\nD. I-IV-III-II",
+     "problem": "The Asian jewel beetle Agrilus planipennis is invasive in the USA and damages the forests. You want to control the jewel beetle. In doing so, you want to disturb the natural ecosystem as little as possible, i.e. as few species as possible should be affected by the intervention. Arrange the following methods in ascending order of ecological severity (from the least disturbance to the greatest disturbance). I. Genetic research on A. planipennis in the laboratory II. Introduction of a beetle-eating predator into the forest III. Large-scale use of pesticides in the forest IV. Introduction of a parasitoid that attacks A. planipennis.\n\nA. I-II-IV-III\n\nB. I-IV-II-III\n\nC. I-II-III-IV\n\nD. I-IV-III-II",
+     "problem_orig": "Der asiatische Prachtkäfer Agrilus planipennis ist in den USA invasiv und beschädigt die Wälder. Du willst den Prachtkäfer bekämpfen. Dabei willst du das natürliche Ökosystem so wenig wie möglich stören, d.h. möglichst wenige Arten sollten vom Eingriff betroffen sein. Ordne die folgenden Methoden nach aufsteigendem ökologischen Schweregrad (von der geringsten Störung zur grössten Störung). I. Genetische Forschung an A. planipennis im Labor II. Einführung eines käferfressenden Räubers im Wald III. Grossflächiger Einsatz von Pestiziden im Wald IV. Einführung eines Parasitoiden, der A. planipennis befällt.\n\nA. I-II-IV-III\n\nB. I-IV-II-III\n\nC. I-II-III-IV\n\nD. I-IV-III-II",
      "orig_lang": "de"
     },
     {
@@ -12102,8 +12102,8 @@
      "day": 2,
      "number": 13,
      "paper_label": "2nd round",
-     "problem": "Plasmids need several elements so that they can be passed on from one bacterial generation to the next.\n\nFor each of the following elements, indicate whether it is strictly required (true) or not (false).\n\nA. Multiple cloning site (MCS)\n\nB. Origin of replication (ORI)\n\nC. Antibiotic resistance gene\n\nD. Restriction sites",
-     "problem_orig": "Plasmide benötigen mehrere Elemente, damit sie von einer Bakteriengeneration zur nächsten weitergegeben werden können.\n\nGib für jedes der folgenden Elemente an, ob es zwingend benötigt wird (richtig) oder nicht (falsch).\n\nA. Multiple Cloning Site (MCS)\n\nB. Origin of Replication (ORI)\n\nC. Antiobiotikaresistenz-Gen\n\nD. Restriktions-Schnittstellen",
+     "problem": "Plasmids need several elements so that they can be passed on from one bacterial generation to the next.\n\nFor each of the following elements, indicate whether it is strictly required (true) or not (false).\n\nA. Multiple cloning site (MCS)\n\nB. Origin of replication (ORI)\n\nC. Antibiotic resistance gene\n\nD. Restriction sites",
+     "problem_orig": "Plasmide benötigen mehrere Elemente, damit sie von einer Bakteriengeneration zur nächsten weitergegeben werden können.\n\nGib für jedes der folgenden Elemente an, ob es zwingend benötigt wird (richtig) oder nicht (falsch).\n\nA. Multiple Cloning Site (MCS)\n\nB. Origin of Replication (ORI)\n\nC. Antiobiotikaresistenz-Gen\n\nD. Restriktions-Schnittstellen",
      "orig_lang": "de"
     },
     {
@@ -13371,8 +13371,8 @@
      "day": 2,
      "number": 11,
      "paper_label": "2nd round",
-     "problem": "Cytochrome c is encoded on chromosome 7 of the human genome in the nucleus. To follow its transport into the intermembrane space of the mitochondrion with the microscope, you have labelled cytochrome c with green fluorescent protein (GFP). You start the experiment by adding the coding mRNA to the cytosol.\n\nIn which order do the following cell components light up?\n\nI: endoplasmic reticulum, II: nucleus, III: Golgi apparatus, IV: cytosol, V: mitochondrion\n\nA. I - III - IV - V\n\nB. IV - V\n\nC. II - I - III - V\n\nD. V",
-     "problem_orig": "Cytochrom c ist auf Chromosom 7 des menschlichen Genoms im Zellkern codiert. Um den Transport in den Intermembranraum des Mitochondriums mit dem Mikroskop zu verfolgen, hast du Cytochrom c mit dem grün-fluoreszierendem Protein (GFP) markiert. Durch Zugabe der codierenden mRNA ins Zytosol startest du das Experiment.\n\nIn welcher Reihenfolge leuchten die folgenden Zellbestandteile auf?\n\nI: Endoplasmatisches Retikulum, II: Zellkern, III: Golgi-Apparat, IV: Zytosol, V: Mitochondrium\n\nA. I - III - IV - V\n\nB. IV - V\n\nC. II - I - III - V\n\nD. V",
+     "problem": "Cytochrome c is encoded on chromosome 7 of the human genome in the nucleus. To follow its transport into the intermembrane space of the mitochondrion with the microscope, you have labelled cytochrome c with green fluorescent protein (GFP). You start the experiment by adding the coding mRNA to the cytosol.\n\nIn which order do the following cell components light up?\n\nI: endoplasmic reticulum, II: nucleus, III: Golgi apparatus, IV: cytosol, V: mitochondrion\n\nA. I - III - IV - V\n\nB. IV - V\n\nC. II - I - III - V\n\nD. V",
+     "problem_orig": "Cytochrom c ist auf Chromosom 7 des menschlichen Genoms im Zellkern codiert. Um den Transport in den Intermembranraum des Mitochondriums mit dem Mikroskop zu verfolgen, hast du Cytochrom c mit dem grün-fluoreszierendem Protein (GFP) markiert. Durch Zugabe der codierenden mRNA ins Zytosol startest du das Experiment.\n\nIn welcher Reihenfolge leuchten die folgenden Zellbestandteile auf?\n\nI: Endoplasmatisches Retikulum, II: Zellkern, III: Golgi-Apparat, IV: Zytosol, V: Mitochondrium\n\nA. I - III - IV - V\n\nB. IV - V\n\nC. II - I - III - V\n\nD. V",
      "orig_lang": "de"
     },
     {
@@ -13771,8 +13771,8 @@
      "day": 2,
      "number": 61,
      "paper_label": "2nd round",
-     "problem": "The figure shows the plasmid pBR322 with all its restriction enzyme cleavage sites. The plasmid is incubated with the restriction enzymes BamHI, HindIII, NotI and PstI and loaded onto an agarose gel. How many bands do you expect?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2023-2-61-fig1.png\n\nA. 1\n\nB. 2\n\nC. 3\n\nD. 4",
-     "problem_orig": "Die Abbildung zeigt das Plasmid pBR322 mit all seinen Restriktionsenzymschnitstellen. Das Plasmid wird mit den Restriktionsenzymen BamHI, HindIII, NotI und PstI inkubiert und auf ein Agarose-Gel aufgetragen. Wie viele Banden erwartest du?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2023-2-61-fig1.png\n\nA. 1\n\nB. 2\n\nC. 3\n\nD. 4",
+     "problem": "The figure shows the plasmid pBR322 with all its restriction enzyme cleavage sites. The plasmid is incubated with the restriction enzymes BamHI, HindIII, NotI and PstI and loaded onto an agarose gel. How many bands do you expect?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2023-2-61-fig1.png\n\nA. 1\n\nB. 2\n\nC. 3\n\nD. 4",
+     "problem_orig": "Die Abbildung zeigt das Plasmid pBR322 mit all seinen Restriktionsenzymschnitstellen. Das Plasmid wird mit den Restriktionsenzymen BamHI, HindIII, NotI und PstI inkubiert und auf ein Agarose-Gel aufgetragen. Wie viele Banden erwartest du?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2023-2-61-fig1.png\n\nA. 1\n\nB. 2\n\nC. 3\n\nD. 4",
      "orig_lang": "de"
     },
     {
@@ -14152,8 +14152,8 @@
      "day": 1,
      "number": 13,
      "paper_label": "1st round",
-     "problem": "Indicate for each of the following molecules whether it is transported by the plant tissue shown below in summer (true) or not (false)?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2024-1-13-fig1.png\n\nA. Starch\n\nB. N$_2$\n\nC. H$_2$O\n\nD. CO$_2$",
-     "problem_orig": "Gib für jedes der folgenden Moleküle an, ob es vom unten abgebildeten pflanzlichen Gewebe im Sommer transportiert wird (richtig) oder nicht (falsch)?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2024-1-13-fig1.png\n\nA. Stärke\n\nB. N$_2$\n\nC. H$_2$O\n\nD. CO$_2$",
+     "problem": "Indicate for each of the following molecules whether it is transported by the plant tissue shown below in summer (true) or not (false)?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2024-1-13-fig1.png\n\nA. Starch\n\nB. N$_2$\n\nC. H$_2$O\n\nD. CO$_2$",
+     "problem_orig": "Gib für jedes der folgenden Moleküle an, ob es vom unten abgebildeten pflanzlichen Gewebe im Sommer transportiert wird (richtig) oder nicht (falsch)?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2024-1-13-fig1.png\n\nA. Stärke\n\nB. N$_2$\n\nC. H$_2$O\n\nD. CO$_2$",
      "orig_lang": "de"
     },
     {
@@ -14288,8 +14288,8 @@
      "day": 1,
      "number": 30,
      "paper_label": "1st round",
-     "problem": "The following figure shows the normal course of an action potential. During an action potential, voltage-gated sodium channels open and the cell is depolarized by an influx of Na$^+$ into the cell. After the action potential has taken place, the sodium channels close again.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2024-1-30-fig1.png\n\nFigure labels (German → English): Membranpotential = membrane potential; Depolarisation = depolarization; Repolarisation = repolarization; Schwellenpotential = threshold potential; Ruhepotential = resting potential; Hyperpolarisation = hyperpolarization; Reiz = stimulus.\n\nThe poison of the pufferfish prevents the opening of voltage-gated sodium channels in neurons. What do you expect as a consequence?\n\nIndicate for each of the following statements whether it is true or false.\n\nA. The muscles become paralyzed.\n\nB. Sodium ions flow out of the cell uncontrollably.\n\nC. No action potential can be triggered any more.\n\nD. The membrane potential becomes ever more positive.",
-     "problem_orig": "Folgende Abbildung zeigt den normalen Verlauf eines Aktionspotentials. Bei einem Aktionspotential öffnen sich spannungsabhängig Natriumkanäle und es kommt zur Depolarisation der Zelle durch einen Einstrom von Na$^+$ ins Zellinnere. Nach dem erfolgten Aktionspotential schliessen dich die Natriumkanäle wieder.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2024-1-30-fig1.png\n\nBeim Gift des Kugelfisches wird die Öffnung der spannungsabhängigen Natriumkanäle in Neuronen verhindert. Was erwartest du als Folge davon?\n\nGib für jede der folgenden Aussagen an, ob sie richtig oder falsch ist.\n\nA. Es kommt zur Lähmung der Muskeln.\n\nB. Es strömen unkontrolliert Natriumionen aus der Zelle hinaus.\n\nC. Es kann kein Aktionspotential mehr ausgelöst werden.\n\nD. Das Membranpotential wird immer positiver.",
+     "problem": "The following figure shows the normal course of an action potential. During an action potential, voltage-gated sodium channels open and the cell is depolarized by an influx of Na$^+$ into the cell. After the action potential has taken place, the sodium channels close again.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2024-1-30-fig1.png\n\nFigure labels (German → English): Membranpotential = membrane potential; Depolarisation = depolarization; Repolarisation = repolarization; Schwellenpotential = threshold potential; Ruhepotential = resting potential; Hyperpolarisation = hyperpolarization; Reiz = stimulus.\n\nThe poison of the pufferfish prevents the opening of voltage-gated sodium channels in neurons. What do you expect as a consequence?\n\nIndicate for each of the following statements whether it is true or false.\n\nA. The muscles become paralyzed.\n\nB. Sodium ions flow out of the cell uncontrollably.\n\nC. No action potential can be triggered any more.\n\nD. The membrane potential becomes ever more positive.",
+     "problem_orig": "Folgende Abbildung zeigt den normalen Verlauf eines Aktionspotentials. Bei einem Aktionspotential öffnen sich spannungsabhängig Natriumkanäle und es kommt zur Depolarisation der Zelle durch einen Einstrom von Na$^+$ ins Zellinnere. Nach dem erfolgten Aktionspotential schliessen dich die Natriumkanäle wieder.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2024-1-30-fig1.png\n\nBeim Gift des Kugelfisches wird die Öffnung der spannungsabhängigen Natriumkanäle in Neuronen verhindert. Was erwartest du als Folge davon?\n\nGib für jede der folgenden Aussagen an, ob sie richtig oder falsch ist.\n\nA. Es kommt zur Lähmung der Muskeln.\n\nB. Es strömen unkontrolliert Natriumionen aus der Zelle hinaus.\n\nC. Es kann kein Aktionspotential mehr ausgelöst werden.\n\nD. Das Membranpotential wird immer positiver.",
      "orig_lang": "de"
     },
     {
@@ -14560,8 +14560,8 @@
      "day": 2,
      "number": 3,
      "paper_label": "2nd round",
-     "problem": "Colchicine is the poison of the autumn crocus (Colchicum autumnale). It prevents the polymerisation of alpha- and beta-tubulin into microtubules. As part of the spindle apparatus, microtubules are central to cell division. You have a culture of human HeLa cells that express fluorescently labelled beta-tubulin. You add colchicine to this culture. You let the culture grow for some time. Then you add a dye that labels DNA.\n\nWhat will you see under the fluorescence microscope? For each of the following statements, indicate whether it is true or false.\n\nA. All cells have an intact nucleus.\n\nB. All cells have the same number of chromosomes.\n\nC. There are condensed chromosomes along the metaphase plate.\n\nD. The entire cytoplasm of the cells fluoresces.",
-     "problem_orig": "Colchicin ist das Gift der Herbstzeitlose (Colchicum autumnale). Es verhindert die Polymerisierung von alpha- und beta-Tubulin zu den Mikrotubuli. Die Mikrotubuli sind als Teil des Spindelapparates zentral für die Zellteilung. Du hast eine Kultur mit menschlichen HeLa-Zellen, welche fluoreszent-markiertes beta-Tubulin exprimieren. Zu dieser Kultur gibst du Colchicin. Du lässt die Kultur noch einige Zeit wachsen. Dann gibst du einen Farbstoff dazu, welcher die DNA markiert.\n\nWas wirst du unter dem Fluoreszenzmikroskop sehen? Gib für jede der folgenden Aussagen an, ob sie richtig oder falsch ist.\n\nA. Alle Zellen haben einen intakten Zellkern.\n\nB. Alle Zellen haben die gleiche Anzahl Chromosomen.\n\nC. Es gibt kondensierte Chromosomen entlang der Metaphasenplatte.\n\nD. Das gesamte Cytoplasma der Zellen fluoresziert.",
+     "problem": "Colchicine is the poison of the autumn crocus (Colchicum autumnale). It prevents the polymerisation of alpha- and beta-tubulin into microtubules. As part of the spindle apparatus, microtubules are central to cell division. You have a culture of human HeLa cells that express fluorescently labelled beta-tubulin. You add colchicine to this culture. You let the culture grow for some time. Then you add a dye that labels DNA.\n\nWhat will you see under the fluorescence microscope? For each of the following statements, indicate whether it is true or false.\n\nA. All cells have an intact nucleus.\n\nB. All cells have the same number of chromosomes.\n\nC. There are condensed chromosomes along the metaphase plate.\n\nD. The entire cytoplasm of the cells fluoresces.",
+     "problem_orig": "Colchicin ist das Gift der Herbstzeitlose (Colchicum autumnale). Es verhindert die Polymerisierung von alpha- und beta-Tubulin zu den Mikrotubuli. Die Mikrotubuli sind als Teil des Spindelapparates zentral für die Zellteilung. Du hast eine Kultur mit menschlichen HeLa-Zellen, welche fluoreszent-markiertes beta-Tubulin exprimieren. Zu dieser Kultur gibst du Colchicin. Du lässt die Kultur noch einige Zeit wachsen. Dann gibst du einen Farbstoff dazu, welcher die DNA markiert.\n\nWas wirst du unter dem Fluoreszenzmikroskop sehen? Gib für jede der folgenden Aussagen an, ob sie richtig oder falsch ist.\n\nA. Alle Zellen haben einen intakten Zellkern.\n\nB. Alle Zellen haben die gleiche Anzahl Chromosomen.\n\nC. Es gibt kondensierte Chromosomen entlang der Metaphasenplatte.\n\nD. Das gesamte Cytoplasma der Zellen fluoresziert.",
      "orig_lang": "de"
     },
     {
@@ -15272,8 +15272,8 @@
      "day": 2,
      "number": 92,
      "paper_label": "2nd round",
-     "problem": "Acetyl coenzyme A (acetyl-CoA) is a molecule with which two carbon atoms can be transported back and forth between various important metabolic pathways.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. The CoA part of the molecule is responsible for enzymatic recognition.\n\nB. A human cell can maintain its sugar balance with acetyl-CoA alone.\n\nC. Acetyl-CoA is required for the urea cycle.\n\nD. Acetyl-CoA can be obtained by reaction with phosphoenolpyruvate.",
-     "problem_orig": "Acetyl-Coenzym A (Acetyl-CoA) ist ein Molekül, mit dem zwei Kohlenstoffatome zwischen verschiedenen wichtigen Stoffwechselwegen hin und her transportiert werden können.\n\nGib für jede der folgenden Aussagen an, ob sie richtig oder falsch ist.\n\nA. Der CoA-Teil des Moleküls ist für die enzymatische Erkennung zuständig.\n\nB. Eine menschliche Zelle kann ihren Zuckerhaushalt allein mit Acetyl-CoA aufrechterhalten.\n\nC. Acetyl-CoA wird für den Harnstoffzyklus benötigt.\n\nD. Acetyl-CoA kann durch Reaktion mit Phosphoenolpyruvat gewonnen werden.",
+     "problem": "Acetyl coenzyme A (acetyl-CoA) is a molecule with which two carbon atoms can be transported back and forth between various important metabolic pathways.\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. The CoA part of the molecule is responsible for enzymatic recognition.\n\nB. A human cell can maintain its sugar balance with acetyl-CoA alone.\n\nC. Acetyl-CoA is required for the urea cycle.\n\nD. Acetyl-CoA can be obtained by reaction with phosphoenolpyruvate.",
+     "problem_orig": "Acetyl-Coenzym A (Acetyl-CoA) ist ein Molekül, mit dem zwei Kohlenstoffatome zwischen verschiedenen wichtigen Stoffwechselwegen hin und her transportiert werden können.\n\nGib für jede der folgenden Aussagen an, ob sie richtig oder falsch ist.\n\nA. Der CoA-Teil des Moleküls ist für die enzymatische Erkennung zuständig.\n\nB. Eine menschliche Zelle kann ihren Zuckerhaushalt allein mit Acetyl-CoA aufrechterhalten.\n\nC. Acetyl-CoA wird für den Harnstoffzyklus benötigt.\n\nD. Acetyl-CoA kann durch Reaktion mit Phosphoenolpyruvat gewonnen werden.",
      "orig_lang": "de"
     }
    ]
@@ -16181,8 +16181,8 @@
      "day": 2,
      "number": 53,
      "paper_label": "2nd round",
-     "problem": "The figure below shows the oxygen-binding curves of myoglobin and adult haemoglobin.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2025-2-53-fig1.png\n\nFigure labels (German → English): O2-Sättigung des Hämoglobins (%) = O2 saturation of haemoglobin (%); Myoglobin = myoglobin; adultes Hämoglobin = adult haemoglobin; Sauerstoffpartialdruck PO2 (mmHg) = oxygen partial pressure PO2 (mmHg).\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. Above a certain oxygen partial pressure (approx. > 80 mmHg), haemoglobin is saturated.\n\nB. The shape of the oxygen-binding curve of myoglobin is due to cooperativity.\n\nC. At low oxygen partial pressure (e.g. in muscle tissue), less $\\mathrm{O_2}$ remains bound to haemoglobin than to myoglobin.\n\nD. Myoglobin is probably a better $\\mathrm{O_2}$ store in muscle tissue than haemoglobin.",
-     "problem_orig": "Die untenstehende Abbildung zeigt die Sauerstoffbindungskurven von Myoglobin und adultem Hämoglobin.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2025-2-53-fig1.png\n\nGib für jede der folgenden Aussagen an, ob sie richtig oder falsch ist.\n\nA. Ab einem bestimmten Sauerstoffpartialdruck (ca. > 80 mmHg) ist das Hämoglobin gesättigt.\n\nB. Die Form der Sauerstoffbindungskurve des Myoglobins ist auf die Kooperativität zurückzuführen.\n\nC. Bei niedrigem Sauerstoffpartialdruck (z.B. im Muskelgewebe) bleibt weniger $\\mathrm{O_2}$ an Hämoglobin gebunden als an Myoglobin.\n\nD. Myoglobin ist vermutlich ein besserer $\\mathrm{O_2}$-Speicher im Muskelgewebe als Hämoglobin.",
+     "problem": "The figure below shows the oxygen-binding curves of myoglobin and adult haemoglobin.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2025-2-53-fig1.png\n\nFigure labels (German → English): O2-Sättigung des Hämoglobins (%) = O2 saturation of haemoglobin (%); Myoglobin = myoglobin; adultes Hämoglobin = adult haemoglobin; Sauerstoffpartialdruck PO2 (mmHg) = oxygen partial pressure PO2 (mmHg).\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. Above a certain oxygen partial pressure (approx. > 80 mmHg), haemoglobin is saturated.\n\nB. The shape of the oxygen-binding curve of myoglobin is due to cooperativity.\n\nC. At low oxygen partial pressure (e.g. in muscle tissue), less $\\mathrm{O_2}$ remains bound to haemoglobin than to myoglobin.\n\nD. Myoglobin is probably a better $\\mathrm{O_2}$ store in muscle tissue than haemoglobin.",
+     "problem_orig": "Die untenstehende Abbildung zeigt die Sauerstoffbindungskurven von Myoglobin und adultem Hämoglobin.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/sbo-2025-2-53-fig1.png\n\nGib für jede der folgenden Aussagen an, ob sie richtig oder falsch ist.\n\nA. Ab einem bestimmten Sauerstoffpartialdruck (ca. > 80 mmHg) ist das Hämoglobin gesättigt.\n\nB. Die Form der Sauerstoffbindungskurve des Myoglobins ist auf die Kooperativität zurückzuführen.\n\nC. Bei niedrigem Sauerstoffpartialdruck (z.B. im Muskelgewebe) bleibt weniger $\\mathrm{O_2}$ an Hämoglobin gebunden als an Myoglobin.\n\nD. Myoglobin ist vermutlich ein besserer $\\mathrm{O_2}$-Speicher im Muskelgewebe als Hämoglobin.",
      "orig_lang": "de"
     },
     {
@@ -16349,8 +16349,8 @@
      "day": 2,
      "number": 74,
      "paper_label": "2nd round",
-     "problem": "The karyogram of a human shows a total of 46 chromosomes (2N = 46). Domestic cats (Felis catus), on the other hand, have 38 chromosomes (2N = 38).\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. A cat sperm cell contains two sex chromosomes, XX or XY.\n\nB. A cat egg cell contains 18 autosomes.\n\nC. A kitten inherits 19 chromosomes from its mother.\n\nD. The body cells of a cat are haploid.",
-     "problem_orig": "Das Karyogramm eines Menschen zeigt insgesamt 46 Chromosomen (2N = 46). Hauskatzen (Felis catus) haben dagegen 38 Chromosomen (2N = 38).\n\nGib für jede der folgenden Aussagen an, ob sie richtig oder falsch ist.\n\nA. Ein Katzenspermium enthält zwei Geschlechtschromosomen XX oder XY.\n\nB. Eine Katzeneizelle enthält 18 Autosomen.\n\nC. Ein Kätzchen erbt von seiner Mutter 19 Chromosomen.\n\nD. Die Körperzellen einer Katze sind haploid .",
+     "problem": "The karyogram of a human shows a total of 46 chromosomes (2N = 46). Domestic cats (Felis catus), on the other hand, have 38 chromosomes (2N = 38).\n\nFor each of the following statements, indicate whether it is true or false.\n\nA. A cat sperm cell contains two sex chromosomes, XX or XY.\n\nB. A cat egg cell contains 18 autosomes.\n\nC. A kitten inherits 19 chromosomes from its mother.\n\nD. The body cells of a cat are haploid.",
+     "problem_orig": "Das Karyogramm eines Menschen zeigt insgesamt 46 Chromosomen (2N = 46). Hauskatzen (Felis catus) haben dagegen 38 Chromosomen (2N = 38).\n\nGib für jede der folgenden Aussagen an, ob sie richtig oder falsch ist.\n\nA. Ein Katzenspermium enthält zwei Geschlechtschromosomen XX oder XY.\n\nB. Eine Katzeneizelle enthält 18 Autosomen.\n\nC. Ein Kätzchen erbt von seiner Mutter 19 Chromosomen.\n\nD. Die Körperzellen einer Katze sind haploid .",
      "orig_lang": "de"
     },
     {
