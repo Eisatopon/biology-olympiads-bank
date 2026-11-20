@@ -72,6 +72,7 @@
     --usnsb: #1d4ed8; --usnsb-ink: #1e3a8a; --usnsb-tint: #dbeafe;
     --catpau: #b45309; --catpau-ink: #78350f; --catpau-tint: #fef3c7;
     --twbio: #0e7490; --twbio-ink: #164e63; --twbio-tint: #cffafe;
+    --lvbo: #9f1239; --lvbo-ink: #4c0519; --lvbo-tint: #ffe4e6;
     --cybio: #c2410c; --cybio-ink: #7c2d12; --cybio-tint: #ffedd5;
     --sbo: #dc2626; --sbo-ink: #991b1b; --sbo-tint: #fee2e2;
     --nseb: #c2410c; --nseb-ink: #7c2d12; --nseb-tint: #ffedd5;
@@ -308,6 +309,7 @@
 .f-usnsb { --f: var(--usnsb); --f-ink: var(--usnsb-ink); --f-tint: var(--usnsb-tint); }
 .f-catpau { --f: var(--catpau); --f-ink: var(--catpau-ink); --f-tint: var(--catpau-tint); }
 .f-twbio { --f: var(--twbio); --f-ink: var(--twbio-ink); --f-tint: var(--twbio-tint); }
+.f-lvbo { --f: var(--lvbo); --f-ink: var(--lvbo-ink); --f-tint: var(--lvbo-tint); }
 .f-cybio { --f: var(--cybio); --f-ink: var(--cybio-ink); --f-tint: var(--cybio-tint); }
 .f-sbo { --f: var(--sbo); --f-ink: var(--sbo-ink); --f-tint: var(--sbo-tint); }
 .f-nseb { --f: var(--nseb); --f-ink: var(--nseb-ink); --f-tint: var(--nseb-tint); }
@@ -1151,10 +1153,10 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261119-twbio-photos-back';
+const DATA_VERSION = '20261120-lvbo';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
-const REGION_OF = { ibo: 'world', ibop: 'world', inbo: 'asia', aso: 'oceania', nbc: 'americas', nzibo: 'oceania', nseb: 'asia', ijso: 'world', sbo: 'europe', jbo: 'asia', grbio: 'europe', cybio: 'europe', catpau: 'europe', twbio: 'asia', usnsb: 'americas' };
+const REGION_OF = { ibo: 'world', ibop: 'world', inbo: 'asia', aso: 'oceania', nbc: 'americas', nzibo: 'oceania', nseb: 'asia', ijso: 'world', sbo: 'europe', jbo: 'asia', grbio: 'europe', cybio: 'europe', catpau: 'europe', twbio: 'asia', lvbo: 'europe', usnsb: 'americas' };
 const regionOf = key => REGION_OF[key] || 'other';
 const PAGE = 20;
 const STORAGE_KEY = 'eisatopon-biology:set:v1';  // same origin as the math bank: keep the keys apart
@@ -1169,6 +1171,7 @@ const COUNTRIES = [
     { key: 'catpau', name: 'Spain (Catalonia) – PAU', flag: '🇪🇸', file: 'Spain-Catalonia-PAU-biology-problems.json', kind: 'years', scope: 'entrance', full: 'Catalan university entrance exams (PAU, Proves d’accés a la universitat), Biologia (Catalan original and English translation) · source: Generalitat de Catalunya, reused under the Catalan open information-use licence · not affiliated with, endorsed by or supported by the Generalitat de Catalunya' },
     { key: 'twbio', name: 'Taiwan – AST Biology', flag: '🇹🇼', file: 'Taiwan-AST-biology-problems.json', kind: 'years', scope: 'entrance', full: 'Taiwan university entrance exams, Biology: Advanced Subjects Test (分科測驗, from 2022; 指定科目考試, 2002–2021) (Chinese original and English translation) · source: College Entrance Examination Center (CEEC) · examination questions are not subject to copyright under Article 9(1)(5) of Taiwan’s Copyright Act · not affiliated with, endorsed by or supported by the CEEC' },
     { key: 'cybio', name: 'Cyprus – Pancyprian Exams', flag: '🇨🇾', file: 'Cyprus-pancyprian-biology-problems.json', kind: 'years', scope: 'entrance', full: 'Cyprus Pancyprian university entrance exams, Biology (Greek original and English translation) · © the Cyprus Ministry of Education (Examinations Service) · not affiliated with, endorsed by or supported by the Ministry' },
+    { key: 'lvbo', name: 'Latvia – Biology Olympiad', flag: '🇱🇻', file: 'Latvia-biology-olympiad-problems.json', kind: 'years', full: 'Latvian Biology Olympiad 2016/17 — regional round 2016 and state round 2017 (Latvian original and English translation) · © Valsts izglītības satura centrs, 2021; collection published by VIAA, translated with VIAA’s written permission · not affiliated with or endorsed by the organisers of the Latvian Biology Olympiad' },
     { key: 'sbo', name: 'Switzerland SBO', flag: '🇨🇭', file: 'Switzerland-SBO-problems.json', kind: 'years', scope: 'national', full: 'Swiss Biology Olympiad, 1st and 2nd rounds (English translations, with permission) · not affiliated with, endorsed by or supported by the Swiss Biology Olympiad', credit: 'English translation of the German original · © Swiss Biology Olympiad; translated with permission' },
     { key: 'nseb', name: 'India NSEB', flag: '🇮🇳', file: 'India-NSEB-problems.json', kind: 'years', scope: 'national', full: 'National Standard Examination in Biology (India, IAPT / ATBS), first stage of the Indian biology olympiad · not affiliated with, endorsed by or supported by IAPT' },
     { key: 'inbo', name: 'India INBO', flag: '🇮🇳', file: 'India-INBO-problems.json', kind: 'years', scope: 'national', full: 'Indian National Biology Olympiad · not affiliated with, endorsed by or supported by HBCSE-TIFR' },
@@ -2325,6 +2328,7 @@ const CREDITS = {
     cybio: () => '© the Cyprus Ministry of Education (Examinations Service)',
     catpau: () => 'Source: Generalitat de Catalunya (Consell Interuniversitari de Catalunya), PAU · Llicència oberta d’ús d’informació – Catalunya · retrieved 14 Nov 2026 · English translation of the Catalan original',
     twbio: () => 'Source: College Entrance Examination Center (CEEC), Taiwan · examination questions are not subject to copyright (Copyright Act of Taiwan, Art. 9(1)(5)) · retrieved 17 Nov 2026 · English translation of the Chinese original',
+    lvbo: () => '© Valsts izglītības satura centrs, 2021 · authors: A. Kokina, J. Liepiņš, G. Zvīgule-Neidere, J. Ķibilds, M. Vaivads, Z. Ozoliņa, K. D. Neiburga, M. Kusiņa, A. Boikova, M. Rudzīte, I. Dauškane, L. Ozoliņa-Molla, J. Ņečajeva, R. Rozenfelde · English translation of the Latvian original, published with the permission of VIAA',
     usnsb: () => 'Public domain · U.S. Department of Energy, Office of Science (National Science Bowl® sample questions)'
 };
 const creditLink = (href, text) => `<a href="${esc(href)}" target="_blank" rel="noopener noreferrer">${text}</a>`;
@@ -2336,6 +2340,7 @@ function creditHtml(p) {
     if (p.country === 'cybio') return `<p class="p-credit">${esc(t)}${cybioPdf(p) ? ` · ${creditLink(cybioPdf(p), 'Original PDF')}` : ''}</p>`;
     if (p.country === 'catpau') return `<p class="p-credit">${esc(t)}${catpauPdf(p) ? ` · ${creditLink(catpauPdf(p), 'Original PDF')}` : ''}</p>`;
     if (p.country === 'twbio') return `<p class="p-credit">${esc(t)}${twbioPdf(p) ? ` · ${creditLink(twbioPdf(p), 'Original PDF')}` : ''}</p>`;
+    if (p.country === 'lvbo') return `<p class="p-credit">${esc(t)} · ${creditLink('https://www.viaa.gov.lv/lv/media/37052/download?attachment', 'Original (VIAA)')}</p>`;
     if (p.country === 'grbio') return `<p class="p-credit">${esc(t)}${grbioPdf(p) ? ` · ${creditLink(grbioPdf(p), 'Original PDF')}` : ''}</p>`;
     if (p.country === 'sbo') return `<p class="p-credit">${esc(t)} · ${creditLink(SBO_ARCHIVE, 'Archive')} · ${creditLink(sboPdf(p), 'Original PDF')}</p>`;
     return `<p class="p-credit">${esc(t)}</p>`;
