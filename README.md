@@ -21,6 +21,8 @@ to that material itself: the IBO examination papers are published by the Interna
 National Science Bowl sample questions are public domain (U.S. Department of Energy); the Catalan PAU papers are reused under
 the open information-use licence of the Generalitat de Catalunya; Taiwan's entrance-examination questions are not subject to
 copyright (Copyright Act of Taiwan, Art. 9(1)(5)). Swiss (SBO) and Japanese (JBO) questions are translated with their
-organisers' written permission and remain © their organisers.
+organisers' written permission and remain © their organisers. The Massachusetts MCAS released items remain © the
+Massachusetts Department of Elementary and Secondary Education and are copied under the permission for non-commercial
+educational purposes printed in every release.
 
 Sister projects: [Mathematical](https://eisatopon.github.io/national-olympiads-bank/), [Physics](https://eisatopon.github.io/physics-olympiads-bank/), [Chemistry](https://eisatopon.github.io/chemistry-olympiads-bank/) and [Informatics](https://eisatopon.github.io/informatics-olympiads-bank/) Olympiads Banks.
