@@ -1,0 +1,599 @@
+{
+ "competition": "USA — NAEP Science (The Nation's Report Card), released Life Science questions, grades 8 and 12",
+ "years": [
+  {
+   "year": 2000,
+   "problems": [
+    {
+     "day": 8,
+     "number": 1,
+     "paper_label": "Grade 8",
+     "problem": "A potted plant can survive in a sealed glass container for a long time, but you would not put a mouse in such a sealed container for even a short period of time because it would quickly die. Explain why the plant can survive and the mouse cannot."
+    },
+    {
+     "day": 8,
+     "number": 2,
+     "paper_label": "Grade 8",
+     "problem": "In the human body the digestion of proteins takes place primarily in which two organs?\n\nA. Mouth and stomach\n\nB. Stomach and small intestine\n\nC. Liver and gall bladder\n\nD. Pancreas and large intestine"
+    },
+    {
+     "day": 8,
+     "number": 3,
+     "paper_label": "Grade 8",
+     "problem": "Which group of organisms would all be found living in a tropical rain forest?\n\nA. Lizards, insects, cacti, kangaroos\n\nB. Vines, palm trees, tree frogs, monkeys\n\nC. Evergreens, moose, weasels, mink\n\nD. Lichens, mosses, caribou, polar bears"
+    },
+    {
+     "day": 8,
+     "number": 4,
+     "paper_label": "Grade 8",
+     "problem": "A significant percentage of the United States population is overweight. List two factors in our American lifestyle that put people in the United States at greater risk for becoming overweight than people who live in other countries."
+    },
+    {
+     "day": 8,
+     "number": 5,
+     "paper_label": "Grade 8",
+     "problem": "Classify each of the eight living things listed below into one of two groups according to an important physical characteristic.\n\n$$\\begin{array}{|c|c|c|}\\hline & \\text{Gorilla} & \\\\ \\hline & \\text{Parrot} & \\\\ \\hline & \\text{Snake} & \\\\ \\hline & \\text{Earthworm} & \\\\ \\hline & \\text{Jellyfish} & \\\\ \\hline & \\text{Sponge} & \\\\ \\hline & \\text{Fish} & \\\\ \\hline & \\text{Fly} & \\\\ \\hline \\text{Group 1} & & \\text{Group 2} \\\\ \\hline \\end{array}$$\n\nWhat physical characteristic did you use in your classification?\n\nName a different physical characteristic that you could have used."
+    },
+    {
+     "day": 8,
+     "number": 6,
+     "paper_label": "Grade 8",
+     "problem": "Which of the following is most consistent with the modern theory of evolution?\n\nA. Parents pass their physical traits to their offspring; those offspring with traits that help them survive in the environment are able to reproduce.\n\nB. Parents change their physical traits in order to survive in the environment, then those parental traits are passed to their offspring.\n\nC. Life on this planet came from another planet far out in space.\n\nD. Living organisms have not changed for hundreds of millions of years."
+    },
+    {
+     "day": 8,
+     "number": 7,
+     "paper_label": "Grade 8",
+     "problem": "A woman uses alcohol and other drugs in excess during pregnancy. Explain how the alcohol and other drugs could affect her baby."
+    },
+    {
+     "day": 8,
+     "number": 8,
+     "paper_label": "Grade 8",
+     "problem": "Using a microscope, Linh observes some paramecia in a drop of pond water on a slide. She notices that the paramecia move faster in the area where the light is brightest than they do in an area where the light is less bright. Linh hypothesizes that the paramecia are trying to get away from the light. Describe what she could do to test her hypothesis."
+    },
+    {
+     "day": 8,
+     "number": 9,
+     "paper_label": "Grade 8",
+     "problem": "Bacteria and laboratory animals are sometimes used by scientists as model organisms when researching cures for human diseases such as cancer.\n\nDescribe one possible advantage and one possible disadvantage of using bacteria as models to help find cures for human diseases.\n\nAdvantage:\n\nDisadvantage:\n\nDescribe one possible advantage and one possible disadvantage of using laboratory animals such as mice, guinea pigs, and monkeys as models to help find cures for human diseases.\n\nAdvantage:\n\nDisadvantage:"
+    },
+    {
+     "day": 8,
+     "number": 10,
+     "paper_label": "Grade 8",
+     "problem": "The picture below shows a pond ecosystem. Use this picture and what you know about the things in it to answer the questions in this section.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2000-g8-10-1.png\n\nWhich of the following living things in the pond system uses the energy from sunlight to make its own food?\n\nA. Insect\n\nB. Frog\n\nC. Water lily\n\nD. Small fish"
+    },
+    {
+     "day": 8,
+     "number": 11,
+     "paper_label": "Grade 8",
+     "problem": "The picture below shows a pond ecosystem. Use this picture and what you know about the things in it to answer the questions in this section.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2000-g8-11-1.png\n\nEach of the animals in the pond needs food. What are two things that the animals get from their food that keep them alive?"
+    },
+    {
+     "day": 8,
+     "number": 12,
+     "paper_label": "Grade 8",
+     "problem": "The picture below shows a pond ecosystem. Use this picture and what you know about the things in it to answer the questions in this section.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2000-g8-12-1.png\n\nIn the pond, small fish eat algae. What two predators might eat the small fish in the pond system?"
+    },
+    {
+     "day": 8,
+     "number": 13,
+     "paper_label": "Grade 8",
+     "problem": "The picture below shows a pond ecosystem. Use this picture and what you know about the things in it to answer the questions in this section.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2000-g8-13-c1.png\n\nYou will now finish a diagram of a food web in the pond. The food web shows what eats what in the pond system. Draw arrows in the diagram below from each living thing to the things that eat it. (The first arrow is drawn for you.)\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2000-g8-13-c2.png"
+    },
+    {
+     "day": 8,
+     "number": 14,
+     "paper_label": "Grade 8",
+     "problem": "The picture below shows a pond ecosystem. Use this picture and what you know about the things in it to answer the questions in this section.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2000-g8-14-1.png\n\nWhich living things in the pond system break down dead plants and animals?\n\nA. Green algae\n\nB. Bacteria\n\nC. Rushes\n\nD. Frogs"
+    },
+    {
+     "day": 8,
+     "number": 15,
+     "paper_label": "Grade 8",
+     "problem": "The picture below shows a pond ecosystem. Use this picture and what you know about the things in it to answer the questions in this section.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2000-g8-15-1.png\n\nTell why it is important for dead animals and plants in the pond system to be broken down."
+    },
+    {
+     "day": 8,
+     "number": 16,
+     "paper_label": "Grade 8",
+     "problem": "The picture below shows a pond ecosystem. Use this picture and what you know about the things in it to answer the questions in this section.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2000-g8-16-1.png\n\nWhich animal is the top carnivore in the pond system? Explain why you chose this answer."
+    },
+    {
+     "day": 8,
+     "number": 17,
+     "paper_label": "Grade 8",
+     "problem": "The picture below shows a pond ecosystem. Use this picture and what you know about the things in it to answer the questions in this section.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2000-g8-17-1.png\n\nIf all of the small fish in the pond system died one year from a disease that killed only the small fish, what would happen to the algae in the pond?\n\nExplain why you think so.\n\nWhat would happen to the large fish? Explain why you think so."
+    },
+    {
+     "day": 8,
+     "number": 18,
+     "paper_label": "Grade 8",
+     "problem": "The picture below shows a pond ecosystem. Use this picture and what you know about the things in it to answer the questions in this section.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2000-g8-18-1.png\n\nSuppose that one spring a new type of large fish was put into the pond. So many were put in that there were twice as many fish as before. By the end of the summer, what would happen to the large fish that were already in the pond?\n\nExplain why you think these new large fish would have this effect."
+    },
+    {
+     "day": 8,
+     "number": 19,
+     "paper_label": "Grade 8",
+     "problem": "The picture below shows a pond ecosystem. Use this picture and what you know about the things in it to answer the questions in this section.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2000-g8-19-1.png\n\nIf a rainstorm washed some fertilizer from a nearby field into the pond, what would happen to the algae in the pond system after one month? Why do you think the fertilizer would affect the algae this way?"
+    },
+    {
+     "day": 8,
+     "number": 20,
+     "paper_label": "Grade 8",
+     "problem": "The picture below shows a pond ecosystem. Use this picture and what you know about the things in it to answer the questions in this section.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2000-g8-20-1.png\n\nWhat effect would the fertilizer have on the bacteria in the mud at the bottom of the pond after one month? Why do you think the fertilizer would affect the bacteria this way?"
+    },
+    {
+     "day": 8,
+     "number": 21,
+     "paper_label": "Grade 8",
+     "problem": "The picture below shows a pond ecosystem. Use this picture and what you know about the things in it to answer the questions in this section.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2000-g8-21-1.png\n\nIf air pollution causes the rain that falls on this pond to become much more acidic, after two years how will this acidity affect the living things in this pond?\n\nA. There will be more plants and animals because the acid is a source of food.\n\nB. There will be fewer plants and animals because the acid will dissolve many of them.\n\nC. There will be fewer plants and animals because many of them cannot survive in water with high acidity.\n\nD. There will be more plants and animals because the acid will kill most of the disease-causing microorganisms."
+    },
+    {
+     "day": 8,
+     "number": 22,
+     "paper_label": "Grade 8",
+     "problem": "The picture below shows a pond ecosystem. Use this picture and what you know about the things in it to answer the questions in this section.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2000-g8-22-1.png\n\nSuppose that a farmer near the pond sprayed crops with a pesticide to kill insects and that some of the spray washed into the pond. (This pesticide breaks down very slowly.) If several months later a biologist tested all the organisms in the pond system for the pesticide, which organism would most likely have the greatest concentration of the pesticide? Explain your answer."
+    },
+    {
+     "day": 12,
+     "number": 1,
+     "paper_label": "Grade 12",
+     "problem": "Animals that reproduce sexually differ from animals that reproduce asexually in that sexually reproducing animals have\n\nA. a larger number of offspring\n\nB. more genetic variation among their offspring\n\nC. offspring that are nearly identical to their parents\n\nD. offspring that are perfectly adapted to their parents' habitat"
+    },
+    {
+     "day": 12,
+     "number": 2,
+     "paper_label": "Grade 12",
+     "problem": "According to evolutionary theory, which of the following evolutionary trees best describes the relationship between groups of vertebrates?\n\nA.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2000-g12-2-1.png\n\nB.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2000-g12-2-2.png\n\nC.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2000-g12-2-3.png\n\nD.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2000-g12-2-4.png"
+    },
+    {
+     "day": 12,
+     "number": 3,
+     "paper_label": "Grade 12",
+     "problem": "Which of the following is NOT a part of Darwin's theory of evolution by natural selection?\n\nA. Individuals in a population vary in many ways.\n\nB. Some individuals possess features that enable them to survive better than individuals lacking those features.\n\nC. More offspring are produced than can generally survive.\n\nD. Changes in an individual's genetic material are usually harmful."
+    },
+    {
+     "day": 12,
+     "number": 4,
+     "paper_label": "Grade 12",
+     "problem": "During the time in the Earth's history when the first amphibians appeared, which of the following was one of the major groups of plants that dominated the land habitats?\n\nA. Cone-bearing trees (gymnosperms)\n\nB. Flowering plants (angiosperms)\n\nC. Ferns\n\nD. Algae"
+    },
+    {
+     "day": 12,
+     "number": 5,
+     "paper_label": "Grade 12",
+     "problem": "Suppose that you are asked to design and create an information poster about Acquired Immune Deficiency Syndrome (AIDS) for your high school and need to include the answers to some important questions. Answer the following questions to summarize the information that you would include in your poster.\n\nWhat kind of infectious agent causes AIDS and how does this agent affect the systems of the body?"
+    },
+    {
+     "day": 12,
+     "number": 6,
+     "paper_label": "Grade 12",
+     "problem": "Suppose that you are asked to design and create an information poster about Acquired Immune Deficiency Syndrome (AIDS) for your high school and need to include the answers to some important questions. Answer the following questions to summarize the information that you would include in your poster.\n\nDescribe four distinct ways in which AIDS can be transmitted."
+    },
+    {
+     "day": 12,
+     "number": 7,
+     "paper_label": "Grade 12",
+     "problem": "Suppose that you are asked to design and create an information poster about Acquired Immune Deficiency Syndrome (AIDS) for your high school and need to include the answers to some important questions. Answer the following questions to summarize the information that you would include in your poster.\n\nDescribe two distinct ways in which the transmission of AIDS can be prevented."
+    }
+   ]
+  },
+  {
+   "year": 2005,
+   "problems": [
+    {
+     "day": 8,
+     "number": 1,
+     "paper_label": "Grade 8",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2005-g8-1-1.png\n\nThe diagram above shows a food web in a large park. Each circle represents a different species in the food web. Which of the organisms in the food web could be referred to as primary consumers?\n\nA. 7 only\n\nB. 5 and 6 only\n\nC. 2, 3, and 4 only\n\nD. 2, 5, and 7 only"
+    },
+    {
+     "day": 8,
+     "number": 2,
+     "paper_label": "Grade 8",
+     "problem": "Each diagram below shows the same front view of a human heart. Which diagram has arrows that correctly show the path of blood flow through the heart and the blood vessels leading to and from the heart?\n\nA.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2005-g8-2-1.png\n\nB.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2005-g8-2-2.png\n\nC.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2005-g8-2-3.png\n\nD.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2005-g8-2-4.png"
+    },
+    {
+     "day": 8,
+     "number": 3,
+     "paper_label": "Grade 8",
+     "problem": "When you exercise strenuously, your body produces excess heat. Describe what your body does to help prevent your temperature from rising excessively, and explain why the body's response is effective."
+    },
+    {
+     "day": 8,
+     "number": 4,
+     "paper_label": "Grade 8",
+     "problem": "A human CANNOT survive the loss of which of the following?\n\nA. The appendix\n\nB. The liver\n\nC. A lung\n\nD. A kidney"
+    },
+    {
+     "day": 8,
+     "number": 5,
+     "paper_label": "Grade 8",
+     "problem": "Which of the following is an example of genetic engineering?\n\nA. Growing a whole plant from a single cell.\n\nB. Finding the sequences of bases in plant DNA.\n\nC. Inserting a gene into plants that makes them resistant to insects.\n\nD. Attaching the root of one type of plant to the stem of another type of plant."
+    },
+    {
+     "day": 8,
+     "number": 6,
+     "paper_label": "Grade 8",
+     "problem": "In your body, what two organs work together to make sure that oxygen gets to all the other organs of your body?\n\nA. Lungs and kidneys\n\nB. Heart and lungs\n\nC. Brain and kidneys\n\nD. Heart and liver"
+    },
+    {
+     "day": 8,
+     "number": 7,
+     "paper_label": "Grade 8",
+     "problem": "In the picture of a cell below, which label indicates the part of the cell that contains most of the cell's genetic material?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2005-g8-7-1.png\n\nA. 1\n\nB. 2\n\nC. 3\n\nD. 4"
+    },
+    {
+     "day": 8,
+     "number": 8,
+     "paper_label": "Grade 8",
+     "problem": "Viet and Andrea were using a microscope to look at a slide of some cells. They looked at some interesting cells that Viet thought were plant cells. Andrea thought they looked more like animal cells. If you looked at these same cells, how could you tell whether they were plant cells or animal cells?"
+    },
+    {
+     "day": 8,
+     "number": 9,
+     "paper_label": "Grade 8",
+     "problem": "Julio wanted to know how his pulse rate changed when he ran very fast. He measured his pulse rate before he started running, while he was running, and two minutes after he stopped running. Which graph best shows how Julio's pulse rate changed?\n\nA.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2005-g8-9-1.png\n\nB.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2005-g8-9-2.png\n\nC.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2005-g8-9-3.png\n\nD.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2005-g8-9-4.png"
+    },
+    {
+     "day": 8,
+     "number": 10,
+     "paper_label": "Grade 8",
+     "problem": "How do most fish get the oxygen they need to survive?\n\nA. They take in water and break it down into hydrogen and oxygen.\n\nB. Using their gills, they take in oxygen that is dissolved in water.\n\nC. They get their oxygen from the food they eat.\n\nD. They come to the surface every few minutes to breathe air into their lungs."
+    },
+    {
+     "day": 8,
+     "number": 11,
+     "paper_label": "Grade 8",
+     "problem": "Pat has two kinds of plant food, \"Quickgrow\" and \"Supergrow.\" What would be the best way for Pat to find out which plant food helps a particular type of houseplant grow the most?\n\nA. Put some Quickgrow on a plant in the living room, put some Supergrow on a plant of the same type in the bedroom, and see which one grows the most.\n\nB. Find out how much each kind of plant food costs, because the more expensive kind is probably better for growing plants.\n\nC. Put some Quickgrow on a few plants, put the same amount of Supergrow on a few other plants of the same type, put all the plants in the same place, and see which group of plants grows the most.\n\nD. Look at the advertisements for Quickgrow, look at the advertisements for Supergrow, and see which one says it helps plants grow the most."
+    },
+    {
+     "day": 8,
+     "number": 12,
+     "paper_label": "Grade 8",
+     "problem": "Sarah looked at some pond water with a microscope. She used the low-power objective lens to look at some green algae. The picture below shows what Sarah saw through the microscope.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2005-g8-12-1.png\n\nWhat is the role of the pond organisms that Sarah saw in her field of view?\n\nA. Producer\n\nB. Primary consumer\n\nC. Secondary consumer\n\nD. Decomposer"
+    },
+    {
+     "day": 8,
+     "number": 13,
+     "paper_label": "Grade 8",
+     "problem": "Sarah looked at some pond water with a microscope. She used the low-power objective lens to look at some green algae. The picture below shows what Sarah saw through the microscope.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2005-g8-13-1.png\n\nIf Sarah switched the lens from low power to high power, what would she see in the field of view?\n\nA. A lot more cells than with the low-power view, but in lesser detail.\n\nB. The same number of cells as with the low-power view, but in lesser detail.\n\nC. The same number of cells as with the low-power view, but in greater detail.\n\nD. Fewer cells than with the low-power view, but in greater detail."
+    },
+    {
+     "day": 8,
+     "number": 14,
+     "paper_label": "Grade 8",
+     "problem": "Seedlings of the same species of plant can grow at different rates. For example, some seedlings grow tall very fast, but other seedlings grow tall much more slowly. Explain why it might be advantageous for a plant seedling to grow tall very fast."
+    },
+    {
+     "day": 12,
+     "number": 1,
+     "paper_label": "Grade 12",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2005-g12-1-1.png\n\nThe diagram above shows a food web in a large park. Each circle represents a different species in the food web. Which of the organisms in the food web could be referred to as primary consumers?\n\nA. 7 only\n\nB. 5 and 6 only\n\nC. 2, 3, and 4 only\n\nD. 2, 5, and 7 only"
+    },
+    {
+     "day": 12,
+     "number": 2,
+     "paper_label": "Grade 12",
+     "problem": "Each diagram below shows the same front view of a human heart. Which diagram has arrows that correctly show the path of blood flow through the heart and the blood vessels leading to and from the heart?\n\nA.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2005-g12-2-1.png\n\nB.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2005-g12-2-2.png\n\nC.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2005-g12-2-3.png\n\nD.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2005-g12-2-4.png"
+    },
+    {
+     "day": 12,
+     "number": 3,
+     "paper_label": "Grade 12",
+     "problem": "When you exercise strenuously, your body produces excess heat. Describe what your body does to help prevent your temperature from rising excessively, and explain why the body's response is effective."
+    },
+    {
+     "day": 12,
+     "number": 4,
+     "paper_label": "Grade 12",
+     "problem": "Which is a function of a neuron?\n\nA. It carries oxygen to other cells.\n\nB. It secretes digestive enzymes.\n\nC. It removes foreign particles from the bloodstream.\n\nD. It receives signals from the internal and external environments."
+    },
+    {
+     "day": 12,
+     "number": 5,
+     "paper_label": "Grade 12",
+     "problem": "https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2005-g12-5-1.png\n\nThe bird shown above would be most likely to eat\n\nA. insects from the ground\n\nB. nectar from tube-shaped flowers\n\nC. fish from the ocean\n\nD. amphibians from a pond"
+    },
+    {
+     "day": 12,
+     "number": 6,
+     "paper_label": "Grade 12",
+     "problem": "Which pair of systems regulate and coordinate body functions?\n\nA. Excretory and digestive\n\nB. Nervous and endocrine\n\nC. Skeletal and muscular\n\nD. Immune and respiratory"
+    },
+    {
+     "day": 12,
+     "number": 7,
+     "paper_label": "Grade 12",
+     "problem": "Question refers to the following investigation.\n\nA student took a sample of water from a pond and examined it under a microscope. She identified several species of protozoans, including two species of Paramecium that are known to eat the same food. The student decided to examine the water sample every day for a week. She added food for the Paramecia each day and counted the number of each species. Her findings are summarized in the table below.\n\nNUMBER OF PARAMECIA IN POND WATER SAMPLE\n\n$$\\begin{array}{|l|l|l|}\\hline \\text{Day} & \\text{Species S} & \\text{Species T} \\\\ \\hline 1 & 50 & 50 \\\\ \\hline 2 & 60 & 80 \\\\ \\hline 3 & 100 & 90 \\\\ \\hline 4 & 150 & 60 \\\\ \\hline 5 & 160 & 50 \\\\ \\hline 6 & 160 & 30 \\\\ \\hline 7 & 160 & 20 \\\\ \\hline \\end{array}$$\n\nUsing the axes below, construct a graph showing the number of each species of Paramecium the student found each day. Be sure to label the axes.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2005-g12-7-1.png"
+    },
+    {
+     "day": 12,
+     "number": 8,
+     "paper_label": "Grade 12",
+     "problem": "Question refers to the following investigation.\n\nA student took a sample of water from a pond and examined it under a microscope. She identified several species of protozoans, including two species of Paramecium that are known to eat the same food. The student decided to examine the water sample every day for a week. She added food for the Paramecia each day and counted the number of each species. Her findings are summarized in the table below.\n\nNUMBER OF PARAMECIA IN POND WATER SAMPLE\n\n$$\\begin{array}{|l|l|l|}\\hline \\text{Day} & \\text{Species S} & \\text{Species T} \\\\ \\hline 1 & 50 & 50 \\\\ \\hline 2 & 60 & 80 \\\\ \\hline 3 & 100 & 90 \\\\ \\hline 4 & 150 & 60 \\\\ \\hline 5 & 160 & 50 \\\\ \\hline 6 & 160 & 30 \\\\ \\hline 7 & 160 & 20 \\\\ \\hline \\end{array}$$\n\nWhich of the following can be correctly concluded from the data?\n\nA. Species S is the food for species T.\n\nB. Species T is more common than species S.\n\nC. Species S is a more successful competitor than species T.\n\nD. Species T is a more successful competitor than species S."
+    },
+    {
+     "day": 12,
+     "number": 9,
+     "paper_label": "Grade 12",
+     "problem": "A research project is described below.\n\nA fishery scientist questioned the ability of fish raised in a hatchery to survive in a wild environment. She believed the fish raised in captivity had lost their fear of predators. To test her idea, she placed 15 hatchery salmon and 15 river salmon of the same age into two separate but identical tanks. She then placed a clear piece of Plexiglas into each tank. In each tank, she placed the salmon on one side of the Plexiglas and a large predatory fish, the cod, on the other side of the Plexiglas. She then recorded the amount of time it took the young salmon to move to the back of the tank away from the cod. She found that the hatchery fish were much slower in moving away. This led her to believe the hatchery fish have less fear of predators than do river fish.\n\nIdentify each of the following using a sentence or a phrase.\n\nThe control\n\nThe variable\n\nThe hypothesis\n\nThe data collected\n\nThe conclusion"
+    },
+    {
+     "day": 12,
+     "number": 10,
+     "paper_label": "Grade 12",
+     "problem": "Food can be preserved by adding salt or sugar. Explain how adding salt or sugar prevents foods from spoiling."
+    },
+    {
+     "day": 12,
+     "number": 11,
+     "paper_label": "Grade 12",
+     "problem": "Explain what usually happens to cause a woman to stop menstruating while she is pregnant."
+    }
+   ]
+  },
+  {
+   "year": 2009,
+   "problems": [
+    {
+     "day": 8,
+     "number": 1,
+     "paper_label": "Grade 8",
+     "problem": "Question refers to the diagram below, showing a food web. The arrows show the direction of energy flow. Each arrow points from the organism that is consumed to the organism that consumes it. Use the information in the food web to answer the questions that follow.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2009-g8-1-1.png\n\nWhich statement best explains why decomposers are an important part of this food web?\n\nA. They use sunlight to make their own food.\n\nB. They give off oxygen for animals to breathe.\n\nC. They provide camouflage for small animals.\n\nD. They make nutrients available to plants."
+    },
+    {
+     "day": 8,
+     "number": 2,
+     "paper_label": "Grade 8",
+     "problem": "Question refers to the diagram below, showing a food web. The arrows show the direction of energy flow. Each arrow points from the organism that is consumed to the organism that consumes it. Use the information in the food web to answer the questions that follow.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2009-g8-2-1.png\n\nGive one example of an organism from this food web that makes its own food using energy from sunlight.\n\nOrganism: ____\n\nGive one example of an organism from this food web that eats only plants.\n\nOrganism: ____\n\nGive one example of an organism from this food web that eats only animals.\n\nOrganism: ____"
+    },
+    {
+     "day": 8,
+     "number": 3,
+     "paper_label": "Grade 8",
+     "problem": "Question refers to the diagram below, showing a food web. The arrows show the direction of energy flow. Each arrow points from the organism that is consumed to the organism that consumes it. Use the information in the food web to answer the questions that follow.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2009-g8-3-1.png\n\nOne year, a parasite infects squirrels and significantly reduces the squirrel population.\n\nWhat effect is a decrease in the population of squirrels most likely to have on the fox population? Fill in only one oval.\n\nPopulation will increase.\n\nPopulation will decrease.\n\nPopulation will remain the same.\n\nUse the food web to explain your answer.\n\nWhat effect is a decrease in the population of squirrels most likely to have on the salamander population? Fill in only one oval.\n\nPopulation will increase.\n\nPopulation will decrease.\n\nPopulation will remain the same.\n\nUse the food web to explain your answer."
+    },
+    {
+     "day": 8,
+     "number": 4,
+     "paper_label": "Grade 8",
+     "problem": "Two farmers notice that some bean plants are much taller than others, even though they are growing in the same field. One farmer thinks the difference in height is due to inheritance. The other farmer thinks it is because some plants in the field get more water than others.\n\nDescribe an experiment that will provide evidence for which farmer is right. You can use seeds from both tall and short plants.\n\nDescribe the steps you will follow.\n\nDescribe how you will collect your data.\n\nHow will you conclude if tallness is inherited or caused by getting more water?"
+    },
+    {
+     "day": 12,
+     "number": 1,
+     "paper_label": "Grade 12",
+     "problem": "Which statement about the offspring that result from sexual reproduction is generally true?\n\nA. The offspring show genetic variation from the parents.\n\nB. The offspring have genetic material identical to that of one another.\n\nC. The offspring have genetic material identical to that of one of the parents.\n\nD. The offspring have twice as much genetic material as each parent."
+    },
+    {
+     "day": 12,
+     "number": 2,
+     "paper_label": "Grade 12",
+     "problem": "Question refers to the growth of bacteria.\n\nA scientist studied the growth rate of a species of bacterium. The scientist introduced some of the bacteria into a flask of nutrient-rich solution and monitored the growth of the bacterial population by measuring the number of living cells in the solution.\n\nThe graph below shows the growth of the bacterial population over time in hours (h).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2009-g12-2-1.png\n\nOver which time period did the number of living bacteria increase at the greatest rate?\n\nA. Between hours 0 and 1\n\nB. Between hours 1 and 8\n\nC. Between hours 8 and 16\n\nD. Between hours 16 and 24"
+    },
+    {
+     "day": 12,
+     "number": 3,
+     "paper_label": "Grade 12",
+     "problem": "Question refers to the growth of bacteria.\n\nA scientist studied the growth rate of a species of bacterium. The scientist introduced some of the bacteria into a flask of nutrient-rich solution and monitored the growth of the bacterial population by measuring the number of living cells in the solution.\n\nThe graph below shows the growth of the bacterial population over time in hours (h).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2009-g12-3-1.png\n\nExplain why the growth rate of the bacteria changed as it did during the following time periods. Refer to the data and your understanding of cellular processes and their regulation by internal and external environments\n\nBetween hours 6 and 12:\n\nBetween hours 16 and 24:"
+    },
+    {
+     "day": 12,
+     "number": 4,
+     "paper_label": "Grade 12",
+     "problem": "Question refers to the growth of bacteria.\n\nA scientist studied the growth rate of a species of bacterium. The scientist introduced some of the bacteria into a flask of nutrient-rich solution and monitored the growth of the bacterial population by measuring the number of living cells in the solution.\n\nThe graph below shows the growth of the bacterial population over time in hours (h).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2009-g12-4-1.png\n\nThe scientist wanted to determine the effect of an antibiotic on the growth of the bacterium. To a second flask of nutrient-rich solution with the bacterial cells, he added the antibiotic, and monitored the growth of the bacterial population.\n\nThe data showed that most of the bacteria in the solution died, but some survived. The scientist concluded that some of the bacteria were resistant to the antibiotic.\n\nExplain why some of the bacteria were resistant to the antibiotic, based on the theory of evolution."
+    },
+    {
+     "day": 12,
+     "number": 5,
+     "paper_label": "Grade 12",
+     "problem": "Question refers to the following diagram of forelimbs of different animals.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2009-g12-5-1.png\n\nBased on the anatomical structure of the forelimbs, which animal most likely evolved to live only in an aquatic (water) environment?\n\nA. 1\n\nB. 2\n\nC. 3\n\nD. 4"
+    },
+    {
+     "day": 12,
+     "number": 6,
+     "paper_label": "Grade 12",
+     "problem": "Question refers to the following diagram of forelimbs of different animals.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2009-g12-6-1.png\n\nWhich statement best helps to explain how these different structures could arise from a common precursor?\n\nA. Mutations in the genes regulating limb development led to gradual changes in structure, which provided a selective advantage to the organisms.\n\nB. A single mutation in the genes regulating limb development resulted in a change in structure, which led to the modified limbs in offspring.\n\nC. Changes in the environment caused mutations in the genes regulating limb development, which provided a means to thrive under the new conditions.\n\nD. Limbs changed in response to the changing needs of the organisms, which led to the modified limbs in offspring."
+    },
+    {
+     "day": 12,
+     "number": 7,
+     "paper_label": "Grade 12",
+     "problem": "Question refers to the following information.\n\nScientists are studying the evolutionary history of a group of plants in the United States, and they develop an evolutionary tree, as shown below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2009-g12-7-1.png\n\nWhat information about the organisms best helps the scientists to determine the evolutionary relationships among them?\n\nA. DNA sequences\n\nB. Anatomical features\n\nC. Habitat types\n\nD. Reproductive strategies"
+    },
+    {
+     "day": 12,
+     "number": 8,
+     "paper_label": "Grade 12",
+     "problem": "Question refers to the following information.\n\nScientists are studying the evolutionary history of a group of plants in the United States, and they develop an evolutionary tree, as shown below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2009-g12-8-1.png\n\nWhich statement can be inferred from the evolutionary tree?\n\nA. Species 1 is most closely related to Species 8.\n\nB. Species 2 is most closely related to Species 3.\n\nC. Species 3 is most closely related to Species 7.\n\nD. Species 5 is most closely related to Species 6."
+    },
+    {
+     "day": 12,
+     "number": 9,
+     "paper_label": "Grade 12",
+     "problem": "Question refers to the following information.\n\nScientists are studying the evolutionary history of a group of plants in the United States, and they develop an evolutionary tree, as shown below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2009-g12-9-1.png\n\nAdditional data indicated that Species 8 shares a similar thorny leaf structure with a different plant species found in Madagascar (an African country), as shown below. The scientists hypothesized that different plant species can have similar leaf structures but not be closely related.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2009-g12-9-2.png\n\nExplain how to test the scientists' hypothesis."
+    },
+    {
+     "day": 12,
+     "number": 10,
+     "paper_label": "Grade 12",
+     "problem": "What is the correct order for the levels of organization in living systems from the simplest to the most complex? (Note that not all levels of organization are included.)\n\nA.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2009-g12-10-1.png\n\nB.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2009-g12-10-2.png\n\nC.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2009-g12-10-3.png\n\nD.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2009-g12-10-4.png"
+    },
+    {
+     "day": 12,
+     "number": 11,
+     "paper_label": "Grade 12",
+     "problem": "Question refers to the following experiment.\n\nAn experiment was conducted to determine which wavelengths of visible light are most effective for photosynthesis. The units shown here are in nanometers (nm).\n\nTwo organisms were used: filamentous algae, which are capable of photosynthesis, and some aerobic bacteria, which are not capable of photosynthesis.\n\nBoth organisms were suspended in a water droplet and placed on a microscope slide. The slide was exposed to light that was passed through a crystal prism. (The prism was used to separate visible light into its wavelengths.)\n\nThe diagram below illustrates what was seen on the microscope slide before and one hour after exposure to light that was passed through the prism.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2009-g12-11-1.png\n\nBased on the results of the experiment, which two regions of the visible light spectrum are most effective for photosynthesis?\n\n1. ____\n\n2. ____\n\nExplain the relationship between the aerobic bacteria and the filamentous algae."
+    },
+    {
+     "day": 12,
+     "number": 12,
+     "paper_label": "Grade 12",
+     "problem": "Question refers to the following experiment.\n\nAn experiment was conducted to determine which wavelengths of visible light are most effective for photosynthesis. The units shown here are in nanometers (nm).\n\nTwo organisms were used: filamentous algae, which are capable of photosynthesis, and some aerobic bacteria, which are not capable of photosynthesis.\n\nBoth organisms were suspended in a water droplet and placed on a microscope slide. The slide was exposed to light that was passed through a crystal prism. (The prism was used to separate visible light into its wavelengths.)\n\nThe diagram below illustrates what was seen on the microscope slide before and one hour after exposure to light that was passed through the prism.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2009-g12-12-1.png\n\nThe diagram below illustrates what was seen on the microscope slide one hour after exposure to light that was passed through a prism. The colors associated with the wavelengths of light are also indicated.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2009-g12-12-2.png\n\nBased on the results of the experiment, a student concludes that the scientist used algae that was green.\n\nDo you agree with the student's conclusion?\n\nYes\n\nNo\n\nRefer to the results from the experiment to support your answer."
+    }
+   ]
+  },
+  {
+   "year": 2011,
+   "problems": [
+    {
+     "day": 8,
+     "number": 1,
+     "paper_label": "Grade 8",
+     "problem": "Which characteristic is shared by all cells?\n\nA. They need energy.\n\nB. They reproduce sexually.\n\nC. They make their own food.\n\nD. They move from place to place."
+    },
+    {
+     "day": 8,
+     "number": 2,
+     "paper_label": "Grade 8",
+     "problem": "Question refers to the following investigation.\n\nSome students were studying the life cycle of mosquitoes. They learned that mosquito larvae and pupae spend part of their time at the surface of water.\n\nThe students wanted to find out how a larva and pupa behaved when the jars they were in were disturbed. They put one larva and one pupa in identical tall jars of water at 20°C as shown below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2011-g8-2-c1.png\n\nThe students tapped on the jars when the larva and pupa were at the surface of the water. The larva and pupa dove down into the jars, and then slowly came to the surface.\n\nThe students measured the depth each larva and pupa reached and the amount of time each stayed underwater. The students repeated this step five times and calculated the average of each of their measurements.\n\nTheir results are summarized in the table below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2011-g8-2-c2.png\n\nWhich statement(s) is (are) supported by these data? You may fill in more than one oval.\n\nThe larva dives deeper than the pupa.\n\nThe larva stays underwater longer than the pupa.\n\nThe length of the larva affects the depth of its dive.\n\nThe pupa dives deeper than the larva.\n\nThe pupa stays underwater longer than the larva.\n\nThe shape of the pupa helps it dive deeper than the larva.\n\nExplain why you selected the statement(s) you did, using the data in the table."
+    },
+    {
+     "day": 8,
+     "number": 3,
+     "paper_label": "Grade 8",
+     "problem": "Question refers to the following investigation.\n\nSome students were studying the life cycle of mosquitoes. They learned that mosquito larvae and pupae spend part of their time at the surface of water.\n\nThe students wanted to find out how a larva and pupa behaved when the jars they were in were disturbed. They put one larva and one pupa in identical tall jars of water at 20°C as shown below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2011-g8-3-c1.png\n\nThe students tapped on the jars when the larva and pupa were at the surface of the water. The larva and pupa dove down into the jars, and then slowly came to the surface.\n\nThe students measured the depth each larva and pupa reached and the amount of time each stayed underwater. The students repeated this step five times and calculated the average of each of their measurements.\n\nTheir results are summarized in the table below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2011-g8-3-c2.png\n\nYou will use the data in the table to create two graphs to compare the behaviors of the larva and the pupa.\n\nWhich graph format would be best to use for both graphs?\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2011-g8-3-c3.png\n\nBar graph\n\nLine graph\n\nExplain why you think this graph format would be best for the information in this table.\n\nIn the space provided below, draw each graph using the format you chose. Use the data from the table. Be sure to label all parts of your graph.\n\nGraph 1\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2011-g8-3-c4.png\n\nGraph 2\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2011-g8-3-c5.png"
+    },
+    {
+     "day": 8,
+     "number": 4,
+     "paper_label": "Grade 8",
+     "problem": "Question refers to the following investigation.\n\nSome students were studying the life cycle of mosquitoes. They learned that mosquito larvae and pupae spend part of their time at the surface of water.\n\nThe students wanted to find out how a larva and pupa behaved when the jars they were in were disturbed. They put one larva and one pupa in identical tall jars of water at 20°C as shown below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2011-g8-4-c1.png\n\nThe students tapped on the jars when the larva and pupa were at the surface of the water. The larva and pupa dove down into the jars, and then slowly came to the surface.\n\nThe students measured the depth each larva and pupa reached and the amount of time each stayed underwater. The students repeated this step five times and calculated the average of each of their measurements.\n\nTheir results are summarized in the table below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2011-g8-4-c2.png\n\nLarvae have a breathing tube and must come to the surface of the water to breathe.\n\nIf a layer of an oily substance completely covers the surface of the water for several days, what will most likely happen to the larva?\n\nA. It will not survive because of lack of fresh food sources.\n\nB. It will not survive because of lack of oxygen.\n\nC. It will skip the pupa stage and hatch immediately to break out of the water.\n\nD. It will hold its breath until the oily substance naturally breaks down in the water."
+    },
+    {
+     "day": 8,
+     "number": 5,
+     "paper_label": "Grade 8",
+     "problem": "Question refers to the following investigation.\n\nSome students were studying the life cycle of mosquitoes. They learned that mosquito larvae and pupae spend part of their time at the surface of water.\n\nThe students wanted to find out how a larva and pupa behaved when the jars they were in were disturbed. They put one larva and one pupa in identical tall jars of water at 20°C as shown below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2011-g8-5-c1.png\n\nThe students tapped on the jars when the larva and pupa were at the surface of the water. The larva and pupa dove down into the jars, and then slowly came to the surface.\n\nThe students measured the depth each larva and pupa reached and the amount of time each stayed underwater. The students repeated this step five times and calculated the average of each of their measurements.\n\nTheir results are summarized in the table below.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2011-g8-5-c2.png\n\nLarvae and pupae normally float. They must use their muscles in order to dive down through water. What type of energy is used by the muscles?\n\nA. Sound energy from the air\n\nB. Thermal energy from the water\n\nC. Chemical potential energy from their cells\n\nD. Gravitational potential energy from Earth"
+    }
+   ]
+  },
+  {
+   "year": 2019,
+   "problems": [
+    {
+     "day": 8,
+     "number": 1,
+     "paper_label": "Grade 8",
+     "problem": "During cellular respiration, cells break down sugar to obtain usable energy for an organism.\n\nWhich substance is required for cellular respiration?\n\nA. Carbon dioxide\n\nB. Sodium\n\nC. Nitrogen\n\nD. Oxygen"
+    },
+    {
+     "day": 8,
+     "number": 2,
+     "paper_label": "Grade 8",
+     "problem": "Question refers to the following information.\n\nGoldfish take in oxygen (breathe) by moving water across their gills when they open and close their mouths. The breathing rate is determined by how often the goldfish opens and closes its mouth.\n\nA class set up an investigation to study how temperature affects the breathing rates of goldfish. The students put fish in three beakers, as shown.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2019-g8-2-c1.png\n\nAfter the students observed each goldfish for 30 seconds, the teacher instructed them to record the data in a table. The students created a table without a column heading, as shown.\n\nDATA TABLE\n\n$$\\begin{array}{|c|c|}\\hline \\text{Beaker} & \\\\ \\hline 1 & \\\\ \\hline 2 & \\\\ \\hline 3 & \\\\ \\hline \\end{array}$$\n\nWhich label is the best column heading to use in the shaded cell?\n\nA. Time (seconds)\n\nB. Temperature (°C)\n\nC. Number of Goldfish\n\nD. Number of Breaths"
+    },
+    {
+     "day": 8,
+     "number": 3,
+     "paper_label": "Grade 8",
+     "problem": "Question refers to the following information.\n\nGoldfish take in oxygen (breathe) by moving water across their gills when they open and close their mouths. The breathing rate is determined by how often the goldfish opens and closes its mouth.\n\nA class set up an investigation to study how temperature affects the breathing rates of goldfish. The students put fish in three beakers, as shown.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2019-g8-3-c1.png\n\nThe amount of available oxygen that a volume of water can hold decreases as the water temperature increases.\n\nConsider the classroom investigation and the potential effect of the three different temperatures (15°C, 20°C, and 25°C) on the goldfish.\n\nWhich beaker has the most available oxygen for the goldfish?\n\nA. Beaker 1\n\nB. Beaker 2\n\nC. Beaker 3\n\nPredict how the breathing rate of the goldfish in the beaker you chose will differ from the breathing rates of the other goldfish. In your response, refer to the amount of available oxygen in each beaker."
+    },
+    {
+     "day": 8,
+     "number": 4,
+     "paper_label": "Grade 8",
+     "problem": "During development, cells divide to produce new cells.\n\nWhich statement is correct about two new stomach cells produced by cell division?\n\nA. One new cell will use much more energy than the other new cell.\n\nB. One new cell will be half the size of the other new cell.\n\nC. The two new cells will perform the same specialized function.\n\nD. The two new cells will each have a different genetic makeup."
+    },
+    {
+     "day": 8,
+     "number": 5,
+     "paper_label": "Grade 8",
+     "problem": "Organisms such as an orchid plant and a flatworm can reproduce asexually.\n\nWhat is an advantage of asexual reproduction?\n\nA. Identical offspring tend to be healthier.\n\nB. Parents pass different combinations of traits to offspring.\n\nC. Offspring can be produced from a single parent.\n\nD. Offspring are better able to resist disease than their parents."
+    },
+    {
+     "day": 8,
+     "number": 6,
+     "paper_label": "Grade 8",
+     "problem": "The model shows the structure of a rain forest.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/naepsci-2019-g8-6-c1.png\n\nThe canopy of the forest contains the tallest trees. Some trees in the canopy are the same species as some trees in the understory.\n\nWhich statement best explains this difference in height among trees of the same species?\n\nA. The trees in the understory receive very little water from rainfall.\n\nB. The trees in the understory have limited access to sunlight.\n\nC. The trees in the canopy are too tall to be reached by their consumers.\n\nD. The trees in the canopy have less space for their roots to grow."
+    },
+    {
+     "day": 12,
+     "number": 1,
+     "paper_label": "Grade 12",
+     "problem": "The carbon from carbon dioxide in the atmosphere is converted to carbohydrates in plants during which process?\n\nA. Respiration\n\nB. Evaporation\n\nC. Transpiration\n\nD. Photosynthesis"
+    },
+    {
+     "day": 12,
+     "number": 2,
+     "paper_label": "Grade 12",
+     "problem": "The overuse of antibiotics has led to an increase in the prevalence of antibiotic-resistant strains of bacteria. Explain how this occurred."
+    },
+    {
+     "day": 12,
+     "number": 3,
+     "paper_label": "Grade 12",
+     "problem": "Question refers to the following information.\n\nPeople with cystic fibrosis have thickened mucus and fluid buildup in their lungs. Cystic fibrosis is a recessive disorder caused by a mutation in a single gene. Individuals can be tested to determine if they are symptomless carriers of this disorder.\n\nA scientist tested 100 children whose parents were all symptomless carriers of the disorder to learn about the children's genetic makeup. The table shows the scientist's findings.\n\nGENETIC MAKEUP OF CHILDREN TESTED\n\n$$\\begin{array}{|c|l|}\\hline \\text{Group} & \\text{Genetic Makeup of Children Whose Mothers and Fathers Were Carriers} \\\\ \\hline 1 & \\text{24 children who have the disorder} \\\\ \\hline 2 & \\text{51 children who are carriers} \\\\ \\hline 3 & \\text{25 children who do not have any alleles for the disorder and are not carriers} \\\\ \\hline \\end{array}$$\n\nThe scientist used $F$ to represent the dominant allele for the disorder and $f$ to represent the recessive allele.\n\nWhich statement correctly describes the information provided in the table?\n\nA. Children in group 1 have the genetic makeup $FF$.\n\nB. Children in group 3 have the genetic makeup $ff$.\n\nC. Children in group 2 have the genetic makeup either $FF$ or $ff$.\n\nD. Children in group 2 have the genetic makeup $Ff$."
+    },
+    {
+     "day": 12,
+     "number": 4,
+     "paper_label": "Grade 12",
+     "problem": "Question refers to the following information.\n\nPeople with cystic fibrosis have thickened mucus and fluid buildup in their lungs. Cystic fibrosis is a recessive disorder caused by a mutation in a single gene. Individuals can be tested to determine if they are symptomless carriers of this disorder.\n\nA scientist tested 100 children whose parents were all symptomless carriers of the disorder to learn about the children's genetic makeup. The table shows the scientist's findings.\n\nGENETIC MAKEUP OF CHILDREN TESTED\n\n$$\\begin{array}{|c|l|}\\hline \\text{Group} & \\text{Genetic Makeup of Children Whose Mothers and Fathers Were Carriers} \\\\ \\hline 1 & \\text{24 children who have the disorder} \\\\ \\hline 2 & \\text{51 children who are carriers} \\\\ \\hline 3 & \\text{25 children who do not have any alleles for the disorder and are not carriers} \\\\ \\hline \\end{array}$$\n\nThe scientist used $F$ to represent the dominant allele for the disorder and $f$ to represent the recessive allele.\n\nIn a family with 4 children from the same parents, one child is diagnosed with cystic fibrosis. The child's siblings show no symptoms of the disorder.\n\nUsing the information in the table, what is the most likely genetic makeup of the parents of these children?\n\nA. Father: $FF$; Mother: $ff$\n\nB. Father: $Ff$; Mother: $FF$\n\nC. Father: $Ff$; Mother: $Ff$\n\nD. Father: $ff$; Mother: $ff$"
+    },
+    {
+     "day": 12,
+     "number": 5,
+     "paper_label": "Grade 12",
+     "problem": "Question refers to the following information.\n\nPeople with cystic fibrosis have thickened mucus and fluid buildup in their lungs. Cystic fibrosis is a recessive disorder caused by a mutation in a single gene. Individuals can be tested to determine if they are symptomless carriers of this disorder.\n\nA scientist tested 100 children whose parents were all symptomless carriers of the disorder to learn about the children's genetic makeup. The table shows the scientist's findings.\n\nGENETIC MAKEUP OF CHILDREN TESTED\n\n$$\\begin{array}{|c|l|}\\hline \\text{Group} & \\text{Genetic Makeup of Children Whose Mothers and Fathers Were Carriers} \\\\ \\hline 1 & \\text{24 children who have the disorder} \\\\ \\hline 2 & \\text{51 children who are carriers} \\\\ \\hline 3 & \\text{25 children who do not have any alleles for the disorder and are not carriers} \\\\ \\hline \\end{array}$$\n\nThe scientist used $F$ to represent the dominant allele for the disorder and $f$ to represent the recessive allele.\n\nA single gene mutation causes cystic fibrosis.\n\nWhich statement best describes how the gene mutation affects an individual with the disorder?\n\nA. A defective protein is produced.\n\nB. Cells lining the airway cannot divide.\n\nC. RNA transcription fails in cells.\n\nD. Chromosomes fail to separate during meiosis."
+    },
+    {
+     "day": 12,
+     "number": 6,
+     "paper_label": "Grade 12",
+     "problem": "Fossils of Basilosaurus, a primitive whale that lived in water and existed about 50 million years ago, have well-defined ankle bones and toes.\n\nWhat does this suggest about how the ancestors of this primitive whale moved and where they lived?"
+    },
+    {
+     "day": 12,
+     "number": 7,
+     "paper_label": "Grade 12",
+     "problem": "Which subunit makes up protein molecules?\n\nA. Amino acid\n\nB. Simple sugar\n\nC. Fatty acid\n\nD. Nucleic acid"
+    },
+    {
+     "day": 12,
+     "number": 8,
+     "paper_label": "Grade 12",
+     "problem": "Heavy rain on a hillside has caused a rockslide. All vegetation has disappeared. Gradually, plant life moves back into the area and species are replaced by other species.\n\nIn which order are the plants most likely to appear, from earliest to latest?\n\nA. Mosses and lichens, grasses, shrubs, pines, oaks\n\nB. Grasses, shrubs, pines, mosses and lichens, oaks\n\nC. Shrubs, grasses, mosses and lichens, oaks, pines\n\nD. Pines, mosses and lichens, shrubs, oaks, grasses"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "problems": [
+    {
+     "day": 8,
+     "number": 1,
+     "paper_label": "Grade 8",
+     "problem": "Some traits of giraffes are inherited, and other traits are caused by the environment.\n\nWhich of these traits are inherited, and which of these traits are caused by the environment?\n\nDrag the pictures of the giraffe traits into the boxes to show your answer.\n\n[Photographs of four giraffe traits, each with a label: “Neck Length” (a whole giraffe), “Broken Horn” (the face of a giraffe), “Scar” (the head of a giraffe seen from the side), “Fur Pattern” (a close-up of a giraffe’s coat).]\n\n[Two empty boxes, labelled “Inherited” and “Caused by the Environment”.]"
+    },
+    {
+     "day": 8,
+     "number": 2,
+     "paper_label": "Grade 8",
+     "problem": "[Photographs of four organisms, labelled “Bat” (a bat hanging from a branch), “Mouse”, “Bird” (a large bird of prey perched on a branch) and “Lizard”.]\n\nWhich organisms pictured are mammals?\n\nA. Mouse and lizard\n\nB. Bat and mouse\n\nC. Bat and bird\n\nD. Mouse and bird\n\nState two characteristics of the organisms you chose that are used to classify them as mammals.\n\n1. ____\n\n2. ____"
+    },
+    {
+     "day": 8,
+     "number": 3,
+     "paper_label": "Grade 8",
+     "problem": "Which of these characteristics is commonly used to classify an animal as a mammal?\n\nA. Claws\n\nB. Feathers\n\nC. Scales\n\nD. Hair"
+    },
+    {
+     "day": 8,
+     "number": 4,
+     "paper_label": "Grade 8",
+     "problem": "Which substance makes up most of the mass of living cells?\n\nA. Fat\n\nB. Water\n\nC. Protein\n\nD. Carbohydrate"
+    },
+    {
+     "day": 8,
+     "number": 5,
+     "paper_label": "Grade 8",
+     "problem": "Which statement best explains what happens to most of the microorganisms on food after they enter the human body?\n\nA. They are carried out of the body in urine.\n\nB. They are carried out of the body in sweat.\n\nC. They are carried to the lungs and breathed out.\n\nD. They are carried to the stomach and killed by acid."
+    }
+   ]
+  }
+ ]
+}
