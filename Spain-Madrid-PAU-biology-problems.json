@@ -1,0 +1,830 @@
+{
+ "competition": "Spain (Madrid) — EvAU / PAU university-entrance exams, Biología",
+ "years": [
+  {
+   "year": 2020,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Ordinary session (July)",
+     "problem": "Question A.1\n\n(2 points)\n\nConcerning viruses as disease-causing agents:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2020-1-1-fig1.png\n\na) Name the infection process shown in the accompanying figure. Identify the stages marked with letters (1.5 points).\n\nb) Name two types of non-viral acellular agents and the type of organisms they affect (0.5 points).",
+     "problem_orig": "Pregunta A.1\n\n(2 puntos)\n\nReferente a los virus como agentes causantes de enfermedades:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2020-1-1-fig1.png\n\na) Nombre el proceso de infección representado en la figura adjunta. Identifique las fases señaladas con letras (1,5 puntos).\n\nb) Cite dos tipos de agentes acelulares no víricos y el tipo de organismos al que afectan (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Ordinary session (July)",
+     "problem": "Question A.2\n\n(2 points)\n\nConcerning the eukaryotic plant cell:\n\na) State the main component of the plant cell wall and the name of the connections between adjacent plant cells (0.5 points).\n\nb) Name the organelles of the plant cell that contain ribosomes (0.5 points).\n\nc) Briefly explain the origin and formation of the phragmoplast (0.5 points).\n\nd) State the location of the photosynthetic electron transport chain and the compartment in which the Calvin cycle takes place (0.5 points).",
+     "problem_orig": "Pregunta A.2\n\n(2 puntos)\n\nRespecto a la célula eucariota vegetal:\n\na) Indique cuál es el componente mayoritario de la pared celular vegetal y cómo se llaman las conexiones entre células vegetales adyacentes (0,5 puntos).\n\nb) Cite los orgánulos de la célula vegetal que contienen ribosomas (0,5 puntos).\n\nc) Explique brevemente el origen y formación del fragmoplasto (0,5 puntos).\n\nd) Indique la localización de la cadena de transporte de electrones fotosintética y el compartimento en que tiene lugar el ciclo de Calvin (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Ordinary session (July)",
+     "problem": "Question A.3\n\n(2 points)\n\nIn relation to the molecular and physicochemical basis of life:\n\na) State two forms in which mineral salts can occur in living beings and give an example of each (0.5 points).\n\nb) State one biological function in living beings of each of the following bioelements: potassium, calcium, iron and cobalt (1 point).\n\nc) State one biological function of two types of solid mineral salts (0.5 points).",
+     "problem_orig": "Pregunta A.3\n\n(2 puntos)\n\nEn relación a la base molecular y fisicoquímica de la vida:\n\na) Indique dos formas en que se pueden encontrar las sales minerales en los seres vivos y ponga un ejemplo de cada caso (0,5 puntos).\n\nb) Indique una función biológica en los seres vivos de los siguientes bioelementos: potasio, calcio, hierro y cobalto (1 punto).\n\nc) Indique una función biológica de dos tipos de sales minerales sólidas (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Ordinary session (July)",
+     "problem": "Question A.4\n\n(2 points)\n\nIn relation to the immune response:\n\na) What is interferon and what is it for? (0.5 points).\n\nb) State what you understand by opsonization and name two types of molecules able to carry it out (0.75 points).\n\nc) What does it mean that a cell has cytotoxic activity? Name two examples of cells that have this activity (0.75 points).",
+     "problem_orig": "Pregunta A.4\n\n(2 puntos)\n\nEn relación con la respuesta inmune:\n\na) ¿Qué es y para qué sirve el interferón? (0,5 puntos).\n\nb) Indique qué entiende por opsonización y cite dos tipos de moléculas capaces de llevarla a cabo (0,75 puntos).\n\nc) ¿Qué quiere decir que una célula tiene actividad citotóxica? Cite dos ejemplos de células que posean esta actividad (0,75 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Ordinary session (July)",
+     "problem": "Question A.5\n\n(2 points)\n\nIn relation to Mendel's contributions to the study of heredity:\n\na) In goats, the absence of horns \"A” is dominant over the allele “a” for the presence of horns. Suppose a hornless male is crossed with three females: female 1 with horns, from which a kid with horns is born; female 2 with horns, from which a hornless kid is born; and female 3 hornless, from which a kid with horns is born. State the genotype of the four parents: male, female 1, female 2 and female 3 (1 point).\n\nb) What type of cross could be designed to distinguish a homozygous dominant individual (AA) from a heterozygous one (Aa)? Justify the answer. What is it called? (1 point).",
+     "problem_orig": "Pregunta A.5\n\n(2 puntos)\n\nCon relación a las aportaciones de Mendel al estudio de la herencia:\n\na) En las cabras, la ausencia de cuernos \"A” es dominante sobre el alelo “a” para la presencia de cuernos. Suponga que se cruza un macho sin cuernos con tres hembras: hembra 1 con cuernos, de la que nace una cría con cuernos; hembra 2 con cuernos, de la que nace una cría sin cuernos; y hembra 3 sin cuernos, de la que nace una cría con cuernos. Indique el genotipo de los cuatro parentales: macho, hembra 1, hembra 2 y hembra 3 (1 punto).\n\nb) ¿Qué tipo de cruzamiento se podría diseñar para distinguir un individuo homocigótico dominante (AA) de un heterocigótico (Aa)? Razone la respuesta. ¿Qué denominación recibe? (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Ordinary session (July)",
+     "problem": "Question B.1\n\n(2 points)\n\nWith reference to carbohydrates:\n\na) State the main energy-reserve carbohydrate of the animal cell and indicate the two main storage sites in the human body. Describe its composition and the chemical bonds it has (1 point).\n\nb) State the main energy-reserve carbohydrate of the plant cell and indicate two storage sites in the plant. Describe its composition and the chemical bonds it has (1 point).",
+     "problem_orig": "Pregunta B.1\n\n(2 puntos)\n\nEn referencia a los glúcidos:\n\na) Indique el principal glúcido de reserva energética de la célula animal y señale los dos principales lugares de almacenamiento en el cuerpo humano. Describa su composición y los enlaces químicos que presenta (1 punto).\n\nb) Indique el principal glúcido de reserva energética de la célula vegetal y señale dos lugares de almacenamiento en la planta. Describa su composición y los enlaces químicos que presenta (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Ordinary session (July)",
+     "problem": "Question B.2\n\n(2 points)\n\nIn relation to the characteristics and classification of microorganisms:\n\nThe following microorganisms are cultured: Clostridium, Escherichia, Saccharomyces and a cyanobacterium, in a general culture medium with all the conditions necessary for their growth, and only one condition is varied. The following table shows the results obtained under the different conditions; the + sign indicates growth and the – sign indicates no growth:\n\n$$\\begin{array}{|l|c|c|c|}\\hline & \\text{Medium with bacterial inhibitor} & \\text{Anaerobic medium} & \\text{Medium with photosynthesis inhibitor} \\\\ \\hline \\text{CULTURE A} & - & - & - \\\\ \\hline \\text{CULTURE B} & - & + & + \\\\ \\hline \\text{CULTURE C} & - & - & + \\\\ \\hline \\text{CULTURE D} & + & + & + \\\\ \\hline \\end{array}$$\n\na) Identify the microorganism in each culture (1 point).\n\nb) Name the four morphological types that prokaryotic organisms can show (1 point).",
+     "problem_orig": "Pregunta B.2\n\n(2 puntos)\n\nEn relación a las características y clasificación de los microorganismos:\n\nSe cultivan los siguientes microorganismos: Clostridium, Escherichia, Saccharomyces y una cianobacteria en un medio de cultivo general con todas las condiciones necesarias para su crecimiento y se hace variar solo una condición. La siguiente tabla muestra los resultados obtenidos en las diferentes condiciones, el signo + indica crecimiento y el signo – que no hubo crecimiento:\n\n$$\\begin{array}{|l|c|c|c|}\\hline & \\text{Medio con inhibidor bacteriano} & \\text{Medio anaerobio} & \\text{Medio con inhibidor de la fotosíntesis} \\\\ \\hline \\text{CULTIVO A} & - & - & - \\\\ \\hline \\text{CULTIVO B} & - & + & + \\\\ \\hline \\text{CULTIVO C} & - & - & + \\\\ \\hline \\text{CULTIVO D} & + & + & + \\\\ \\hline \\end{array}$$\n\na) Identifique el microorganismo de cada cultivo (1 punto).\n\nb) Cite los cuatro tipos morfológicos que pueden presentar los organismos procariotas (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Ordinary session (July)",
+     "problem": "Question B.3\n\n(2 points)\n\nIn relation to the genetic information of living beings:\n\na) Match each of the concepts in the left column with one of those in the right column (1 point).\n\n$$\\begin{array}{ll} \\text{(1) RNA polymerase} & \\text{(A) Replication} \\\\ \\text{(2) Nucleotide substitution} & \\text{(B) Transcription} \\\\ \\text{(3) DNA polymerase I} & \\text{(C) Translation} \\\\ \\text{(4) P site} & \\text{(D) Mutation} \\\\ \\text{(5) Insertion / Deletion} & \\\\ \\text{(6) Bidirectional bubble} & \\\\ \\text{(7) Ribosomal subunit} & \\\\ \\text{(8) 5’ cap} & \\end{array}$$\n\nb) Explain what the central dogma of molecular biology is. Describe in a diagram which elements make it up and which processes relate them to each other (1 point).",
+     "problem_orig": "Pregunta B.3\n\n(2 puntos)\n\nEn relación con la información genética de los seres vivos:\n\na) Relacione cada uno de los conceptos de la columna izquierda con uno de los de la columna derecha (1 punto).\n\n$$\\begin{array}{ll} \\text{(1) ARN polimerasa} & \\text{(A) Replicación} \\\\ \\text{(2) Sustitución nucleotídica} & \\text{(B) Transcripción} \\\\ \\text{(3) ADN Polimerasa I} & \\text{(C) Traducción} \\\\ \\text{(4) Sitio P} & \\text{(D) Mutación} \\\\ \\text{(5) Inserción / Deleción} & \\\\ \\text{(6) Burbuja bidireccional} & \\\\ \\text{(7) Subunidad ribosomal} & \\\\ \\text{(8) Caperuza 5’} & \\end{array}$$\n\nb) Explique cuál es el dogma central de la biología molecular. Describa en un gráfico qué elementos lo componen y qué procesos los relacionan entre sí (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Ordinary session (July)",
+     "problem": "Question B.4\n\n(2 points)\n\nConcerning cellular energy processes:\n\na) State one difference between osmosis and diffusion (0.5 points).\n\nb) State the differences between alcoholic and lactic fermentation regarding: the organisms that carry them out and the industrial processes in which they are used (1 point).\n\nc) State the mitochondrial location of the Krebs cycle reactions and of the respiratory electron transport chain (0.5 points).",
+     "problem_orig": "Pregunta B.4\n\n(2 puntos)\n\nRespecto a los procesos energéticos celulares:\n\na) Indique una diferencia entre ósmosis y difusión (0,5 puntos).\n\nb) Indique las diferencias entre los procesos de fermentación alcohólica y láctica en cuanto a: organismos que los realizan y procesos industriales en los que se emplean (1 punto).\n\nc) Indique la localización mitocondrial de las reacciones del ciclo de Krebs y de la cadena transportadora de electrones respiratoria (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Ordinary session (July)",
+     "problem": "Question B.5\n\n(2 points)\n\nConcerning mitosis:\n\na) State the function of mitosis in: 1) a unicellular organism and 2) a multicellular organism (0.5 points).\n\nb) Explain the relationship between kinetochores and the mitotic spindle (0.5 points).\n\nc) Mention two processes of mitotic division in which the relationship between kinetochores and the mitotic spindle is essential (0.5 points).\n\nd) State the ploidy and the number of chromatids per chromosome in an animal somatic cell in prophase and in telophase (0.5 points).",
+     "problem_orig": "Pregunta B.5\n\n(2 puntos)\n\nRespecto a la mitosis:\n\na) Indique cuál es la función de la mitosis en: 1) un organismo unicelular y 2) un organismo pluricelular (0,5 puntos).\n\nb) Explique qué relación existe entre cinetocoros y huso mitótico (0,5 puntos).\n\nc) Mencione dos procesos de la división mitótica en los que resulta esencial la relación entre cinetocoros y huso mitótico (0,5 puntos).\n\nd) Indique cuál es la ploidía y el número de cromátidas por cromosoma en una célula somática animal en profase y en telofase (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "paper_label": "Extraordinary session (September)",
+     "problem": "Question A.1\n\n(2 points)\n\nIn relation to the immune response:\n\na) Define autoimmunity and immunodeficiency. State one disease caused by each of these abnormalities of the immune response (1 point).\n\nb) State the function of antibodies, their basic structure and the cell type that produces them (1 point).",
+     "problem_orig": "Pregunta A.1\n\n(2 puntos)\n\nEn relación con la respuesta inmune:\n\na) Defina autoinmunidad e inmunodeficiencia. Indique una enfermedad causada por cada una de estas anomalías de la respuesta inmune (1 punto).\n\nb) Indique la función de los anticuerpos, su estructura básica y el tipo celular que los produce (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "paper_label": "Extraordinary session (September)",
+     "problem": "Question A.2\n\n(2 points)\n\nIn relation to the physicochemical properties of water:\n\na) Name two changes that occur in the properties of water as a consequence of the presence of solutes (0.5 points).\n\nb) State what it means that water has a high specific heat and what use living beings derive from this property (0.5 points).\n\nc) Briefly explain what it means for a solution to be hypotonic or hypertonic. State the consequences for red blood cells if they are placed in each of these two types of solutions (1 point).",
+     "problem_orig": "Pregunta A.2\n\n(2 puntos)\n\nEn relación con las propiedades fisicoquímicas del agua:\n\na) Cite dos cambios que se producen en las propiedades del agua como consecuencia de la presencia de solutos (0,5 puntos).\n\nb) Indique qué significa que el agua posee un elevado calor específico y qué utilidad obtienen los seres vivos de dicha propiedad (0,5 puntos).\n\nc) Explique brevemente qué significa que una solución sea hipotónica o hipertónica. Indique las consecuencias que tendría para los glóbulos rojos si se introducen en cada uno de estos dos tipos de soluciones (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "paper_label": "Extraordinary session (September)",
+     "problem": "Question A.3\n\n(2 points)\n\nConcerning gene expression in prokaryotes:\n\nThe accompanying figure represents the process of transcription and translation in bacteria.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2020-2-3-fig1.png\n\na) Identify the molecules and structures marked with the numbers 1 to 4 (1 point).\n\nb) State four typical characteristics of the molecule marked as 2 (0.5 points).\n\nc) Briefly describe the initiation phase of the translation process (0.5 points).",
+     "problem_orig": "Pregunta A.3\n\n(2 puntos)\n\nRespecto a la expresión génica en procariotas:\n\nLa figura adjunta representa el proceso de transcripción y traducción en bacterias.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2020-2-3-fig1.png\n\na) Identifique las moléculas y estructuras marcadas con los números del 1 al 4 (1 punto).\n\nb) Indique cuatro características típicas de la molécula señalada como 2 (0,5 puntos).\n\nc) Describa brevemente cómo es la fase de iniciación del proceso de traducción (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "paper_label": "Extraordinary session (September)",
+     "problem": "Question A.4\n\n(2 points)\n\nConcerning meiosis:\n\na) Considering an animal germ-line cell with 2n=48 chromosomes, state the specific phases of the meiotic process to which the following sentences refer (1.5 points):\n\n1) Two sets of 24 single-chromatid chromosomes separate.\n\n2) The cell has 24 pairs of homologous chromosomes, each pair finishing connecting along its whole length.\n\n3) 24 chromosomes of two chromatids are observed at the equatorial plane.\n\n4) There are 24 single-chromatid chromosomes decondensing.\n\n5) 24 pairs of homologous chromosomes are observed at the equatorial plane.\n\n6) Two sets of 24 two-chromatid chromosomes separate.\n\nb) Explain the relationship between the synaptonemal complex and the bivalent (0.5 points).",
+     "problem_orig": "Pregunta A.4\n\n(2 puntos)\n\nRespecto a la meiosis:\n\na) Si consideramos una célula animal de la línea germinal con 2n=48 cromosomas, indique las fases concretas del proceso meiótico a las que se hace referencia en las siguientes frases (1,5 puntos):\n\n1) Se separan dos juegos de 24 cromosomas de una cromátida.\n\n2) La célula presenta 24 pares de cromosomas homólogos, terminando de conectarse cada pareja a lo largo de toda su longitud.\n\n3) Se observan 24 cromosomas de dos cromátidas en el plano ecuatorial.\n\n4) Existen 24 cromosomas de una cromátida descondensándose.\n\n5) Se observan 24 parejas de cromosomas homólogos en el plano ecuatorial.\n\n6) Se separan dos juegos de 24 cromosomas de dos cromátidas.\n\nb) Explique qué relación existe entre complejo sinaptonémico y bivalente (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "paper_label": "Extraordinary session (September)",
+     "problem": "Question A.5\n\n(2 points)\n\nConcerning the photosynthetic process in a eukaryotic cell:\n\na) State the name of the process of $\\mathrm{CO_2}$ fixation that takes place in chloroplasts and what its three main stages are (1 point).\n\nb) State which molecule acts as the electron donor in the photosynthetic electron transport process. Mention the types of photosynthetic electron transport that exist. State the name of the ATP synthesis process in chloroplasts (1 point).",
+     "problem_orig": "Pregunta A.5\n\n(2 puntos)\n\nReferente al proceso fotosintético en una célula eucariota:\n\na) Indique cómo se denomina el proceso de fijación de $\\mathrm{CO_2}$ que se produce en los cloroplastos y cuáles son sus tres etapas principales (1 punto).\n\nb) Indique cuál es la molécula que actúa como donadora de electrones en el proceso de transporte electrónico fotosintético. Mencione los tipos de transporte electrónico fotosintético que existen. Indique cómo se denomina el proceso de síntesis de ATP en los cloroplastos (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "paper_label": "Extraordinary session (September)",
+     "problem": "Question B.1\n\n(2 points)\n\nConcerning the eukaryotic cell:\n\na) State to which organelle or structure each of the following descriptions corresponds:\n\n1) Network of internal membranes where lipids are synthesized.\n\n2) Short extracellular projections that serve for movement.\n\n3) Double-membrane organelle where respiratory processes take place.\n\n4) Gives shape and support to the cell and takes part in intracellular movements.\n\n5) Hollow cylinders that give rise to the spindle in some cells.\n\n6) Rigid structure surrounding the cell.\n\n7) Stacked membranous sacs that process, modify and distribute proteins.\n\n8) Specific place of the organelle where the Calvin cycle takes place (1 point).\n\nb) Draw a labelled diagram showing the main structures of the organelle indicated by number 3 in the list of the previous question (1 point).",
+     "problem_orig": "Pregunta B.1\n\n(2 puntos)\n\nReferente a la célula eucariota:\n\na) Indique a qué orgánulo o estructura corresponde cada una de las siguientes descripciones:\n\n1) Red de membranas internas donde se sintetizan lípidos.\n\n2) Proyecciones extracelulares cortas que sirven para el movimiento.\n\n3) Orgánulo de doble membrana donde se llevan a cabo los procesos respiratorios.\n\n4) Da forma y sostén a la célula y participa en los movimientos intracelulares.\n\n5) Cilindros huecos que originan el huso en algunas células.\n\n6) Estructura rígida que rodea la célula.\n\n7) Sacos membranosos apilados que procesan, modifican y distribuyen proteínas.\n\n8) Lugar concreto del orgánulo dónde se lleva a cabo el ciclo de Calvin (1 punto).\n\nb) Haga un esquema rotulado indicando las principales estructuras del orgánulo indicado con el número 3 del listado de la cuestión anterior (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "paper_label": "Extraordinary session (September)",
+     "problem": "Question B.2\n\n(2 points)\n\nIn relation to the study of heredity:\n\nSuppose that in peppers the red colour “A” is dominant over the yellow “a”. If a homozygous plant that gives red peppers is crossed with another homozygous plant that gives yellow peppers:\n\na) State the genotypic and phenotypic proportions of the F1 (0.5 points).\n\nb) State the genotypic and phenotypic proportions of the F2 resulting from crossing two F1 plants (0.5 points).\n\nc) Define codominance and describe the F1 phenotype if red and yellow were codominant in peppers. Define intermediate inheritance and describe the F1 phenotype if both colours showed intermediate inheritance (1 point).",
+     "problem_orig": "Pregunta B.2\n\n(2 puntos)\n\nCon relación al estudio de la herencia:\n\nSuponga que en los pimientos el color rojo “A” es dominante sobre el amarillo “a”. Si se cruza una planta homocigótica que da pimientos rojos con otra homocigótica que da pimientos amarillos:\n\na) Indique las proporciones genotípicas y fenotípicas de la F1 (0,5 puntos).\n\nb) Indique las proporciones genotípicas y fenotípicas de la F2 resultante de cruzar dos plantas de la F1 (0,5 puntos).\n\nc) Defina codominancia y describa el fenotipo de la F1 si el color rojo y el amarillo fueran codominantes en los pimientos. Defina herencia intermedia y describa el fenotipo de la F1 si ambos colores presentaran herencia intermedia (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "paper_label": "Extraordinary session (September)",
+     "problem": "Question B.3\n\n(2 points)\n\nWith reference to biomolecules:\n\na) State the function of the following molecules: pectin, histamine, sucrose and ribose (1 point).\n\nb) Define enzyme, coenzyme, active site and enzyme inhibitor (1 point).",
+     "problem_orig": "Pregunta B.3\n\n(2 puntos)\n\nCon referencia a las biomoléculas:\n\na) Indique la función de las siguientes moléculas: pectina, histamina, sacarosa y ribosa (1 punto).\n\nb) Defina enzima, coenzima, centro activo e inhibidor enzimático (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 9,
+     "paper_label": "Extraordinary session (September)",
+     "problem": "Question B.4\n\n(2 points)\n\nConcerning cell metabolism:\n\na) Specify which compounds are the initial electron donor and the final electron acceptor of the respiratory chain (0.5 points).\n\nb) State the differences between the process of making yoghurt and the process of making wine, regarding: type of process, organisms involved and final metabolic products in each case (1.5 points).",
+     "problem_orig": "Pregunta B.4\n\n(2 puntos)\n\nReferente al metabolismo celular:\n\na) Especifique qué compuestos son el donador inicial y el aceptor final de electrones de la cadena respiratoria (0,5 puntos).\n\nb) Indique las diferencias entre el proceso de elaboración de yogur y el proceso de elaboración de vino, atendiendo a: tipo de proceso, organismos implicados y productos metabólicos finales en cada caso (1,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 10,
+     "paper_label": "Extraordinary session (September)",
+     "problem": "Question B.5\n\n(2 points)\n\nIn relation to the structure of prokaryotic organisms:\n\na) Name four structures that a bacterium may have that are located outside the plasma membrane (0.5 points).\n\nb) Mention one function in which each of the four structures named in the previous part is involved (1 point).\n\nc) Define nucleoid and plasmid (0.5 points).",
+     "problem_orig": "Pregunta B.5\n\n(2 puntos)\n\nEn relación a la estructura de los organismos procariotas:\n\na) Cite cuatro estructuras que puede presentar una bacteria y que se localicen hacia el exterior de la membrana plasmática (0,5 puntos).\n\nb) Mencione una función en la que estén implicadas cada una de las cuatro estructuras que se hayan citado en el apartado anterior (1 punto).\n\nc) Defina nucleoide y plásmido (0,5 puntos).",
+     "orig_lang": "es"
+    }
+   ]
+  },
+  {
+   "year": 2021,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question A.1\n\nIn relation to the physicochemical basis of life:\n\na) State one biological function in living beings of each of the following bioelements: calcium and sodium (0.5 points).\n\nb) Explain, with reasons, the process that would occur in a plant cell when placed in a hypotonic extracellular medium (0.5 points).\n\nc) Explain, with reasons, the process that would occur in a red blood cell when placed in a hypertonic extracellular medium (0.5 points).\n\nd) Explain what would happen to a plant if it is watered with salt water (0.5 points).",
+     "problem_orig": "Pregunta A.1\n\nEn relación con la base fisicoquímica de la vida:\n\na) Indique una función biológica en los seres vivos de los siguientes bioelementos: calcio y sodio (0,5 puntos).\n\nb) Explique razonadamente el proceso que ocurriría en una célula vegetal al introducirla en un medio extracelular hipotónico (0,5 puntos).\n\nc) Explique razonadamente el proceso que ocurriría en un glóbulo rojo al introducirlo en un medio extracelular hipertónico (0,5 puntos).\n\nd) Explique qué le sucedería a una planta si se riega con agua salada (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question A.2\n\nIn relation to the energy exchanges of metabolic processes:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2021-1-2-fig1.png\n\nFigure labels (Spanish → English): Energía libre → Free energy; Tiempo → Time; ESTADO INTERMEDIO → INTERMEDIATE STATE\n\na) The following graph represents the energy of a metabolic reaction. Identify compounds A and C and variable B. Justify whether it is an endergonic or exergonic reaction (1 point).\n\nb) Define catabolism and anabolism. Give an example of a metabolic pathway of each of these processes (1 point).",
+     "problem_orig": "Pregunta A.2\n\nEn relación con los intercambios energéticos de los procesos metabólicos:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2021-1-2-fig1.png\n\na) La siguiente gráfica representa la energía de una reacción metabólica. Identifique los compuestos A y C y la variable B. Justifique si se trata de una reacción endergónica o exergónica (1 punto).\n\nb) Defina catabolismo y anabolismo. Indique un ejemplo de una ruta metabólica de cada uno de estos procesos (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question A.3\n\nIn relation to the flow of genetic information:\n\nThe diagram represents the central dogma of molecular biology.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2021-1-3-fig1.png\n\na) State which molecules correspond to the numbers 1, 2 and 3 and which processes correspond to the letters A, B, C and D (1.25 points).\n\nb) State the key enzyme in each of the processes A, B and C (0.75 points).",
+     "problem_orig": "Pregunta A.3\n\nEn relación con el flujo de información genética:\n\nEl esquema representa el dogma central de la biología molecular.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2021-1-3-fig1.png\n\na) Indique qué moléculas se corresponden con los números 1, 2 y 3 y qué procesos se corresponden con las letras A, B, C y D (1,25 puntos).\n\nb) Indique la enzima clave en cada uno de los procesos A, B y C (0,75 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question A.4\n\nWith reference to the cytoskeleton of the cell:\n\na) State the cytoskeletal element that is related to each of the following statements (1 point):\n\n1. Creation of structures such as centrioles.\n\n2. Contractile movement of muscle cells, formation of pseudopodia, formation of microvilli in intestinal cells.\n\n3. Hollow cylindrical structures formed by protofilaments made up of protein dimers.\n\n4. Keratin filaments in epithelial cells and neurofilaments in neurons.\n\nb) Briefly describe the internal structure of the shaft or axoneme of cilia and flagella (0.5 points).\n\nc) State the main difference between cilia and flagella. State whether cilia are present in all animal and plant cells (0.5 points).",
+     "problem_orig": "Pregunta A.4\n\nCon referencia al citoesqueleto de la célula:\n\na) Indique el elemento del citoesqueleto que se relaciona con cada uno de los enunciados siguientes (1 punto):\n\n1. Creación de estructuras como los centriolos.\n\n2. Movimiento contráctil de las células musculares, formación de pseudópodos, formación de las microvellosidades en las células intestinales.\n\n3. Estructuras cilíndricas y huecas formadas por protofilamentos constituidos por dímeros proteicos.\n\n4. Filamentos de queratina en las células epiteliales y neurofilamentos de las neuronas.\n\nb) Describa brevemente la estructura interna del tallo o axonema de los cilios y flagelos (0,5 puntos).\n\nc) Cite la principal diferencia entre cilios y flagelos. Indique si los cilios se hayan presentes en todas las células animales y vegetales (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question A.5\n\nIn relation to the characteristics of microorganisms and other acellular forms:\n\na) Define capsomere, prophage, virion, nucleoid (1 point).\n\nb) State two similarities and two differences between Archaebacteria and Eubacteria (1 point).",
+     "problem_orig": "Pregunta A.5\n\nEn relación con las características de microorganismos y otras formas acelulares:\n\na) Defina capsómero, profago, virión, nucleoide (1 punto).\n\nb) Indique dos semejanzas y dos diferencias entre Arqueobacterias y Eubacterias (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question B.1\n\nIn relation to the immune response:\n\nResearch on infection by the SARS-CoV-2 coronavirus seems to indicate that cellular immunity may be more important against this virus than in other viral infections.\n\na) State which cells are involved in cellular immunity and how they act on infected cells (0.5 points).\n\nb) The other type of specific immune response is humoral. State how it can be checked whether the humoral immune response has been triggered against this infection. Explain why it is more difficult to measure the cellular immune response than the humoral immune response (0.75 points).\n\nc) State three functions of helper T lymphocytes (Th or CD4+) (0.75 points).",
+     "problem_orig": "Pregunta B.1\n\nEn relación con la respuesta inmune:\n\nLas investigaciones sobre la infección por el Coronavirus SARS-CoV-2 parecen indicar que la inmunidad celular puede tener más importancia ante este virus que en otras infecciones víricas.\n\na) Indique cuáles son las células implicadas en la inmunidad celular y cómo actúan sobre las células infectadas (0,5 puntos).\n\nb) El otro tipo de respuesta inmune específica es la humoral. Indique cómo se puede comprobar si se ha desencadenado la respuesta inmune humoral ante esta infección. Razone por qué resulta más complicado medir la respuesta inmune celular que la respuesta inmune humoral (0,75 puntos).\n\nc) Indique tres funciones de los linfocitos T colaboradores (Th o CD4+) (0,75 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question B.2\n\nConcerning biomolecules:\n\na) State the biomolecules with which you would associate the following types of bond: ester, glycosidic, phosphodiester, peptide (1 point).\n\nb) Define the tertiary structure of a protein and state three types of bonds that maintain this structure (1 point).",
+     "problem_orig": "Pregunta B.2\n\nReferente a las biomoléculas:\n\na) Indique las biomoléculas con las que relacionaría los siguientes tipos de enlace: éster, glucosídico, fosfodiéster, peptídico (1 punto).\n\nb) Defina estructura terciaria de una proteína e indique tres tipos de enlaces que mantienen dicha estructura (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question B.3\n\nIn relation to microorganisms:\n\na) Copy the following table and fill in the data for each of the microorganisms indicated (1.25 points):\n\n$$\\begin{array}{|l|c|c|}\\hline & \\text{Kingdom} & \\text{Type of nutrition} \\\\ \\hline \\text{Cyanobacteria} & & \\\\ \\hline \\text{Nitrifying bacteria} & & \\\\ \\hline \\text{Diatoms} & & \\\\ \\hline \\textit{Plasmodium} & & \\\\ \\hline \\textit{Saccharomyces cerevisiae} & & \\\\ \\hline \\end{array}$$\n\nb) State which of the microorganisms in the previous table have a cell wall and what its main component is in each case (0.75 points).",
+     "problem_orig": "Pregunta B.3\n\nEn relación con los microorganismos:\n\na) Copie la siguiente tabla y complete los datos para cada uno de los microorganismos indicados (1,25 puntos):\n\n$$\\begin{array}{|l|c|c|}\\hline & \\text{Reino} & \\text{Tipo de nutrición} \\\\ \\hline \\text{Cianobacterias} & & \\\\ \\hline \\text{Bacterias nitrificantes} & & \\\\ \\hline \\text{Diatomeas} & & \\\\ \\hline \\textit{Plasmodium} & & \\\\ \\hline \\textit{Saccharomyces cerevisiae} & & \\\\ \\hline \\end{array}$$\n\nb) Indique cuáles de los microorganismos de la tabla anterior presentan pared celular y cuál es su principal componente en cada caso (0,75 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question B.4\n\nConcerning mitosis:\n\nFor an animal organism with 2n=46 chromosomes, explain why each of the following statements is false:\n\na) A cell in mitotic prophase has 46 chromosomes, each with two chromatids, progressively condensing and organizing into pairs of homologous chromosomes (0.5 points).\n\nb) In a cell in mitotic metaphase we observe 46 chromosomes made up of one chromatid and arranged at the equatorial plane (0.5 points).\n\nc) In mitotic anaphase, 23 chromosomes with one chromatid are observed migrating towards one pole of the cell and another 23 towards the opposite pole (0.5 points).\n\nd) During mitotic telophase there is progressive decondensation of 23 chromosomes, made up of two chromatids, in each of the two daughter nuclei that are being reconstructed (0.5 points).",
+     "problem_orig": "Pregunta B.4\n\nRespecto a la mitosis:\n\nPara un organismo animal con 2n=46 cromosomas, explique por qué son falsas cada una de las siguientes afirmaciones:\n\na) Una célula en profase mitótica presenta 46 cromosomas, cada uno con dos cromátidas, condensándose progresivamente y organizándose en parejas de cromosomas homólogos (0,5 puntos).\n\nb) En una célula en metafase mitótica observamos 46 cromosomas constituidos por una cromátida y dispuestos en el plano ecuatorial (0,5 puntos).\n\nc) En anafase mitótica se observan 23 cromosomas con una cromátida migrando hacia un polo de la célula y otros 23 hacia el polo opuesto (0,5 puntos).\n\nd) Durante la telofase mitótica se produce la descondensación progresiva de 23 cromosomas, constituidos por dos cromátidas, en cada uno de los dos núcleos hijos que se están reconstruyendo (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question B.5\n\nIn relation to Mendel's contributions to the study of heredity:\n\nIn a breed of rabbits, short hair “A” is dominant over long hair “a”. Four crosses are carried out that give rise to the following percentages of phenotypes in their progenies:\n\n$$\\begin{array}{|c|c|c|}\\hline & \\text{Parents} & \\text{Progeny} \\\\ \\hline 1 & \\text{short hair x long hair} & \\text{50\\% short hair and 50\\% long hair} \\\\ \\hline 2 & \\text{long hair x long hair} & \\text{100\\% long hair} \\\\ \\hline 3 & \\text{short hair x long hair} & \\text{100\\% short hair} \\\\ \\hline 4 & \\text{short hair x short hair} & \\text{100\\% short hair} \\\\ \\hline \\end{array}$$\n\na) State the possible genotypes of the parents and of the progeny of each of the crosses (1 point).\n\nb) Define locus and phenotype (0.5 points).\n\nc) Explain whether, in the case of two linked genes, Mendel's third law holds in the absence of recombination (0.5 points).",
+     "problem_orig": "Pregunta B.5\n\nCon relación a las aportaciones de Mendel al estudio de la herencia:\n\nEn una raza de conejos, el pelo corto “A” es dominante sobre el pelo largo “a”. Se llevan a cabo cuatro cruzamientos que dan lugar a los siguientes porcentajes de fenotipos en sus progenies:\n\n$$\\begin{array}{|c|c|c|}\\hline & \\text{Parentales} & \\text{Progenie} \\\\ \\hline 1 & \\text{pelo corto x pelo largo} & \\text{50\\% pelo corto y 50\\% pelo largo} \\\\ \\hline 2 & \\text{pelo largo x pelo largo} & \\text{100\\% pelo largo} \\\\ \\hline 3 & \\text{pelo corto x pelo largo} & \\text{100\\% pelo corto} \\\\ \\hline 4 & \\text{pelo corto x pelo corto} & \\text{100\\% pelo corto} \\\\ \\hline \\end{array}$$\n\na) Indique los genotipos posibles de los parentales y de la progenie de cada uno de los cruzamientos (1 punto).\n\nb) Defina locus y fenotipo (0,5 puntos).\n\nc) Razone si en el caso de dos genes ligados se cumple la tercera ley de Mendel en ausencia de recombinación (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question A.1\n\nIn relation to Mendel's contributions to the study of heredity:\n\nThe accompanying pedigree shows the transmission of a monogenic, autosomal disease in a family. Affected individuals are shown in black and healthy ones in white (men are represented by a square and women by a circle).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2021-2-1-fig1.png\n\na) State whether the allele that determines the presence of the disease is dominant or recessive. Justify the answer (0.5 points).\n\nb) State the genotypes of individuals I.1, I.2, II.7 and III.11, using “A” for the dominant allele and “a” for the recessive one (1 point).\n\nc) Define what a test cross is and what it is used for (0.5 points).",
+     "problem_orig": "Pregunta A.1\n\nCon relación a las aportaciones de Mendel al estudio de la herencia:\n\nLa genealogía adjunta muestra la transmisión de una enfermedad monogénica y autosómica en una familia. En negro se muestran los individuos afectados y en blanco los sanos (los hombres se representan con un cuadrado y las mujeres con un círculo).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2021-2-1-fig1.png\n\na) Indique si el alelo que determina la presencia de la enfermedad es dominante o recesivo. Razone la respuesta (0,5 puntos).\n\nb) Indique los genotipos de los individuos I.1, I.2, II.7 y III.11, utilizando “A” para el alelo dominante y “a” para el recesivo (1 punto).\n\nc) Defina qué es un cruzamiento prueba y para qué se emplea (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question A.2\n\nIn relation to the molecules of living beings:\n\na) Define polysaccharide. State three properties of polysaccharides that distinguish them from simpler carbohydrates (1 point).\n\nb) Explain the differences between saponifiable and unsaponifiable lipids. Name two examples of each (1 point).",
+     "problem_orig": "Pregunta A.2\n\nEn relación con las moléculas de los seres vivos:\n\na) Defina polisacárido. Indique tres propiedades de los polisacáridos que les diferencien de glúcidos más sencillos (1 punto).\n\nb) Explique las diferencias entre los lípidos saponificables y los insaponificables. Cite dos ejemplos de cada uno de ellos (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question A.3\n\nIn relation to microorganisms and their role in matter cycles:\n\nExplain why each of the following statements is false, giving the correct statement:\n\na) Nitrifying bacteria contribute to the nitrogen cycle by converting atmospheric nitrogen into ammonia (0.5 points).\n\nb) Denitrifying bacteria contribute to the nitrogen cycle by converting atmospheric nitrogen into nitrate (0.5 points).\n\nc) Mammals contribute to the nitrogen cycle by converting nitrogenous organic compounds into nitrates (0.5 points).\n\nd) Cyanobacteria contribute to the carbon cycle by converting methane into $\\mathrm{CO_2}$ (0.5 points).",
+     "problem_orig": "Pregunta A.3\n\nEn relación con los microorganismos y su intervención en los ciclos de materia:\n\nRazone por qué son falsas cada una de las siguientes afirmaciones indicando la afirmación correcta:\n\na) Las bacterias nitrificantes contribuyen al ciclo del nitrógeno convirtiendo el nitrógeno atmosférico en amoniaco (0,5 puntos).\n\nb) Las bacterias desnitrificantes contribuyen al ciclo del nitrógeno convirtiendo el nitrógeno atmosférico en nitrato (0,5 puntos).\n\nc) Los mamíferos contribuyen al ciclo del nitrógeno convirtiendo compuestos orgánicos nitrogenados en nitratos (0,5 puntos).\n\nd) Las cianobacterias contribuyen al ciclo del carbono convirtiendo metano en $\\mathrm{CO_2}$ (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question A.4\n\nConcerning lysosomes:\n\na) State where and how they originate (0.5 points).\n\nb) Briefly explain their main function (0.5 points).\n\nc) State what type of enzymes are abundant in lysosomes (0.5 points).\n\nd) State the differences between the contents of primary and secondary lysosomes (0.5 points).",
+     "problem_orig": "Pregunta A.4\n\nRespecto a los lisosomas:\n\na) Indique dónde y cómo se originan (0,5 puntos).\n\nb) Explique brevemente su función principal (0,5 puntos).\n\nc) Indique qué tipo de enzimas son abundantes en los lisosomas (0,5 puntos).\n\nd) Indique las diferencias entre el contenido de los lisosomas primarios y secundarios (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question A.5\n\nIn relation to the immune response:\n\nPeanuts are one of the most frequent causes of food allergy. The hypersensitivity reaction appears within a few minutes of ingesting this nut.\n\na) What is a hypersensitivity reaction? What is the difference between an antigen and an allergen? (1 point).\n\nb) Describe the processes that occur during an immediate hypersensitivity reaction using the following terms in the appropriate order: mast cell, allergen, histamine, IgE (1 point).",
+     "problem_orig": "Pregunta A.5\n\nEn relación con la respuesta inmune:\n\nLos cacahuetes son una de las causas más frecuentes de alergia alimentaria. La reacción de hipersensibilidad aparece a los pocos minutos de la ingestión de este fruto seco.\n\na) ¿Qué es una reacción de hipersensibilidad? ¿Cuál es la diferencia entre antígeno y alérgeno? (1 punto).\n\nb) Describa los procesos que ocurren durante una reacción de hipersensibilidad inmediata utilizando los términos siguientes en el orden adecuado: mastocito, alérgeno, histamina, IgE (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question B.1\n\nConcerning the synthesis and characteristics of messenger RNA:\n\na) Match the concepts in the left column with those in the right column (1 point).\n\n$$\\begin{array}{ll} \\text{(1) Monocistronic.} & \\text{(A) Prokaryote.} \\\\ \\text{(2) Helicase.} & \\text{(B) Eukaryote.} \\\\ \\text{(3) U instead of T.} & \\text{(C) Both.} \\\\ \\text{(4) No 5’ cap.} & \\text{(D) Neither.} \\\\ \\text{(5) Ligase.} & \\\\ \\text{(6) Poly-A tail.} & \\\\ \\text{(7) Exons and introns.} & \\\\ \\text{(8) Polycistronic.} & \\end{array}$$\n\nb) Explain what the “cutting and splicing” of the pre-messenger RNA consists of and in which process it occurs. State in what type of organism it happens and in which part of the cell it takes place (1 point).",
+     "problem_orig": "Pregunta B.1\n\nRespecto a la síntesis y características del ARN mensajero:\n\na) Relacione los conceptos de la columna izquierda con los de la columna derecha (1 punto).\n\n$$\\begin{array}{ll} \\text{(1) Monocistrónico.} & \\text{(A) Procariota.} \\\\ \\text{(2) Helicasa.} & \\text{(B) Eucariota.} \\\\ \\text{(3) U en lugar de T.} & \\text{(C) Ambos.} \\\\ \\text{(4) Sin caperuza en 5’.} & \\text{(D) Ninguno.} \\\\ \\text{(5) Ligasa.} & \\\\ \\text{(6) Cola de poliadeninas.} & \\\\ \\text{(7) Exones e intrones.} & \\\\ \\text{(8) Policistrónico.} & \\end{array}$$\n\nb) Explique en qué consiste el “corte y empalme” o splicing del pre-ARN mensajero y en qué proceso ocurre. Indique en qué tipo de organismo sucede y en qué parte de la célula tiene lugar (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question B.2\n\nIn relation to the metabolic processes of eukaryotes:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2021-2-7-fig1.png\n\nFigure labels (Spanish → English): Glucosa → Glucose\n\na) Name the molecules in the accompanying diagram represented by the numbers 1 to 6, and the processes represented by the letters A, B, and C (1.5 points).\n\nb) Briefly explain the chemiosmotic theory and its function (0.5 points).",
+     "problem_orig": "Pregunta B.2\n\nEn relación con los procesos metabólicos de los eucariotas:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2021-2-7-fig1.png\n\na) Nombre las moléculas del esquema adjunto representadas por los números del 1 al 6, y los procesos representados por las letras A, B, y C (1,5 puntos).\n\nb) Explique brevemente la teoría quimiosmótica y su función (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question B.3\n\nIn relation to infectious diseases:\n\na) Briefly describe the routes by which infectious diseases can be transmitted (1 point).\n\nb) State the type of causative agent and the preferred transmission route of the following infectious diseases: Covid-19, rabies, cholera, malaria (1 point).",
+     "problem_orig": "Pregunta B.3\n\nEn relación con las enfermedades infecciosas:\n\na) Describa brevemente las vías por las que se pueden transmitir las enfermedades infecciosas (1 punto).\n\nb) Indique el tipo de agente causante y la vía de transmisión preferente de las siguientes enfermedades infecciosas: Covid-19, rabia, cólera, paludismo (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 9,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question B.4\n\nIn relation to the cell cycle:\n\na) Considering an animal somatic cell, put in order the following cell cycle processes numbered 1 to 6, starting with number 3. State the specific phase to which each process corresponds (you do not need to copy the processes, just associate the numbers with the phase) (1 point):\n\n1- chromosomes arranged at the equatorial plane\n\n2- decondensation of the chromosomes and reconstruction of the nuclear envelope\n\n3- replication of nuclear DNA\n\n4- separation of two sets of chromosomes towards the poles\n\n5- metabolic activity and cell growth\n\n6- breakdown of the nuclear envelope and condensation of the chromosomes\n\nb) State whether the chromosomes consist of one or of two chromatids during the phases of processes 1, 4, 5 and 6 (0.5 points).\n\nc) Briefly explain the biological significance of mitosis in an animal organism (0.5 points).",
+     "problem_orig": "Pregunta B.4\n\nCon relación al ciclo celular:\n\na) Considerando una célula somática animal, ordene la secuencia de los siguientes procesos del ciclo celular numerados del 1 al 6, comenzando por el número 3. Indique la fase concreta a la que corresponde cada proceso (no es necesario que copie los procesos, solo que asocie los números con la fase) (1 punto):\n\n1- cromosomas dispuestos en el plano ecuatorial\n\n2- descondensación de los cromosomas y reconstrucción de la envoltura nuclear\n\n3- replicación del ADN nuclear\n\n4- separación de dos juegos de cromosomas hacia los polos\n\n5- actividad metabólica y crecimiento celular\n\n6- desintegración de la envoltura nuclear y condensación de los cromosomas\n\nb) Indique si los cromosomas se encuentran constituidos por una o por dos cromátidas durante las fases de los procesos 1, 4, 5 y 6 (0,5 puntos).\n\nc) Explique brevemente cuál es el significado biológico de la mitosis en un organismo animal (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 10,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question B.5\n\nIn relation to biomolecules:\n\na) State what role vitamins play in metabolism (0.5 points).\n\nb) Explain why humans need to take vitamins in the diet and whether this applies to all organisms (0.5 points).\n\nc) State the type of biomolecule, associating it with its function: haemoglobin, actin, NADH, chitin (1 point).",
+     "problem_orig": "Pregunta B.5\n\nEn relación con las biomoléculas:\n\na) Indique qué papel juegan las vitaminas en el metabolismo (0,5 puntos).\n\nb) Explique por qué es necesario que los seres humanos tomemos vitaminas en la dieta y si esto les ocurre a todos los organismos (0,5 puntos).\n\nc) Indique el tipo de biomolécula asociándolo con su función: hemoglobina, actina, NADH, quitina (1 punto).",
+     "orig_lang": "es"
+    }
+   ]
+  },
+  {
+   "year": 2022,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question A.1\n\nIn relation to cell transport and movement:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2022-1-1-fig1.png\n\na) State the transport mechanism shown in the accompanying diagram. Name the structures and organelles marked 1 to 4 (0.75 points).\n\nb) State two differences between active and passive transport across the membrane. Give an example of active transport (0.75 points).\n\nc) Name two specific examples in which the cytoskeleton can contribute to cell movements (0.5 points).",
+     "problem_orig": "Pregunta A.1\n\nEn relación con el transporte y movimiento celular:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2022-1-1-fig1.png\n\na) Indique el mecanismo de transporte que aparece representado en el esquema adjunto. Nombre las estructuras y orgánulos señalados del 1 al 4 (0,75 puntos).\n\nb) Indique dos diferencias entre transporte activo y pasivo a través de la membrana. Ponga un ejemplo de transporte activo (0,75 puntos).\n\nc) Cite dos ejemplos concretos en los que el citoesqueleto pueda contribuir a los movimientos celulares (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question A.2\n\nIn relation to the study of heredity:\n\na) Define codominance and give an example (0.5 points).\n\nb) Define sex-linked inheritance and give an example (0.5 points).\n\nc) Match each concept in the left column with a definition in the right column (1 point).\n\n$$\\begin{array}{ll} \\text{1. Genotype} & \\text{A. They determine sex in the human species} \\\\ \\text{2. Allele} & \\text{B. Alleles inherited for a gene} \\\\ \\text{3. Multiple allelism} & \\text{C. Alternative forms that a gene can have} \\\\ \\text{4. Heterochromosomes} & \\text{D. Existence of more than two different alleles of the same gene} \\end{array}$$",
+     "problem_orig": "Pregunta A.2\n\nCon relación al estudio de la herencia:\n\na) Defina codominancia y cite un ejemplo (0,5 puntos).\n\nb) Defina herencia ligada al sexo y cite un ejemplo (0,5 puntos).\n\nc) Relacione cada concepto de la columna izquierda con una definición de la columna derecha (1 punto).\n\n$$\\begin{array}{ll} \\text{1. Genotipo} & \\text{A. Determinan el sexo en la especie humana} \\\\ \\text{2. Alelo} & \\text{B. Alelos heredados para un gen} \\\\ \\text{3. Alelismo múltiple} & \\text{C. Formas alternativas que puede presentar un gen} \\\\ \\text{4. Heterocromosomas} & \\text{D. Existencia de más de dos alelos diferentes de un mismo gen} \\end{array}$$",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question A.3\n\nIn relation to nucleic acids:\n\na) State the molecules that make up nucleotides (0.5 points).\n\nb) State which bond is formed between two nucleotides to form a linear chain and from which functional groups it is formed (0.5 points).\n\nc) State the main types of RNA and the function of each of them (1 point).",
+     "problem_orig": "Pregunta A.3\n\nEn relación con los ácidos nucleicos:\n\na) Indique las moléculas constituyentes de los nucleótidos (0,5 puntos).\n\nb) Indique qué enlace se produce entre dos nucleótidos para formar una cadena lineal y a partir de qué grupos funcionales se forma (0,5 puntos).\n\nc) Indique los principales tipos de ARN y la función de cada uno de ellos (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question A.4\n\nIn relation to the nutrition of prokaryotes:\n\na) Name the four main types of nutrition of prokaryotic cells and give an example of each (1 point).\n\nb) State the energy source and the carbon source used in each type of nutrition named in the previous part (1 point).",
+     "problem_orig": "Pregunta A.4\n\nCon relación a la nutrición de los procariotas:\n\na) Cite los cuatro tipos principales de nutrición de las células procariotas e indique un ejemplo de cada uno de ellos (1 punto).\n\nb) Indique la fuente de energía y la fuente de carbono que se utiliza en cada tipo de nutrición citado en el apartado anterior (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question A.5\n\nIn relation to cell division and the cell cycle:\n\na) Draw a labelled diagram of mitotic anaphase of a cell with 2n = 4 chromosomes (0.5 points).\n\nb) State four processes that characterize mitotic prophase (1 point).\n\nc) Briefly describe the differences in the process of cytoplasm division (cytokinesis) between animal and plant eukaryotic cells (0.5 points).",
+     "problem_orig": "Pregunta A.5\n\nEn relación con la división y el ciclo celular:\n\na) Haga un esquema rotulado de la anafase mitótica de una célula con 2n = 4 cromosomas (0,5 puntos).\n\nb) Indique cuatro procesos que caracterizan la profase mitótica (1 punto).\n\nc) Describa brevemente las diferencias en el proceso de división del citoplasma (citocinesis) entre células eucarióticas animales y vegetales (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question B.1\n\nIn relation to mutations:\n\na) Match the concepts in the left column with those in the right column (1.5 points).\n\n$$\\begin{array}{ll} \\text{1. Translocation} & \\text{A. Genomic mutation} \\\\ \\text{2. Haploidy} & \\text{B. Chromosomal mutation} \\\\ \\text{3. Inversion} & \\text{C. Gene mutation} \\\\ \\text{4. Transversion} & \\\\ \\text{5. Aneuploidy} & \\\\ \\text{6. Transition} & \\end{array}$$\n\nb) Briefly describe the difference between chromosomal mutation and genomic mutation (0.5 points).",
+     "problem_orig": "Pregunta B.1\n\nEn relación con las mutaciones:\n\na) Relacione los conceptos de la columna izquierda con los de la columna derecha (1,5 puntos).\n\n$$\\begin{array}{ll} \\text{1. Traslocación} & \\text{A. Mutación genómica} \\\\ \\text{2. Haploidía} & \\text{B. Mutación cromosómica} \\\\ \\text{3. Inversión} & \\text{C. Mutación génica} \\\\ \\text{4. Transversión} & \\\\ \\text{5. Aneuploidía} & \\\\ \\text{6. Transición} & \\end{array}$$\n\nb) Describa brevemente la diferencia entre mutación cromosómica y mutación genómica (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question B.2\n\nIn relation to the immune response:\n\nThe accompanying graph represents the primary (A) and secondary (B) immune response of an individual who receives two doses of the same vaccine against a pathogenic microorganism:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2022-1-7-fig1.png\n\nFigure labels (Spanish → English): Concentración de anticuerpos en suero → Serum antibody concentration; Tiempo → Time; 1ª dosis → 1st dose; 2ª dosis → 2nd dose\n\na) In view of the graph, explain the need for revaccination against this microorganism (0.5 points).\n\nb) Explain why the second dose of vaccine triggers a faster and greater immune response (0.5 points).\n\nc) State the main type of antibody in the primary immune response (A) and in the secondary immune response (B) (0.5 points).\n\nd) State the name given to the immunity obtained by vaccines (0.5 points).",
+     "problem_orig": "Pregunta B.2\n\nEn relación con la respuesta inmune:\n\nLa gráfica adjunta representa la respuesta inmune primaria (A) y secundaria (B) de un individuo que recibe dos dosis de la misma vacuna frente a un microorganismo patógeno:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2022-1-7-fig1.png\n\na) A la vista de la gráfica, explique la necesidad de revacunación frente a este microorganismo (0,5 puntos).\n\nb) Explique a qué se debe que la segunda dosis de vacuna desencadene una respuesta inmune más rápida y mayor (0,5 puntos).\n\nc) Indique el tipo de anticuerpo mayoritario de la respuesta inmune primaria (A) y el de la respuesta inmune secundaria (B) (0,5 puntos).\n\nd) Indique el nombre que recibe la inmunidad conseguida mediante vacunas (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question B.3\n\nIn relation to cellular metabolic processes:\n\na) Match each concept in the left column with one or more of the metabolic processes in the right column (1.5 points).\n\n$$\\begin{array}{ll} \\text{1. Obtaining ATP and reducing power} & \\text{A. Fermentation} \\\\ \\text{2. Oxidation of NADH} & \\text{B. Calvin cycle} \\\\ \\text{3. Fixation of } \\mathrm{CO_2} & \\text{C. Krebs cycle} \\\\ \\text{4. Expenditure of ATP and reducing power} & \\text{D. Photosynthetic electron transport chain} \\\\ \\text{5. Reduction of } \\mathrm{NADP^+} & \\end{array}$$\n\nb) Regarding the mitochondrial electron transport chain, state in which part of the mitochondrion it takes place and what the final electron acceptor molecule is (0.5 points).",
+     "problem_orig": "Pregunta B.3\n\nCon relación a los procesos metabólicos celulares:\n\na) Relacione cada concepto de la columna de la izquierda con uno o más de los procesos metabólicos de la columna de la derecha (1,5 puntos).\n\n$$\\begin{array}{ll} \\text{1. Obtención de ATP y poder reductor} & \\text{A. Fermentación} \\\\ \\text{2. Oxidación de NADH} & \\text{B. Ciclo de Calvin} \\\\ \\text{3. Fijación de } \\mathrm{CO_2} & \\text{C. Ciclo de Krebs} \\\\ \\text{4. Gasto de ATP y poder reductor} & \\text{D. Cadena de transporte electrónico fotosintético} \\\\ \\text{5. Reducción de } \\mathrm{NADP^+} & \\end{array}$$\n\nb) Con respecto a la cadena de transporte electrónico mitocondrial, indique en qué parte de la mitocondria tiene lugar y cuál es la molécula aceptora final de electrones (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question B.4\n\nIn relation to the water molecule:\n\na) Explain the polarity of water molecules and state what it is due to (0.5 points).\n\nb) What interaction occurs between water molecules? State one characteristic of this interaction (0.5 points).\n\nc) State and briefly explain two other properties of this molecule (1 point).",
+     "problem_orig": "Pregunta B.4\n\nEn relación con la molécula del agua:\n\na) Explique la polaridad de las moléculas de agua e indique a qué es debida (0,5 puntos).\n\nb) ¿Qué interacción se produce entre las moléculas de agua? Indique una característica de esta interacción (0,5 puntos).\n\nc) Indique y explique brevemente otras dos propiedades de esta molécula (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question B.5\n\nIn relation to biotechnology, state:\n\na) Three applications in the agricultural and livestock industry (0.75 points).\n\nb) Three applications in the pharmaceutical industry (0.75 points).\n\nc) Two applications in the food industry (0.5 points).",
+     "problem_orig": "Pregunta B.5\n\nEn relación con la Biotecnología, indique:\n\na) Tres aplicaciones en la industria agropecuaria (0,75 puntos).\n\nb) Tres aplicaciones en la industria farmacéutica (0,75 puntos).\n\nc) Dos aplicaciones en la industria alimentaria (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question A.1\n\nIn relation to the immune response:\n\nTo avoid an immune rejection reaction, before carrying out a blood transfusion the compatibility between the blood of the donor and that of the patient who will receive it is checked. Regarding the ABO blood group system:\n\na) State which blood group is known as the “Universal donor”. Justify the answer (0.5 points).\n\nb) State the antigens involved in the ABO blood group system. How many alleles can take part in the inheritance of the blood group within this system? (0.5 points).\n\nc) The following table represents the results of the tests to determine the blood group within the ABO system. The blood sample of four subjects (1 to 4) is mixed with anti-A antibodies, anti-B antibodies and anti-A and anti-B antibodies. Deduce the blood group of each individual by observing in the table the presence of agglutination (+) or its absence (—) (1 point).\n\n$$\\begin{array}{|c|c|c|c|}\\hline \\text{Sample} & \\text{Anti-A antibody} & \\text{Anti-B antibody} & \\text{Anti-A and anti-B antibodies} \\\\ \\hline 1 & - & + & + \\\\ \\hline 2 & + & + & + \\\\ \\hline 3 & - & - & - \\\\ \\hline 4 & + & - & + \\\\ \\hline \\end{array}$$",
+     "problem_orig": "Pregunta A.1\n\nEn relación con la respuesta inmune:\n\nPara evitar una reacción de rechazo inmunitario, antes de realizar una transfusión sanguínea se comprueba la compatibilidad entre la sangre del donante y la del paciente que la va a recibir. Con respecto al sistema AB0 de grupos sanguíneos:\n\na) Indique qué grupo sanguíneo es conocido como “Donante universal”. Razone la respuesta (0,5 puntos).\n\nb) Indique los antígenos que intervienen en el sistema AB0 de los grupos sanguíneos. ¿Cuántos alelos pueden participar en la herencia del grupo sanguíneo dentro de este sistema? (0,5 puntos).\n\nc) La tabla siguiente representa los resultados de las pruebas para determinar el grupo sanguíneo dentro del sistema AB0. La muestra de sangre de cuatro sujetos (1 a 4) se mezcla con anticuerpos anti-A, anticuerpos anti-B y anticuerpos anti-A y anti-B. Deduzca el grupo sanguíneo de cada individuo observando en la tabla la presencia de aglutinación (+) o su ausencia (—) (1 punto).\n\n$$\\begin{array}{|c|c|c|c|}\\hline \\text{Muestra} & \\text{Anticuerpo anti-A} & \\text{Anticuerpo anti-B} & \\text{Anticuerpos anti-A y anti-B} \\\\ \\hline 1 & - & + & + \\\\ \\hline 2 & + & + & + \\\\ \\hline 3 & - & - & - \\\\ \\hline 4 & + & - & + \\\\ \\hline \\end{array}$$",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question A.2\n\nIn relation to microorganisms:\n\na) Define the following terms: epidemic, endemic disease, pandemic and zoonosis (1 point).\n\nb) Define the following terms: toxin, infection, opportunistic pathogen and infectious disease (1 point).",
+     "problem_orig": "Pregunta A.2\n\nEn relación con los microorganismos:\n\na) Defina los términos siguientes: epidemia, enfermedad endémica, pandemia y zoonosis (1 punto).\n\nb) Defina los términos siguientes: toxina, infección, patógeno oportunista y enfermedad infecciosa (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question A.3\n\nIn relation to the processes of mitosis and meiosis:\n\na) Match each of the headings on the left with the processes indicated in the right column (1 point):\n\n$$\\begin{array}{ll} \\text{A. Sexual reproduction} & \\text{1. Mitosis} \\\\ \\text{B. Asexual reproduction} & \\text{2. Meiosis} \\\\ \\text{C. Variability by mutation} & \\text{3. Both} \\\\ \\text{D. Variability by segregation and recombination} & \\\\ \\text{E. Cell proliferation} & \\\\ \\text{F. A single DNA replication during the process} & \\\\ \\text{G. Gametes are generated} & \\\\ \\text{H. Somatic cells are generated} & \\end{array}$$\n\nb) Briefly describe the relationship between genetic inheritance and sexual reproduction with the processes of adaptation and speciation (1 point).",
+     "problem_orig": "Pregunta A.3\n\nEn relación con los procesos de mitosis y meiosis:\n\na) Relacione cada uno de los epígrafes de la izquierda con los procesos indicados en la columna derecha (1 punto):\n\n$$\\begin{array}{ll} \\text{A. Reproducción sexual} & \\text{1. Mitosis} \\\\ \\text{B. Reproducción asexual} & \\text{2. Meiosis} \\\\ \\text{C. Variabilidad por mutación} & \\text{3. Ambos} \\\\ \\text{D. Variabilidad por segregación y recombinación} & \\\\ \\text{E. Proliferación celular} & \\\\ \\text{F. Una sola replicación del ADN durante el proceso} & \\\\ \\text{G. Se generan gametos} & \\\\ \\text{H. Se generan células somáticas} & \\end{array}$$\n\nb) Describa brevemente la relación entre herencia genética y reproducción sexual con los procesos de adaptación y especiación (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question A.4\n\nIn relation to enzymes:\n\na) State the models or theories that explain enzyme-substrate binding (0.5 points).\n\nb) List two factors that influence the rate of enzymatic reactions and briefly explain their effect (1 point).\n\nc) Briefly explain the mechanism of non-competitive inhibition in enzymes (0.5 points).",
+     "problem_orig": "Pregunta A.4\n\nEn relación con las enzimas:\n\na) Indique los modelos o teorías que explican la unión enzima-sustrato (0,5 puntos).\n\nb) Enumere dos factores que influyen en la velocidad de las reacciones enzimáticas y explique brevemente su efecto (1 punto).\n\nc) Explique brevemente el mecanismo de inhibición no competitiva en las enzimas (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question A.5\n\nConcerning point mutations in the DNA sequence:\n\na) State the causes by which substitutions in DNA can arise. Describe transition-type and transversion-type substitutions (1 point).\n\nb) Describe the consequences that the following can have on the amino acid chain: 1) a point mutation by substitution; and 2) a point mutation by insertion/deletion (indel) in coding DNA (1 point).",
+     "problem_orig": "Pregunta A.5\n\nRespecto a las mutaciones puntuales en la secuencia del ADN:\n\na) Indique las causas por las que pueden generarse sustituciones en el ADN. Describa las sustituciones de tipo transición y de tipo transversión (1 punto).\n\nb) Describa las consecuencias que pueden tener en la cadena de aminoácidos: 1) una mutación puntual por sustitución; y 2) una mutación puntual por inserción/deleción (indel) en el ADN codificante (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question B.1\n\nIn relation to Mendel's contributions to the study of heredity:\n\nThe accompanying diagram shows the transmission of a trait in a family, represented by the dark symbols, produced by a single autosomal gene with two alleles, through three generations.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2022-2-6-fig1.png\n\na) State whether the trait shows dominant or recessive inheritance. Justify the answer (0.75 points).\n\nb) State the genotypes of individuals I.1, I.3, II.2, II.4, II.5, and III.2, using “A” for the dominant allele and “a” for the recessive allele (0.75 points).\n\nc) State the genotypic proportions of the offspring between individual III.1 and another individual who shows the trait associated with the dark symbol. Does the trait appear in the offspring? (0.5 points).",
+     "problem_orig": "Pregunta B.1\n\nEn relación con las aportaciones de Mendel al estudio de la herencia:\n\nEl esquema adjunto muestra la transmisión de un carácter en una familia, representado por los símbolos oscuros, producido por un solo gen autosómico con dos alelos, a través de tres generaciones.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2022-2-6-fig1.png\n\na) Indique si el carácter presenta herencia dominante o recesiva. Razone la respuesta (0,75 puntos).\n\nb) Indique los genotipos de los individuos I.1, I.3, II.2, II.4, II.5, y III.2, utilizando “A” para el alelo dominante y “a” para el alelo recesivo (0,75 puntos).\n\nc) Indique las proporciones genotípicas de la descendencia entre el individuo III.1 con otro individuo que manifieste el carácter asociado con el símbolo oscuro. ¿El carácter se manifiesta en la descendencia? (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question B.2\n\nWith reference to the genetic material of the cell:\n\nExplain why all the following statements are false:\n\na) Eukaryotic DNA is bound to histones and other proteins, and it also shows its maximum degree of compaction when it is in the form of euchromatin (0.5 points).\n\nb) Chromosomes are classified as metacentric when their sister chromatids have equal length (0.5 points).\n\nc) Prokaryotic cells have several linear chromosomes in the nucleoid region, in addition to possibly having plasmids in the cytoplasm (0.5 points).\n\nd) Metaphase chromosomes have a centromere with two kinetochores, two chromosome arms and one chromatid (0.5 points).",
+     "problem_orig": "Pregunta B.2\n\nCon referencia al material genético de la célula:\n\nExplique por qué son falsas todas las afirmaciones siguientes:\n\na) El ADN eucariota se encuentra unido a histonas y a otras proteínas, y además presenta su máximo grado de compactación cuando se encuentra en forma de eucromatina (0,5 puntos).\n\nb) Los cromosomas se clasifican en metacéntricos cuando tienen sus cromátidas hermanas de igual longitud (0,5 puntos).\n\nc) Las células procariotas poseen varios cromosomas lineales en la región del nucleoide, además de poder presentar plásmidos en el citoplasma (0,5 puntos).\n\nd) Los cromosomas metafásicos presentan un centrómero con dos cinetocoros, dos brazos cromosómicos y una cromátida (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question B.3\n\nIn relation to viruses:\n\na) State four characteristics that describe viruses (0.5 points).\n\nb) Briefly explain the three main components that a virus may have (0.75 points).\n\nc) Name and briefly describe the two viral multiplication cycles that can occur when a virion infects a bacterium (0.75 points).",
+     "problem_orig": "Pregunta B.3\n\nEn relación con los virus:\n\na) Indique cuatro características que describen a los virus (0,5 puntos).\n\nb) Explique brevemente los tres componentes principales que puede presentar un virus (0,75 puntos).\n\nc) Nombre y describa brevemente los dos ciclos de multiplicación vírica que se pueden producir cuando un virión infecta a una bacteria (0,75 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 9,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question B.4\n\nIn relation to cellular metabolism:\n\na) Given the molecules in the table, relate them to aerobic cellular respiration and to photosynthesis, stating in each case whether they are a substrate or a product of these metabolic processes (1 point).\n\n$$\\begin{array}{|c|c|c|}\\hline \\text{Molecule} & \\text{Cellular respiration} & \\text{Photosynthesis} \\\\ \\hline \\text{Glucose} & & \\\\ \\hline \\mathrm{CO_2} & & \\\\ \\hline \\mathrm{O_2} & & \\\\ \\hline \\mathrm{H_2O} & & \\\\ \\hline \\end{array}$$\n\nb) Match each metabolic process in the left column with the organelle or cellular compartment in the right column that corresponds to it (1 point).\n\n$$\\begin{array}{ll} \\text{1. Photophosphorylation} & \\text{A. Nucleus} \\\\ \\text{2. Hydrolysis reactions} & \\text{B. Lysosome} \\\\ \\text{3. Detoxification reactions} & \\text{C. Chloroplast} \\\\ \\text{4. Substrate-level phosphorylation} & \\text{D. Peroxisome} \\\\  & \\text{E. Ribosome} \\\\  & \\text{F. Cytoplasm} \\end{array}$$",
+     "problem_orig": "Pregunta B.4\n\nEn relación con el metabolismo celular:\n\na) Dadas las moléculas de la tabla, relaciónelas con la respiración celular aerobia y con la fotosíntesis, indicando en cada caso si son un sustrato o un producto de dichos procesos metabólicos (1 punto).\n\n$$\\begin{array}{|c|c|c|}\\hline \\text{Molécula} & \\text{Respiración celular} & \\text{Fotosíntesis} \\\\ \\hline \\text{Glucosa} & & \\\\ \\hline \\mathrm{CO_2} & & \\\\ \\hline \\mathrm{O_2} & & \\\\ \\hline \\mathrm{H_2O} & & \\\\ \\hline \\end{array}$$\n\nb) Relacione cada proceso metabólico de la columna de la izquierda con el orgánulo o compartimento celular de la columna de la derecha que le corresponda (1 punto).\n\n$$\\begin{array}{ll} \\text{1. Fotofosforilación} & \\text{A. Núcleo} \\\\ \\text{2. Reacciones de hidrólisis} & \\text{B. Lisosoma} \\\\ \\text{3. Reacciones de detoxificación} & \\text{C. Cloroplasto} \\\\ \\text{4. Fosforilación a nivel de sustrato} & \\text{D. Peroxisoma} \\\\  & \\text{E. Ribosoma} \\\\  & \\text{F. Citoplasma} \\end{array}$$",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 10,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question B.5\n\nIn relation to lipids:\n\na) Explain what the amphipathic character of fatty acids is and what it is due to (0.75 points).\n\nb) Write the reaction that takes place between a fatty acid and an alcohol and name the resulting products (0.75 points).\n\nc) What type of lipid is the main constituent of cell membranes? Explain its arrangement in that structure (0.5 points).",
+     "problem_orig": "Pregunta B.5\n\nEn relación con los lípidos:\n\na) Explique qué es el carácter anfipático de los ácidos grasos y a qué es debido (0,75 puntos).\n\nb) Formule la reacción que tiene lugar entre un ácido graso y un alcohol y nombre los productos resultantes (0,75 puntos).\n\nc) ¿Qué tipo de lípido es el constituyente mayoritario de las membranas celulares? Explique su disposición en dicha estructura (0,5 puntos).",
+     "orig_lang": "es"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question A.1\n\nIn relation to Mendelian genetics:\n\nWhen white-feathered roosters (B) are crossed with black-feathered hens (N), individuals with bluish plumage are always obtained. When these bluish individuals are crossed with each other, black, white and bluish individuals are obtained.\n\na) What type of inheritance explains the appearance of the bluish colour? Justify your answer (0.5 points).\n\nb) Represent the two crosses mentioned, indicating the proportions of the genotypes and phenotypes of the offspring (0.5 points).\n\nc) Represent the cross between a white rooster and a bluish hen, indicating the proportions of the genotypes and phenotypes of the offspring. Also state which cross should be made in order to obtain black-feathered individuals from the offspring of the cross between a white rooster and a bluish hen (0.5 points).\n\nd) Justify whether it would be possible by selection to breed exclusively blue hens (0.5 points).",
+     "problem_orig": "Pregunta A.1\n\nEn relación con la genética mendeliana:\n\nCuando se cruzan gallos de plumaje blanco (B) y gallinas de plumaje negro (N), siempre se obtienen ejemplares de un plumaje azulado. Cuando estos ejemplares azulados se cruzan entre sí, se obtienen individuos negros, blancos y azulados.\n\na) ¿Qué tipo de herencia explica la aparición del color azulado? Razone su respuesta (0,5 puntos).\n\nb) Represente los dos cruces citados, indicando las proporciones de los genotipos y fenotipos de los descendientes (0,5 puntos).\n\nc) Represente el cruce entre un gallo blanco y una gallina azulada, indicando las proporciones de los genotipos y fenotipos de los descendientes. Indique también qué cruzamiento debería realizarse para obtener ejemplares de plumaje negro a partir de descendientes del cruce entre un gallo blanco y una gallina azulada (0,5 puntos).\n\nd) Razone si mediante selección sería posible criar exclusivamente gallinas azules (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question A.2\n\nIn relation to the immune response:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2023-1-2-fig1.png\n\na) The accompanying diagram shows the basic structure of an antibody. Identify all the parts marked with letters (0.75 points).\n\nb) State three characteristics of antigen-antibody binding (0.75 points).\n\nc) State which immunoglobulin is involved in allergic processes and name one substance released by mast cells in response to an allergen (0.5 points).",
+     "problem_orig": "Pregunta A.2\n\nCon relación a la respuesta inmune:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2023-1-2-fig1.png\n\na) El esquema adjunto representa la estructura básica de un anticuerpo. Identifique todas las partes señaladas con letras (0,75 puntos).\n\nb) Indique tres características de la unión antígeno-anticuerpo (0,75 puntos).\n\nc) Indique cuál es la inmunoglobulina implicada en los procesos alérgicos y cite una sustancia liberada por los mastocitos en la respuesta a un alergeno (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question A.3\n\nIn relation to bacterial reproduction:\n\na) State and briefly describe the mechanisms of bacterial recombination (0.75 points).\n\nb) Explain the main differences between asexual reproduction and the recombination mechanisms in bacteria (0.5 points).\n\nc) Explain the ecological and evolutionary advantages of the two processes mentioned in part b). State what the disadvantage of asexual reproduction would be (0.75 points).",
+     "problem_orig": "Pregunta A.3\n\nCon relación a la reproducción bacteriana:\n\na) Indique y describa brevemente los mecanismos de recombinación bacteriana (0,75 puntos).\n\nb) Explique las principales diferencias que existen entre la reproducción asexual y los mecanismos de recombinación en bacterias (0,5 puntos).\n\nc) Explique las ventajas ecológicas y evolutivas de los dos procesos indicados en el apartado b). Indique cual sería el inconveniente de la reproducción asexual (0,75 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question A.4\n\nRegarding the substrates and products of cellular metabolism:\n\na) State the carbon and energy sources used by photoautotrophs and chemoheterotrophs (0.5 points).\n\nb) Which common product is produced in glycolysis and in beta-oxidation? Name another pathway in which this product is also formed. State two metabolic fates in which this product can be consumed (0.5 points).\n\nc) State the substrates of non-cyclic photophosphorylation and the products of the Calvin cycle (1 point).",
+     "problem_orig": "Pregunta A.4\n\nRespecto a los sustratos y los productos del metabolismo celular:\n\na) Indique las fuentes de carbono y energía que utilizan los seres fotoautótrofos y los quimioheterótrofos (0,5 puntos).\n\nb) ¿Qué producto común se produce en la glucolisis y en la beta-oxidación? Cite otra vía en la que también se forma este producto. Indique dos destinos metabólicos en los que se puede consumir este producto (0,5 puntos).\n\nc) Indique los sustratos de la fotofosforilación acíclica y los productos del Ciclo de Calvin (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question A.5\n\nIn relation to nucleic acids:\n\na) Name the bond between the different nucleotides that forms a nucleic acid chain, indicating the groups involved (1 point).\n\nb) The structure of a virus's nucleic acid has been partially analysed, giving a concentration of 25% Guanine, 20% Cytosine and 25% Adenine. Justify which type of nucleic acid this virus has. State which nitrogenous base is missing and what its percentage in the composition would be (1 point).",
+     "problem_orig": "Pregunta A.5\n\nEn relación con los ácidos nucleicos:\n\na) Nombre el enlace entre los distintos nucleótidos para formar una cadena de ácido nucleico, indicando los grupos implicados (1 punto).\n\nb) Se ha analizado parcialmente la estructura del ácido nucleico de un virus, obteniendo una concentración de un 25% de Guanina, un 20% de Citosina y un 25% de Adenina. Razone cuál es el tipo de ácido nucleico de este virus. Indique cuál es la base nitrogenada que falta y cuál sería su porcentaje en la composición (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question B.1\n\nRegarding the mechanisms of transmission of genetic information:\n\na) Match each enzyme in the left column with only one process in the right column (1.5 points).\n\n$$\\begin{array}{ll} \\text{(1) Primase} & \\text{(A) DNA transcription} \\\\ \\text{(2) Aminoacyl-tRNA synthetase} & \\text{(B) DNA replication} \\\\ \\text{(3) Telomerase} & \\text{(C) RNA translation} \\\\ \\text{(4) RNA polymerase} & \\\\ \\text{(5) DNA ligase} & \\\\ \\text{(6) DNA polymerase I} & \\end{array}$$\n\nb) Briefly describe what the splicing process consists of within the maturation of mRNA in eukaryotic cells. State in which cellular compartment it occurs (0.5 points).",
+     "problem_orig": "Pregunta B.1\n\nRespecto a los mecanismos de transmisión de la información genética:\n\na) Relacione cada enzima de la columna izquierda con un solo proceso de la columna derecha (1,5 puntos).\n\n$$\\begin{array}{ll} \\text{(1) Primasa} & \\text{(A) Transcripción del ADN} \\\\ \\text{(2) Aminoacil-ARNt sintetasa} & \\text{(B) Replicación del ADN} \\\\ \\text{(3) Telomerasa} & \\text{(C) Traducción del ARN} \\\\ \\text{(4) ARN polimerasa} & \\\\ \\text{(5) ADN ligasa} & \\\\ \\text{(6) ADN polimerasa I} & \\end{array}$$\n\nb) Describa brevemente en qué consiste el proceso de corte y empalme (splicing) dentro del proceso de maduración del ARNm en las células eucariotas. Indique en qué compartimento celular ocurre (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question B.2\n\nIn relation to cell envelopes:\n\na) State in order the names of the three layers that make up the structure of the plant cell wall, starting with the one farthest from the cell membrane. Name the main components of each of the layers (1.25 points).\n\nb) Name the main component of the bacterial cell wall and state in which type of prokaryotic organisms this component is not found in the wall. Mention one relevant structural difference between the walls of gram-negative and gram-positive bacteria (0.75 points).",
+     "problem_orig": "Pregunta B.2\n\nCon relación a las envolturas celulares:\n\na) Indique en orden los nombres de las tres capas que componen la estructura de la pared celular vegetal, comenzando por la más alejada de la membrana celular. Cite los principales componentes de cada una de las capas (1,25 puntos).\n\nb) Nombre el principal componente de la pared celular bacteriana e indique en qué tipo de organismos procarióticos no encontramos dicho componente en su pared celular. Mencione una diferencia estructural relevante entre las paredes de bacterias gram-negativas y gram-positivas (0,75 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question B.3\n\nIn relation to cell division processes:\n\na) For a diploid organism with 2n=10 chromosomes, state the number of chromosomes and chromatids there would be in each of the following phases: (1) G1 phase; (2) G2 phase; (3) telophase; (4) telophase I; (5) telophase II; (6) metaphase I (1.5 points).\n\nb) Name two differences between the division of an animal cell and that of a plant cell (0.5 points).",
+     "problem_orig": "Pregunta B.3\n\nEn relación con los procesos de división celular:\n\na) Para un organismo diploide con 2n=10 cromosomas, indique el número de cromosomas y cromátidas que habría en cada una de las siguientes fases: (1) fase G1; (2) fase G2; (3) telofase; (4) telofase I; (5) telofase II; (6) metafase I (1,5 puntos).\n\nb) Cite dos diferencias entre la división de una célula animal y la de una célula vegetal (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question B.4\n\nIn relation to microorganisms:\n\na) Briefly define the concepts of endemic disease, epidemic and pandemic (0.75 points).\n\nb) State the type of pathogen (virus, bacterium, protozoan or fungus) that causes each of the following diseases: tuberculosis, rabies, malaria, candidiasis and hepatitis (1.25 points).",
+     "problem_orig": "Pregunta B.4\n\nEn relación con los microorganismos:\n\na) Defina brevemente los conceptos de enfermedad endémica, de epidemia y de pandemia (0,75 puntos).\n\nb) Indique el tipo de agente patógeno (virus, bacteria, protozoo u hongo) que causa cada una de las siguientes enfermedades: tuberculosis, rabia, paludismo, candidiasis y hepatitis (1,25 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question B.5\n\nIn relation to the structure of biomolecules:\n\na) Define fatty acid, triacylglyceride and phosphoglyceride (1.5 points).\n\nb) Name two bonds or interactions that stabilise the tertiary structure of proteins (0.5 points).",
+     "problem_orig": "Pregunta B.5\n\nEn relación con la estructura de las biomoléculas:\n\na) Defina ácido graso, triacilglicérido y fosfoglicérido (1,5 puntos).\n\nb) Nombre dos enlaces o interacciones que estabilizan la estructura terciaria de las proteínas (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question A.1\n\nRegarding cell morphology and physiology:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2023-2-1-fig1.png\n\na) Name the structures marked 1 to 6 in the accompanying diagram (0.75 points).\n\nb) State which of the structures marked in the diagram are involved in: (a) organisation of the mitotic spindle, (b) formation of the phragmoplast, (c) rRNA synthesis, (d) endocytosis, (e) formation of primary lysosomes, (f) oxidative phosphorylation (0.75 points).\n\nc) Justify which type of eukaryotic cell is represented in the diagram (0.5 points).",
+     "problem_orig": "Pregunta A.1\n\nRespecto a la morfología y fisiología celular:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2023-2-1-fig1.png\n\na) Nombre las estructuras señaladas del 1 al 6 en el esquema adjunto (0,75 puntos).\n\nb) Indique cuáles, de las estructuras señaladas en el esquema, están implicadas en: (a) organización del huso mitótico, (b) formación del fragmoplasto, (c) síntesis de ARNr, (d) endocitosis, (e) formación de lisosomas primarios, (f) fosforilación oxidativa (0,75 puntos).\n\nc) Razone qué tipo de célula eucariota está representada en el esquema (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question A.2\n\nIn relation to Mendelian genetics:\n\nThe cat breed known as sphinx is characterised by having no hair. The reason for the baldness of sphinx cats is that cats of this breed carry, in homozygosis, a recessive autosomal mutant gene for hair deficiency (h). In contrast, cats with normal coats carry the dominant gene (H). Another, different mutation, also autosomal, is albinism (m), as opposed to normal pigmentation (M).\n\na) State what the genotype of a dihybrid cat with normal hair and pigmentation will be, as well as the gametes it will form (0.5 points).\n\nb) State the proportion of genotypes and phenotypes of the offspring resulting from the cross between a double homozygous cat with normal hair and pigmentation and an albino sphinx female cat (0.5 points).\n\nc) Draw a Punnett diagram or square showing the genotypes of the offspring of the cross between any two cats obtained from the cross in part b), and state the phenotypes obtained and their proportions (1 point).",
+     "problem_orig": "Pregunta A.2\n\nEn relación con la genética mendeliana:\n\nLa raza de gatos conocida como sphinx se caracteriza por no tener pelo. El motivo de la calvicie de los gatos sphinx es que los gatos de esta raza portan en homocigosis un gen mutante autosómico recesivo de deficiencia de pelo (h). Por el contrario, los gatos de pelaje normal portan el gen dominante (H). Otra mutación diferente, también autosómica, es el albinismo (m), frente a la pigmentación normal (M).\n\na) Indique cómo será el genotipo de un gato dihíbrido con pelo y pigmentación normales, así como los gametos que formará (0,5 puntos).\n\nb) Indique la proporción de los genotipos y fenotipos de los descendientes resultantes del cruce entre un gato doble homocigoto con pelo y pigmentación normales con una gata sphinx albina (0,5 puntos).\n\nc) Realice un diagrama o cuadro de Punnett que muestre los genotipos de los descendientes del cruce entre dos gatos cualquiera, obtenidos del cruce del apartado b), e indique los fenotipos obtenidos y sus proporciones (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question A.3\n\nIn relation to the physico-chemical basis of life:\n\na) Define what a hydrogen bond is. Name two molecules whose stability depends on the formation of hydrogen bonds (1 point).\n\nb) Give one example of each of the following biomolecules: lipid with an energy-storage function, lipid with an antioxidant function, protein with a structural function, protein with a hormonal function (1 point).",
+     "problem_orig": "Pregunta A.3\n\nEn relación con la base físico-química de la vida:\n\na) Defina qué es un enlace por puente de hidrógeno. Nombre dos moléculas cuya estabilidad dependa de la formación de puentes de hidrógeno (1 punto).\n\nb) Indique un ejemplo de cada una de las biomoléculas siguientes: lípido con función de reserva energética, lípido con función antioxidante, proteína con función estructural, proteína con función hormonal (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question A.4\n\nIn relation to beneficial microorganisms:\n\na) Define bioremediation and biodegradation. Name one type of microorganism that carries out each of them (1 point).\n\nb) Point out two microorganisms useful in biotechnology, state their type of cellular organisation and their biotechnological application (1 point).",
+     "problem_orig": "Pregunta A.4\n\nEn relación con los microorganismos beneficiosos:\n\na) Defina biorremediación y biodegradación. Cite un tipo de microorganismo que lleve a cabo cada una de ellas (1 punto).\n\nb) Señale dos microorganismos útiles en biotecnología, indique su tipo de organización celular y su aplicación biotecnológica (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question A.5\n\nIn relation to cell division and reproduction:\n\na) Briefly define the following terms related to the first meiotic division: tetrad, crossing over, chiasma and synapsis. Put the above terms in sequential order (1.5 points).\n\nb) State one advantage and one disadvantage of sexual reproduction over asexual reproduction (0.5 points).",
+     "problem_orig": "Pregunta A.5\n\nEn relación con la división celular y la reproducción:\n\na) Defina brevemente los siguientes términos relacionados con la primera división meiótica: tétrada, sobrecruzamiento, quiasma y sinapsis. Ordene los términos anteriores de forma secuencial (1,5 puntos).\n\nb) Indique una ventaja y una desventaja de la reproducción sexual sobre la asexual (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question B.1\n\nIn relation to mRNA translation:\n\na) State which molecule carries the codon, which molecule carries the anticodon and at which site of the ribosome the interaction between the two takes place during elongation (0.75 points).\n\nb) Is it correct to say that a polysome or polyribosome is the union of one mRNA and a single ribosome? Justify your answer. State in which cell type polysomes can appear (0.5 points).\n\nc) An mRNA 485 nucleotides long has a 5’ non-coding segment of 62 nucleotides and a 3’ non-coding segment of 153 nucleotides. State the number of nucleotides of its open reading frame and the number of amino acids it will encode. Justify your answers (0.75 points).",
+     "problem_orig": "Pregunta B.1\n\nEn relación con la traducción del ARNm:\n\na) Indique qué molécula es la portadora del codón, qué molécula es la portadora del anticodón y en qué sitio del ribosoma sucede la interacción entre ambos durante la elongación (0,75 puntos).\n\nb) ¿Es correcto decir que un polisoma o polirribosoma es la unión entre un ARNm y un único ribosoma? Justifique la respuesta. Indique en qué tipo celular pueden aparecer los polisomas (0,5 puntos).\n\nc) Un ARNm de 485 nucleótidos de longitud tiene un segmento 5’ no codificante de 62 nucleótidos y un segmento 3’ no codificante de 153 nucleótidos. Indique el número de nucleótidos de su marco de lectura abierto y el número de aminoácidos que codificará. Justifique las respuestas (0,75 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question B.2\n\nWith respect to the immune system:\n\na) What is inflammation? Name two types of agents that can trigger it (0.5 points).\n\nb) State two clinical manifestations of inflammation. Mention two of the processes involved in the inflammatory response (1 point).\n\nc) Point out two functions performed by macrophages (0.5 points).",
+     "problem_orig": "Pregunta B.2\n\nCon respecto al sistema inmune:\n\na) ¿Qué es la inflamación? Cite dos tipos de agentes que pueden desencadenarla (0,5 puntos).\n\nb) Indique dos manifestaciones clínicas de la inflamación. Mencione dos de los procesos implicados en la respuesta inflamatoria (1 punto).\n\nc) Señale dos funciones que realizan los macrófagos (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question B.3\n\nRegarding the metabolism of living beings:\n\na) Identify which metabolic process each of the following general reactions corresponds to, and state for each of them whether it can take place in the absence of oxygen (1 point).\n\n1. Glucose + 2 ADP + 2 Pi + 2 $\\mathrm{NAD^+}$ → 2 Pyruvate + 2 ATP + 2 NADH\n\n2. Pyruvate + NADH → Lactate + $\\mathrm{NAD^+}$\n\n3. Acetyl-CoA + ADP + Pi + 3 $\\mathrm{NAD^+}$ + FAD → CoA + 2 $\\mathrm{CO_2}$ + ATP + 3 NADH + $\\mathrm{FADH_2}$\n\n4. Pyruvate + NADH → Ethanol + $\\mathrm{CO_2}$ + $\\mathrm{NAD^+}$\n\nb) State the name of the fatty acid degradation pathway. Name the products of this pathway and the subcellular compartment where it occurs (1 point).",
+     "problem_orig": "Pregunta B.3\n\nRespecto al metabolismo de los seres vivos:\n\na) Identifique a qué proceso metabólico corresponde cada una de las siguientes reacciones generales e indique para cada una de ellas si se puede realizar en ausencia de oxígeno (1 punto).\n\n1. Glucosa + 2 ADP + 2 Pi + 2 $\\mathrm{NAD^+}$ → 2 Piruvato + 2 ATP + 2 NADH\n\n2. Piruvato + NADH → Lactato + $\\mathrm{NAD^+}$\n\n3. Acetil-CoA + ADP + Pi + 3 $\\mathrm{NAD^+}$ + FAD → CoA + 2 $\\mathrm{CO_2}$ + ATP + 3 NADH + $\\mathrm{FADH_2}$\n\n4. Piruvato + NADH → Etanol + $\\mathrm{CO_2}$ + $\\mathrm{NAD^+}$\n\nb) Indique cómo se denomina la ruta de degradación de los ácidos grasos. Cite los productos de esta ruta y en qué compartimento subcelular ocurre (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 9,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question B.4\n\nIn relation to proteins:\n\na) Name the bond between amino acids that forms a protein chain and state the groups involved in its formation (0.75 points).\n\nb) What is the process called that an enzymatic protein undergoes when subjected to high temperatures? Is this a reversible process? (0.5 points).\n\nc) State which of the following characteristics will be affected by the process in part b) and which will not be affected: three-dimensional structure, amino acid sequence, enzymatic activity (0.75 points).",
+     "problem_orig": "Pregunta B.4\n\nEn relación con las proteínas:\n\na) Nombre el enlace entre aminoácidos para formar una cadena de proteína e indique los grupos implicados en su formación (0,75 puntos).\n\nb) ¿Cómo se llama el proceso que sufre una proteína con función enzimática sometida a altas temperaturas? ¿Es este un proceso reversible? (0,5 puntos).\n\nc) Indique cuál o cuáles de las siguientes características se verán afectadas por el proceso del apartado b) y cuál o cuáles no se verán afectadas: estructura tridimensional, secuencia de aminoácidos, actividad enzimática (0,75 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 10,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question B.5\n\nIn relation to Microbiology:\n\na) Point out two diseases caused by bacteria and two caused by viruses and state the route of transmission (1 point).\n\nb) Point out four diseases caused by agents other than bacteria or viruses and state the route of transmission (1 point).",
+     "problem_orig": "Pregunta B.5\n\nEn relación con la Microbiología:\n\na) Señale dos enfermedades causadas por bacterias y dos causadas por virus e indique la vía de contagio (1 punto).\n\nb) Señale cuatro enfermedades causadas por agentes que no sean bacterias o virus e indique la vía de contagio (1 punto).",
+     "orig_lang": "es"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question A.1\n\nWith respect to the immune system:\n\nThe accompanying diagram represents the administration of an antigen (A) and an immune response that it produces (B).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2024-1-1-fig1.png\n\na) What type of immunisation is carried out in A? What type of immune response is represented in B? (0.5 points).\n\nb) Mention another type of immune response and state whether it would also occur in this case (0.5 points).\n\nc) The vial represented in C has been obtained from the blood of the immunised animal. Explain what use the administration of its contents to another animal infected with the same antigen may have (0.5 points).\n\nd) What type of immunity does the administration mentioned in part c provide? What is this type of treatment called? (0.5 points).",
+     "problem_orig": "Pregunta A.1\n\nCon respecto al sistema inmune:\n\nEl esquema adjunto representa la administración de un antígeno (A) y una respuesta inmunitaria que produce (B).\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2024-1-1-fig1.png\n\na) ¿Qué tipo de inmunización se lleva a cabo en A? ¿Qué tipo de respuesta inmune está representada en B? (0,5 puntos).\n\nb) Mencione otro tipo de respuesta inmune e indique si también se produciría en este caso (0,5 puntos).\n\nc) El vial representado en C se ha obtenido a partir de la sangre del animal inmunizado. Explique qué utilidad puede tener la administración de su contenido a otro animal infectado con el mismo antígeno (0.5 puntos).\n\nd) ¿Qué tipo de inmunidad proporciona la administración mencionada en el apartado c? ¿Cómo se denomina este tipo de tratamiento? (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question A.2\n\nIn relation to cell biology:\n\na) State what plasmids are, their structure and chemical nature, what function they have and where they are found (1 point).\n\nb) State two differences between the flagellum of prokaryotic cells and that of eukaryotic cells (0.5 points).\n\nc) Name the main component and state one function of the prokaryotic cell wall (0.5 points).",
+     "problem_orig": "Pregunta A.2\n\nEn relación con la biología celular:\n\na) Indique qué son los plásmidos, su estructura y naturaleza química, qué función tienen y dónde se encuentran (1 punto).\n\nb) Indique dos diferencias entre el flagelo de las células procariotas y el de las eucariotas (0,5 puntos).\n\nc) Cite el componente principal e indique una función de la pared celular procariota (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question A.3\n\nRegarding molecular genetics:\n\na) State the different types of RNA that take part in protein synthesis and the function of each of them (0.75 points).\n\nb) When two double-stranded DNA molecules (“1” and “2”) of the same length are subjected to high temperatures, DNA “1” is observed to denature before DNA “2”. Briefly justify what this result is due to (0.5 points).\n\nc) Briefly define the concept of mutation and state one physical and one chemical mutagenic agent (0.75 points).",
+     "problem_orig": "Pregunta A.3\n\nRespecto a la genética molecular:\n\na) Indique los distintos tipos de ARN que participan en la síntesis de proteínas y la función de cada uno de ellos (0,75 puntos).\n\nb) Al someter dos moléculas de ADN (“1” y “2”) de doble cadena y de la misma longitud a altas temperaturas, se observa que el ADN “1” se desnaturaliza antes que el ADN “2”. Razone brevemente a qué se debe este resultado (0,5 puntos).\n\nc) Defina brevemente el concepto de mutación e indique un agente mutagénico físico y uno químico (0,75 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question A.4\n\nIn relation to metabolic processes:\n\na) Explain the difference between oxygenic and anoxygenic photosynthesis. State one type of organism that carries out each of them (1 point).\n\nb) Explain what the process of chemosynthesis consists of, stating the energy source and the carbon source (0.5 points).\n\nc) State the chloroplast location of the electron transport chain and name the three final products obtained in the light-dependent phase of photosynthesis (0.5 points).",
+     "problem_orig": "Pregunta A.4\n\nCon relación a los procesos metabólicos:\n\na) Explique la diferencia entre fotosíntesis oxigénica y anoxigénica. Indique un tipo de organismo que realice cada una de ellas (1 punto).\n\nb) Explique en qué consiste el proceso de la quimiosíntesis, indicando cuál es la fuente de energía y la fuente de carbono (0,5 puntos).\n\nc) Indique la localización cloroplástica de la cadena transportadora de electrones y cite los tres productos finales que se obtienen en la fase dependiente de la luz de la fotosíntesis (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question A.5\n\nIn relation to the physico-chemical basis of life:\n\na) State what type of interactions occur between water molecules and mineral salts, explaining how they facilitate the dissolution of the latter (0.5 points).\n\nb) State the components of a nucleotide. Name the bonds that join these components (0.5 points).\n\nc) Explain two biological functions of nucleotides and give one example of each (1 point).",
+     "problem_orig": "Pregunta A.5\n\nEn relación con la base físico-química de la vida:\n\na) Indique qué tipo de interacciones se producen entre las moléculas de agua y las sales minerales, explicando cómo facilitan la disolución de estas (0,5 puntos).\n\nb) Indique los componentes de un nucleótido. Cite los enlaces que unen dichos componentes (0,5 puntos).\n\nc) Explique dos funciones biológicas de los nucleótidos y cite un ejemplo de cada una (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question B.1\n\nIn relation to biomolecules:\n\nThe glycaemic index (GI) is a measure of how quickly a food can raise the glucose level in the blood. Foods with a high glycaemic index can make it difficult to control blood glucose levels.\n\na) Name a disease related to the control of blood glucose level. State in which cells and in which molecular form glucose is stored in the human body (0.75 points).\n\nb) Which chemical functional group characterises monosaccharides, and how are they classified according to that group? (0.5 points).\n\nc) State one similarity and two differences between glycogen and starch (0.75 points).",
+     "problem_orig": "Pregunta B.1\n\nCon relación a las biomoléculas:\n\nEl índice glucémico (IG) es una medida de la rapidez con la que un alimento puede elevar el nivel de glucosa en la sangre. Los alimentos con un alto índice glucémico pueden dificultar el control de los niveles de glucosa en sangre.\n\na) Cite una enfermedad relacionada con el control del nivel de glucosa en sangre. Indique en qué células y en qué forma molecular se almacena la glucosa en el organismo humano (0,75 puntos).\n\nb) ¿Qué grupo funcional químico caracteriza a los monosacáridos y cómo se clasifican en función de dicho grupo? (0,5 puntos).\n\nc) Indique una similitud y dos diferencias entre el glucógeno y el almidón (0,75 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question B.2\n\nIn relation to the genetic information of living beings:\n\na) Match each of the concepts in the left column with only one of those in the right column (1 point).\n\n$$\\begin{array}{ll} \\text{(1) \\textit{Splicing} process} & \\text{(A) Replication} \\\\ \\text{(2) Lagging strand} & \\text{(B) Transcription} \\\\ \\text{(3) P site} & \\text{(C) Translation} \\\\ \\text{(4) TATA box} & \\\\ \\text{(5) tRNA} & \\\\ \\text{(6) oriC sequence} & \\\\ \\text{(7) Genetic code} & \\\\ \\text{(8) DNA polymerases} & \\end{array}$$\n\nb) Briefly define the process of DNA replication and state why replication is semiconservative (0.5 points).\n\nc) State in which cellular compartments replication takes place in eukaryotic cells (0.5 points).",
+     "problem_orig": "Pregunta B.2\n\nEn relación con la información genética de los seres vivos:\n\na) Relacione cada uno de los conceptos de la columna izquierda con solo uno de los de la columna derecha (1 punto).\n\n$$\\begin{array}{ll} \\text{(1) Proceso de \\textit{splicing}} & \\text{(A) Replicación} \\\\ \\text{(2) Hebra retardada} & \\text{(B) Transcripción} \\\\ \\text{(3) Sitio P} & \\text{(C) Traducción} \\\\ \\text{(4) Caja TATA} & \\\\ \\text{(5) ARNt} & \\\\ \\text{(6) Secuencia oriC} & \\\\ \\text{(7) Código genético} & \\\\ \\text{(8) ADN polimerasas} & \\end{array}$$\n\nb) Defina brevemente el proceso de replicación del ADN e indique por qué la replicación es semiconservativa (0,5 puntos).\n\nc) Indique en qué compartimentos celulares sucede la replicación en células eucariotas (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question B.3\n\nIn relation to cell biology:\n\na) Name one membranous structure and one non-membranous structure that can be found in the stroma of chloroplasts (0.5 points).\n\nb) Name two other types of plastids and state their functions (0.5 points).\n\nc) Name the components of chromatin (0.5 points).\n\nd) Explain the difference between euchromatin and heterochromatin in a eukaryotic cell (0.5 points).",
+     "problem_orig": "Pregunta B.3\n\nEn relación con la biología celular:\n\na) Cite una estructura membranosa y una estructura no membranosa que se puede encontrar en el estroma de los cloroplastos (0,5 puntos).\n\nb) Cite otros dos tipos de plastos e indique sus funciones (0,5 puntos).\n\nc) Cite los componentes de la cromatina (0,5 puntos).\n\nd) Explique qué diferencia hay entre la eucromatina y la heterocromatina en una célula eucariota (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question B.4\n\nRegarding enzymes:\n\na) Define the terms enzyme and active site (1 point).\n\nb) In a chemical reaction in which a substrate “A” is transformed into a product “B”, 5 kJ/mol per substrate molecule is released. Justify how much energy would be released if the reaction were catalysed by an enzyme (0.5 points).\n\nc) The study of the effect of temperature on the activity of an enzyme, measured as reaction rate V (µmol/min), gave the values shown in the table. Justify what these results are due to (0.5 points).\n\n$$\\begin{array}{|l|c|c|c|c|c|c|c|c|c|c|c|}\\hline \\text{T (ºC)} & 10 & 15 & 20 & 25 & 30 & 35 & 40 & 45 & 50 & 55 & 60 \\\\ \\hline \\text{V (µmol/min)} & 0.4 & 0.8 & 1.4 & 2 & 2.8 & 3.4 & 3.8 & 3.4 & 2.4 & 0.8 & 0 \\\\ \\hline \\end{array}$$",
+     "problem_orig": "Pregunta B.4\n\nRespecto a las enzimas:\n\na) Defina los términos enzima y centro activo (1 punto).\n\nb) En una reacción química en la que un sustrato “A” se transforma en un producto “B” se liberan 5 kJ/mol por molécula de sustrato. Razone cuánta energía se liberaría si la reacción estuviese catalizada por una enzima (0,5 puntos).\n\nc) El estudio del efecto de la temperatura sobre la actividad de una enzima, medida en velocidad de la reacción V (µmol/min), dio lugar a los valores mostrados en la tabla. Razone a qué se deben estos resultados (0,5 puntos).\n\n$$\\begin{array}{|l|c|c|c|c|c|c|c|c|c|c|c|}\\hline \\text{Tª (ºC)} & 10 & 15 & 20 & 25 & 30 & 35 & 40 & 45 & 50 & 55 & 60 \\\\ \\hline \\text{V (µmol/min)} & 0{,}4 & 0{,}8 & 1{,}4 & 2 & 2{,}8 & 3{,}4 & 3{,}8 & 3{,}4 & 2{,}4 & 0{,}8 & 0 \\\\ \\hline \\end{array}$$",
+     "orig_lang": "es"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Ordinary session (June)",
+     "problem": "Question B.5\n\nWith respect to biotechnology applied to the food industry:\n\na) State which type of microorganism is involved in the winemaking process and the type of reaction it carries out, as well as the final products generated in that reaction (0.75 points).\n\nb) State which type of microorganism is involved in the cheese-making process and the type of reaction it carries out, as well as the final product generated in that reaction (0.75 points).\n\nc) Comparing the two processes above, state in which of them we will find the culture medium with a more acidic pH. Justify your answer (0.5 points).",
+     "problem_orig": "Pregunta B.5\n\nCon respecto a la biotecnología aplicada a la industria alimentaria:\n\na) Indique qué tipo de microorganismo interviene en el proceso de fabricación del vino y el tipo de reacción que lleva a cabo, así como los productos finales generados en dicha reacción (0,75 puntos).\n\nb) Indique qué tipo de microorganismo interviene en el proceso de fabricación del queso y el tipo de reacción que lleva a cabo, así como el producto final generado en dicha reacción (0,75 puntos).\n\nc) Si comparamos los dos procesos anteriores, indique en cuál de ellos encontraremos el medio de cultivo con un pH más ácido. Razone la respuesta (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question A.1\n\nWith respect to the immune system:\n\nThe following drawing shows a cell (A) involved in allergic reactions, with antibodies on its surface, and in (B) the consequences of the binding of an antigen to that antibody.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2024-2-1-fig1.png\n\na) Name the cell represented and state a substance that is released from its granules (0.5 points).\n\nb) What type of immunoglobulin is involved in this response? What name is given to the antigen that triggers it? (0.5 points).\n\nc) Explain the concept of immunological memory (0.5 points).\n\nd) Justify whether the cell represented in the figure takes part in a primary or a secondary immune response (0.5 points).",
+     "problem_orig": "Pregunta A.1\n\nCon respecto al sistema inmune:\n\nEn el dibujo siguiente se muestra una célula (A) implicada en reacciones alérgicas, con anticuerpos en su superficie, y en (B) las consecuencias de la unión de un antígeno a ese anticuerpo.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2024-2-1-fig1.png\n\na) Nombre la célula representada e indique una sustancia que se libera de sus gránulos (0,5 puntos).\n\nb) ¿Qué tipo de inmunoglobulina interviene en esta respuesta? ¿Qué nombre recibe el antígeno que la desencadena? (0,5 puntos).\n\nc) Explique el concepto de memoria inmunológica (0,5 puntos).\n\nd) Razone si la célula representada en la figura interviene en una respuesta inmunitaria primaria o secundaria (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question A.2\n\nIn relation to mutations:\n\na) Match each of the concepts indicated with numbers with only one of those indicated with letters (1.5 points).\n\n1) polyploidy, 2) translocation, 3) monosomy, 4) insertion, 5) duplication, 6) transversion.\n\nA) genomic mutation, B) chromosomal mutation, C) gene mutation.\n\nb) Briefly describe the difference between gene mutation and genomic mutation (0.5 points).",
+     "problem_orig": "Pregunta A.2\n\nEn relación con las mutaciones:\n\na) Relacione cada uno de los conceptos indicados con números con solo uno de los indicados con letras (1,5 puntos).\n\n1) poliploidía, 2) translocación, 3) monosomía, 4) inserción, 5) duplicación, 6) transversión.\n\nA) mutación genómica, B) mutación cromosómica, C) mutación génica.\n\nb) Describa brevemente la diferencia entre mutación génica y mutación genómica (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question A.3\n\nIn relation to lipids:\n\nAn excess of saturated fats in the diet can increase cholesterol biosynthesis and have harmful effects on health.\n\na) State the main structural function of cholesterol in cells (0.5 points).\n\nb) Name two molecules derived from cholesterol (0.5 points).\n\nc) Define fatty acid. State the difference between a saturated and an unsaturated fatty acid (0.5 points).\n\nd) State which of the following fatty acids has the highest melting temperature and which has the lowest: palmitic acid, 16 carbons, no double bonds; lauric acid, 12 carbons, no double bonds; oleic acid, 18 carbons, 1 double bond (0.5 points).",
+     "problem_orig": "Pregunta A.3\n\nEn relación con los lípidos:\n\nEl exceso de grasas saturadas en la dieta puede aumentar la biosíntesis de colesterol y tener efectos perjudiciales para la salud.\n\na) Indique la principal función estructural del colesterol en las células (0,5 puntos).\n\nb) Cite dos moléculas derivadas del colesterol (0,5 puntos).\n\nc) Defina ácido graso. Índique la diferencia entre ácido graso saturado e insaturado (0,5 puntos).\n\nd) Indique de entre los siguientes ácidos grasos cuál tiene mayor temperatura de fusión y cuál menor temperatura de fusión: ácido palmítico 16 carbonos, sin dobles enlaces; ácido láurico 12 carbonos, sin dobles enlaces; ácido oleico 18 carbonos, 1 doble enlace (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question A.4\n\nConcerning the photosynthetic process in a eukaryotic cell:\n\na) State the purpose of the Calvin cycle. Mention in which organelle, and within it in which compartment, it takes place (0.5 points).\n\nb) Mention the main stages of the Calvin cycle (0.75 points).\n\nc) State four of the main components of a chloroplast and specify two types of pigments that can be located in that organelle (0.75 points).",
+     "problem_orig": "Pregunta A.4\n\nReferente al proceso fotosintético en una célula eucariota:\n\na) Indique cuál es la finalidad del ciclo de Calvin. Mencione en qué orgánulo y, dentro del mismo, en qué compartimento ocurre (0,5 puntos).\n\nb) Mencione las principales etapas del ciclo de Calvin (0,75 puntos).\n\nc) Indique cuatro de los componentes principales de un cloroplasto y especifique dos tipos de pigmentos que se pueden localizar en dicho orgánulo (0,75 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question A.5\n\nIn relation to cell biology:\n\na) State in which cellular structure the major histocompatibility complex (MHC) of macrophages is found. Briefly explain what function it performs in that cellular location (0.5 points).\n\nb) When an immune cell phagocytoses a protein antigen, it degrades it inside until small peptides are formed, which are then transported to the cell surface. Which organelle carries out this degradation and what type of enzymes does it use for it? (0.5 points).\n\nc) What does phagocytosis consist of? What type of cellular structure is observed after a phagocytic process? What type of microscope would you use to take colour micrographs of this process? State an example or type of cell that carries out phagocytosis in animals (1 point).",
+     "problem_orig": "Pregunta A.5\n\nEn relación con la biología celular:\n\na) Indique en qué estructura celular se encuentra el complejo mayor de histocompatibilidad (MHC) de los macrófagos. Explique brevemente qué función desempeña en esa localización celular (0,5 puntos).\n\nb) Cuando una célula inmunitaria fagocita un antígeno proteico lo degrada en su interior hasta formar pequeños péptidos que luego son transportados a la superficie celular. ¿Qué orgánulo realiza esa degradación y qué tipo de enzimas utiliza para ello? (0,5 puntos).\n\nc) ¿En qué consiste la fagocitosis? ¿Qué tipo de estructura celular se observa después de un proceso fagocítico? ¿Qué tipo de microscopio utilizaría para tomar microfotografías en color de este proceso? Indique un ejemplo o tipo de célula que realice la fagocitosis en los animales (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question B.1\n\nRegarding the mechanisms of gene expression:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2024-2-6-fig1.png\n\na) Name the processes represented in the accompanying diagram with the letters “A” and “B” (0.5 points).\n\nb) State the name of the molecules, components and processes numbered “1” to “8” (1 point).\n\nc) Briefly justify whether the genetic information in the DNA and the proteins expressed in an epithelial cell and in a pancreatic cell will be the same (0.5 points).",
+     "problem_orig": "Pregunta B.1\n\nRespecto a los mecanismos de expresión génica:\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2024-2-6-fig1.png\n\na) Nombre los procesos representados en el esquema adjunto con las letras “A” y “B” (0,5 puntos).\n\nb) Indique el nombre de las moléculas, los componentes y los procesos numerados del “1” al “8” (1 punto).\n\nc) Razone brevemente si la información genética del ADN y las proteínas expresadas en una célula epitelial y en una célula pancreática serán las mismas (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question B.2\n\nIn relation to cell biology:\n\nWhen erythrocytes are placed in three media (A, B and C) with different glucose concentrations, what is shown in the accompanying graph is observed.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2024-2-7-fig1.png\n\nFigure labels (Spanish → English): VOLUMEN CELULAR → CELL VOLUME; TIEMPO → TIME\n\na) What is each of the media called in relation to the glucose concentration? (0.75 points).\n\nb) Name the process that takes place and explain it briefly, stating the molecule involved and the type of transport by which it occurs (0.75 points).\n\nc) State two types of transport across the membrane without energy expenditure and give one example of a substance transported in each of them (0.5 points).",
+     "problem_orig": "Pregunta B.2\n\nEn relación con la biología celular:\n\nAl colocar eritrocitos en tres medios (A, B y C) con diferentes concentraciones de glucosa, se observa lo que se representa en la gráfica adjunta.\n\nhttps://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/images/madpau-2024-2-7-fig1.png\n\na) ¿Cómo se denominan a cada uno de los medios en relación con la concentración de glucosa? (0,75 puntos).\n\nb) Nombre el proceso que tiene lugar y explíquelo brevemente, indicando la molécula implicada y el tipo de transporte por el que ocurre (0,75 puntos).\n\nc) Indique dos tipos de transporte a través de la membrana sin gasto de energía y cite un ejemplo de sustancia transportada en cada uno de ellos (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question B.3\n\nIn relation to biomolecules:\n\nAll the bonds joining monomers to form the four main groups of biomolecules are condensation bonds, in which a water molecule is released.\n\na) State the name of the bond and which functional groups join to form a disaccharide (0.5 points).\n\nb) State the name of the bond and which functional groups join to form a triglyceride (0.5 points).\n\nc) State the name of the bond and which functional groups join to form a dipeptide (0.5 points).\n\nd) State the name of the bond and which functional groups join to form a dinucleotide (0.5 points).",
+     "problem_orig": "Pregunta B.3\n\nEn relación con las biomoléculas:\n\nTodos los enlaces de unión entre monómeros para constituir los cuatro grupos principales de biomoléculas son enlaces de condensación, en los que se produce la liberación de una molécula de agua.\n\na) Indique cómo se llama el enlace y qué grupos funcionales se unen para formar un disacárido (0,5 puntos).\n\nb) Indique cómo se llama el enlace y qué grupos funcionales se unen para formar un triglicérido (0,5 puntos).\n\nc) Indique cómo se llama el enlace y qué grupos funcionales se unen para formar un dipéptido (0,5 puntos).\n\nd) Indique cómo se llama el enlace y qué grupos funcionales se unen para formar un dinucleótido (0,5 puntos).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 9,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question B.4\n\nIn relation to biotechnology and the food industries:\n\na) State two industrial processes in which the yeast Saccharomyces cerevisiae is involved, mentioning the specific type of reaction carried out by this microorganism and the substrate of that reaction (1 point).\n\nb) State two industrial processes in which bacteria of the genus Lactobacillus are involved, mentioning the specific type of reaction carried out by these microorganisms and the substrate of that reaction (1 point).",
+     "problem_orig": "Pregunta B.4\n\nCon relación a la biotecnología y las industrias alimentarias:\n\na) Indique dos procesos industriales en los que esté implicada la levadura Saccharomyces cerevisiae, mencionando el tipo concreto de reacción que lleva a cabo este microorganismo y el sustrato de esa reacción (1 punto).\n\nb) Indique dos procesos industriales en los que estén implicadas bacterias del género Lactobacillus, mencionando el tipo concreto de reacción que llevan a cabo estos microorganismos y el sustrato de esa reacción (1 punto).",
+     "orig_lang": "es"
+    },
+    {
+     "day": 2,
+     "number": 10,
+     "paper_label": "Extraordinary session (July)",
+     "problem": "Question B.5\n\nWith reference to cellular metabolism:\n\na) State two similarities and two differences between the respiratory electron transport chain and the photosynthetic electron transport chain (1 point).\n\nb) Explain with reasons whether β-oxidation is an anabolic or a catabolic process. State what the products of this metabolic process are, as well as its location at the cellular level (1 point).",
+     "problem_orig": "Pregunta B.5\n\nCon referencia al metabolismo celular:\n\na) Indique dos semejanzas y dos diferencias entre la cadena de transporte de electrones respiratoria y la cadena de transporte de electrones fotosintética (1 punto).\n\nb) Explique razonadamente si la β-oxidación es un proceso anabólico o catabólico. Indique cuáles son los productos de este proceso metabólico, así como su localización a nivel celular (1 punto).",
+     "orig_lang": "es"
+    }
+   ]
+  }
+ ]
+}
