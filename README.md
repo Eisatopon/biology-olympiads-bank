@@ -26,3 +26,7 @@ Massachusetts Department of Elementary and Secondary Education and are copied un
 educational purposes printed in every release.
 
 Sister projects: [Mathematical](https://eisatopon.github.io/national-olympiads-bank/), [Physics](https://eisatopon.github.io/physics-olympiads-bank/), [Chemistry](https://eisatopon.github.io/chemistry-olympiads-bank/) and [Informatics](https://eisatopon.github.io/informatics-olympiads-bank/) Olympiads Banks.
+
+## Support
+
+This is a free project. If you find it useful, you can support it at [ko-fi.com/olympiadproblems](https://ko-fi.com/olympiadproblems).
