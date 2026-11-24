@@ -73,6 +73,7 @@
     --catpau: #b45309; --catpau-ink: #78350f; --catpau-tint: #fef3c7;
     --andpau: #15803d; --andpau-ink: #14532d; --andpau-tint: #dcfce7;
     --madpau: #6d28d9; --madpau-ink: #4c1d95; --madpau-tint: #ede9fe;
+    --unamouc: #be123c; --unamouc-ink: #881337; --unamouc-tint: #ffe4e6;
     --twbio: #0e7490; --twbio-ink: #164e63; --twbio-tint: #cffafe;
     --mcasbio: #1e40af; --mcasbio-ink: #172554; --mcasbio-tint: #e0e7ff;
     --naepsci: #4338ca; --naepsci-ink: #312e81; --naepsci-tint: #e0e7ff;
@@ -314,6 +315,7 @@
 .f-catpau { --f: var(--catpau); --f-ink: var(--catpau-ink); --f-tint: var(--catpau-tint); }
 .f-andpau { --f: var(--andpau); --f-ink: var(--andpau-ink); --f-tint: var(--andpau-tint); }
 .f-madpau { --f: var(--madpau); --f-ink: var(--madpau-ink); --f-tint: var(--madpau-tint); }
+.f-unamouc { --f: var(--unamouc); --f-ink: var(--unamouc-ink); --f-tint: var(--unamouc-tint); }
 .f-twbio { --f: var(--twbio); --f-ink: var(--twbio-ink); --f-tint: var(--twbio-tint); }
 .f-mcasbio { --f: var(--mcasbio); --f-ink: var(--mcasbio-ink); --f-tint: var(--mcasbio-tint); }
 .f-naepsci { --f: var(--naepsci); --f-ink: var(--naepsci-ink); --f-tint: var(--naepsci-tint); }
@@ -1172,10 +1174,10 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/biology-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261124-madpau';
+const DATA_VERSION = '20261124-unamouc';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
-const REGION_OF = { ibo: 'world', ibop: 'world', inbo: 'asia', aso: 'oceania', nbc: 'americas', nzibo: 'oceania', nseb: 'asia', ijso: 'world', sbo: 'europe', jbo: 'asia', grbio: 'europe', cybio: 'europe', catpau: 'europe', andpau: 'europe', madpau: 'europe', twbio: 'asia', lvbo: 'europe', usnsb: 'americas', mcasbio: 'americas', naepsci: 'americas' };
+const REGION_OF = { ibo: 'world', ibop: 'world', inbo: 'asia', aso: 'oceania', nbc: 'americas', nzibo: 'oceania', nseb: 'asia', ijso: 'world', sbo: 'europe', jbo: 'asia', grbio: 'europe', cybio: 'europe', catpau: 'europe', andpau: 'europe', madpau: 'europe', twbio: 'asia', lvbo: 'europe', usnsb: 'americas', mcasbio: 'americas', unamouc: 'americas', naepsci: 'americas' };
 const regionOf = key => REGION_OF[key] || 'other';
 const PAGE = 20;
 const STORAGE_KEY = 'eisatopon-biology:set:v1';  // same origin as the math bank: keep the keys apart
@@ -1190,6 +1192,7 @@ const COUNTRIES = [
     { key: 'catpau', name: 'Spain (Catalonia) – PAU', flag: '🇪🇸', file: 'Spain-Catalonia-PAU-biology-problems.json', kind: 'years', scope: 'entrance', full: 'Catalan university entrance exams (PAU, Proves d’accés a la universitat), Biologia (Catalan original and English translation) · source: Generalitat de Catalunya, reused under the Catalan open information-use licence · not affiliated with, endorsed by or supported by the Generalitat de Catalunya' },
     { key: 'andpau', name: 'Spain (Andalucía) – PAU', flag: '🇪🇸', file: 'Spain-Andalucia-PAU-biology-problems.json', kind: 'years', scope: 'entrance', full: 'Andalusian university entrance exams (PAU / PEvAU, Prueba de acceso y admisión a la universidad), Biología (Spanish original and English translation) · information obtained from the Portal of the Junta de Andalucía (“Información obtenida del Portal de la Junta de Andalucía”), reused under CC BY 3.0 · not affiliated with, endorsed by or supported by the Junta de Andalucía or the Andalusian universities' },
     { key: 'madpau', name: 'Spain (Madrid) – PAU', flag: '🇪🇸', file: 'Spain-Madrid-PAU-biology-problems.json', kind: 'years', scope: 'entrance', full: 'University entrance exams of the public universities of the Comunidad de Madrid (EvAU / PAU, Evaluación para el acceso a la universidad), Biología (Spanish original and English translation) · source: Comunidad de Madrid (www.comunidad.madrid), retrieved 24 Nov 2026, reused under the reuse terms of its legal notice · not sponsored or endorsed by the Comunidad de Madrid or the Madrid universities' },
+    { key: 'unamouc', name: 'Mexico – UNAM Olympiad', flag: '🇲🇽', file: 'Mexico-UNAM-OUC-biology-problems.json', kind: 'years', scope: 'national', full: 'Olimpiada Universitaria del Conocimiento of the Universidad Nacional Autónoma de México (UNAM), Biology exams (Spanish original and English translation) · source: UNAM, www.olimpiadas.unam.mx, reproduced without commercial purpose and without alteration under the terms of the site · not affiliated with, endorsed by or supported by UNAM' },
     { key: 'twbio', name: 'Taiwan – AST Biology', flag: '🇹🇼', file: 'Taiwan-AST-biology-problems.json', kind: 'years', scope: 'entrance', full: 'Taiwan university entrance exams, Biology: Advanced Subjects Test (分科測驗, from 2022; 指定科目考試, 2002–2021) (Chinese original and English translation) · source: College Entrance Examination Center (CEEC) · examination questions are not subject to copyright under Article 9(1)(5) of Taiwan’s Copyright Act · not affiliated with, endorsed by or supported by the CEEC' },
     { key: 'mcasbio', name: 'USA (Massachusetts) – MCAS Biology', flag: '🇺🇸', file: 'USA-Massachusetts-MCAS-biology-problems.json', kind: 'years', scope: 'entrance', full: 'Massachusetts MCAS — High School Biology (state exam): released items of the paper-based test · © Massachusetts Department of Elementary and Secondary Education, copied under its permission for non-commercial educational use · not affiliated with, endorsed by or supported by the Department' },
     { key: 'naepsci', name: 'USA – NAEP Science', flag: '🇺🇸', file: 'USA-NAEP-science-life-science-problems.json', kind: 'years', scope: 'entrance', full: 'NAEP — The Nation’s Report Card (U.S. Department of Education, NCES): released Life Science questions of the science assessments, grades 8 and 12 · public domain · not affiliated with, endorsed by or supported by NCES or NAGB' },
@@ -2337,6 +2340,8 @@ const twbioPdf = p => TWBIO_PDF[`${p.year}.${p.day}`] ? 'https://www.ceec.edu.tw
 // Official MCAS releases of test items (doe.mass.edu/mcas/<year>/release/), High School Biology, per year.
 const MADPAU_PDF = { '2020.1': '2020/09/18/biologia-julio_2020.pdf', '2020.2': '2020/09/18/biologia-2_sept_2020.pdf', '2021.1': '2021/09/20/biologia_-_junio_21.pdf', '2021.2': '2021/09/20/biologia-julio_21.pdf', '2022.1': '2022/09/13/biologia-junio_22.pdf', '2022.2': '2022/09/13/biologia_extra-julio-22.pdf', '2023.1': '2023/07/04/biologia-junio23.pdf', '2023.2': '2024/03/18/biologia-jul23.pdf', '2024.1': '2024/06/20/biologia-junio_24.pdf', '2024.2': '2024/08/20/biologia-julio_24.pdf' };
 const madpauPdf = p => MADPAU_PDF[`${p.year}.${p.day}`] ? 'https://www.comunidad.madrid/docs/assets/' + MADPAU_PDF[`${p.year}.${p.day}`] : '';
+// Official UNAM OUC Biology exams (www.olimpiadas.unam.mx/anteriores/), one per year.
+const UNAMOUC_PDF = { 2012: '2012/OUC2012-EXAM-BIO.pdf', 2013: '2013/OUC2013-EXAM-BIO.pdf', 2014: '2014/OUC2014-EXAM-BIO.pdf', 2015: '2015/OUC2015-EXAM-BIO.pdf', 2016: '2016/OUC2016-EXAM-BIO.pdf', 2017: '2017/OUC2017-EXAM-BIO.pdf', 2018: '2018/OUC2018-EXAM-BIO.pdf', 2019: '2019/OUC2019-EXAM-BIO.pdf', 2021: '2021/OUC2021-EXAM-BIO.pdf', 2022: '2022/OUC11_2022_EXAM_BIO.pdf', 2023: '2023/OUC12_2023_EXAM_BIO.pdf', 2024: '2024/OUC13_2024_EXAM_BIO.pdf', 2025: '2025/OUC14_2025_EXAM_BIO.pdf' };
 const MCASBIO_PDF = { '2022': 'hs-bio.pdf', '2023': 'hs-bio.pdf', '2024': 'hs-bio.pdf', '2025': 'hs-bio.pdf', '2026': 'hs-biology.pdf' };
 const mcasbioPdf = p => MCASBIO_PDF[p.year] ? `https://www.doe.mass.edu/mcas/${p.year}/release/${MCASBIO_PDF[p.year]}` : '';
 const jboPdf = p => JBO_PDF[`${p.year}.${p.day}`] ? 'https://www.jbo-info.jp/exam/pdf_exam/pdf_jbo_exam/' + JBO_PDF[`${p.year}.${p.day}`] : '';
@@ -2356,6 +2361,7 @@ const CREDITS = {
     cybio: () => '© the Cyprus Ministry of Education (Examinations Service)',
     catpau: () => 'Source: Generalitat de Catalunya (Consell Interuniversitari de Catalunya), PAU · Llicència oberta d’ús d’informació – Catalunya · retrieved 14 Nov 2026 · English translation of the Catalan original',
     andpau: p => `Información obtenida del Portal de la Junta de Andalucía · PAU ${p.year}, Biología · CC BY 3.0 · retrieved 23 Nov 2026 · English translation of the Spanish original`,
+    unamouc: p => `Source: Universidad Nacional Autónoma de México (UNAM), Olimpiada Universitaria del Conocimiento ${p.year}, Biología · www.olimpiadas.unam.mx · retrieved 24 Nov 2026 · English translation of the Spanish original`,
     madpau: p => `Source: Comunidad de Madrid (www.comunidad.madrid) · Universidades Públicas de la Comunidad de Madrid, EvAU ${p.year}, Biología · retrieved 24 Nov 2026 · English translation of the Spanish original`,
     twbio: () => 'Source: College Entrance Examination Center (CEEC), Taiwan · examination questions are not subject to copyright (Copyright Act of Taiwan, Art. 9(1)(5)) · retrieved 17 Nov 2026 · English translation of the Chinese original',
     lvbo: () => '© Valsts izglītības satura centrs, 2021 · authors: A. Kokina, J. Liepiņš, G. Zvīgule-Neidere, J. Ķibilds, M. Vaivads, Z. Ozoliņa, K. D. Neiburga, M. Kusiņa, A. Boikova, M. Rudzīte, I. Dauškane, L. Ozoliņa-Molla, J. Ņečajeva, R. Rozenfelde · English translation of the Latvian original, published with the permission of VIAA',
@@ -2372,6 +2378,7 @@ function creditHtml(p) {
     if (p.country === 'cybio') return `<p class="p-credit">${esc(t)}${cybioPdf(p) ? ` · ${creditLink(cybioPdf(p), 'Original PDF')}` : ''}</p>`;
     if (p.country === 'catpau') return `<p class="p-credit">${esc(t)}${catpauPdf(p) ? ` · ${creditLink(catpauPdf(p), 'Original PDF')}` : ''}</p>`;
     if (p.country === 'andpau') return `<p class="p-credit">${esc(t)} · ${creditLink(`https://www.juntadeandalucia.es/economiaconocimientoempresasyuniversidad/sguit/examanes_anios_anteriores/selectividad/sel_${p.year}_biologia.zip`, 'Original papers (ZIP)')} · ${creditLink('https://www.juntadeandalucia.es/informacion/legal.html', 'Licence')}</p>`;
+    if (p.country === 'unamouc') return `<p class="p-credit">${esc(t)}${UNAMOUC_PDF[p.year] ? ' · ' + creditLink('https://www.olimpiadas.unam.mx/anteriores/' + UNAMOUC_PDF[p.year], 'Original exam (PDF)') : ''} · ${creditLink('https://www.olimpiadas.unam.mx/', 'Source and terms')}</p>`;
     if (p.country === 'madpau') return `<p class="p-credit">${esc(t)} · ${madpauPdf(p) ? creditLink(madpauPdf(p), 'Original paper (PDF)') + ' · ' : ''}${creditLink('https://www.comunidad.madrid/atencion-ciudadano/aviso-legal-privacidad', 'Reuse terms')}</p>`;
     if (p.country === 'twbio') return `<p class="p-credit">${esc(t)}${twbioPdf(p) ? ` · ${creditLink(twbioPdf(p), 'Original PDF')}` : ''}</p>`;
     if (p.country === 'mcasbio') return `<p class="p-credit">${esc(t)}${mcasbioPdf(p) ? ` · ${creditLink(mcasbioPdf(p), 'Original PDF')}` : ''}</p>`;
